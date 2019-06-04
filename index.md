@@ -1,10 +1,17 @@
 ### Academia
 ---
-[Research](/sample_page)
-<img src="images/tres4.jpg?raw=true"/>
-[Teaching](/sample_page)
-[Conferences and Talks](/sample_page)
+* [Research](/sample_page)
+   <img src="images/tres4.jpg?raw=true"/>
+
+* [Teaching](/sample_page)
+* [Conferences and Talks](/sample_page)
+
 ---
+
+### Misc
+
+* Meteor 
+
 
 ### Misc
 
