@@ -1,3 +1,6 @@
+<img src="images/tres4.jpg?raw=true"/>
+
+
 ## Research interests
 
 Bayesian Nonparametrics, Bayesian Stastistics, MCMC 
