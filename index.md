@@ -1,10 +1,10 @@
 ### Academia
 ---
-* [Research](/sample_page)
-   <img src="images/tres4.jpg?raw=true"/>
+* [Research](/Research)
 
-* [Teaching](/sample_page)
-* [Conferences and Talks](/sample_page)
+* [Teaching](/Teaching)
+
+* [Conferences and Talks](/Conferences)
 
 ---
 
