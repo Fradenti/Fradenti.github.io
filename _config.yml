@@ -6,8 +6,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   A rookie with github pages
   <br>
   <a href="https://www.linkedin.com/in/example/">Github</a>,
-  <a href="https://www.linkedin.com/in/example/">Linkedin</a>,
-  <a href="https://www.linkedin.com/in/example/">Twitter</a>
   
   theme: jekyll-theme-minimal
   google_analytics: UA-000000-0 # your Google Analytics tracking ID here
