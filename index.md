@@ -4,7 +4,7 @@
 
 * [Teaching](/Teaching)
 
-* [Conferences and Talks](/Conferences)
+* [Conferences and Talks](/ConferencesAndTalks)
 
 ---
 
