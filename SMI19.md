@@ -1,1 +1,1 @@
-![/images/SMI19.jpg]
+![../images/SMI19.jpg](SMI19)
