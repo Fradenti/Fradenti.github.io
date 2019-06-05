@@ -1,3 +1,10 @@
+### About Me
+---
+* [Cv](/Cv)
+
+* [Contacts](/Contacts)
+
+
 ### Academia
 ---
 * [Research](/Research)
@@ -6,9 +13,12 @@
 
 * [Conferences and Talks](/ConferencesAndTalks)
 
+* [Visiting](/Visiting)
+
 ---
 
 ### Misc
 
-* [Conferences and Talks](/ConferencesAndTalks)
+* ...TBA...
+
 ---
