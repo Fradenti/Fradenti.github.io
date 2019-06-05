@@ -10,10 +10,5 @@
 
 ### Misc
 
-* Meteor 
-
-
-### Misc
-
-* Meteor 
+* [Conferences and Talks](/ConferencesAndTalks)
 ---
