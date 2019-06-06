@@ -1,8 +1,8 @@
 title: Francesco Denti # your name (or website title) here
 logo: "/images/fra.jpeg?raw=true" # your photo (or logo) here
-description:  # your text below (remove <br> elements if you don't need line breaks)
+description:  > # your text below (remove <br> elements if you don't need line breaks)
   
-  >PhD student at Univerisity of Milan - Bicocca and UniUSI.
+   PhD student at Univerisity of Milan - Bicocca and UniUSI.
    <br>
    A rookie with github pages
   
