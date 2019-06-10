@@ -7,6 +7,6 @@
 - [ ] BNP19 - Bayesian Nonparametrics - Oxford - Jun 2019
 - [x] [SMI19](/pages/SMI19) - Irvine - Jun 2019
 - [x] [Data Assimilation](/pages/lug) - Lugano -Sep 2018
-- [x] [LMS Invited Lecture Series and CRISM Summer School in Computational Statistics 2018](/pages/Warwick18) - Warwick -Jul 2018 - [ ![|0.1%](/images/cam3.png) ](/pages/Warwick18)
-- [x] [ISBA](https://bayesian.org/isba2018/) - Edinburgh - June 2018 - [ <img align="left" width="20" height="20" src="/images/cam3.png"> ](/pages/isba)
+- [x] [LMS Invited Lecture Series and CRISM Summer School in Computational Statistics 2018](/pages/Warwick18) - Warwick -Jul 2018 - [ <img  width="20" height="20" src="/images/cam3.png"> ](/pages/Warwick18)
+- [x] [ISBA](https://bayesian.org/isba2018/) - Edinburgh - June 2018 - [ <img  width="20" height="20" src="/images/cam3.png"> ](/pages/Isba)
 ...
