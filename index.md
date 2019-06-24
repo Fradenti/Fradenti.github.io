@@ -4,8 +4,7 @@
 ---
 * [Cv](/Cv)
 
-* **Contacts**:
- * email: f.denti2@campus.unimib.it
+* **Email**: f.denti2@campus.unimib.it
 
 
 ### Academia
