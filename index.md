@@ -1,4 +1,7 @@
-### !!! Website under construction !!!
+### About me
+
+* [Cv](/Cv)
+
 
 ### Academia
 ---
@@ -15,8 +18,6 @@
 
 ### Contacts
 ---
-* [Cv](/Cv)
-
 * **Email**: f.denti2@campus.unimib.it
 * **Skype**: francesco.denti7
 
