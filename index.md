@@ -1,12 +1,5 @@
 ### !!! Website under construction !!!
 
-### About Me
----
-* [Cv](/Cv)
-
-* **Email**: f.denti2@campus.unimib.it
-
-
 ### Academia
 ---
 * [Research](/Research)
@@ -15,10 +8,15 @@
 
 * [Conferences and Talks](/ConferencesAndTalks)
 
-* [Visiting](/Visiting)
-
 
 ### Misc
 ---
-* ...TBA...
+* [My second family (in ita)](http://www.compagniameteor.it/)
+
+### Contacts
+---
+* [Cv](/Cv)
+
+* **Email**: f.denti2@campus.unimib.it
+* **Skype**: francesco.denti7
 
