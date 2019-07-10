@@ -1,6 +1,6 @@
 ### About me
 
-* [Cv](/Cv)
+* [Updated Cv](/pdf/July_CV.pdf)
 
 
 ### Academia
