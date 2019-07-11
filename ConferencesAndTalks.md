@@ -1,9 +1,9 @@
 [**<**](/index)
 
-# Conferences, Seminar and Schools
+# Conferences and Talks
 
-- [ ] BayesComp - Florida - January 2020
-- [ ] 12th IBS-Italian Region conference - Naples - July 2019
+- [ ] [Bayes Comp 2020](http://users.stat.ufl.edu/~jhobert/BayesComp2020/Conf_Website/) - Florida - January 2020
+- [x] [12th IBS-Italian Region conference](https://ibs-italy.org/?page_id=922&lang=en) - Naples - July 2019 - [ <img  width="20" height="20" src="/images/cam3.png"> ]
 - [x] [BNP19 - Bayesian Nonparametrics](https://www.stats.ox.ac.uk/bnp12/) - Oxford - June 2019 - [ <img  width="20" height="20" src="/images/cam3.png"> ](/pages/ox) - My [Poster](/pdf/sample_presentation.pdf)
 - [x] [SMI19](https://sites.uci.edu/smi2019/) - Irvine - June 2019 - [ <img  width="20" height="20" src="/images/cam3.png"> ](/pages/SMI19)
 - [x] [Data Assimilation](https://www.ics.usi.ch/index.php/news/285-fomics-dadsi-summer-school-on-data-assimilation) - Lugano - September 2018 -[ <img  width="20" height="20" src="/images/cam3.png"> ](/pages/lug)
