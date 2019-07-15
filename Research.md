@@ -17,4 +17,5 @@ Journal of Veterinary and Comparative Orthopaedics and Traumatology, 2018
 +  Menicagli, R., **Denti, F.**, *First results if an in vitro study on the effects of green tea on the defensive layer of the oral cavity*, International Journal of Current Research
 
 ## Under review
-+ ...
++ **Denti, F.**, Guindani, M., Leisen, F., Lioji, A., Vannucci, M.  
+*Two-group Poisson-Dirichlet mixtures for multiple testing*
