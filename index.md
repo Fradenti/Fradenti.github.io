@@ -1,4 +1,6 @@
 ### About me
+I am a Ph.D. student at Univerisity of Milan - Bicocca.  
+Working on a joint thesis with Università della Svizzera italiana.
 
 * [Updated Cv](/pdf/July_CV.pdf)
 
