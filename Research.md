@@ -21,3 +21,6 @@ International Journal of Current Research, 2016
 ## Under review
 + **Denti, F.**, Guindani, M., Leisen, F., Lioji, A., Vannucci, M.  
 *Two-group Poisson-Dirichlet mixtures for multiple testing*
+
+## Referee for
++ Computational Statistics & Data Analysis
