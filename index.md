@@ -1,8 +1,8 @@
 ### About me
-I am a Ph.D. student at Univerisity of Milan - Bicocca.  
-Working on a joint thesis with Università della Svizzera italiana.
+I am a Postdoctoral Scholar at the department of [Statistics of Univerisity of California - Irvine](https://www.stat.uci.edu/). 
 
-* [Updated Cv](/pdf/July_CV.pdf)
+
+* [Updated Cv](/pdf/CV.pdf)
 
 
 ### Academia
@@ -16,10 +16,10 @@ Working on a joint thesis with Università della Svizzera italiana.
 
 ### Misc
 ---
-* [My second family (in ita)](http://www.compagniameteor.it/)
+* [My second family (in italian)](http://www.compagniameteor.it/)
 
 ### Contacts
 ---
-* **Email**: f.denti2@campus.unimib.it
+* **Email**: fdenti@uci.edu
 * **Skype**: francesco.denti7
 

@@ -1,8 +1,8 @@
 [**<**](/index)
 
 # Conferences and Talks
-
-- [ ] [Bayes Comp 2020](http://users.stat.ufl.edu/~jhobert/BayesComp2020/Conf_Website/) - Florida - January 2020
+- [x] [Bayesian Nonparametrics for Complex Data](http://bnp4cd.stat.unipd.it/workshop.html) - Padua - January 2020- [ <img  width="20" height="20" src="/images/cam3.png"> ](/pages/PAD)
+- [x] [Bayes Comp 2020](http://users.stat.ufl.edu/~jhobert/BayesComp2020/Conf_Website/) - Florida - January 2020- [ <img  width="20" height="20" src="/images/cam3.png"> ](/pages/FLO)
 - [x] [Network Models in Statistics, Economics and Social](https://www.eventbrite.it/e/network-models-in-statistics-economics-and-social-registration-59152695304) - Milan - November 2019 - [ <img  width="20" height="20" src="/images/cam3.png"> ](/pages/catto)
 - [x] [12th IBS-Italian Region conference](https://ibs-italy.org/?page_id=922&lang=en) - Naples - July 2019 - [ <img  width="20" height="20" src="/images/cam3.png"> ](/pages/Naples)
 - [x] [BNP19 - Bayesian Nonparametrics](https://www.stats.ox.ac.uk/bnp12/) - Oxford - June 2019 - [ <img  width="20" height="20" src="/images/cam3.png"> ](/pages/ox) 
