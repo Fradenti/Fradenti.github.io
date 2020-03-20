@@ -1,3 +1,3 @@
 [**<**](/ConferencesAndTalks)
 
-![FLO](/images/FLO.jpg)
+![FLO](/images/FLO.jpeg)
