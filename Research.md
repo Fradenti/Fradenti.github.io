@@ -8,7 +8,7 @@ Bayesian Nonparametrics, Bayesian Stastistics, MCMC
 
 ## Articles in referred journals
 + **Denti, F.**, Guindani, M., Leisen, F., Lioji, A., Vannucci, M.
-*Two-group Poisson-Dirichlet mixtures for multiple testing*
+*Two-group Poisson-Dirichlet mixtures for multiple testing*,  
 Biometrics, Accepted for publication, In press
 + Petazzoni, M., De Giacinto, E., Troiano, D., **Denti, F.**, Buiatti, M.  
 *Computed Tomographic Trochlear Depth Measurement in Normal Dogs*,  
