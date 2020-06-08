@@ -37,3 +37,4 @@ submitted
 
 ## Referee for
 + Computational Statistics & Data Analysis
++ Bayesian Analysis
