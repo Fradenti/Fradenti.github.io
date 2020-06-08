@@ -7,10 +7,10 @@
 Bayesian Nonparametrics, Bayesian Stastistics, MCMC 
 
 ## Articles in referred journals
-+ **Denti, F.**, Guindani, M., Leisen, F., Lioji, A., Vannucci, M.
++ **Denti, F.**, Guindani, M., Leisen, F., Lioji, A., and Vannucci, M.  
 *Two-group Poisson-Dirichlet mixtures for multiple testing*,  
 Biometrics, Accepted for publication, In press
-+ Petazzoni, M., De Giacinto, E., Troiano, D., **Denti, F.**, Buiatti, M.  
++ Petazzoni, M., De Giacinto, E., Troiano, D., **Denti, F.**, and Buiatti, M.  
 *Computed Tomographic Trochlear Depth Measurement in Normal Dogs*,  
 Journal of Veterinary and Comparative Orthopaedics and Traumatology, 2018
 +  Menicagli, R., **Denti, F.**  
@@ -20,16 +20,16 @@ International Journal of Current Research, 2016
 
 ## Book chapters and proceedings
 
-+ Caponera, A., **Denti, F.**, Rigon, T., Sottosanti, A. and Gelfand, A.  
++ Caponera, A., **Denti, F.**, Rigon, T., Sottosanti, A., and Gelfand, A.  
 *Hierarchical Spatio-Temporal Modeling of Resting State fMRI Data*,  
 in Studies in Neural Data Science (Canale, A., Durante, D., Paci, L., Scarpa, B., editors), 2018
 
 ## Submitted and working papers
 
-+ Allegra, M., Facco, E., **Denti, F.**, Laio, A., Mira, A.
++ Allegra, M., Facco, E., **Denti, F.**, Laio, A., and Mira, A.  
 *Data segmentation based on the local intrinsic dimension*,
 invited revision submitted
-+  **Denti, F.**, Cappozzo, A., Greselin, F.
++  **Denti, F.**, Cappozzo, A., and Greselin, F.  
 *A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information*,
 submitted
 
