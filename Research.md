@@ -24,10 +24,16 @@ International Journal of Current Research, 2016
 *Hierarchical Spatio-Temporal Modeling of Resting State fMRI Data*,  
 in Studies in Neural Data Science (Canale, A., Durante, D., Paci, L., Scarpa, B., editors), 2018
 
-## Submitted papers 
+## Submitted and working papers
 
-+
-+
- 
++ Allegra, M., Facco, E., **Denti, F.**, Laio, A., Mira, A.
+*Data segmentation based on the local intrinsic dimension*,
+invited revision submitted
++  **Denti, F.**, Cappozzo, A., Greselin, F.
+*A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information*,
+submitted
+
+
+
 ## Referee for
 + Computational Statistics & Data Analysis
