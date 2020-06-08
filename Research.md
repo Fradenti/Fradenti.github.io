@@ -27,10 +27,10 @@ in Studies in Neural Data Science (Canale, A., Durante, D., Paci, L., Scarpa, B.
 ## Submitted and working papers
 
 + Allegra, M., Facco, E., **Denti, F.**, Laio, A., and Mira, A.  
-*Data segmentation based on the local intrinsic dimension*,
+*Data segmentation based on the local intrinsic dimension*,  
 invited revision submitted
 +  **Denti, F.**, Cappozzo, A., and Greselin, F.  
-*A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information*,
+*A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information*,  
 submitted
 
 
