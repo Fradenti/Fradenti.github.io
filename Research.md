@@ -35,8 +35,9 @@ invited revision submitted
 +  **Denti, F.**, Cappozzo, A., and Greselin, F.  
 *A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information*,  
 submitted
-
-
++ Santos-Fernandez, E., **Denti, F.**, Mergensen, K., and Mira, A.  
+*The role of Intrinsic Dimension in High-Resolution player tracking data - Insights in Basketball*,  
+submitted
 
 ## Referee for
 + Computational Statistics & Data Analysis
