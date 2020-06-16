@@ -2,43 +2,43 @@
 
 <img align="center" src="images/tres4.jpg?raw=true"/>
 
-## Research interests
+### Research interests
 
 Bayesian Nonparametrics, Bayesian Stastistics, MCMC 
 
-## Articles in referred journals
-+ **Denti, F.**, Guindani, M., Leisen, F., Lioji, A., and Vannucci, M.  
-*Two-group Poisson-Dirichlet mixtures for multiple testing*,  
-Biometrics, Accepted for publication, In press
-+ Petazzoni, M., De Giacinto, E., Troiano, D., **Denti, F.**, and Buiatti, M.  
-*Computed Tomographic Trochlear Depth Measurement in Normal Dogs*,  
+### Articles in referred journals
+* **Denti, F.**, Guindani, M., Leisen, F., Lioji, A., and Vannucci, M.  
+*Two-group Poisson-Dirichlet mixtures for multiple testing*  
+Biometrics, 2020 - [Article](https://onlinelibrary.wiley.com/doi/10.1111/biom.13314)
+* Petazzoni, M., De Giacinto, E., Troiano, D., **Denti, F.**, and Buiatti, M.  
+*Computed Tomographic Trochlear Depth Measurement in Normal Dogs*  
 Journal of Veterinary and Comparative Orthopaedics and Traumatology, 2018
-+  Menicagli, R., **Denti, F.**  
-*First results if an in vitro study on the effects of green tea on the defensive layer of the oral cavity*,  
+*  Menicagli, R., **Denti, F.**  
+*First results if an in vitro study on the effects of green tea on the defensive layer of the oral cavity*  
 International Journal of Current Research, 2016  
 
 
-## Book chapters and proceedings
+### Book chapters, short papers, and proceedings
 
-+ **Denti, F.**, Cappozzo, A., and Greselin,F  
+* **Denti, F.**, Cappozzo, A., and Greselin,F  
 *Bayesian nonparametric adaptive classification with robust prior information*  
 in Book of short papers SIS, 2020+
-+ Caponera, A., **Denti, F.**, Rigon, T., Sottosanti, A., and Gelfand, A.  
-*Hierarchical Spatio-Temporal Modeling of Resting State fMRI Data*,  
+* Caponera, A., **Denti, F.**, Rigon, T., Sottosanti, A., and Gelfand, A.  
+*Hierarchical Spatio-Temporal Modeling of Resting State fMRI Data*  
 in Studies in Neural Data Science (Canale, A., Durante, D., Paci, L., Scarpa, B., editors), 2018
 
-## Submitted papers
+### Submitted papers
 
-+ Allegra, M., Facco, E., **Denti, F.**, Laio, A., and Mira, A.  
-*Data segmentation based on the local intrinsic dimension*,  
-invited revision submitted
-+  **Denti, F.**, Cappozzo, A., and Greselin, F.  
-*A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information*,  
-submitted
-+ Santos-Fernandez, E., **Denti, F.**, Mergensen, K., and Mira, A.  
-*The role of Intrinsic Dimension in High-Resolution player tracking data - Insights in Basketball*,  
-submitted
+* Allegra, M., Facco, E., **Denti, F.**, Laio, A., and Mira, A.  
+*Data segmentation based on the local intrinsic dimension*  
+Invited revision submitted - [Preprint](https://arxiv.org/abs/1902.10459)
+*  **Denti, F.**, Cappozzo, A., and Greselin, F.  
+*A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information*  
+Submitted - [Preprint](http://---)
+* Santos-Fernandez, E., **Denti, F.**, Mengersen, K., and Mira A.
+*The role of intrinsic dimension in high-resolution player tracking data -- Insights in basketball*  
+Submitted - [Preprint](https://arxiv.org/abs/2002.04148)
 
-## Referee for
+### Referee for
 + Computational Statistics & Data Analysis
 + Bayesian Analysis
