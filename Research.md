@@ -34,7 +34,7 @@ in Studies in Neural Data Science (Canale, A., Durante, D., Paci, L., Scarpa, B.
 Invited revision submitted - [Preprint](https://arxiv.org/abs/1902.10459)
 *  **Denti, F.**, Cappozzo, A., and Greselin, F.  
 *A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information*  
-Submitted - [Preprint](http://---)
+Submitted - [Preprint](https://arxiv.org/abs/2006.09012)
 * Santos-Fernandez, E., **Denti, F.**, Mengersen, K., and Mira A.
 *The role of intrinsic dimension in high-resolution player tracking data -- Insights in basketball*  
 Submitted - [Preprint](https://arxiv.org/abs/2002.04148)
