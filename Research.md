@@ -4,7 +4,7 @@
 
 ### Research interests
 
-Bayesian Nonparametrics, Bayesian Stastistics, MCMC 
+Bayesian Stastistics, Bayesian Nonparametrics, Computational Methods, Applied Statistics 
 
 ### Articles in referred journals
 * **Denti, F.**, Guindani, M., Leisen, F., Lioji, A., and Vannucci, M.  
@@ -20,7 +20,7 @@ International Journal of Current Research, 2016
 
 ### Book chapters, short papers, and proceedings
 
-* **Denti, F.**, Cappozzo, A., and Greselin,F  
+* **Denti, F.**, Cappozzo, A., and Greselin, F.    
 *Bayesian nonparametric adaptive classification with robust prior information*  
 in Book of short papers SIS, 2020+
 * Caponera, A., **Denti, F.**, Rigon, T., Sottosanti, A., and Gelfand, A.  
