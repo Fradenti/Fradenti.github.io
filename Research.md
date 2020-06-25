@@ -28,7 +28,9 @@ in Book of short papers SIS, 2020+
 in Studies in Neural Data Science (Canale, A., Durante, D., Paci, L., Scarpa, B., editors), 2018
 
 ### Submitted papers
-
+*  **Denti, F.**, Peluso, S., Guindani, M., and Mira, A.  
+*Multiple hypothesis screening using non-local mixtures*  
+Submitted  
 * Allegra, M., Facco, E., **Denti, F.**, Laio, A., and Mira, A.  
 *Data segmentation based on the local intrinsic dimension*  
 Invited revision submitted - [Preprint](https://arxiv.org/abs/1902.10459)
