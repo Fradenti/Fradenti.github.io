@@ -9,6 +9,9 @@
 Bayesian Stastistics, Bayesian Nonparametrics, Computational Methods, Applied Statistics 
 
 ### Articles in referred journals
+* Allegra, M., Facco, E., **Denti, F.**, Laio, A., and Mira, A.  
+*Data segmentation based on the local intrinsic dimension*  
+Scientific Reports, 2020 - [Preprint](https://arxiv.org/abs/1902.10459)
 * **Denti, F.**, Guindani, M., Leisen, F., Lioji, A., and Vannucci, M.  
 *Two-group Poisson-Dirichlet mixtures for multiple testing*  
 Biometrics, 2020 - [Article](https://onlinelibrary.wiley.com/doi/10.1111/biom.13314)
@@ -21,7 +24,9 @@ International Journal of Current Research, 2016
 
 
 ### Book chapters, short papers, and proceedings
-
+* **Denti, F.**, Cappozzo, A., and Greselin, F.    
+*Bayesian Nonparametric Functional Novelty Detector*    
+Accepted, MBC2 2020+
 * **Denti, F.**, Cappozzo, A., and Greselin, F.    
 *Bayesian nonparametric adaptive classification with robust prior information*  
 in Book of short papers SIS, 2020+
@@ -33,9 +38,6 @@ in Studies in Neural Data Science (Canale, A., Durante, D., Paci, L., Scarpa, B.
 *  **Denti, F.**, Peluso, S., Guindani, M., and Mira, A.  
 *Multiple hypothesis screening using non-local mixtures*  
 Submitted  
-* Allegra, M., Facco, E., **Denti, F.**, Laio, A., and Mira, A.  
-*Data segmentation based on the local intrinsic dimension*  
-Invited revision submitted - [Preprint](https://arxiv.org/abs/1902.10459)
 *  **Denti, F.**, Cappozzo, A., and Greselin, F.  
 *A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information*  
 Submitted - [Preprint](https://arxiv.org/abs/2006.09012)
