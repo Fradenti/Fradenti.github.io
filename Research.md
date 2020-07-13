@@ -9,7 +9,7 @@
 Bayesian Stastistics, Bayesian Nonparametrics, Computational Methods, Applied Statistics 
 
 ### Articles in referred journals
-* Allegra, M., Facco, E., **Denti, F.**, Laio, A., and Mira, A.  
+* Allegra, M., Facco, E.  , **Denti, F.**, Laio, A., and Mira, A.  
 *Data segmentation based on the local intrinsic dimension*  
 Scientific Reports, 2020 - [Preprint](https://arxiv.org/abs/1902.10459)
 * **Denti, F.**, Guindani, M., Leisen, F., Lioji, A., and Vannucci, M.  
