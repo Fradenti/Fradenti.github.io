@@ -26,10 +26,10 @@ International Journal of Current Research, 2016
 ### Book chapters, short papers, and proceedings
 * **Denti, F.**, Cappozzo, A., and Greselin, F.    
 *Bayesian Nonparametric Functional Novelty Detector*    
-Accepted, MBC2 2020+
+in Book of short papers MBC2, 2020
 * **Denti, F.**, Cappozzo, A., and Greselin, F.    
 *Bayesian nonparametric adaptive classification with robust prior information*  
-in Book of short papers SIS, 2020+
+in Book of short papers SIS, 2020
 * Caponera, A., **Denti, F.**, Rigon, T., Sottosanti, A., and Gelfand, A.  
 *Hierarchical Spatio-Temporal Modeling of Resting State fMRI Data*  
 in Studies in Neural Data Science (Canale, A., Durante, D., Paci, L., Scarpa, B., editors), 2018
