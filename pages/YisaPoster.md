@@ -1,3 +1,3 @@
 [**<**](/ConferencesAndTalks)
 
-![Internet jul 20](/images/YisaPoster.jpeg)
+![Internet jul 20](/images/YisaPoster.jpg)
