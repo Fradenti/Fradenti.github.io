@@ -1,7 +1,7 @@
 [**<**](/index)
 
 # Conferences and Talks
-- [x] [Young-ISA Twitter Poster Conference (#YISAPoster2020)](https://young-istat.github.io/events/posts/2020-07-15-poster-conference-2020/) - Twitter - July 2020- [ <img  width="20" height="20" src="/images/cam3.png"> ](/pages/YisaPoster)
+- [x] [Young-ISA Twitter Poster Conference (#YISAPoster2020)](https://young-istat.github.io/events/posts/2020-07-15-poster-conference-2020/) - Twitter - July 2020- [ <img  width="20" height="20" src="/images/cam3.png"> ](/pages/YisaPoster)  
 - [x] [Bayesian Nonparametrics for Complex Data](http://bnp4cd.stat.unipd.it/workshop.html) - Padua - January 2020- [ <img  width="20" height="20" src="/images/cam3.png"> ](/pages/PAD)
 - [x] [Bayes Comp 2020](http://users.stat.ufl.edu/~jhobert/BayesComp2020/Conf_Website/) - Florida - January 2020- [ <img  width="20" height="20" src="/images/cam3.png"> ](/pages/FLO)
 - [x] [Network Models in Statistics, Economics and Social](https://www.eventbrite.it/e/network-models-in-statistics-economics-and-social-registration-59152695304) - Milan - November 2019 - [ <img  width="20" height="20" src="/images/cam3.png"> ](/pages/catto)
