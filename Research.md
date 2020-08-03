@@ -25,9 +25,6 @@ International Journal of Current Research, 2016
 
 ### Book chapters, short papers, and proceedings
 * **Denti, F.**, Cappozzo, A., and Greselin, F.    
-*Bayesian Nonparametric Functional Novelty Detector*    
-in Book of short papers MBC2, 2020
-* **Denti, F.**, Cappozzo, A., and Greselin, F.    
 *Bayesian nonparametric adaptive classification with robust prior information*  
 in Book of short papers SIS, 2020
 * Caponera, A., **Denti, F.**, Rigon, T., Sottosanti, A., and Gelfand, A.  
