@@ -32,6 +32,9 @@ in Book of short papers SIS, 2020
 in Studies in Neural Data Science (Canale, A., Durante, D., Paci, L., Scarpa, B., editors), 2018
 
 ### Submitted papers
+*  **Denti, F.**, Camerlenghi, F., Guindani, M., and Mira, A.  
+*A Common Atom Model for the Bayesian Nonparametric Analysis of Nested Data*  
+Submitted  
 *  **Denti, F.**, Peluso, S., Guindani, M., and Mira, A.  
 *Multiple hypothesis screening using non-local mixtures*  
 Submitted  
