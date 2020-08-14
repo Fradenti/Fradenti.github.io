@@ -2,7 +2,9 @@
 
 # Research
 
-<div style="text-align: right"> <em>``It gets easier... Every day it gets a little easier...&#10; But you gotta do it every day - that’s the hard part.&#10;But it does get easier.''</em>
+<div style="text-align: right"> ``<em>It gets easier... Every day it gets a little easier...&#10; 
+But you gotta do it every day - that’s the hard part.&#10;
+But it does get easier.</em>''
 </div>
 
 <img align="center" src="images/tres4.jpg?raw=true"/>
