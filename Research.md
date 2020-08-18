@@ -37,7 +37,7 @@ in Studies in Neural Data Science (Canale, A., Durante, D., Paci, L., Scarpa, B.
 ### Submitted papers
 *  **Denti, F.**, Camerlenghi, F., Guindani, M., and Mira, A.  
 *A Common Atom Model for the Bayesian Nonparametric Analysis of Nested Data*  
-Submitted  
+Submitted - [Preprint](https://arxiv.org/abs/2008.07077)
 *  **Denti, F.**, Peluso, S., Guindani, M., and Mira, A.  
 *Multiple hypothesis screening using non-local mixtures*  
 Submitted  
