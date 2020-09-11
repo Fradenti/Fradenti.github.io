@@ -1,18 +1,16 @@
 ### About me
-I am a Postdoctoral Scholar at the department of [Statistics of Univerisity of California - Irvine](https://www.stat.uci.edu/). 
+Postdoctoral Scholar at the department of [Statistics of Univerisity of California - Irvine](https://www.stat.uci.edu/). 
 
-
-* [Updated Cv](/pdf/CV.pdf)
+* [Updated CV](/pdf/CV_DENTI_aug20.pdf)
 
 
 ### Academia
 ---
 * [Research](/Research)
 
-* [Teaching](/Teaching)
-
 * [Conferences and Talks](/ConferencesAndTalks)
 
+* [Teaching](/Teaching)
 
 ### Misc
 ---
@@ -21,5 +19,4 @@ I am a Postdoctoral Scholar at the department of [Statistics of Univerisity of C
 ### Contacts
 ---
 * **Email**: fdenti@uci.edu
-* **Skype**: francesco.denti7
 
