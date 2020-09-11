@@ -1,13 +1,13 @@
 [**<**](/index)
 
 # Talks and Posters
-- [x] [Models and Learning for Clustering and Classification](http://mbc2.unict.it/) 
+- [x] [Models and Learning for Clustering and Classification](http://mbc2.unict.it/)   
       Video Poster: *Bayesian Nonparametric Functional Novelty Detector*   
       Virtual Conference - September 2020- [ <img  width="20" height="20" src="/images/cam3.png"> ](/pages/MBC2)  
-- [x] [Young-ISA Twitter Poster Conference (#YISAPoster2020)](https://young-istat.github.io/events/posts/2020-07-15-poster-conference-2020/) 
+- [x] [Young-ISA Twitter Poster Conference (#YISAPoster2020)](https://young-istat.github.io/events/posts/2020-07-15-poster-conference-2020)  
       Poster: *A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information*  
       Twitter - July 2020- [ <img  width="20" height="20" src="/images/cam3.png"> ](/pages/YisaPoster)  
-- [x] [Bayes Comp 2020](http://users.stat.ufl.edu/~jhobert/BayesComp2020/Conf_Website/)  
+- [x] [Bayes Comp 2020](http://users.stat.ufl.edu/~jhobert/BayesComp2020/Conf_Website)  
       Talk: *Bayesian nonparametric dimensionality reduction via estimation of data intrinsic dimensions*  
       Florida - January 2020- [ <img  width="20" height="20" src="/images/cam3.png"> ](/pages/FLO)  
 - [x] [12th IBS-Italian Region conference](https://ibs-italy.org/?page_id=922&lang=en)  
