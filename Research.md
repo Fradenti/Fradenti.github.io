@@ -35,9 +35,9 @@ in Book of short papers SIS, 2020
 in Studies in Neural Data Science (Canale, A., Durante, D., Paci, L., Scarpa, B., editors), 2018
 
 ### Submitted and working papers
-*  **Denti, F.**, Guindani, M., and Shahbaba, B.  
-*Mixture model as shrinkage prior: the Variance Variable Selectors*  
-Submitted  
+<!---*  **Denti, F.**, Guindani, M., and Shahbaba, B.   -->
+<!---*Mixture model as shrinkage prior: the Variance Variable Selectors*  -->
+<!---Submitted  -->
 *  **Denti, F.**, Camerlenghi, F., Guindani, M., and Mira, A.  
 *A Common Atom Model for the Bayesian Nonparametric Analysis of Nested Data*  
 Submitted - [Preprint](https://arxiv.org/abs/2008.07077)
