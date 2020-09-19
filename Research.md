@@ -52,9 +52,11 @@ Submitted - [Preprint](https://arxiv.org/abs/2006.09012)
 Submitted - [Preprint](https://arxiv.org/abs/2002.04148)
 
 ### Service to Profession
+
 #### Reviewer for (alphabetical order)
 + Bayesian Analysis  
 + Computational Statistics & Data Analysis  
 + Statistical Methods & Applications
+
 #### Others
 + Associate Editor for the [ISBA bulleti](https://bayesian.org/resources/bulletin/)n - *News of the World* section
