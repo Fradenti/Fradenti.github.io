@@ -11,7 +11,7 @@
 
 Bayesian Stastistics, Bayesian Nonparametrics, Computational Methods, Applied Statistics 
 
-### Articles in referred journals
+### Articles in refereed journals
 * Allegra, M., Facco, E.  , **Denti, F.**, Laio, A., and Mira, A.  
 *Data segmentation based on the local intrinsic dimension*  
 Scientific Reports, 2020 - [Preprint](https://arxiv.org/abs/1902.10459)
@@ -51,6 +51,10 @@ Submitted - [Preprint](https://arxiv.org/abs/2006.09012)
 *The role of intrinsic dimension in high-resolution player tracking data -- Insights in basketball*  
 Submitted - [Preprint](https://arxiv.org/abs/2002.04148)
 
-### Referee for
-+ Computational Statistics & Data Analysis
-+ Bayesian Analysis
+### Service to Profession
+#### Reviewer for (alphabetical order)
++ Bayesian Analysis  
++ Computational Statistics & Data Analysis  
++ Statistical Methods & Applications
+#### Others
++ Associate Editor for the [ISBA bulleti](https://bayesian.org/resources/bulletin/)n - *News of the World* section
