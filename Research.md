@@ -14,7 +14,7 @@ Bayesian Stastistics, Bayesian Nonparametrics, Computational Methods, Applied St
 ### Articles in refereed journals
 * Allegra, M., Facco, E.  , **Denti, F.**, Laio, A., and Mira, A.  
 *Data segmentation based on the local intrinsic dimension*  
-Scientific Reports, 2020 - [Preprint](https://arxiv.org/abs/1902.10459)
+Scientific Reports, 2020 - [Article](https://www.nature.com/articles/s41598-020-72222-0)
 * **Denti, F.**, Guindani, M., Leisen, F., Lioji, A., and Vannucci, M.  
 *Two-group Poisson-Dirichlet mixtures for multiple testing*  
 Biometrics, 2020 - [Article](https://onlinelibrary.wiley.com/doi/10.1111/biom.13314)
@@ -51,7 +51,7 @@ Submitted - [Preprint](https://arxiv.org/abs/2006.09012)
 *The role of intrinsic dimension in high-resolution player tracking data -- Insights in basketball*  
 Submitted - [Preprint](https://arxiv.org/abs/2002.04148)
 
-### Service to Profession
+### Service to Profession and Affiliations
 
 #### Reviewer for (alphabetical order)
 + Bayesian Analysis  
@@ -59,4 +59,5 @@ Submitted - [Preprint](https://arxiv.org/abs/2002.04148)
 + Statistical Methods & Applications
 
 #### Others
-+ Associate Editor for the [ISBA bulleti](https://bayesian.org/resources/bulletin/)n - *News of the World* section
++ Associate Editor for the [ISBA bulletin](https://bayesian.org/resources/bulletin/) - *News of the World* section
++ Member of [Complex Data Modeling Research Network](https://midas.mat.uc.cl/network/)
