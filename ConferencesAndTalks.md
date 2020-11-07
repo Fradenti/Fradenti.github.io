@@ -1,6 +1,9 @@
 [**<**](/index)
 
 # Talks and Posters
+- [x] [UCI - Fall 2020 Seminar Series](https://www.stat.uci.edu/seminar-series/)   
+      Zoom Talk: *Bayesian Sparse Regression via Cluster Shrinkage Parameters*   
+      Statistics Department Seminar - November 2020- [ <img  width="20" height="20" src="/images/cam3.png"> ](/pages/UCIseminar)  
 - [x] [Models and Learning for Clustering and Classification](http://mbc2.unict.it/)   
       Video Poster: *Bayesian Nonparametric Functional Novelty Detector*   
       Virtual Conference - September 2020- [ <img  width="20" height="20" src="/images/cam3.png"> ](/pages/MBC2)  

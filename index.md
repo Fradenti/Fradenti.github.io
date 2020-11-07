@@ -1,7 +1,7 @@
 ### About me
 Postdoctoral Scholar at the department of [Statistics of Univerisity of California - Irvine](https://www.stat.uci.edu/). 
 
-* [Updated CV](/pdf/CV_DENTI_aug20.pdf)
+* [Updated CV](/pdf/CV_DENTI_FRANCESCO_OCT.pdf)
 
 
 ### Academia
