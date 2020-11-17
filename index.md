@@ -12,7 +12,7 @@ I am interested in Bayesian statistics, Bayesian nonparametrics, model-based clu
 ---
 * [Research](/Research)
 
-* [Conferences and Talks](/ConferencesAndTalks)
+* [Presentations](/ConferencesAndTalks)
 
 * [Teaching](/Teaching)
 
