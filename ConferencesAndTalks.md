@@ -3,7 +3,7 @@
 # Presentations
 
 <div style="text-align: right"> <p>&quot;<em>Dice che molte volte dovrei stare zitto perché parlo senza aver sudato.<br>
-E le altre volte dovrei stare zitto perché parlo senza aver studiato.<br> Read books are far less valuable than unread ones.</em>&quot; <br> La mia donna dice che - D. D'Amico</p>
+E le altre volte dovrei stare zitto perché parlo senza aver studiato.</em>&quot; <br> La mia donna dice che - D. D'Amico</p>
 </div>
 
 
