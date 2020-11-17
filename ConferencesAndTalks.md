@@ -1,6 +1,13 @@
 [**<**](/index)
 
-# Talks and Posters
+# Presentations
+
+<div style="text-align: right"> <p>&quot;<em>Dice che molte volte dovrei stare zitto perché parlo senza aver sudato.<br>
+E le altre volte dovrei stare zitto perché parlo senza aver studiato.<br> Read books are far less valuable than unread ones.</em>&quot; <br> La mia donna dice che - D. D'Amico</p>
+</div>
+
+
+## Talks and Posters
 - [x] [UCI - Fall 2020 Seminar Series](https://www.stat.uci.edu/seminar-series/)   
       Zoom Talk: *Bayesian Sparse Regression via Cluster Shrinkage Parameters*   
       Statistics Department Seminar - November 2020- [ <img  width="20" height="20" src="/images/cam3.png"> ](/pages/UCIseminar)  
@@ -20,7 +27,7 @@
        Poster: *Modeling Human Microbiome Data via Latent Nested Nonparametric Priors*   
        Oxford - June 2019 - [ <img  width="20" height="20" src="/images/cam3.png"> ](/pages/ox) 
 
-# Conferences and Workshops
+## Conferences and Workshops
 - [x] [Bayesian Nonparametrics for Complex Data](http://bnp4cd.stat.unipd.it/workshop.html)  
       Padua - January 2020- [ <img  width="20" height="20" src="/images/cam3.png"> ](/pages/PAD)
 - [x] [Network Models in Statistics, Economics and Social](https://www.eventbrite.it/e/network-models-in-statistics-economics-and-social-registration-59152695304)  
