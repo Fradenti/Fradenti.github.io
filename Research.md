@@ -54,9 +54,7 @@ Submitted - [Preprint](https://arxiv.org/abs/2002.04148)
 ### Service to Profession and Affiliations
 
 #### Reviewer for (alphabetical order)
-+ Bayesian Analysis  
-+ Computational Statistics & Data Analysis  
-+ Statistical Methods & Applications
+ Bayesian Analysis, Biometrics, Computational Statistics & Data Analysis, Statistical Methods & Applications, Technometrics  
 
 #### Others
 + Associate Editor for the [ISBA bulletin](https://bayesian.org/resources/bulletin/) - *News of the World* section

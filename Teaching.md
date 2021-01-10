@@ -2,11 +2,10 @@
 
 # Teaching
 
-<div style="text-align: right"> <p>&quot;<em>The writer Umberto Eco belongs to that small class of scholars who are encyclopedic, insightful, and nondull.<br>He is the owner of a large personal library (containing thirty thousand books), and separates visitors into two categories: those who react with “Wow! Signore, professore dottore Eco, what a library you have ! How many of these books have you read?” and the others - a very small minority - who get the point that a private library is not an ego-boosting appendage but a research tool.<br> Read books are far less valuable than unread ones.</em>&quot; <br> The black swan - N. N. Taleb</p>
-</div>
+
+<div style="text-align: right"> <p>&quot;<em> Questions? &quot; <br>&quot;<em>When's Bart coming back?&quot;<br> &quot;He's not. He thought he was better than the laws of probability. Anyone else think he's better than the laws of probability? Well, you're not!</em>&quot; <br>MoneyBart, S22E03 - Lisa Simpson</p>
 
 <img src="images/smvs.jpg?raw=true"/>
-
 
 ## Past Courses
 * [Sep 19 – Jan 20] Teaching Assistant, MSc course in Advanced Statistics (Eng), *USI - Universtà della Svizzera italiana*.
