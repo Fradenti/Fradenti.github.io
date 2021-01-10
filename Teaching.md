@@ -2,7 +2,7 @@
 
 # Teaching
 
-<div style="text-align: right"> <p>&quot;<em> Questions? &quot; <br>&quot;<em>When's Bart coming back?&quot;<br> &quot;He's not. He thought he was better than the laws of probability. Anyone else think he's better than the laws of probability? Well, you're not!</em>&quot; <br>MoneyBart, S22E03 - Lisa Simpson</p>
+<div style="text-align: right"> <p>&quot;<em> Questions? &quot; <br>&quot;When's Bart coming back?&quot;<br> &quot;He's not. He thought he was better than the laws of probability. Anyone else think he's better than the laws of probability? Well, you're not!</em>&quot; <br>MoneyBart, S22E03 - Lisa Simpson</p>
 </div>
 
 <img src="images/smvs.jpg?raw=true"/>
