@@ -54,7 +54,7 @@ Submitted - [Preprint](https://arxiv.org/abs/2002.04148)
 *intRinsic: an R package for the package for model-based estimation of the intrinsic dimension of a dataset*  
 
 ### Software
-* **intRinsic** - R package - - [Github Repo](https://github.com/Fradenti/intRinsic) 
+* **intRinsic** - R package - [Github Repo](https://github.com/Fradenti/intRinsic) 
 
 
 ### Service to Profession and Affiliations
