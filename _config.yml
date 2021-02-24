@@ -1,4 +1,9 @@
 title: Francesco Denti # your name (or website title) here
 logo: "/images/fra_grigio.png" # your photo (or logo) here
+description:  > # your text below (remove <br> elements if you don't need line breaks)
   
+      
+  
+
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 theme: jekyll-theme-minimal
