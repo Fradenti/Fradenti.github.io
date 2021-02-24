@@ -12,25 +12,25 @@
 Bayesian Stastistics, Bayesian Nonparametrics, Computational Methods, Applied Statistics 
 
 ### Articles in refereed journals
-* Allegra, M., Facco, E.  , **Denti, F.**, Laio, A., and Mira, A.  
+1.  Allegra, M., Facco, E.  , **Denti, F.**, Laio, A., and Mira, A.  
 *Data segmentation based on the local intrinsic dimension*  
 Scientific Reports, 2020 - [Article](https://www.nature.com/articles/s41598-020-72222-0)
-* **Denti, F.**, Guindani, M., Leisen, F., Lioji, A., and Vannucci, M.  
+1.  **Denti, F.**, Guindani, M., Leisen, F., Lioji, A., and Vannucci, M.  
 *Two-group Poisson-Dirichlet mixtures for multiple testing*  
 Biometrics, 2020 - [Article](https://onlinelibrary.wiley.com/doi/10.1111/biom.13314)
-* Petazzoni, M., De Giacinto, E., Troiano, D., **Denti, F.**, and Buiatti, M.  
+1.  Petazzoni, M., De Giacinto, E., Troiano, D., **Denti, F.**, and Buiatti, M.  
 *Computed Tomographic Trochlear Depth Measurement in Normal Dogs*  
 Journal of Veterinary and Comparative Orthopaedics and Traumatology, 2018
-*  Menicagli, R., **Denti, F.**  
+1.   Menicagli, R., **Denti, F.**  
 *First results if an in vitro study on the effects of green tea on the defensive layer of the oral cavity*  
 International Journal of Current Research, 2016  
 
 
 ### Book chapters, short papers, and proceedings
-* **Denti, F.**, Cappozzo, A., and Greselin, F.    
+1.  **Denti, F.**, Cappozzo, A., and Greselin, F.    
 *Bayesian nonparametric adaptive classification with robust prior information*  
 in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), Book of Short Papers SIS 2020 (pp. 655-660). Pearson.
-* Caponera, A., **Denti, F.**, Rigon, T., Sottosanti, A., and Gelfand, A.  
+1.   Caponera, A., **Denti, F.**, Rigon, T., Sottosanti, A., and Gelfand, A.  
 *Hierarchical Spatio-Temporal Modeling of Resting State fMRI Data*  
 in Studies in Neural Data Science (Canale, A., Durante, D., Paci, L., Scarpa, B., editors), 2018
 
@@ -38,7 +38,7 @@ in Studies in Neural Data Science (Canale, A., Durante, D., Paci, L., Scarpa, B.
 <!---*  **Denti, F.**, Guindani, M., and Shahbaba, B.   -->
 <!---*Mixture model as shrinkage prior: the Variance Variable Selectors*  -->
 <!---Submitted  -->
-1-.  **Denti, F.**, Camerlenghi, F., Guindani, M., and Mira, A.  
+1.  **Denti, F.**, Camerlenghi, F., Guindani, M., and Mira, A.  
 *A Common Atom Model for the Bayesian Nonparametric Analysis of Nested Data*  
 Submitted - [Preprint](https://arxiv.org/abs/2008.07077)
 1.  **Denti, F.**, Peluso, S., Guindani, M., and Mira, A.  
