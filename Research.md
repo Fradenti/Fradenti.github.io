@@ -61,7 +61,7 @@ Submitted - [Preprint](http://arxiv.org/abs/2102.11425)
 ### Service to Profession and Affiliations
 
 #### Reviewer for (alphabetical order)
-Bayesian Analysis, Biometrics, Computational Statistics & Data Analysis, International Statistical Review, Technometrics, Statistical Methods and Applications, 2021 SBSS Student Paper Competition
+Bayesian Analysis, Biometrics, Computational Statistics & Data Analysis, International Statistical Review, Technometrics, Statistics and Computing, Statistical Methods and Applications, 2021 SBSS Student Paper Competition
 
 #### Others
 + Associate Editor for the [ISBA bulletin](https://bayesian.org/resources/bulletin/) - *News of the World* section
