@@ -11,6 +11,8 @@
 
 Bayesian Stastistics, Bayesian Nonparametrics, Computational Methods, Applied Statistics 
 
+## Research {.tabset}
+
 ### Articles in refereed journals
 1.  Allegra, M., Facco, E.  , **Denti, F.**, Laio, A., and Mira, A.  
 *Data segmentation based on the local intrinsic dimension*  
@@ -58,7 +60,7 @@ Submitted - [Preprint](http://arxiv.org/abs/2102.11425)
 * **intRinsic** - R package - [Github Repo](https://github.com/Fradenti/intRinsic) 
 
 
-### Service to Profession and Affiliations
+## Service to Profession and Affiliations
 
 #### Reviewer for (alphabetical order)
 Advances in Statistical Analysis, Bayesian Analysis, Biometrics, Computational Statistics & Data Analysis, International Statistical Review, Technometrics, Statistics and Computing, Statistical Methods and Applications, 2021 SBSS Student Paper Competition
