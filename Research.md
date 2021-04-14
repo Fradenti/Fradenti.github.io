@@ -42,18 +42,18 @@ in Studies in Neural Data Science (Canale, A., Durante, D., Paci, L., Scarpa, B.
 1.  **Denti, F.**, Camerlenghi, F., Guindani, M., and Mira, A.  
 *A Common Atom Model for the Bayesian Nonparametric Analysis of Nested Data*  
 Submitted - [Preprint](https://arxiv.org/abs/2008.07077)
-1.  **Denti, F.**, Peluso, S., Guindani, M., and Mira, A.  
-*Multiple hypothesis screening using non-local mixtures*  
-Submitted  
 1.  **Denti, F.**, Cappozzo, A., and Greselin, F.  
 *A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information*  
 Submitted - [Preprint](https://arxiv.org/abs/2006.09012)
 1. Santos-Fernandez, E., **Denti, F.**, Mengersen, K., and Mira A.  
 *The role of intrinsic dimension in high-resolution player tracking data -- Insights in basketball*  
 Submitted - [Preprint](https://arxiv.org/abs/2002.04148)
+1.  **Denti, F.**, Peluso, S., Guindani, M., and Mira, A.  
+*Multiple hypothesis screening using non-local mixtures*  
+Under Revision  
 1. **Denti, F.**  
 *intRinsic: an R package for the package for model-based estimation of the intrinsic dimension of a dataset*  
-Submitted - [Preprint](http://arxiv.org/abs/2102.11425)
+Under Revision - [Preprint](http://arxiv.org/abs/2102.11425)
 
 ### Software
 * **intRinsic** - R package - [Github Repo](https://github.com/Fradenti/intRinsic) 
