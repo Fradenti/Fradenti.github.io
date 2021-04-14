@@ -11,9 +11,8 @@
 
 Bayesian Stastistics, Bayesian Nonparametrics, Computational Methods, Applied Statistics 
 
-## Research {.tabset}
 
-### Articles in refereed journals
+### [tab1](#tab/Articles in refereed journals)
 1.  Allegra, M., Facco, E.  , **Denti, F.**, Laio, A., and Mira, A.  
 *Data segmentation based on the local intrinsic dimension*  
 Scientific Reports, 2020 - [Article](https://www.nature.com/articles/s41598-020-72222-0)
@@ -28,7 +27,7 @@ Journal of Veterinary and Comparative Orthopaedics and Traumatology, 2018
 International Journal of Current Research, 2016  
 
 
-### Book chapters, short papers, and proceedings
+### [tab1](#tab/Book chapters, short papers, and proceedings)
 1.  **Denti, F.**, Cappozzo, A., and Greselin, F.    
 *Bayesian nonparametric adaptive classification with robust prior information*  
 in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), Book of Short Papers SIS 2020 (pp. 655-660). Pearson.
