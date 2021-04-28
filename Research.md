@@ -2,7 +2,7 @@
 
 # Research
 
-<div style="text-align: right"> <p>&quot;<em>It gets easier... Every day it gets a little easier...<br>But you gotta do it every day - that’s the hard part.<br>But it does get easier.</em>&quot;</p>
+<div style="text-align: right"> <p>&quot;<em>It gets easier... Every day it gets a little easier...<br>But you gotta do it every day - that’s the hard part.<br>But it does get easier.</em>&quot;<br> BJH - S2 finale</p>
 </div>
 
 <img align="center" src="images/tres4.jpg?raw=true"/>
@@ -15,10 +15,10 @@ Bayesian Stastistics, Bayesian Nonparametrics, Computational Methods, Applied St
 ### Articles in refereed journals
 1.  Allegra, M., Facco, E.  , **Denti, F.**, Laio, A., and Mira, A.  
 *Data segmentation based on the local intrinsic dimension*  
-Scientific Reports, 2020 - [Article](https://www.nature.com/articles/s41598-020-72222-0)
+Scientific Reports, 2020 - [Article](https://www.nature.com/articles/s41598-020-72222-0) - [Preprint](https://arxiv.org/abs/1902.10459)
 1.  **Denti, F.**, Guindani, M., Leisen, F., Lioji, A., and Vannucci, M.  
 *Two-group Poisson-Dirichlet mixtures for multiple testing*  
-Biometrics, 2020 - [Article](https://onlinelibrary.wiley.com/doi/10.1111/biom.13314)
+Biometrics, 2020 - [Article](https://onlinelibrary.wiley.com/doi/10.1111/biom.13314) - [Preprint](pdf/BNPT.pdf)
 1.  Petazzoni, M., De Giacinto, E., Troiano, D., **Denti, F.**, and Buiatti, M.  
 *Computed Tomographic Trochlear Depth Measurement in Normal Dogs*  
 Journal of Veterinary and Comparative Orthopaedics and Traumatology, 2018
@@ -39,6 +39,9 @@ in Studies in Neural Data Science (Canale, A., Durante, D., Paci, L., Scarpa, B.
 <!---*  **Denti, F.**, Guindani, M., and Shahbaba, B.   -->
 <!---*Mixture model as shrinkage prior: the Variance Variable Selectors*  -->
 <!---Submitted  -->
+1. **Denti, F.**, Doimo, D., Laio, A., and Mira, A.  
+*Distributional Results for Likelihood-Based Intrinsic Dimension Estimators*  
+Submitted - [Preprint](---)  
 1.  **Denti, F.**, Camerlenghi, F., Guindani, M., and Mira, A.  
 *A Common Atom Model for the Bayesian Nonparametric Analysis of Nested Data*  
 Submitted - [Preprint](https://arxiv.org/abs/2008.07077)
@@ -67,3 +70,12 @@ Advances in Statistical Analysis, Bayesian Analysis, Biometrics, Computational S
 #### Others
 + Associate Editor for the [ISBA bulletin](https://bayesian.org/resources/bulletin/) - *News of the World* section
 + Member of [Complex Data Modeling Research Network](https://midas.mat.uc.cl/network/)
+
+
+
+<div style="text-align: right"> <p>&quot;<em>Il testo che avrei voluto scrivere
+Non è di certo questo<br>
+Perciò dovrò continuare a scrivere<br>
+Perché di certo riesco<br>
+Prima o poi<br> </em>&quot;<br> Michele Salvemini </p>
+</div>
