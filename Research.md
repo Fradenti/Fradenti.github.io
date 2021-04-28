@@ -61,6 +61,10 @@ Under Revision - [Preprint](http://arxiv.org/abs/2102.11425)
 ### Software
 * **intRinsic** - R package - [Github Repo](https://github.com/Fradenti/intRinsic) 
 
+<div style="text-align: right"> <p>&quot;<em>Il testo che avrei voluto scrivere non è di certo questo<br>
+Perciò dovrò continuare a scrivere perché di certo riesco<br>
+(Prima o poi)</em>&quot;<br> Michele Salvemini </p>
+</div>
 
 ## Service to Profession and Affiliations
 
@@ -73,7 +77,3 @@ Advances in Statistical Analysis, Bayesian Analysis, Biometrics, Computational S
 
 
 
-<div style="text-align: right"> <p>&quot;<em>Il testo che avrei voluto scrivere non è di certo questo<br>
-Perciò dovrò continuare a scrivere perché di certo riesco<br>
-(Prima o poi)<br> </em>&quot;<br> Michele Salvemini </p>
-</div>
