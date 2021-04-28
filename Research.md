@@ -11,6 +11,10 @@
 
 Bayesian Stastistics, Bayesian Nonparametrics, Computational Methods, Applied Statistics 
 
+<div style="text-align: right"> <p>&quot;<em>Il testo che avrei voluto scrivere non è di certo questo<br>
+Perciò dovrò continuare a scrivere perché di certo riesco<br>
+(Prima o poi)</em>&quot;<br> Michele Salvemini </p>
+</div>
 
 ### Articles in refereed journals
 1.  Allegra, M., Facco, E.  , **Denti, F.**, Laio, A., and Mira, A.  
@@ -60,11 +64,6 @@ Under Revision - [Preprint](http://arxiv.org/abs/2102.11425)
 
 ### Software
 * **intRinsic** - R package - [Github Repo](https://github.com/Fradenti/intRinsic) 
-
-<div style="text-align: right"> <p>&quot;<em>Il testo che avrei voluto scrivere non è di certo questo<br>
-Perciò dovrò continuare a scrivere perché di certo riesco<br>
-(Prima o poi)</em>&quot;<br> Michele Salvemini </p>
-</div>
 
 ## Service to Profession and Affiliations
 
