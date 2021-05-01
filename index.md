@@ -23,6 +23,9 @@ I am interested in Bayesian statistics, Bayesian nonparametrics, model-based clu
 
 * [Teaching](/Teaching)
 
+* [Trial](/TrialHTML)
+
+
 ### Misc
 ---
 * [My second family (in italian)](http://www.compagniameteor.it/)
