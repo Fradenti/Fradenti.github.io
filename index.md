@@ -17,13 +17,12 @@ I am interested in Bayesian statistics, Bayesian nonparametrics, model-based clu
 
 ### Academia
 ---
-* [Research](/Research)
+* [Research](/Rmarkdowns/Research)
 
 * [Presentations](/ConferencesAndTalks)
 
 * [Teaching](/Teaching)
 
-* [Trial](/TrialHTML)
 
 
 ### Misc
