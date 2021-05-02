@@ -1,7 +1,8 @@
 ---
 title: "Research"
 output: 
-      html_document
+      html_document:
+        theme: readable
 ---
 
 [**<**](/index)
@@ -49,7 +50,7 @@ in Studies in Neural Data Science (Canale, A., Durante, D., Paci, L., Scarpa, B.
 <!---Submitted  -->
 1. **Denti, F.**, Doimo, D., Laio, A., and Mira, A.  
 *Distributional Results for Likelihood-Based Intrinsic Dimension Estimators*  
-Submitted - [Preprint](---)  
+Submitted - [Preprint](https://arxiv.org/abs/2104.13832)  
 1.  **Denti, F.**, Camerlenghi, F., Guindani, M., and Mira, A.  
 *A Common Atom Model for the Bayesian Nonparametric Analysis of Nested Data*  
 Submitted - [Preprint](https://arxiv.org/abs/2008.07077)
