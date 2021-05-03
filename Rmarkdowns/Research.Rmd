@@ -12,16 +12,20 @@ output:
 
 <img align="center" src="images/tres4.jpg?raw=true"/>
 
-## Research interests {.tabset .tabset-fade .tabset-pills}
+## Research interests {.tabset .tabset-fade}
 
 Bayesian Stastistics, Bayesian Nonparametrics, Computational Methods, Applied Statistics 
+
+
+
+### Articles in refereed journals
 
 <div style="text-align: right"> <p>&quot;<em>Il testo che avrei voluto scrivere non è di certo questo<br>
 Perciò dovrò continuare a scrivere perché di certo riesco<br>
 (Prima o poi)</em>&quot;<br> Michele Salvemini </p>
 </div>
 
-### Articles in refereed journals
+
 1.  Allegra, M., Facco, E.  , **Denti, F.**, Laio, A., and Mira, A.  
 *Data segmentation based on the local intrinsic dimension*  
 Scientific Reports, 2020 - [Article](https://www.nature.com/articles/s41598-020-72222-0) - [Preprint](https://arxiv.org/abs/1902.10459)
@@ -36,7 +40,7 @@ Journal of Veterinary and Comparative Orthopaedics and Traumatology, 2018
 International Journal of Current Research, 2016  
 
 
-### Book chapters, short papers, and proceedings
+### Book chapters and proceedings
 1.  **Denti, F.**, Cappozzo, A., and Greselin, F.    
 *Bayesian nonparametric adaptive classification with robust prior information*  
 in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), Book of Short Papers SIS 2020 (pp. 655-660). Pearson.
@@ -70,7 +74,7 @@ Under Revision - [Preprint](http://arxiv.org/abs/2102.11425)
 ### Software
 * **intRinsic** - R package - [Github Repo](https://github.com/Fradenti/intRinsic) 
 
-## Service to Profession and Affiliations {.tabset .tabset-fade .tabset-pills}
+## Service to Profession and Affiliations {.tabset .tabset-fade}
 
 ### Reviewer for (alphabetical order)
 Advances in Statistical Analysis, Bayesian Analysis, Biometrics, Computational Statistics & Data Analysis, International Statistical Review, Technometrics, Statistics and Computing, Statistical Methods and Applications, 2021 SBSS Student Paper Competition
