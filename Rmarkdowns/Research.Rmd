@@ -27,7 +27,7 @@ Perciò dovrò continuare a scrivere perché di certo riesco<br>
 
 1.  **Denti, F.**, Cappozzo, A., and Greselin, F.  
 *A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information*  
-Accepted for publication on Statistics and Computing, 2021 - [Preprint](https://arxiv.org/abs/2006.09012)
+Accepted for publication in Statistics and Computing, 2021 - [Preprint](https://arxiv.org/abs/2006.09012)
 1.  Allegra, M., Facco, E.  , **Denti, F.**, Laio, A., and Mira, A.  
 *Data segmentation based on the local intrinsic dimension*  
 Scientific Reports, 2020 - [Article](https://www.nature.com/articles/s41598-020-72222-0) - [Preprint](https://arxiv.org/abs/1902.10459)
@@ -77,11 +77,18 @@ Under Revision - [Preprint](http://arxiv.org/abs/2102.11425)
 
 ### Reviewer for (alphabetical order)
 Advances in Statistical Analysis, Bayesian Analysis, Biometrics, Computational Statistics & Data Analysis, International Statistical Review, Technometrics, Statistics and Computing, Statistical Methods and Applications, 2021 SBSS Student Paper Competition
-
+     
+     
+     
+     
+[**<**](/index)
+         
 ### Others
 + Associate Editor for the [ISBA bulletin](https://bayesian.org/resources/bulletin/) - *News of the World* section
 + Member of [Complex Data Modeling Research Network](https://midas.mat.uc.cl/network/)
-
-
+     
+     
+     
+     
 [**<**](/index)
-
+ 
