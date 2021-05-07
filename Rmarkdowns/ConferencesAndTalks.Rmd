@@ -45,5 +45,5 @@ E le altre volte dovrei stare zitto perché parlo senza aver studiato.</em>&quot
 - [x] [LMS Invited Lecture Series and CRISM Summer School in Computational Statistics 2018](https://warwick.ac.uk/fac/sci/statistics/crism/workshops/lms2018/)   
       Warwick -July 2018 - [ <img  width="20" height="20" src="images/cam3.png"> ](/pages/Warwick18)
 - [x] [ISBA](https://bayesian.org/isba2018/)  
-      Edinburgh - June 2018 - [ <img  width="20" height="20" src="images/cam3.png"> ](/pages/ISBA)
+      Edinburgh - June 2018 - [ <img  width="20" height="20" src="images/cam3.png"> ](/pages/isba.hmtl)
 
