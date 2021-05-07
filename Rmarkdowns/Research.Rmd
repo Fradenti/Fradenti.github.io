@@ -33,7 +33,7 @@ Accepted for publication in Statistics and Computing, 2021 - [Preprint](https://
 Scientific Reports, 2020 - [Article](https://www.nature.com/articles/s41598-020-72222-0) - [Preprint](https://arxiv.org/abs/1902.10459)
 1.  **Denti, F.**, Guindani, M., Leisen, F., Lioji, A., and Vannucci, M.  
 *Two-group Poisson-Dirichlet mixtures for multiple testing*  
-Biometrics, 2020 - [Article](https://onlinelibrary.wiley.com/doi/10.1111/biom.13314) - [Preprint](pdf/BNPT.pdf)
+Biometrics, 2020 - [Article](https://onlinelibrary.wiley.com/doi/10.1111/biom.13314) - [Preprint](../pdf/BNPT.pdf)
 1.  Petazzoni, M., De Giacinto, E., Troiano, D., **Denti, F.**, and Buiatti, M.  
 *Computed Tomographic Trochlear Depth Measurement in Normal Dogs*  
 Journal of Veterinary and Comparative Orthopaedics and Traumatology, 2018
