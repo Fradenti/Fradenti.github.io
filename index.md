@@ -24,9 +24,9 @@ I am interested in Bayesian statistics, Bayesian nonparametrics, model-based clu
 * [Google Scholar Profile](https://scholar.google.com/citations?user=DLiw19MAAAAJ&hl=en)
 -->
 
-<button type="button" name="button" class="btn" style="width: 25%;">[Google Scholar Profile](https://scholar.google.com/citations?user=DLiw19MAAAAJ&hl=en)</button>
-<button type="button" name="button" class="btn" style="width: 25%;">[Github Profile](https://github.com/Fradenti)</button>
-<button type="button" name="button" class="btn" style="width: 25%;">[ResearchGate](https://www.researchgate.net/profile/Francesco-Denti-2)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 25%;">[Google Scholar Profile](https://scholar.google.com/citations?user=DLiw19MAAAAJ&hl=en)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 25%;">[Github Profile](https://github.com/Fradenti)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 25%;">[ResearchGate](https://www.researchgate.net/profile/Francesco-Denti-2)</button>
 
 
 ### Academia
@@ -39,16 +39,16 @@ I am interested in Bayesian statistics, Bayesian nonparametrics, model-based clu
 * [Teaching](/Teaching)
 --->
 
-<button type="button" name="button" class="btn" style="width: 25%;">[Research](/Rmarkdowns/Research)</button>
-<button type="button" name="button" class="btn" style="width: 25%;">[Presentations](/Rmarkdowns/ConferencesAndTalks)</button>
-<button type="button" name="button" class="btn" style="width: 25%;">[Teaching](/Teaching)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 25%;">[Research](/Rmarkdowns/Research)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 25%;">[Presentations](/Rmarkdowns/ConferencesAndTalks)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 25%;">[Teaching](/Teaching)</button>
 
 
 ### Misc
 
 ---
 
-<button type="button" name="button" class="btn" style="width: 25%;">[My second family (in italian)](http://www.compagniameteor.it/)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 25%;">[My second family (in italian)](http://www.compagniameteor.it/)</button>
 
 ### Contacts
 
