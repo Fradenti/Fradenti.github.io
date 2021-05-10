@@ -5,7 +5,7 @@ output:
         theme: readable
 ---
 
-[**<**](/index)
+[**<**](/index.html)
 
 # {.tabset .tabset-fade}
 
