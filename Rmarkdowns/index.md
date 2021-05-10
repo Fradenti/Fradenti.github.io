@@ -1,57 +1,57 @@
-<div style="text-align: right">
+---
+title: "&nbsp;"
+output: 
+      html_document:
+        keep_md: yes
+        theme: readable
+---
 
-<p>
-“<em>The writer Umberto Eco belongs to that small class of scholars who
-are encyclopedic, insightful, and nondull.<br>He is the owner of a large
-personal library (containing thirty thousand books), and separates
-visitors into two categories: those who react with “Wow! Signore,
-professore dottore Eco, what a library you have ! How many of these
-books have you read?” and the others - a very small minority - who get
-the point that a private library is not an ego-boosting appendage but a
-research tool.<br> Read books are far less valuable than unread
-ones.</em>" <br> The Black Swan - N. N. Taleb
-</p>
-
-</div>
-
+  
+  <div style="text-align: right"> <p>&quot;<em>The writer Umberto Eco belongs to that small class of scholars who are encyclopedic, insightful, and nondull.<br>He is the owner of a large personal library (containing thirty thousand books), and separates visitors into two categories: those who react with “Wow! Signore, professore dottore Eco, what a library you have ! How many of these books have you read?” and the others - a very small minority - who get the point that a private library is not an ego-boosting appendage but a research tool.<br> Read books are far less valuable than unread ones.</em>&quot; <br> The Black Swan - N. N. Taleb</p>
+  </div>
+  
+  
+  
 ### About me
+  
+---
+  
+I am a Postdoctoral Scholar at the department of [Statistics of Univerisity of California - Irvine](https://www.stat.uci.edu/), working under the supervision of Professor [Babak Shahbaba](https://www.ics.uci.edu/~babaks/).  
+I am interested in Bayesian statistics, Bayesian nonparametrics, model-based clustering, shrinkage priors, latent factor representation and more.  
+<!---
+* [Github Profile](https://github.com/Fradenti)
+* [Google Scholar Profile](https://scholar.google.com/citations?user=DLiw19MAAAAJ&hl=en)
+-->
 
-------------------------------------------------------------------------
+<button type="button" name="button" class="btn">[Google Scholar Profile](https://scholar.google.com/citations?user=DLiw19MAAAAJ&hl=en)</button>
+<button type="button" name="button" class="btn">[Github Profile](https://github.com/Fradenti)</button>
+<button type="button" name="button" class="btn">[ResearchGate](https://www.researchgate.net/profile/Francesco-Denti-2)</button>
 
-I am a Postdoctoral Scholar at the department of [Statistics of
-Univerisity of California - Irvine](https://www.stat.uci.edu/), working
-under the supervision of Professor [Babak
-Shahbaba](https://www.ics.uci.edu/~babaks/).  
-I am interested in Bayesian statistics, Bayesian nonparametrics,
-model-based clustering, shrinkage priors, latent factor representation
-and more.
-
--   [Github Profile](https://github.com/Fradenti)
-
--   [Google Scholar
-    Profile](https://scholar.google.com/citations?user=DLiw19MAAAAJ&hl=en)
 
 ### Academia
 
-------------------------------------------------------------------------
+---
 
--   [Research](/Rmarkdowns/Research)
+<!---
+* [Research](/Rmarkdowns/Research)
+* [Presentations](/Rmarkdowns/ConferencesAndTalks)
+* [Teaching](/Teaching)
+--->
 
--   [Presentations](/Rmarkdowns/ConferencesAndTalks)
+<button type="button" name="button" class="btn">[Research](/Rmarkdowns/Research)</button>
+<button type="button" name="button" class="btn">[Presentations](/Rmarkdowns/ConferencesAndTalks)</button>
+<button type="button" name="button" class="btn">[Teaching](/Teaching)</button>
 
--   [Teaching](/Teaching)
-
-<span class="fs-8"> [Link button](/Rmarkdowns/ConferencesAndTalks){:
-.btn } </span>
 
 ### Misc
 
-------------------------------------------------------------------------
+---
 
--   [My second family (in italian)](http://www.compagniameteor.it/)
+<button type="button" name="button" class="btn">[My second family (in italian)](http://www.compagniameteor.it/)</button>
 
 ### Contacts
 
-------------------------------------------------------------------------
+---
 
--   **Email**: <fdenti@uci.edu>
+<button type="button" name="button" class="btn">**Email**: fdenti@uci.edu</button>
+
