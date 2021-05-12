@@ -4,6 +4,6 @@ output:
   html_document
 ---
 
+[**<**](/Rmarkdowns/ConferencesAndTalks.html)
 
-
-![ISBA 2018](images/EDINB.jpg)
+![ISBA 2018](../images/EDINB.jpg)
