@@ -23,10 +23,10 @@ I am interested in Bayesian statistics, Bayesian nonparametrics, model-based clu
 * [Google Scholar Profile](https://scholar.google.com/citations?user=DLiw19MAAAAJ&hl=en)
 -->
 
-<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 24%;">[Google Scholar Profile](https://scholar.google.com/citations?user=DLiw19MAAAAJ&hl=en)</button>
-<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 24%;">[Github Profile](https://github.com/Fradenti)</button>
-<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 24%;">[ArXiv](https://arxiv.org/search/?searchtype=author&query=Denti%2C+F)</button>
-<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 24%;">[ResearchGate](https://www.researchgate.net/profile/Francesco-Denti-2)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 48%;">[Google Scholar Profile](https://scholar.google.com/citations?user=DLiw19MAAAAJ&hl=en)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 48%;">[Github Profile](https://github.com/Fradenti)</button>  
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 48%;">[ArXiv](https://arxiv.org/search/?searchtype=author&query=Denti%2C+F)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 48%;">[ResearchGate](https://www.researchgate.net/profile/Francesco-Denti-2)</button>
 
 ### News and highlights
 
@@ -44,9 +44,9 @@ I am interested in Bayesian statistics, Bayesian nonparametrics, model-based clu
 * [Teaching](/Teaching)
 --->
 
-<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 25%;">[Research](/Rmarkdowns/Research)</button>
-<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 25%;">[Presentations](/Rmarkdowns/ConferencesAndTalks)</button>
-<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 25%;">[Teaching](/Teaching)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Research](/Rmarkdowns/Research)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Presentations](/Rmarkdowns/ConferencesAndTalks)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Teaching](/Teaching)</button>
 
 
 ### Misc
