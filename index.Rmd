@@ -53,7 +53,7 @@ I am interested in Bayesian statistics, Bayesian nonparametrics, model-based clu
 
 ---
 
-<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 25%;">[My second family (in italian)](http://www.compagniameteor.it/)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 50%;">[My second family (in italian)](http://www.compagniameteor.it/)</button>
 
 ### Contacts
 
