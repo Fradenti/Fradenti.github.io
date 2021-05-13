@@ -1,0 +1,9 @@
+---
+title: "&nbsp;"
+output:
+  html_document
+---
+
+[**<**](/Rmarkdowns/ConferencesAndTalks.html)
+
+![BNP for Complex data, Padua, January 2020](../images/PAD.jpg)

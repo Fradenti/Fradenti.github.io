@@ -1,0 +1,9 @@
+---
+title: "&nbsp;"
+output: 
+  html_document
+---
+  
+[**<**](/Rmarkdowns/ConferencesAndTalks.html)
+
+![A Banksy art piece in Naples, July 2019](../images/napule.png)

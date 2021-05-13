@@ -1,0 +1,9 @@
+---
+title: "&nbsp;"
+output: 
+  html_document
+---
+  
+[**<**](/Rmarkdowns/ConferencesAndTalks.html)
+
+![Wildfire Time, September 2020](../images/mbc2.jpg)

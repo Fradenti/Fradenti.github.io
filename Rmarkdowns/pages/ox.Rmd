@@ -1,0 +1,9 @@
+---
+title: "&nbsp;"
+output: 
+  html_document
+---
+  
+[**<**](/Rmarkdowns/ConferencesAndTalks.html)
+
+![BNP12, Oxford, June 2019](../images/ox.png)
