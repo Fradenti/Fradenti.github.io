@@ -76,7 +76,7 @@ Under Revision - [Preprint](http://arxiv.org/abs/2102.11425)
 ## Service to Profession and Affiliations {.tabset .tabset-fade}
 
 ### Reviewer for (alphabetical order)
-Advances in Statistical Analysis, Bayesian Analysis, Biometrics, Computational Statistics & Data Analysis, International Statistical Review, Technometrics, Statistics and Computing, Statistical Methods and Applications, 2021 SBSS Student Paper Competition
+Advances in Statistical Analysis, Bayesian Analysis, Biometrics, Computational Statistics & Data Analysis, International Statistical Review, Journal of Statistical Software, Technometrics, Statistics and Computing, Statistical Methods and Applications, 2021 SBSS Student Paper Competition
      
      
      
