@@ -32,7 +32,7 @@ I am interested in Bayesian statistics, Bayesian nonparametrics, model-based clu
 
 ---
 
-[2021/05/04] Our paper [*"A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information"*](https://arxiv.org/abs/2006.09012)  has been accepted for publication on *Statistics and Computing*
+[2021/05/04] Our paper [*"A Two-Stage Bayesian Semiparametric Model for Novelty Detection with Robust Prior Information"*](https://arxiv.org/abs/2006.09012)  has been accepted for publication on *Statistics and Computing*
  
 ### Academia
 
