@@ -25,6 +25,9 @@ Perciò dovrò continuare a scrivere perché di certo riesco<br>
 (Prima o poi)</em>&quot;<br> Michele Salvemini </p>
 </div>
 
+1.  **Denti, F.**, Camerlenghi, F., Guindani, M., and Mira, A.  
+*A Common Atom Model for the Bayesian Nonparametric Analysis of Nested Data*  
+Accepted for publication in the Journal of the American Statistical Association, 2021 - [Preprint](https://arxiv.org/abs/2008.07077)  
 1.  **Denti, F.**, Cappozzo, A., and Greselin, F.  
 *A Two-Stage Bayesian Semiparametric Model for Novelty Detection with Robust Prior Information*  
 Accepted for publication in Statistics and Computing, 2021 - [Preprint](https://arxiv.org/abs/2006.09012)
@@ -57,9 +60,6 @@ in Studies in Neural Data Science (Canale, A., Durante, D., Paci, L., Scarpa, B.
 1. **Denti, F.**, Doimo, D., Laio, A., and Mira, A.  
 *Distributional Results for Likelihood-Based Intrinsic Dimension Estimators*  
 Submitted - [Preprint](https://arxiv.org/abs/2104.13832)  
-1.  **Denti, F.**, Camerlenghi, F., Guindani, M., and Mira, A.  
-*A Common Atom Model for the Bayesian Nonparametric Analysis of Nested Data*  
-Submitted - [Preprint](https://arxiv.org/abs/2008.07077)
 1. Santos-Fernandez, E., **Denti, F.**, Mengersen, K., and Mira A.  
 *The role of intrinsic dimension in high-resolution player tracking data -- Insights in basketball*  
 Submitted - [Preprint](https://arxiv.org/abs/2002.04148)

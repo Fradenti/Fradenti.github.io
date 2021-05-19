@@ -5,12 +5,19 @@ output:
         theme: readable
 ---
 
+<div style="text-align: right"> 
+<p>&quot;<em>The writer Umberto Eco belongs to that small class of scholars who are encyclopedic, insightful, and nondull.<br>He is the owner of a large personal library (containing thirty thousand books), and separates visitors into two categories: those who react with “Wow! Signore, professore dottore Eco, what a library you have ! How many of these books have you read?” and the others - a very small minority - who get the point that a private library is not an ego-boosting appendage but a research tool.<br> Read books are far less valuable than unread ones.</em>&quot; <br> The Black Swan - N. N. Taleb</p>
+</div>
+
   
-  <div style="text-align: right"> <p>&quot;<em>The writer Umberto Eco belongs to that small class of scholars who are encyclopedic, insightful, and nondull.<br>He is the owner of a large personal library (containing thirty thousand books), and separates visitors into two categories: those who react with “Wow! Signore, professore dottore Eco, what a library you have ! How many of these books have you read?” and the others - a very small minority - who get the point that a private library is not an ego-boosting appendage but a research tool.<br> Read books are far less valuable than unread ones.</em>&quot; <br> The Black Swan - N. N. Taleb</p>
-  </div>
   
-  
-  
+<article class="article" itemscope="" itemtype="http://schema.org/Article"> 
+<div class="article-header">
+  <img src="images/f2.jpeg" class="article-banner" itemprop="image">
+</div>
+</article>
+
+
 ### About me
   
 ---
@@ -30,9 +37,11 @@ I am interested in Bayesian statistics, Bayesian nonparametrics, model-based clu
 
 ### News and highlights
 
----
+---  
 
-[2021/05/04] Our paper [*"A Two-Stage Bayesian Semiparametric Model for Novelty Detection with Robust Prior Information"*](https://arxiv.org/abs/2006.09012)  has been accepted for publication on *Statistics and Computing*
+[2021/05/19] Our paper [*"A Common Atom Model for the Bayesian Nonparametric Analysis of Nested Data"*](https://arxiv.org/abs/2006.09012)  has been accepted for publication in the *Journal of the American Statistical Association* - [mood](images/finn.gif)  
+
+[2021/05/04] Our paper [*"A Two-Stage Bayesian Semiparametric Model for Novelty Detection with Robust Prior Information"*](https://arxiv.org/abs/2006.09012)  has been accepted for publication in *Statistics and Computing*
  
 ### Academia
 
