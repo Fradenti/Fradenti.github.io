@@ -8,9 +8,9 @@ output:
 [**<**](/index)
 
 <div style="text-align: right"> <p>&quot;<em>It gets easier... Every day it gets a little easier...<br>But you gotta do it every day - that’s the hard part.<br>But it does get easier.</em>&quot;<br> BJH - S2 finale</p>
+<img align="center" src="images/tres4.jpg?raw=true"/>
 </div>
 
-<img align="center" src="images/tres4.jpg?raw=true"/>
 
 ## Research interests {.tabset .tabset-fade}
 
@@ -54,6 +54,18 @@ in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), Book of Short Pa
 in Studies in Neural Data Science (Canale, A., Durante, D., Paci, L., Scarpa, B., editors), 2018
 
 ### Submitted and working papers
+
+
+<div style="text-align: right"> 
+<p>&quot;<em>Tiefe Brunnen muss man graben<br>
+wenn man klares Wasser will<br>
+Rosenrot oh Rosenrot<br>
+Tiefe Wasser sind nicht still</em>&quot;<br> 
+Rosenrot - Rammstein </p>
+</div>
+
+
+
 <!---*  **Denti, F.**, Guindani, M., and Shahbaba, B.   -->
 <!---*Mixture model as shrinkage prior: the Variance Variable Selectors*  -->
 <!---Submitted  -->
@@ -76,6 +88,8 @@ Under Revision - [Preprint](http://arxiv.org/abs/2102.11425)
 ## Service to Profession and Affiliations {.tabset .tabset-fade}
 
 ### Reviewer for (alphabetical order)
+
+
 Advances in Statistical Analysis, Bayesian Analysis, Biometrics, Computational Statistics & Data Analysis, International Statistical Review, Journal of Statistical Software, Technometrics, Statistics and Computing, Statistical Methods and Applications, 2021 SBSS Student Paper Competition
      
      
@@ -84,6 +98,8 @@ Advances in Statistical Analysis, Bayesian Analysis, Biometrics, Computational S
 [**<**](/index)
          
 ### Others
+
+
 + Associate Editor for the [ISBA bulletin](https://bayesian.org/resources/bulletin/) - *News of the World* section
 + Member of [Complex Data Modeling Research Network](https://midas.mat.uc.cl/network/)
      

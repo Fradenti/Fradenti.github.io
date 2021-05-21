@@ -8,13 +8,15 @@ output:
 [**<**](/index)
 
 <div style="text-align: right"> <p>&quot;<em> Questions? &quot; <br>&quot;When's Bart coming back?&quot;<br> &quot;He's not. He thought he was better than the laws of probability. <br>Anyone else think he's better than the laws of probability? <br>Well, you're not!</em>&quot; <br>MoneyBart, S22E03 - Lisa Simpson</p>
+<img src="images/smvs.jpg?raw=true"/>
 </div>
 
-<img src="images/smvs.jpg?raw=true"/>
 
 # {.tabset .tabset-fade}
 
 ## Past Courses
+
+
 1. [Sep 19 – Jan 20] Teaching Assistant, MSc course in **Advanced Statistics** (Eng)  
 @ *USI - Universtà della Svizzera italiana*
 1. [Sep 18 – Jan 19] Teaching Assistant, MSc course in **Statistics** (Eng)  
@@ -29,4 +31,6 @@ output:
 @  *University of Milano-Bicocca*
 
 ## Current Courses
+
+
 * Nothing to see here for now!
