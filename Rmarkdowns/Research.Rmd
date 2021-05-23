@@ -69,9 +69,7 @@ Rosenrot - Rammstein </p>
 <!---*  **Denti, F.**, Guindani, M., and Shahbaba, B.   -->
 <!---*Mixture model as shrinkage prior: the Variance Variable Selectors*  -->
 <!---Submitted  -->
-1. **Denti, F.**, Doimo, D., Laio, A., and Mira, A.  
-*Distributional Results for Likelihood-Based Intrinsic Dimension Estimators*  
-Submitted - [Preprint](https://arxiv.org/abs/2104.13832)  
+
 1. Santos-Fernandez, E., **Denti, F.**, Mengersen, K., and Mira A.  
 *The role of intrinsic dimension in high-resolution player tracking data -- Insights in basketball*  
 Submitted - [Preprint](https://arxiv.org/abs/2002.04148)
@@ -81,6 +79,10 @@ Under Revision
 1. **Denti, F.**  
 *intRinsic: an R package for the package for model-based estimation of the intrinsic dimension of a dataset*  
 Under Revision - [Preprint](http://arxiv.org/abs/2102.11425)
+1. **Denti, F.**, Doimo, D., Laio, A., and Mira, A.  
+*Distributional Results for Likelihood-Based Intrinsic Dimension Estimators*  
+Under revision - [Preprint](https://arxiv.org/abs/2104.13832)  
+
 
 ### Software
 * **intRinsic** - R package - [Github Repo](https://github.com/Fradenti/intRinsic) 
