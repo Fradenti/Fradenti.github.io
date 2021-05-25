@@ -30,7 +30,9 @@ Perciò dovrò continuare a scrivere perché di certo riesco<br>
 <tt>Journal of the American Statistical Association</tt>, In press, 2021 - [Article](https://doi.org/10.1080/01621459.2021.1933499) - [Preprint](https://arxiv.org/abs/2008.07077)  
 1.  **Denti, F.**, Cappozzo, A., and Greselin, F.  
 *A Two-Stage Bayesian Semiparametric Model for Novelty Detection with Robust Prior Information*  
-<tt>Statistics and Computing</tt>,In press, 2021 - [Preprint](https://arxiv.org/abs/2006.09012)
+<tt>Statistics and Computing</tt>,In press, 2021 -
+[Article](https://doi.org/10.1007/s11222-021-10017-7) - 
+[Preprint](https://arxiv.org/abs/2006.09012)
 1.  Allegra, M., Facco, E.  , **Denti, F.**, Laio, A., and Mira, A.  
 *Data segmentation based on the local intrinsic dimension*  
 <tt>Scientific Reports</tt>, 2020 - [Article](https://www.nature.com/articles/s41598-020-72222-0) - [Preprint](https://arxiv.org/abs/1902.10459)
