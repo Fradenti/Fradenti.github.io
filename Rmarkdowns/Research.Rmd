@@ -27,31 +27,31 @@ Perciò dovrò continuare a scrivere perché di certo riesco<br>
 
 1.  **Denti, F.**, Camerlenghi, F., Guindani, M., and Mira, A.  
 *A Common Atom Model for the Bayesian Nonparametric Analysis of Nested Data*  
-Accepted for publication in the Journal of the American Statistical Association, 2021 - [Preprint](https://arxiv.org/abs/2008.07077)  
+<tt>Journal of the American Statistical Association</tt>, In press, 2021 - [Article](https://doi.org/10.1080/01621459.2021.1933499) - [Preprint](https://arxiv.org/abs/2008.07077)  
 1.  **Denti, F.**, Cappozzo, A., and Greselin, F.  
 *A Two-Stage Bayesian Semiparametric Model for Novelty Detection with Robust Prior Information*  
-Accepted for publication in Statistics and Computing, 2021 - [Preprint](https://arxiv.org/abs/2006.09012)
+<tt>Statistics and Computing</tt>,In press, 2021 - [Preprint](https://arxiv.org/abs/2006.09012)
 1.  Allegra, M., Facco, E.  , **Denti, F.**, Laio, A., and Mira, A.  
 *Data segmentation based on the local intrinsic dimension*  
-Scientific Reports, 2020 - [Article](https://www.nature.com/articles/s41598-020-72222-0) - [Preprint](https://arxiv.org/abs/1902.10459)
+<tt>Scientific Reports</tt>, 2020 - [Article](https://www.nature.com/articles/s41598-020-72222-0) - [Preprint](https://arxiv.org/abs/1902.10459)
 1.  **Denti, F.**, Guindani, M., Leisen, F., Lioji, A., and Vannucci, M.  
 *Two-group Poisson-Dirichlet mixtures for multiple testing*  
-Biometrics, 2020 - [Article](https://onlinelibrary.wiley.com/doi/10.1111/biom.13314) - [Preprint](../pdf/BNPT.pdf)
+<tt>Biometrics</tt>, 2020 - [Article](https://onlinelibrary.wiley.com/doi/10.1111/biom.13314) - [Preprint](../pdf/BNPT.pdf)
 1.  Petazzoni, M., De Giacinto, E., Troiano, D., **Denti, F.**, and Buiatti, M.  
 *Computed Tomographic Trochlear Depth Measurement in Normal Dogs*  
-Journal of Veterinary and Comparative Orthopaedics and Traumatology, 2018 - [Article](https://pubmed.ncbi.nlm.nih.gov/30300915/)
+<tt>Journal of Veterinary and Comparative Orthopaedics and Traumatology</tt>, 2018 - [Article](https://pubmed.ncbi.nlm.nih.gov/30300915/)
 1.   Menicagli, R., **Denti, F.**  
 *First results if an in vitro study on the effects of green tea on the defensive layer of the oral cavity*  
-International Journal of Current Research, 2016  
+<tt>International Journal of Current Research</tt>, 2016  
 
 
 ### Book chapters and proceedings
 1.  **Denti, F.**, Cappozzo, A., and Greselin, F.    
 *Bayesian nonparametric adaptive classification with robust prior information*  
-in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), Book of Short Papers SIS 2020 (pp. 655-660). Pearson.
+in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), <tt>Book of Short Papers SIS</tt>, 2020 (pp. 655-660). Pearson.
 1.   Caponera, A., **Denti, F.**, Rigon, T., Sottosanti, A., and Gelfand, A.  
 *Hierarchical Spatio-Temporal Modeling of Resting State fMRI Data*  
-in Studies in Neural Data Science (Canale, A., Durante, D., Paci, L., Scarpa, B., editors), 2018
+in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., Scarpa, B., editors), 2018
 
 ### Submitted and working papers
 
