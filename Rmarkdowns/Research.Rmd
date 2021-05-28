@@ -77,7 +77,7 @@ Rosenrot - Rammstein </p>
 Submitted - [Preprint](https://arxiv.org/abs/2002.04148)
 1.  **Denti, F.**, Peluso, S., Guindani, M., and Mira, A.  
 *Multiple hypothesis screening using mixtures of non-local distributions*  
-Submitted  
+Under Revision  
 1. **Denti, F.**  
 *intRinsic: an R package for the package for model-based estimation of the intrinsic dimension of a dataset*  
 Under Revision - [Preprint](http://arxiv.org/abs/2102.11425)

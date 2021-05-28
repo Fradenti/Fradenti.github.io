@@ -1,9 +1,25 @@
-title: Francesco Denti # your name (or website title) here
-logo: "/images/fra_grigio.png" # your photo (or logo) here
-description:  > # your text below (remove <br> elements if you don't need line breaks)
-  
-   A rookie with github pages
-  
-
-#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-theme: jekyll-theme-minimal
+name: "Francesco Denti"
+output_dir: "."
+navbar:
+  title: Francesco Denti
+  href: index.html
+  left:
+#    - text: "Home"
+#      href: index.html
+    - text: "Research"
+      href: Rmarkdowns/Research.html
+    - text: "Teaching"
+      href: Rmarkdowns/Teaching.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<fdenti@uci.edu>
+    - icon: ion-social-twitter
+      href: https://twitter.com/fdenti7
+    - icon: ion-social-linkedin
+      href: https://www.linkedin.com/in/francesco-denti/
+    - icon: ion-social-github
+      href: http://github.com/fradenti/
+output:
+  html_document:
+    theme: spacelab
+    highlight: textmate
