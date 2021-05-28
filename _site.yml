@@ -8,6 +8,8 @@ navbar:
 #      href: index.html
     - text: "Research"
       href: Rmarkdowns/Research.html
+    - text: "Presentations"
+      href: Rmarkdowns/ConferencesAndTalks.html
     - text: "Teaching"
       href: Rmarkdowns/Teaching.html
   right:

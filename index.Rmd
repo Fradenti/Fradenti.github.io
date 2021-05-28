@@ -1,5 +1,5 @@
 ---
-title: "Francesco Denti"
+title: ""
 output: 
       html_document:
         theme: readable
@@ -25,15 +25,11 @@ output:
 I am a Postdoctoral Scholar at the department of [Statistics of Univerisity of California - Irvine](https://www.stat.uci.edu/), working under the supervision of Professor [Babak Shahbaba](https://www.ics.uci.edu/~babaks/).  
 I am interested in Bayesian statistics, Bayesian nonparametrics, model-based clustering, shrinkage priors, latent factor representation and more.  
 
-<!---
-* [Github Profile](https://github.com/Fradenti)
-* [Google Scholar Profile](https://scholar.google.com/citations?user=DLiw19MAAAAJ&hl=en)
--->
-
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 48%;">[Google Scholar Profile](https://scholar.google.com/citations?user=DLiw19MAAAAJ&hl=en)</button>
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 48%;">[Github Profile](https://github.com/Fradenti)</button>  
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 48%;">[ArXiv](https://arxiv.org/search/?searchtype=author&query=Denti%2C+F)</button>
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 48%;">[ResearchGate](https://www.researchgate.net/profile/Francesco-Denti-2)</button>
+
 
 ### News and highlights
 
@@ -43,19 +39,16 @@ I am interested in Bayesian statistics, Bayesian nonparametrics, model-based clu
 
 [2021/05/04] Our paper [*"A Two-Stage Bayesian Semiparametric Model for Novelty Detection with Robust Prior Information"*](https://arxiv.org/abs/2006.09012)  has been accepted for publication in *Statistics and Computing*
  
-### Academia
-
----
-
 <!---
+### Academia
+---
 * [Research](/Rmarkdowns/Research)
 * [Presentations](/Rmarkdowns/ConferencesAndTalks)
 * [Teaching](/Teaching)
---->
-
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Research](/Rmarkdowns/Research)</button>
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Presentations](/Rmarkdowns/ConferencesAndTalks)</button>
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Teaching](/Rmarkdowns/Teaching)</button>
+--->
 
 
 ### Misc
@@ -63,6 +56,7 @@ I am interested in Bayesian statistics, Bayesian nonparametrics, model-based clu
 ---
 
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 50%;">[My second family (in italian)](http://www.compagniameteor.it/)</button>
+
 
 ### Contacts
 
