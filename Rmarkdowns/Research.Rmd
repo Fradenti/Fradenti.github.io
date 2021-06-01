@@ -27,10 +27,10 @@ Perciò dovrò continuare a scrivere perché di certo riesco<br>
 
 1.  **Denti, F.**, Camerlenghi, F., Guindani, M., and Mira, A.  
 *A Common Atom Model for the Bayesian Nonparametric Analysis of Nested Data*  
-<tt>Journal of the American Statistical Association</tt>, In press, 2021 - [Article](https://doi.org/10.1080/01621459.2021.1933499) - [Preprint](https://arxiv.org/abs/2008.07077)  
+<tt>Journal of the American Statistical Association</tt>, 2021 - [Article](https://doi.org/10.1080/01621459.2021.1933499) - [Preprint](https://arxiv.org/abs/2008.07077)  
 1.  **Denti, F.**, Cappozzo, A., and Greselin, F.  
 *A Two-Stage Bayesian Semiparametric Model for Novelty Detection with Robust Prior Information*  
-<tt>Statistics and Computing</tt>, In press, 2021 -
+<tt>Statistics and Computing</tt>, 2021 -
 [Article](https://doi.org/10.1007/s11222-021-10017-7) - 
 [Preprint](https://arxiv.org/abs/2006.09012)
 1.  Allegra, M., Facco, E.  , **Denti, F.**, Laio, A., and Mira, A.  
@@ -77,13 +77,13 @@ Rosenrot - Rammstein </p>
 Submitted - [Preprint](https://arxiv.org/abs/2002.04148)
 1.  **Denti, F.**, Peluso, S., Guindani, M., and Mira, A.  
 *Multiple hypothesis screening using mixtures of non-local distributions*  
-Under Revision  
+Submitted  
+1. **Denti, F.**, Doimo, D., Laio, A., and Mira, A.  
+*Distributional Results for Likelihood-Based Intrinsic Dimension Estimators*  
+Submitted - [Preprint](https://arxiv.org/abs/2104.13832)  
 1. **Denti, F.**  
 *intRinsic: an R package for the package for model-based estimation of the intrinsic dimension of a dataset*  
 Under Revision - [Preprint](http://arxiv.org/abs/2102.11425)
-1. **Denti, F.**, Doimo, D., Laio, A., and Mira, A.  
-*Distributional Results for Likelihood-Based Intrinsic Dimension Estimators*  
-Under revision - [Preprint](https://arxiv.org/abs/2104.13832)  
 
 
 ### Software
