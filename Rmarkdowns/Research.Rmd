@@ -25,6 +25,8 @@ Perciò dovrò continuare a scrivere perché di certo riesco<br>
 (Prima o poi)</em>&quot;<br> Michele Salvemini </p>
 </div>
 
+#### On Statistical Journals
+
 1.  **Denti, F.**, Camerlenghi, F., Guindani, M., and Mira, A.  
 *A Common Atom Model for the Bayesian Nonparametric Analysis of Nested Data*  
 <tt>Journal of the American Statistical Association</tt>, 2021 - [Article](https://doi.org/10.1080/01621459.2021.1933499) - [Preprint](https://arxiv.org/abs/2008.07077)  
@@ -39,6 +41,9 @@ Perciò dovrò continuare a scrivere perché di certo riesco<br>
 1.  **Denti, F.**, Guindani, M., Leisen, F., Lioji, A., and Vannucci, M.  
 *Two-group Poisson-Dirichlet mixtures for multiple testing*  
 <tt>Biometrics</tt>, 2020 - [Article](https://onlinelibrary.wiley.com/doi/10.1111/biom.13314) - [Preprint](../pdf/BNPT.pdf)
+
+#### Collaborative Papers
+
 1.  Petazzoni, M., De Giacinto, E., Troiano, D., **Denti, F.**, and Buiatti, M.  
 *Computed Tomographic Trochlear Depth Measurement in Normal Dogs*  
 <tt>Journal of Veterinary and Comparative Orthopaedics and Traumatology</tt>, 2018 - [Article](https://pubmed.ncbi.nlm.nih.gov/30300915/)
@@ -103,8 +108,8 @@ Advances in Statistical Analysis, Bayesian Analysis, Biometrics, Computational S
          
 ### Others
 
-
 + Associate Editor for the [ISBA bulletin](https://bayesian.org/resources/bulletin/) - *News of the World* section
++ Member of [ISBA](https://bayesian.org), [j-ISBA](https://j-isba.github.io), and [BNP-ISBA](https://bnp-isba.github.io)
 + Member of [Complex Data Modeling Research Network](https://midas.mat.uc.cl/network/)
      
      
