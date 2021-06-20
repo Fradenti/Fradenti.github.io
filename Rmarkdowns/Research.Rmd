@@ -22,7 +22,10 @@ Bayesian Stastistics, Bayesian Nonparametrics, Computational Methods, Applied St
 
 <div style="text-align: right"> <p>&quot;<em>Il testo che avrei voluto scrivere non è di certo questo<br>
 Perciò dovrò continuare a scrivere perché di certo riesco<br>
-(Prima o poi)</em>&quot;<br> Michele Salvemini </p>
+(Prima o poi)</em>&quot;<br> Michele Salvemini - [Translation](http://translate.google.com/#origin_language_or_auto|en|Il+testo+che+avrei+voluto+scrivere+non+è+di+certo+questo.
+Perciò+dovrò+continuare+a+scrivere+perché+di+certo+riesco.
+(Prima+o+poi)
+)</p>
 </div>
 
 #### On Statistical Journals
