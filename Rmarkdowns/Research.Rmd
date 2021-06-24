@@ -22,11 +22,16 @@ Bayesian Stastistics, Bayesian Nonparametrics, Computational Methods, Applied St
 
 <div style="text-align: right"> <p>&quot;<em>Il testo che avrei voluto scrivere non è di certo questo<br>
 Perciò dovrò continuare a scrivere perché di certo riesco<br>
-(Prima o poi)</em>&quot;<br> Michele Salvemini </p>
+(Prima o poi)</em>&quot;<br> Michele Salvemini - [Translation](http://translate.google.com/#origin_language_or_auto|en|Il+testo+che+avrei+voluto+scrivere+non+è+di+certo+questo.
+Perciò+dovrò+continuare+a+scrivere+perché+di+certo+riesco.
+(Prima+o+poi)
+)</p>
 </div>
 
 #### On Statistical Journals
-
+1. Santos-Fernandez, E., **Denti, F.**, Mengersen, K., and Mira A.  
+*The role of intrinsic dimension in high-resolution player tracking data -- Insights in basketball*  
+To appear on the <tt>Annals of Applied Statistics</tt>, 2021 - [Preprint](https://arxiv.org/abs/2002.04148)
 1.  **Denti, F.**, Camerlenghi, F., Guindani, M., and Mira, A.  
 *A Common Atom Model for the Bayesian Nonparametric Analysis of Nested Data*  
 <tt>Journal of the American Statistical Association</tt>, 2021 - [Article](https://doi.org/10.1080/01621459.2021.1933499) - [Preprint](https://arxiv.org/abs/2008.07077)  
@@ -78,10 +83,7 @@ Rosenrot - Rammstein </p>
 <!---Submitted  -->
 1.  **Denti, F.**, Azevedo, R., Lo, C., Wheeler, D., Gandhi, S.P.,Guindani, M., and Shahbaba, B.  
 *A Horseshoe Pit mixture model for Bayesian screening with an application to light sheet fluorescence microscopy in brain imaging*  
-Submitted - [Preprint coming soon](/index)
-1. Santos-Fernandez, E., **Denti, F.**, Mengersen, K., and Mira A.  
-*The role of intrinsic dimension in high-resolution player tracking data -- Insights in basketball*  
-Submitted - [Preprint](https://arxiv.org/abs/2002.04148)
+Submitted - [Preprint](https://arxiv.org/abs/2106.08281)
 1.  **Denti, F.**, Peluso, S., Guindani, M., and Mira, A.  
 *Multiple hypothesis screening using mixtures of non-local distributions*  
 Submitted  

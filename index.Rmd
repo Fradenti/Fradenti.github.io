@@ -35,6 +35,8 @@ I am interested in Bayesian statistics, Bayesian nonparametrics, model-based clu
 
 ---  
 
+[2021/06/16] Our paper [*"*The role of intrinsic dimension in high-resolution player tracking data -- Insights in basketball*  "*](https://arxiv.org/abs/2002.04148)  has been accepted for publication in the *Annals of Applied Statistics* - [mood](images/basket.gif)
+
 [2021/05/19] Our paper [*"A Common Atom Model for the Bayesian Nonparametric Analysis of Nested Data"*](https://arxiv.org/abs/2006.09012)  has been accepted for publication in the *Journal of the American Statistical Association* - [mood](images/finn.gif)  
 
 [2021/05/04] Our paper [*"A Two-Stage Bayesian Semiparametric Model for Novelty Detection with Robust Prior Information"*](https://arxiv.org/abs/2006.09012)  has been accepted for publication in *Statistics and Computing*
