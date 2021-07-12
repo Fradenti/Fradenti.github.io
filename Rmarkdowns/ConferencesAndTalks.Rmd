@@ -21,7 +21,7 @@ E le altre volte dovrei stare zitto perché parlo senza aver studiato.</em>&quot
 
 - [x] [ISBA World Meeting 2021](https://events.stat.uconn.edu/ISBA2021/)   
       Zoom Talk: *Bayesian Variable Selection via Mixture of Horseshoe Distributions*   
-      Virtual Conference - June 2021- [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/hsp)  
+      Virtual Conference - June 2021- [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/isba21)  
 
 - [x] [4th International Conference on Econometrics and Statistics (EcoSta 2021)](http://www.cmstatistics.org/EcoSta2021/index.php)   
       Zoom Talk: *Horseshoe Pit -- A Unified Framework for Large-Scale Bayesian Inference*   
