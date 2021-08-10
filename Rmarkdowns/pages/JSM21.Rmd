@@ -1,0 +1,10 @@
+---
+title: "&nbsp;"
+output: 
+  html_document
+---
+  
+  [**<**](/Rmarkdowns/ConferencesAndTalks.html)
+
+![Mason Park, where I prepared my JSM talk (threatened by a gang of geese)](../images/mason_jsm.jpg)
+

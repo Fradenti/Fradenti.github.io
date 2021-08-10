@@ -14,30 +14,30 @@ E le altre volte dovrei stare zitto perché parlo senza aver studiato.</em>&quot
 </div>
 
 ## Talks and Posters
-- [ ] [Joint Statistical Meeting 2021](https://ww2.amstat.org/meetings/jsm/2021/)   
+- [x] [Joint Statistical Meeting 2021](https://ww2.amstat.org/meetings/jsm/2021/)   
       Zoom Talk: *Detecting Brain Activation via Bayesian Mixture of Horseshoe Distributions*  
-      Virtual Conference - August 2021 
+      Virtual Conference - August 2021 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/JSM21)
 
 
 - [x] [ISBA World Meeting 2021](https://events.stat.uconn.edu/ISBA2021/)   
       Zoom Talk: *Bayesian Variable Selection via Mixture of Horseshoe Distributions*   
-      Virtual Conference - June 2021- [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/isba21)  
+      Virtual Conference - June 2021 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/isba21)  
 
 - [x] [4th International Conference on Econometrics and Statistics (EcoSta 2021)](http://www.cmstatistics.org/EcoSta2021/index.php)   
       Zoom Talk: *Horseshoe Pit -- A Unified Framework for Large-Scale Bayesian Inference*   
       Virtual Conference - June 2021- [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/ecosta21)  
 - [x] [UCI - Fall 2020 Seminar Series](https://www.stat.uci.edu/seminar-series/)   
       Zoom Talk: *Bayesian Sparse Regression via Cluster Shrinkage Parameters*   
-      Statistics Department Seminar - November 2020- [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/UCIseminar)  
+      Statistics Department Seminar - November 2020 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/UCIseminar)  
 - [x] [Models and Learning for Clustering and Classification](http://mbc2.unict.it/)   
       Video Poster: *Bayesian Nonparametric Functional Novelty Detector*   
-      Virtual Conference - September 2020- [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/MBC2)  
+      Virtual Conference - September 2020 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/MBC2)  
 - [x] [Young-ISA Twitter Poster Conference (#YISAPoster2020)](https://young-istat.github.io/events/posts/2020-07-15-poster-conference-2020)  
       Poster: *A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information*  
-      Twitter - July 2020- [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/YisaPoster)  
+      Twitter - July 2020 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/YisaPoster)  
 - [x] [Bayes Comp 2020](http://users.stat.ufl.edu/~jhobert/BayesComp2020/Conf_Website)  
       Talk: *Bayesian nonparametric dimensionality reduction via estimation of data intrinsic dimensions*  
-      Florida - January 2020- [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/FLO)  
+      Florida - January 2020 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/FLO)  
 - [x] [12th IBS-Italian Region conference](https://ibs-italy.org/?page_id=922&lang=en)  
       Talk: *Modeling Human Microbiome Data via Latent Nested Nonparametric Priors*  
       Naples - July 2019 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/Naples)  
@@ -47,13 +47,13 @@ E le altre volte dovrei stare zitto perché parlo senza aver studiato.</em>&quot
 
 ## Conferences and Workshops
 - [x] [Bayesian Nonparametrics for Complex Data](http://bnp4cd.stat.unipd.it/workshop.html)  
-      Padua - January 2020- [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/PAD)
+      Padua - January 2020 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/PAD)
 - [x] [Network Models in Statistics, Economics and Social](https://www.eventbrite.it/e/network-models-in-statistics-economics-and-social-registration-59152695304)  
       Milan - November 2019 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/catto)
 - [x] [Statistical Methods in Imaging - SMI 2019](https://sites.uci.edu/smi2019/)  
       Irvine - June 2019 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/SMI19)
 - [x] [FoMICS-DADSi Summer School on Data Assimilation](https://www.ics.usi.ch/index.php/news/285-fomics-dadsi-summer-school-on-data-assimilation)  
-      Lugano - September 2018 -[ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/lug)
+      Lugano - September 2018 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/lug)
 - [x] [LMS Invited Lecture Series and CRISM Summer School in Computational Statistics 2018](https://warwick.ac.uk/fac/sci/statistics/crism/workshops/lms2018/)   
       Warwick -July 2018 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/Warwick18)
 - [x] [ISBA](https://bayesian.org/isba2018/)  
