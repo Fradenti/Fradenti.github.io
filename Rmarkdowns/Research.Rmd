@@ -7,7 +7,7 @@ output:
 
 [**<**](/index)
 
-<div style="text-align: right"> <p>&quot;<em>It gets easier... Every day it gets a little easier...<br>But you gotta do it every day - that’s the hard part.<br>But it does get easier.</em>&quot;<br> BJH - S2 finale</p>
+<div style="text-align: right"> <p>&quot;<em>It gets easier... Every day it gets a little easier...<br>But you gotta do it every day - that’s the hard part.<br>But it does get easier</em>&quot;<br> BJH - S2 finale</p>
 <img align="center" src="images/tres4.jpg?raw=true"/>
 </div>
 
@@ -20,12 +20,12 @@ Bayesian Stastistics, Bayesian Nonparametrics, Computational Methods, Applied St
 
 ### Articles in refereed journals
 
-<div style="text-align: right"> <p>&quot;<em>Il testo che avrei voluto scrivere non è di certo questo<br>
-Perciò dovrò continuare a scrivere perché di certo riesco<br>
-(Prima o poi)</em>&quot;<br> Michele Salvemini - [Translation](http://translate.google.com/#origin_language_or_auto|en|Il+testo+che+avrei+voluto+scrivere+non+è+di+certo+questo.
-Perciò+dovrò+continuare+a+scrivere+perché+di+certo+riesco.
-(Prima+o+poi)
-)</p>
+<div style="text-align: right"> 
+<p>&quot;<em>Tiefe Brunnen muss man graben<br>
+wenn man klares Wasser will<br>
+Rosenrot oh Rosenrot<br>
+Tiefe Wasser sind nicht still</em>&quot;<br> 
+Rosenrot - Rammstein </p>
 </div>
 
 #### On Statistical Journals
@@ -58,6 +58,15 @@ Perciò+dovrò+continuare+a+scrivere+perché+di+certo+riesco.
 
 
 ### Book chapters and proceedings
+
+<div style="text-align: right"> <p>&quot;<em>Il testo che avrei voluto scrivere non è di certo questo<br>
+Perciò dovrò continuare a scrivere perché di certo riesco<br>
+(Prima o poi)</em>&quot;<br> Michele Salvemini - [Translation](http://translate.google.com/#origin_language_or_auto|en|Il+testo+che+avrei+voluto+scrivere+non+è+di+certo+questo.
+Perciò+dovrò+continuare+a+scrivere+perché+di+certo+riesco.
+(Prima+o+poi)
+)</p>
+</div>
+
 1.  **Denti, F.**, Cappozzo, A., and Greselin, F.    
 *Bayesian nonparametric adaptive classification with robust prior information*  
 in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), <tt>Book of Short Papers SIS</tt>, 2020 (pp. 655-660). Pearson.
@@ -67,14 +76,11 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 ### Submitted and working papers
 
-
-<div style="text-align: right"> 
-<p>&quot;<em>Tiefe Brunnen muss man graben<br>
-wenn man klares Wasser will<br>
-Rosenrot oh Rosenrot<br>
-Tiefe Wasser sind nicht still</em>&quot;<br> 
-Rosenrot - Rammstein </p>
+<div style="text-align: right"> <p>&quot;<em>Whoa, you know to keep your hopes up high
+<br>And your head down low</em>&quot;
+<br> All I Want - A Day to Remember </p>
 </div>
+
 
 
 
