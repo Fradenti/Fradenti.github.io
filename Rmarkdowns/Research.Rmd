@@ -76,7 +76,7 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 ### Submitted and working papers
 
-<div style="text-align: right"> <p>&quot;<em>Whoa, you know to keep your hopes up high
+<div style="text-align: right"> <p>&quot;<em>Whoa, you know<br>to keep your hopes up high
 <br>And your head down low</em>&quot;
 <br> All I Want - A Day to Remember </p>
 </div>
@@ -90,12 +90,12 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 1.  **Denti, F.**, Peluso, S., Guindani, M., and Mira, A.  
 *Multiple hypothesis screening using mixtures of non-local distributions*  
 Submitted  
-1.  **Denti, F.**, Azevedo, R., Lo, C., Wheeler, D., Gandhi, S.P.,Guindani, M., and Shahbaba, B.  
-*A Horseshoe Pit mixture model for Bayesian screening with an application to light sheet fluorescence microscopy in brain imaging*  
-Under Revision - [Preprint](https://arxiv.org/abs/2106.08281)
+1.  **Denti, F.**, Azevedo, R., Lo, C., Wheeler, D. G., Gandhi, S.P.,Guindani, M., and Shahbaba, B.  
+*A Horseshoe mixture model for Bayesian screening with an application to light sheet fluorescence microscopy in brain imaging*  
+Submitted - [Preprint - previous version](https://arxiv.org/abs/2106.08281)
 1. **Denti, F.**, Doimo, D., Laio, A., and Mira, A.  
-*Distributional Results for Likelihood-Based Intrinsic Dimension Estimators*  
-Under Revision - [Preprint](https://arxiv.org/abs/2104.13832)  
+*Gride: a novel likelihood-based intrinsic dimension estimator*  
+Under Revision - [Preprint - previous version](https://arxiv.org/abs/2104.13832)  
 1. **Denti, F.**  
 *intRinsic: an R package for the package for model-based estimation of the intrinsic dimension of a dataset*  
 Under Revision - [Preprint](http://arxiv.org/abs/2102.11425)
