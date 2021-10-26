@@ -68,6 +68,9 @@ Perciò+dovrò+continuare+a+scrivere+perché+di+certo+riesco.
 </div>
 
 1.  **Denti, F.**, Cappozzo, A., and Greselin, F.    
+*Outlier and novelty detection for Functional data: a semiparametric Bayesian approach*  
+in <tt>Book of Short Papers of the 5th international workshop on Models and Learning for Clustering and Classification</tt>, (Ingrassia A., Punzo A., Rocci R., editors) (pp. 33-38). Ledizioni.  
+1.  **Denti, F.**, Cappozzo, A., and Greselin, F.    
 *Bayesian nonparametric adaptive classification with robust prior information*  
 in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), <tt>Book of Short Papers SIS</tt>, 2020 (pp. 655-660). Pearson.
 1.   Caponera, A., **Denti, F.**, Rigon, T., Sottosanti, A., and Gelfand, A.  
