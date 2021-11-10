@@ -1,7 +1,9 @@
 ---
 title: Francesco Denti
+#subtitle: Postdoctoral scholar @ UCI
 output: 
       html_document:
+        css: style.css
         theme: readable
         includes:
           in_header: forHead.html
@@ -18,6 +20,7 @@ output:
 </div>
 </article>
 
+<br><br>
 
 ### About me
   
@@ -31,6 +34,7 @@ I am interested in Bayesian statistics, Bayesian nonparametrics, model-based clu
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 48%;">[ArXiv](https://arxiv.org/search/?searchtype=author&query=Denti%2C+F)</button>
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 48%;">[ResearchGate](https://www.researchgate.net/profile/Francesco-Denti-2)</button>
 
+<br><br>
 
 ### News and highlights
 
@@ -53,6 +57,7 @@ I am interested in Bayesian statistics, Bayesian nonparametrics, model-based clu
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Teaching](/Rmarkdowns/Teaching)</button>
 --->
 
+<br><br>
 
 ### Misc
 
@@ -60,6 +65,7 @@ I am interested in Bayesian statistics, Bayesian nonparametrics, model-based clu
 
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 50%;">[My second family (in italian)](http://www.compagniameteor.it/)</button>
 
+<br><br>
 
 ### Contacts
 
