@@ -1,7 +1,7 @@
 name: "Francesco Denti"
 output_dir: "."
 navbar:
-  title: null
+  title: Francesco Denti
   href: index.html
   left:
 #    - text: "Home"
