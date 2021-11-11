@@ -3,6 +3,8 @@ title: "Presentations"
 output: 
       html_document:
         theme: readable
+      includes:
+        in_header: forHead.html
 ---
 
 [**<**](/index.html)
