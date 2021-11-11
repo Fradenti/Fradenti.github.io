@@ -11,11 +11,21 @@ output:
 
 # {.tabset .tabset-fade}
 
+<br>
+
+
 <div style="text-align: right"> <p>&quot;<em>Dice che molte volte dovrei stare zitto perché parlo senza aver sudato.<br>
 E le altre volte dovrei stare zitto perché parlo senza aver studiato.</em>&quot; <br> La mia donna dice che - D. D'Amico - [Translation](https://translate.google.com/?sl=origin_language_or_auto&tl=en&text=%20La%20mia%20donna%20dice%20che%20molte%20volte%20dovrei%20stare%20zitto%20perch%C3%A9%20parlo%20senza%20aver%20sudato.%20%20E%20le%20altre%20volte%20dovrei%20stare%20zitto%20perch%C3%A9%20parlo%20senza%20aver%20studiato.&op=translate)</p>
 </div>
 
+<br><br>
+
+
 ## Talks and Posters
+
+<br>
+
+
 - [x] [Joint Statistical Meeting 2021](https://ww2.amstat.org/meetings/jsm/2021/)   
       Zoom Talk: *Detecting Brain Activation via Bayesian Mixture of Horseshoe Distributions*  
       Virtual Conference - August 2021 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/JSM21)
@@ -48,6 +58,9 @@ E le altre volte dovrei stare zitto perché parlo senza aver studiato.</em>&quot
        Oxford - June 2019 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/ox) 
 
 ## Conferences and Workshops
+
+<br>
+
 - [x] [Bayesian Nonparametrics for Complex Data](http://bnp4cd.stat.unipd.it/workshop.html)  
       Padua - January 2020 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/PAD)
 - [x] [Network Models in Statistics, Economics and Social](https://www.eventbrite.it/e/network-models-in-statistics-economics-and-social-registration-59152695304)  

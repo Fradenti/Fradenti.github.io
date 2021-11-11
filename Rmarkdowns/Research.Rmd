@@ -8,19 +8,29 @@ output:
 ---
 
 [**<**](/index)
-
+<br>
 <div style="text-align: right"> <p>&quot;<em>It gets easier... Every day it gets a little easier...<br>But you gotta do it every day - that’s the hard part.<br>But it does get easier</em>&quot;<br> BJH - S2 finale</p>
 <img align="center" src="images/tres4.jpg?raw=true"/>
 </div>
 
+<br>
 
-## Research interests {.tabset .tabset-fade}
+
+## Research interests
 
 Bayesian Stastistics, Bayesian Nonparametrics, Computational Methods, Applied Statistics 
 
+<br>
 
+
+## Scientific publications {.tabset .tabset-fade}
+
+<br>
 
 ### Articles in refereed journals
+
+<br>
+
 
 <div style="text-align: right"> 
 <p>&quot;<em>Tiefe Brunnen muss man graben<br>
@@ -29,6 +39,9 @@ Rosenrot oh Rosenrot<br>
 Tiefe Wasser sind nicht still</em>&quot;<br> 
 Rosenrot - Rammstein </p>
 </div>
+
+
+<br>
 
 #### On Statistical Journals
 1. Santos-Fernandez, E., **Denti, F.**, Mengersen, K., and Mira A.  
@@ -49,6 +62,8 @@ Rosenrot - Rammstein </p>
 *Two-group Poisson-Dirichlet mixtures for multiple testing*  
 <tt>Biometrics</tt>, 2020 - [Article](https://onlinelibrary.wiley.com/doi/10.1111/biom.13314) - [Preprint](../pdf/BNPT.pdf)
 
+<br>
+
 #### Collaborative Papers
 
 1.  Petazzoni, M., De Giacinto, E., Troiano, D., **Denti, F.**, and Buiatti, M.  
@@ -61,6 +76,9 @@ Rosenrot - Rammstein </p>
 
 ### Book chapters and proceedings
 
+<br>
+
+
 <div style="text-align: right"> <p>&quot;<em>Il testo che avrei voluto scrivere non è di certo questo<br>
 Perciò dovrò continuare a scrivere perché di certo riesco<br>
 (Prima o poi)</em>&quot;<br> Michele Salvemini - [Translation](http://translate.google.com/#origin_language_or_auto|en|Il+testo+che+avrei+voluto+scrivere+non+è+di+certo+questo.
@@ -68,6 +86,8 @@ Perciò+dovrò+continuare+a+scrivere+perché+di+certo+riesco.
 (Prima+o+poi)
 )</p>
 </div>
+
+<br>
 
 1.  **Denti, F.**, Cappozzo, A., and Greselin, F.    
 *Outlier and novelty detection for Functional data: a semiparametric Bayesian approach*  
@@ -81,11 +101,15 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 ### Submitted and working papers
 
+<br>
+
+
 <div style="text-align: right"> <p>&quot;<em>Whoa, you know<br>to keep your hopes up high
 <br>And your head down low</em>&quot;
 <br> All I Want - A Day to Remember </p>
 </div>
 
+<br>
 
 
 
@@ -107,9 +131,21 @@ Under Revision - [Preprint](http://arxiv.org/abs/2102.11425)
 
 
 ### Software
+
+<br>
+
 * **intRinsic** - R package - [Github Repo](https://github.com/Fradenti/intRinsic) 
 
+
+
+<br><br><br>
+
+
+
 ## Service to Profession and Affiliations {.tabset .tabset-fade}
+
+<br>
+
 
 ### Reviewer for (alphabetical order)
 
