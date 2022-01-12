@@ -30,8 +30,9 @@ output:
   
 ---
   
-I am a Postdoctoral Scholar at the department of [Statistics of Univerisity of California - Irvine](https://www.stat.uci.edu/), working under the supervision of Professor [Babak Shahbaba](https://www.ics.uci.edu/~babaks/).  
-I am interested in Bayesian statistics, Bayesian nonparametrics, model-based clustering, shrinkage priors, latent factor representation and more.  
+I am a Postdoctoral Scholar at the department of [Statistics of Univerisity of California - Irvine](https://www.stat.uci.edu/) (UCI), working under the supervision of Professor [Babak Shahbaba](https://www.ics.uci.edu/~babaks/).  
+Before joining UCI, I obtained a Ph.D. in Statistics at University of Milan - Bicocca and Università della Svizzera italiana (joint program, awarded with honors).  
+I am interested in Bayesian statistics, Bayesian nonparametrics, model-based clustering, shrinkage priors, and dimensionality reduction.  
 
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 48%;">[Google Scholar Profile](https://scholar.google.com/citations?user=DLiw19MAAAAJ&hl=en)</button>
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 48%;">[Github Profile](https://github.com/Fradenti)</button>  
@@ -46,10 +47,6 @@ I am interested in Bayesian statistics, Bayesian nonparametrics, model-based clu
 
 [2021/06/16] Our paper [*"*The role of intrinsic dimension in high-resolution player tracking data -- Insights in basketball*  "*](https://arxiv.org/abs/2002.04148)  has been accepted for publication in the *Annals of Applied Statistics* - [mood](images/basket.gif)
 
-[2021/05/19] Our paper [*"A Common Atom Model for the Bayesian Nonparametric Analysis of Nested Data"*](https://arxiv.org/abs/2006.09012)  has been accepted for publication in the *Journal of the American Statistical Association* - [mood](images/finn.gif)  
-
-[2021/05/04] Our paper [*"A Two-Stage Bayesian Semiparametric Model for Novelty Detection with Robust Prior Information"*](https://arxiv.org/abs/2006.09012)  has been accepted for publication in *Statistics and Computing*
- 
 <!---
 ### Academia
 ---
