@@ -113,18 +113,15 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 
 
-<!---*  **Denti, F.**, Guindani, M., and Shahbaba, B.   -->
-<!---*Mixture model as shrinkage prior: the Variance Variable Selectors*  -->
-<!---Submitted  -->
 1.  **Denti, F.**, Peluso, S., Guindani, M., and Mira, A.  
 *Multiple hypothesis screening using mixtures of non-local distributions*  
 Submitted  
 1.  **Denti, F.**, Azevedo, R., Lo, C., Wheeler, D. G., Gandhi, S.P.,Guindani, M., and Shahbaba, B.  
 *A Horseshoe mixture model for Bayesian screening with an application to light sheet fluorescence microscopy in brain imaging*  
-Submitted - [Preprint - previous version](https://arxiv.org/abs/2106.08281)
+Submitted - [Preprint](https://arxiv.org/abs/2106.08281)
 1. **Denti, F.**, Doimo, D., Laio, A., and Mira, A.  
 *Gride: a novel likelihood-based intrinsic dimension estimator*  
-Under Revision - [Preprint - previous version](https://arxiv.org/abs/2104.13832)  
+Submitted - [Preprint - previous version](https://arxiv.org/abs/2104.13832)  
 1. **Denti, F.**  
 *intRinsic: an R package for the package for model-based estimation of the intrinsic dimension of a dataset*  
 Under Revision - [Preprint](http://arxiv.org/abs/2102.11425)
@@ -149,9 +146,7 @@ Under Revision - [Preprint](http://arxiv.org/abs/2102.11425)
 
 ### Reviewer for (alphabetical order)
 
-
-Advances in Statistical Analysis (AStA), Bayesian Analysis (BA), Biometrics, Computational Statistics \& Data Analysis (CSDA), International Statistical Review, Journal of Statistical Software (JSS), Journal of the Royal Statistical Society - Series B (JRSS-B), Technometrics, Statistics and Computing, Statistical Methods and Applications (SMA), 2021 SBSS Student Paper Competition
-     
+Advances in Statistical Analysis (AStA), Bayesian Analysis (BA), Biometrics, Computational Statistics \& Data Analysis (CSDA), International Statistical Review, Journal of Statistical Software (JSS), Journal of the Royal Statistical Society - Series B (JRSS-B), Statistics and Computing, Statistical Methods and Applications (SMA), Statistical Science, Technometrics, 2021 SBSS Student Paper Competition     
      
      
      
