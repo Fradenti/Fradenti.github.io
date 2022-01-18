@@ -124,14 +124,14 @@ Submitted - [Preprint](https://arxiv.org/abs/2106.08281)
 Submitted - [Preprint - previous version](https://arxiv.org/abs/2104.13832)  
 1. **Denti, F.**  
 *intRinsic: an R package for the package for model-based estimation of the intrinsic dimension of a dataset*  
-Under Revision - [Preprint](http://arxiv.org/abs/2102.11425)
+Submitted - [Preprint](http://arxiv.org/abs/2102.11425)
 
 
 ### Software
 
 <br>
 
-* **intRinsic** - R package - [Github Repo](https://github.com/Fradenti/intRinsic) 
+* **intRinsic** - R package - [Github Repo](https://github.com/Fradenti/intRinsic) - [CRAN page](https://CRAN.R-project.org/package=intRinsic)  
 
 
 
