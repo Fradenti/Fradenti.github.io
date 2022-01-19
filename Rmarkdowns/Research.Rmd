@@ -113,9 +113,6 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 
 
-1.  **Denti, F.**, Peluso, S., Guindani, M., and Mira, A.  
-*Multiple hypothesis screening using mixtures of non-local distributions*  
-Submitted  
 1.  **Denti, F.**, Azevedo, R., Lo, C., Wheeler, D. G., Gandhi, S.P.,Guindani, M., and Shahbaba, B.  
 *A Horseshoe mixture model for Bayesian screening with an application to light sheet fluorescence microscopy in brain imaging*  
 Submitted - [Preprint](https://arxiv.org/abs/2106.08281)
@@ -125,6 +122,8 @@ Submitted - [Preprint - previous version](https://arxiv.org/abs/2104.13832)
 1. **Denti, F.**  
 *intRinsic: an R package for the package for model-based estimation of the intrinsic dimension of a dataset*  
 Submitted - [Preprint](http://arxiv.org/abs/2102.11425)
+1.  **Denti, F.**, Peluso, S., Guindani, M., and Mira, A. *Multiple hypothesis screening using mixtures of non-local distributions*  
+Under revision  
 
 
 ### Software
