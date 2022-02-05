@@ -145,8 +145,8 @@ Under revision
 
 ### Reviewer for (alphabetical order)
 
-Advances in Statistical Analysis (AStA) --- Bayesian Analysis (BA) --- Biometrics --- Computational Statistics \& Data Analysis (CSDA) --- International Statistical Review,
-Journal of Computational and Graphical Statistics (JCGS) --- Journal of Statistical Software (JSS) --- Journal of the Royal Statistical Society - Series B (JRSS-B) --- Statistics and Computing --- Statistical Methods and Applications (SMA) --- Statistical Science --- Technometrics --- 2021 SBSS Student Paper Competition     
+Advances in Statistical Analysis (AStA) --- Bayesian Analysis (BA) --- Biometrics --- Computational Statistics \& Data Analysis (CSDA) --- International Statistical Review ---
+Journal of the American Statistical Association (JASA - A&CS) --- Journal of Computational and Graphical Statistics (JCGS) --- Journal of Statistical Software (JSS) --- Journal of the Royal Statistical Society - Series B (JRSS-B) --- Statistics and Computing --- Statistical Methods and Applications (SMA) --- Statistical Science --- Technometrics --- 2021 SBSS Student Paper Competition     
      
      
      
