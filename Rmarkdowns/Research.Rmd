@@ -66,6 +66,9 @@ Rosenrot - Rammstein </p>
 
 #### Collaborative Papers
 
+1.  Migliavada, R., Ricci, F. Z., **Denti, F.**, Haghverdian, D., and Torri, L.    
+*Is purchasing of vegetable dishes affected by organic or local labels? Empirical evidence from a university canteen*  
+<tt>Appetite</tt>, 2022
 1.  Petazzoni, M., De Giacinto, E., Troiano, D., **Denti, F.**, and Buiatti, M.  
 *Computed Tomographic Trochlear Depth Measurement in Normal Dogs*  
 <tt>Journal of Veterinary and Comparative Orthopaedics and Traumatology</tt>, 2018 - [Article](https://pubmed.ncbi.nlm.nih.gov/30300915/)
