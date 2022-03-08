@@ -126,7 +126,7 @@ Submitted - [Preprint - previous version](https://arxiv.org/abs/2104.13832)
 *intRinsic: an R package for the package for model-based estimation of the intrinsic dimension of a dataset*  
 Submitted - [Preprint](http://arxiv.org/abs/2102.11425)
 1.  **Denti, F.**, Peluso, S., Guindani, M., and Mira, A. *Multiple hypothesis screening using mixtures of non-local distributions*  
-Under revision  
+Submitted  
 
 
 ### Software
