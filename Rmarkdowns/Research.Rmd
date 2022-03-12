@@ -68,11 +68,11 @@ Rosenrot - Rammstein </p>
 
 1.  Migliavada, R., Ricci, F. Z., **Denti, F.**, Haghverdian, D., and Torri, L.    
 *Is purchasing of vegetable dishes affected by organic or local labels? Empirical evidence from a university canteen*  
-<tt>Appetite</tt>, 2022
+Accepted for publication in <tt>Appetite</tt>, 2022
 1.  Petazzoni, M., De Giacinto, E., Troiano, D., **Denti, F.**, and Buiatti, M.  
 *Computed Tomographic Trochlear Depth Measurement in Normal Dogs*  
 <tt>Journal of Veterinary and Comparative Orthopaedics and Traumatology</tt>, 2018 - [Article](https://pubmed.ncbi.nlm.nih.gov/30300915/)
-1.   Menicagli, R., **Denti, F.**  
+1.   Menicagli, R., and **Denti, F.**  
 *First results if an in vitro study on the effects of green tea on the defensive layer of the oral cavity*  
 <tt>International Journal of Current Research</tt>, 2016  
 
@@ -128,7 +128,7 @@ Submitted - [Preprint](http://arxiv.org/abs/2102.11425)
 1.  **Denti, F.**, Peluso, S., Guindani, M., and Mira, A.  
 *Multiple hypothesis screening using mixtures of non-local distributions*  
 Submitted  
-1.  Varghese, A., Santos-Fernandez E., **Denti, F.**, Mira, A., Mergensen, K.  
+1.  Varghese, A., Santos-Fernandez E., **Denti, F.**, Mira, A., and Mergensen, K.  
 *On the intrinsic dimensionality of Covid-19 data: a global perspective*  
 Work in progress - [Preprint](http://arxiv.org/abs/2102.11425)
 
