@@ -130,7 +130,7 @@ Submitted - [Preprint](http://arxiv.org/abs/2102.11425)
 Submitted  
 1.  Varghese, A., Santos-Fernandez E., **Denti, F.**, Mira, A., and Mergensen, K.  
 *On the intrinsic dimensionality of Covid-19 data: a global perspective*  
-Work in progress - [Preprint](http://arxiv.org/abs/2102.11425)
+Submitted - [Preprint](http://arxiv.org/abs/2102.11425)
 
 
 ### Software
