@@ -46,7 +46,7 @@ Rosenrot - Rammstein </p>
 #### On Statistical Journals
 1. Santos-Fernandez, E., **Denti, F.**, Mengersen, K., and Mira A.  
 *The role of intrinsic dimension in high-resolution player tracking data -- Insights in basketball*  
-<tt>Annals of Applied Statistics</tt>, 2021 - [Article (to appear)](https://imstat.org/journals-and-publications/annals-of-applied-statistics/annals-of-applied-statistics-next-issues/) - [Preprint](https://arxiv.org/abs/2002.04148)
+<tt>Annals of Applied Statistics</tt>, 2021 - [Article](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-1/The-role-of-intrinsic-dimension-in-high-resolution-player-tracking/10.1214/21-AOAS1506.short) -  [Preprint](https://arxiv.org/abs/2002.04148)
 1.  **Denti, F.**, Camerlenghi, F., Guindani, M., and Mira, A.  
 *A Common Atom Model for the Bayesian Nonparametric Analysis of Nested Data*  
 <tt>Journal of the American Statistical Association</tt>, 2021 - [Article](https://doi.org/10.1080/01621459.2021.1933499) - [Preprint](https://arxiv.org/abs/2008.07077)  
