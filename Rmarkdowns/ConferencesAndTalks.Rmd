@@ -24,17 +24,15 @@ E le altre volte dovrei stare zitto perché parlo senza aver studiato.</em>&quot
 ## Talks and Posters
 
 <br>
-
-
+- [x] [Cattolica - Spring 22 Seminar Series](https://dipartimenti.unicatt.it/scienze-statistiche-dipartimento-di-scienze-statistiche-eventi#content)  
+Talk: *Bayesian nonparametric mixtures for novelty detection and partially exchangeable data*    
+Statistics Department Seminar - April 2022 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/CATTseminar)  
 - [x] [Joint Statistical Meeting 2021](https://ww2.amstat.org/meetings/jsm/2021/)   
       Zoom Talk: *Detecting Brain Activation via Bayesian Mixture of Horseshoe Distributions*  
       Virtual Conference - August 2021 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/JSM21)
-
-
 - [x] [ISBA World Meeting 2021](https://events.stat.uconn.edu/ISBA2021/)   
       Zoom Talk: *Bayesian Variable Selection via Mixture of Horseshoe Distributions*   
       Virtual Conference - June 2021 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/isba21)  
-
 - [x] [4th International Conference on Econometrics and Statistics (EcoSta 2021)](http://www.cmstatistics.org/EcoSta2021/index.php)   
       Zoom Talk: *Horseshoe Pit -- A Unified Framework for Large-Scale Bayesian Inference*   
       Virtual Conference - June 2021- [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/ecosta21)  
