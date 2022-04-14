@@ -24,9 +24,11 @@ E le altre volte dovrei stare zitto perché parlo senza aver studiato.</em>&quot
 ## Talks and Posters
 
 <br>
+
 - [x] [Cattolica - Spring 22 Seminar Series](https://dipartimenti.unicatt.it/scienze-statistiche-dipartimento-di-scienze-statistiche-eventi#content)  
 Talk: *Bayesian nonparametric mixtures for novelty detection and partially exchangeable data*    
 Statistics Department Seminar - April 2022 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/CATTseminar)  
+
 - [x] [Joint Statistical Meeting 2021](https://ww2.amstat.org/meetings/jsm/2021/)   
       Zoom Talk: *Detecting Brain Activation via Bayesian Mixture of Horseshoe Distributions*  
       Virtual Conference - August 2021 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/JSM21)
