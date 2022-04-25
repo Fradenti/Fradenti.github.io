@@ -20,6 +20,14 @@ output:
 
 # {.tabset .tabset-fade}
 
+
+## Current Courses
+
+<br>
+
+* Lab Instructor for the MSc course in **Computational Statistics** (Eng) @ *Università Cattolica del Sacro Cuore, Milan* - Lab R markdown documents and scripts are avaialble on the Blackboard page of the course.
+
+
 ## Past Courses
 
 <br>
@@ -31,14 +39,8 @@ output:
 1. [Sep 17 – Jun 18] Teaching Assistant, BSc course in **Statistics** (Eng)  
 @ *Bocconi University*
 1. [Sep 17] Principal Instructor, MSc precourse in **Statistics** (15h, Eng)  
-@ *Cattolica University*
+@ *Università Cattolica del Sacro Cuore, Milan*
 1. [Nov 15 – Jan 21] Teaching Assistant and Academic Tutor, BSc course in **Probability** (Ita)  
 @ *University of Milano-Bicocca*, Author of the course notes
 1. [Oct 16 – Dec 17] Volunteer Academic Tutor, MSc course in **Bayesian Statistics** (Ita)  
 @  *University of Milano-Bicocca*
-
-## Current Courses
-
-<br>
-
-* Nothing to see here for now!
