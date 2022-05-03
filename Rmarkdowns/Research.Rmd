@@ -121,13 +121,13 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 Submitted - [Preprint](https://arxiv.org/abs/2106.08281)
 1. **Denti, F.**, Doimo, D., Laio, A., and Mira, A.  
 *Gride: a novel likelihood-based intrinsic dimension estimator*  
-Submitted - [Preprint - old version](https://arxiv.org/abs/2104.13832)  
+Submitted - [Preprint - Outdated version](https://arxiv.org/abs/2104.13832)  
 1. **Denti, F.**  
 *intRinsic: an R package for the package for model-based estimation of the intrinsic dimension of a dataset*  
 Submitted - [Preprint](http://arxiv.org/abs/2102.11425)
 1.  **Denti, F.**, Peluso, S., Guindani, M., and Mira, A.  
 *Multiple hypothesis screening using mixtures of non-local distributions*  
-Submitted  
+Submitted  - [Preprint](https://arxiv.org/abs/2205.00930)
 1.  Varghese, A., Santos-Fernandez E., **Denti, F.**, Mira, A., and Mergensen, K.  
 *On the intrinsic dimensionality of Covid-19 data: a global perspective*  
 Submitted - [Preprint](http://arxiv.org/abs/2102.11425)
