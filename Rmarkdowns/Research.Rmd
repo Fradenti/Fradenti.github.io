@@ -57,7 +57,7 @@ Rosenrot - Rammstein </p>
 [Preprint](https://arxiv.org/abs/2006.09012)
 1.  Allegra, M., Facco, E.  , **Denti, F.**, Laio, A., and Mira, A.  
 *Data segmentation based on the local intrinsic dimension*  
-<tt>Scientific Reports</tt>, 2020 - [Article](https://www.nature.com/articles/s41598-020-72222-0) - [Preprint](https://arxiv.org/abs/1902.10459)
+<tt>Nature Scientific Reports</tt>, 2020 - [Article](https://www.nature.com/articles/s41598-020-72222-0) - [Preprint](https://arxiv.org/abs/1902.10459)
 1.  **Denti, F.**, Guindani, M., Leisen, F., Lioji, A., and Vannucci, M.  
 *Two-group Poisson-Dirichlet mixtures for multiple testing*  
 <tt>Biometrics</tt>, 2020 - [Article](https://onlinelibrary.wiley.com/doi/10.1111/biom.13314) - [Preprint](../pdf/BNPT.pdf)
