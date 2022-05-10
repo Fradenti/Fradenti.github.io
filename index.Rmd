@@ -4,7 +4,8 @@ title: Francesco Denti
 output: 
       html_document:
         css: style.css
-        theme: readable
+        theme: cosmo
+        highlight: tango
         includes:
           in_header: forHead.html
 ---
@@ -37,7 +38,7 @@ I am interested in Bayesian mixtures, Bayesian nonparametrics, model-based clust
 
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 48%;">[Google Scholar Profile](https://scholar.google.com/citations?user=DLiw19MAAAAJ&hl=en)</button>
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 48%;">[Github Profile](https://github.com/Fradenti)</button>  
-<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 48%;">[ArXiv](https://arxiv.org/search/?searchtype=author&query=Denti%2C+F)</button>
+<button type="button" name="button" class="btn btn" style="background-color:white;color:blue;width: 48%;">[ArXiv](https://arxiv.org/search/?searchtype=author&query=Denti%2C+F)</button>
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 48%;">[ResearchGate](https://www.researchgate.net/profile/Francesco-Denti-2)</button>
 
 <br><br>

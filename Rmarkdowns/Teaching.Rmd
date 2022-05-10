@@ -2,7 +2,9 @@
 title: "Teaching"
 output: 
       html_document:
-        theme: readable
+            theme: cosmo
+            highlight: tango
+            df_print: paged
       includes:
         in_header: forHead.html
 ---
