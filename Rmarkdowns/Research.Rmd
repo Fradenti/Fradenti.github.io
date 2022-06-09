@@ -175,7 +175,7 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 1.  Varghese, A., Santos-Fernandez E., **Denti, F.**, Mira, A., and Mergensen, K.  
 *On the intrinsic dimensionality of Covid-19 data: a global perspective*  - Submitted  
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](http://arxiv.org/abs/2102.11425)</button>  
+<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/pdf/2203.04165.pdf)</button>  
 
 ***
 
