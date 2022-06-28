@@ -1,0 +1,9 @@
+---
+title: "&nbsp;"
+output: 
+  html_document
+---
+
+[**<**](/Rmarkdowns/ConferencesAndTalks.html)
+
+!["Trust me, I remember the route we followed yesterday". Turned out I did not.](../images/isba22.jpeg)
