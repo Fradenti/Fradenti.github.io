@@ -29,6 +29,10 @@ output:
 
 * Lab Instructor for the MSc course in **Computational Statistics** (Eng) @ *Università Cattolica del Sacro Cuore, Milan* - Lab R markdown documents and scripts are avaialble on the Blackboard page of the course.
 
+   
+<br>     
+[**<**](/index)
+ 
 
 ## Past Courses
 
@@ -46,3 +50,10 @@ output:
 @ *University of Milano-Bicocca*, Author of the course notes
 1. [Oct 16 – Dec 17] Volunteer Academic Tutor, MSc course in **Bayesian Statistics** (Ita)  
 @  *University of Milano-Bicocca*
+
+
+
+   
+<br>     
+[**<**](/index)
+ 
