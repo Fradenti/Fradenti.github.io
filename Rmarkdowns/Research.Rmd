@@ -72,7 +72,7 @@ Rosenrot - Rammstein </p>
 
 1.  Allegra, M., Facco, E.  , **Denti, F.**, Laio, A., and Mira, A.  
 *Data segmentation based on the local intrinsic dimension*  
-<tt>Nature Scientific Reports</tt>, 2020   
+<tt>Scientific Reports</tt>, 2020   
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://www.nature.com/articles/s41598-020-72222-0)</button>
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/abs/1902.10459)</button>  
 
@@ -174,7 +174,7 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 
 1.  Varghese, A., Santos-Fernandez E., **Denti, F.**, Mira, A., and Mergensen, K.  
-*On the intrinsic dimensionality of Covid-19 data: a global perspective*  - Submitted  
+*On the intrinsic dimensionality of Covid-19 data: a global perspective*  - Under revision  
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/pdf/2203.04165.pdf)</button>  
 
 ***

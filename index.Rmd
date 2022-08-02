@@ -1,5 +1,5 @@
 ---
-title: Francesco Denti
+title: "&nbsp;"
 #subtitle: Postdoctoral scholar @ UCI
 output: 
       html_document:
@@ -31,11 +31,18 @@ output:
   
 ---
 
-I am an Assistant Professor (RtdA) at the [Department of Statistics of Università Cattolica del Sacro Cuore - Milan](https://dipartimenti.unicatt.it/scienze_statistiche).  
-Previously, I spent two years as a Postdoctoral Scholar at the [Department of Statistics of Univerisity of California - Irvine](https://www.stat.uci.edu/) (UCI), working under the supervision of Professor [Babak Shahbaba](https://www.ics.uci.edu/~babaks/).  
-Before joining UCI, I obtained a Ph.D. in Statistics at University of Milan - Bicocca and Università della Svizzera italiana (joint program, awarded with honors) working with Professor [Antonietta Mira](https://search.usi.ch/en/people/f8960de6d60dd08a79b6c1eb20b7442b/mira-antonietta) and Professor [Michele Guindani](https://www.micheleguindani.info).  
-I am interested in Bayesian mixtures, Bayesian nonparametrics, model-based clustering, shrinkage priors, and dimensionality reduction.  
+<img style="float: left;vertical-align:middle;margin:0px 20px" src="images/fd.jpg" width="150"> 
 
+I am an Assistant Professor (RtdA) at the [Department of Statistics of Università Cattolica del Sacro Cuore - Milan](https://dipartimenti.unicatt.it/scienze_statistiche).  
+
+Previously, I spent two years as a Postdoctoral Scholar at the [Department of Statistics of Univerisity of California - Irvine](https://www.stat.uci.edu/) (UCI), working under the supervision of Professor [Babak Shahbaba](https://www.ics.uci.edu/~babaks/).  
+
+Before joining UCI, I obtained a Ph.D. in Statistics at University of Milan - Bicocca and Università della Svizzera italiana (joint program, awarded with honors) working with Professor [Antonietta Mira](https://search.usi.ch/en/people/f8960de6d60dd08a79b6c1eb20b7442b/mira-antonietta) and Professor [Michele Guindani](https://www.micheleguindani.info).  
+
+I am interested in Bayesian mixtures, Bayesian nonparametrics, model-based clustering, shrinkage priors, and dimensionality reduction.  
+<br>
+<br>
+<br>
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 48%;">[Google Scholar Profile](https://scholar.google.com/citations?user=DLiw19MAAAAJ&hl=en)</button>
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 48%;">[Github Profile](https://github.com/Fradenti)</button>  
 <button type="button" name="button" class="btn btn" style="background-color:white;color:blue;width: 48%;">[ArXiv](https://arxiv.org/search/?searchtype=author&query=Denti%2C+F)</button>
