@@ -14,7 +14,7 @@ navbar:
       href: Rmarkdowns/Teaching.html
   right:
     - icon: fa-envelope fa-lg
-      href: mailto:<fdenti@uci.edu>
+      href: mailto:<francesco.denti@unicatt.it>
     - icon: ion-social-twitter
       href: https://twitter.com/fradenti7
     - icon: ion-social-linkedin
