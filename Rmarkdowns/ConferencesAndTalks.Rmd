@@ -72,15 +72,20 @@ Statistics Department Seminar - April 2022 - [ <img  width="20" height="20" src=
 <br>
 
 - [x] [Bayesian Nonparametrics for Complex Data](http://bnp4cd.stat.unipd.it/workshop.html)  
-      Padua - January 2020 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/PAD)
+      Padua - January 2020 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/PAD)  
+      
 - [x] [Network Models in Statistics, Economics and Social](https://www.eventbrite.it/e/network-models-in-statistics-economics-and-social-registration-59152695304)  
-      Milan - November 2019 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/catto)
+      Milan - November 2019 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/catto)  
+      
 - [x] [Statistical Methods in Imaging - SMI 2019](https://sites.uci.edu/smi2019/)  
-      Irvine - June 2019 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/SMI19)
+      Irvine - June 2019 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/SMI19)  
+      
 - [x] [FoMICS-DADSi Summer School on Data Assimilation](https://www.ics.usi.ch/index.php/news/285-fomics-dadsi-summer-school-on-data-assimilation)  
-      Lugano - September 2018 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/lug)
+      Lugano - September 2018 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/lug)  
+      
 - [x] [LMS Invited Lecture Series and CRISM Summer School in Computational Statistics 2018](https://warwick.ac.uk/fac/sci/statistics/crism/workshops/lms2018/)   
-      Warwick -July 2018 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/Warwick18)
+      Warwick -July 2018 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/Warwick18)  
+      
 - [x] [ISBA](https://bayesian.org/isba2018/)  
-      Edinburgh - June 2018 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/isba.html)
+      Edinburgh - June 2018 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/isba.html)  
 
