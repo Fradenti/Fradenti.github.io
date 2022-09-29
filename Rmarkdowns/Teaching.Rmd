@@ -23,11 +23,18 @@ output:
 # {.tabset .tabset-fade}
 
 
-## Current Courses
+## Courses for the Academic Year 2022-2023
 
 <br>
 
-* 2022-2023 Principal Instructor for the MSc course in **Computational Statistics** (Eng) @ *Università Cattolica del Sacro Cuore, Milan*
+* Principal Instructor and Assistant for the MSc course in **Computational Statistics** (Eng)  
+You can consult the program and the schedule [here](https://docenti.unicatt.it/ppd2/en/docenti/59969/francesco-denti/didattica)  
+@ *Università Cattolica del Sacro Cuore, Milan*  
+
+* Teaching Assistant for the BSc course in **Statistics** (Mc-Ri -- Ita)  
+You can consult the program and the schedule [here](https://docenti.unicatt.it/ppd2/it/docenti/17169/silvia-angela-osmetti/didattica) and on the corresponding BlackBoard page.  
+**Office hour**: Thursday, 11:00-12:00. Please send me an email in advance.  
+@ *Università Cattolica del Sacro Cuore, Milan*  
 
    
 <br>     
@@ -38,18 +45,24 @@ output:
 
 <br>
 
-1. [Sep 19 – Jan 20] Lab instructor (20h), MSc course in **Computational Statistics** (Eng)  
-@ *Università Cattolica del Sacro Cuore, Milan*
+1. [Apr 19 – Jul 20] Lab instructor (20h), MSc course in **Computational Statistics** (Eng)  
+@ *Università Cattolica del Sacro Cuore, Milan*  
+
 1. [Sep 19 – Jan 20] Teaching Assistant, MSc course in **Advanced Statistics** (Eng)  
-@ *USI - Universtà della Svizzera italiana*
+@ *USI - Universtà della Svizzera italiana*  
+
 1. [Sep 18 – Jan 19] Teaching Assistant, MSc course in **Statistics** (Eng)  
-@ *USI - Universtà della Svizzera italiana*
+@ *USI - Universtà della Svizzera italiana, Lugano*  
+
 1. [Sep 17 – Jun 18] Teaching Assistant, BSc course in **Statistics** (Eng)  
-@ *Bocconi University*
+@ *Bocconi University, Milan*  
+
 1. [Sep 17] Principal Instructor, MSc precourse in **Statistics** (15h, Eng)  
-@ *Università Cattolica del Sacro Cuore, Milan*
+@ *Università Cattolica del Sacro Cuore, Milan*  
+
 1. [Nov 15 – Jan 21] Teaching Assistant and Academic Tutor, BSc course in **Probability** (Ita)  
-@ *University of Milano-Bicocca*, Author of the course notes
+@ *University of Milano-Bicocca*, Author of the course notes  
+
 1. [Oct 16 – Dec 17] Volunteer Academic Tutor, MSc course in **Bayesian Statistics** (Ita)  
 @  *University of Milano-Bicocca*
 
