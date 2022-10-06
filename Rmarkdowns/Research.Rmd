@@ -149,6 +149,27 @@ Perciò+dovrò+continuare+a+scrivere+perché+di+certo+riesco.
 
 <ol reversed>
 
+
+
+<li>**Denti, F.**, D'Angelo, L., and Guindani, M.  
+*Bayesian approaches for capturing the heterogeneity of neuroimaging experiments*  
+in A. Balzanella, M. Bini, C. Cavicchia, and R. Verde (a cura di) <tt>Book of Short Papers SIS 2022</tt> (pp. 17-29). Pearson. 
+</li>
+  
+<li>**Denti, F.**, Camerlenghi, F., Guindani, M., and Mira, A.  
+*Clustering artists based on the energy distributions of their songs on Spotify via the Common Atoms Model*  
+in A. Balzanella, M. Bini, C. Cavicchia, and R. Verde (a cura di) <tt>Book of Short Papers SIS 2022</tt> (pp. 121-126). Pearson.  
+</li>
+  
+<li>**Denti, F.** and Mira, A.  
+*A tool to validate the assumptions on ratios of nearest neighbor distances: the Consecutive Ratio Paths*  
+in A. Balzanella, M. Bini, C. Cavicchia, and R. Verde (a cura di), <tt>Book of Short Papers SIS 2022</tt> (pp. 1233-1238). Pearson. 
+</li>
+<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Proceedings](https://it.pearson.com/docenti/universita/partnership/sis.html)</button>  
+
+<br>
+
+
 <li> **Denti, F.**, Cappozzo, A., and Greselin, F.    
 *Outlier and novelty detection for Functional data: a semiparametric Bayesian approach* 
 in <tt>Book of Short Papers of the 5th international workshop on Models and Learning for Clustering and Classification</tt>, (Ingrassia A., Punzo A., Rocci R., editors) (pp. 33-38). Ledizioni.  
@@ -159,7 +180,7 @@ in <tt>Book of Short Papers of the 5th international workshop on Models and Lear
 
 <li> **Denti, F.**, Cappozzo, A., and Greselin, F.    
 *Bayesian nonparametric adaptive classification with robust prior information*  
-in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), <tt>Book of Short Papers SIS</tt>, 2020 (pp. 655-660). Pearson.  
+in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), <tt>Book of Short Papers SIS 2020</tt> (pp. 655-660). Pearson.  
 <button type="button" name="button" class="btn btn-primary btn-sm"
 style="background-color:white;color:blue;">[Proceeding](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Università/Pearson-SIS-2020-atti-convegno.pdf)</button>  
 </li> 
