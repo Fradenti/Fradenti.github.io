@@ -44,59 +44,81 @@ Rosenrot - Rammstein </p>
 
 <br>
 
+
 #### On Statistical Journals
-1. Santos-Fernandez, E., **Denti, F.**, Mengersen, K., and Mira A.  
+<ol reversed>
+
+<li> **Denti, F.**, Doimo, D., Laio, A., and Mira, A.  
+*Gride: a novel likelihood-based intrinsic dimension estimator*  
+<tt>Scientific Reports</tt>, 2022 (just accepted)   
+<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint - Outdated version](https://arxiv.org/abs/2104.13832)</button>  
+</li> 
+
+<br>
+
+<li> Santos-Fernandez, E., **Denti, F.**, Mengersen, K., and Mira A.  
 *The role of intrinsic dimension in high-resolution player tracking data -- Insights in basketball*  
 <tt>Annals of Applied Statistics</tt>, 2021  
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-1/The-role-of-intrinsic-dimension-in-high-resolution-player-tracking/10.1214/21-AOAS1506.short)</button>
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/abs/2002.04148)</button>  
+</li> 
 
+<br>
 
-
-1.  **Denti, F.**, Camerlenghi, F., Guindani, M., and Mira, A.  
+<li> **Denti, F.**, Camerlenghi, F., Guindani, M., and Mira, A.  
 *A Common Atom Model for the Bayesian Nonparametric Analysis of Nested Data*  
 <tt>Journal of the American Statistical Association</tt>, 2021   
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://doi.org/10.1080/01621459.2021.1933499)</button>
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/abs/2008.07077)</button>  
+</li> 
 
+<br>
 
-1.  **Denti, F.**, Cappozzo, A., and Greselin, F.  
+<li> **Denti, F.**, Cappozzo, A., and Greselin, F.  
 *A Two-Stage Bayesian Semiparametric Model for Novelty Detection with Robust Prior Information*  
 <tt>Statistics and Computing</tt>, 2021  
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://doi.org/10.1007/s11222-021-10017-7)</button>
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/abs/2006.09012)</button>  
+</li> 
 
+<br>
 
-
-
-
-1.  Allegra, M., Facco, E.  , **Denti, F.**, Laio, A., and Mira, A.  
+<li> Allegra, M., Facco, E.  , **Denti, F.**, Laio, A., and Mira, A.  
 *Data segmentation based on the local intrinsic dimension*  
 <tt>Scientific Reports</tt>, 2020   
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://www.nature.com/articles/s41598-020-72222-0)</button>
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/abs/1902.10459)</button>  
+</li> 
 
+<br>
 
-
-1.  **Denti, F.**, Guindani, M., Leisen, F., Lioji, A., and Vannucci, M.  
+<li> **Denti, F.**, Guindani, M., Leisen, F., Lioji, A., and Vannucci, M.  
 *Two-group Poisson-Dirichlet mixtures for multiple testing*  
 <tt>Biometrics</tt>, 2020  
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://onlinelibrary.wiley.com/doi/10.1111/biom.13314)</button>
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](../pdf/BNPT.pdf)</button>  
+</li> 
+</ol>
 
 <br>
 
 #### Collaborative Papers
 
-1.  Migliavada, R., Ricci, F. Z., **Denti, F.**, Haghverdian, D., and Torri, L.    
+<ol reversed>
+
+<li> Migliavada, R., Ricci, F. Z., **Denti, F.**, Haghverdian, D., and Torri, L.    
 *Is purchasing of vegetable dishes affected by organic or local labels? Empirical evidence from a university canteen*  
 <tt>Appetite</tt>, 2022  
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://www.sciencedirect.com/science/article/pii/S0195666322000861?dgcid=author)</button>  
+</li> 
 
-1.  Petazzoni, M., De Giacinto, E., Troiano, D., **Denti, F.**, and Buiatti, M.  
+<br>
+
+<li> Petazzoni, M., De Giacinto, E., Troiano, D., **Denti, F.**, and Buiatti, M.  
 *Computed Tomographic Trochlear Depth Measurement in Normal Dogs*  
 <tt>Journal of Veterinary and Comparative Orthopaedics and Traumatology</tt>, 2018  
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://pubmed.ncbi.nlm.nih.gov/30300915/)</button>  
+<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://pubmed.ncbi.nlm.nih.gov/30300915/)</button> </li> 
+</ol>
 
 
 
@@ -105,6 +127,8 @@ Rosenrot - Rammstein </p>
 *First results if an in vitro study on the effects of green tea on the defensive layer of the oral cavity*  
 <tt>International Journal of Current Research</tt>, 2016  
 -->
+
+***
 
 ***
 
@@ -123,15 +147,36 @@ Perciò+dovrò+continuare+a+scrivere+perché+di+certo+riesco.
 
 <br>
 
-1.  **Denti, F.**, Cappozzo, A., and Greselin, F.    
+<ol reversed>
+
+<li> **Denti, F.**, Cappozzo, A., and Greselin, F.    
 *Outlier and novelty detection for Functional data: a semiparametric Bayesian approach* 
 in <tt>Book of Short Papers of the 5th international workshop on Models and Learning for Clustering and Classification</tt>, (Ingrassia A., Punzo A., Rocci R., editors) (pp. 33-38). Ledizioni.  
-1.  **Denti, F.**, Cappozzo, A., and Greselin, F.    
+<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Proceeding](https://zenodo.org/record/5598945\#.YZPWzy-B0qy)</button>  
+</li> 
+
+<br>
+
+<li> **Denti, F.**, Cappozzo, A., and Greselin, F.    
 *Bayesian nonparametric adaptive classification with robust prior information*  
-in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), <tt>Book of Short Papers SIS</tt>, 2020 (pp. 655-660). Pearson.
-1.   Caponera, A., **Denti, F.**, Rigon, T., Sottosanti, A., and Gelfand, A.  
+in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), <tt>Book of Short Papers SIS</tt>, 2020 (pp. 655-660). Pearson.  
+<button type="button" name="button" class="btn btn-primary btn-sm"
+style="background-color:white;color:blue;">[Proceeding](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Università/Pearson-SIS-2020-atti-convegno.pdf)</button>  
+</li> 
+
+
+
+
+<br>
+
+<li> Caponera, A., **Denti, F.**, Rigon, T., Sottosanti, A., and Gelfand, A.  
 *Hierarchical Spatio-Temporal Modeling of Resting State fMRI Data*  
 in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., Scarpa, B., editors), 2018  
+<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Book Chapter](https://link.springer.com/chapter/10.1007/978-3-030-00039-4_7)</button>  
+</li> 
+
+
+</ol>
 
 ***
 
@@ -155,10 +200,6 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 *A Horseshoe mixture model for Bayesian screening with an application to light sheet fluorescence microscopy in brain imaging*  - Submitted  
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/abs/2106.08281)</button>  
 
-1. **Denti, F.**, Doimo, D., Laio, A., and Mira, A.  
-*Gride: a novel likelihood-based intrinsic dimension estimator* - Submitted  
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint - Outdated version](https://arxiv.org/abs/2104.13832)</button>  
- 
 
 1. **Denti, F.**  
 *intRinsic: an R package for the package for model-based estimation of the intrinsic dimension of a dataset*  - Submitted  
@@ -174,10 +215,13 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 
 1.  Varghese, A., Santos-Fernandez E., **Denti, F.**, Mira, A., and Mergensen, K.  
-*On the intrinsic dimensionality of Covid-19 data: a global perspective*  - Under revision  
+*On the intrinsic dimensionality of Covid-19 data: a global perspective*  - Submitted  
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/pdf/2203.04165.pdf)</button>  
 
 ***
+
+***
+
 
 ### Software
 
@@ -191,6 +235,7 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
   
 ***
 
+***
 
 <br><br><br>
 
