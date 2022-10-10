@@ -27,7 +27,7 @@ E le altre volte dovrei stare zitto perché parlo senza aver studiato.</em>&quot
 
 <br>
 
-- [x] [CSUEB ASA Student Chapter](---)
+- [x] [CSUEB ASA Student Chapter](https://www.instagram.com/asacsueb/)  
 Invited virtual 1h talk: *Bayesian nonparametric mixtures for novelty detection*  
 Hayward, CA - October 2022 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/csueb22)
 
