@@ -217,6 +217,9 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 <br>
 
 
+1.  Benedetti, L., Boniardi, E., Chiani, L., Ghirri, J., Mastropietro, M., Cappozzo,A., **Denti, F.**  
+*Variational Inference for Semiparametric Bayesian Novelty Detection in Large Datasets* - Submitted  
+
 
 1.  **Denti, F.**, Azevedo, R., Lo, C., Wheeler, D. G., Gandhi, S.P.,Guindani, M., and Shahbaba, B.  
 *A Horseshoe mixture model for Bayesian screening with an application to light sheet fluorescence microscopy in brain imaging*  - Submitted  
