@@ -219,6 +219,8 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 1.  Benedetti, L., Boniardi, E., Chiani, L., Ghirri, J., Mastropietro, M., Cappozzo,A., **Denti, F.**  
 *Variational Inference for Semiparametric Bayesian Novelty Detection in Large Datasets* - Submitted  
+<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/abs/2212.01865)</button>  
+
 
 
 1.  **Denti, F.**, Azevedo, R., Lo, C., Wheeler, D. G., Gandhi, S.P.,Guindani, M., and Shahbaba, B.  
