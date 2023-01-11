@@ -8,9 +8,16 @@ output:
         in_header: forHead.html
 ---
 
-[**<**](/index.html)
+<br>
+<br>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Main page](/index)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Research](/Rmarkdowns/Research)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Teaching](/Rmarkdowns/Teaching)
+</button>
+<br>
+<br>
 
-# {.tabset .tabset-fade}
+# 
 
 <br>
 
@@ -23,7 +30,8 @@ E le altre volte dovrei stare zitto perché parlo senza aver studiato.</em>&quot
 <br><br>
 
 
-## Talks and Posters
+## Talks and Posters {.tabset .tabset-fade}
+
 <ol reversed>
 
 <br>
