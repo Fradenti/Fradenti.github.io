@@ -1,5 +1,5 @@
 ---
-title: "Francesco Denti - Personal Website"
+title: Francesco Denti
 #subtitle: Postdoctoral scholar @ UCI
 output: 
       html_document:
@@ -11,15 +11,6 @@ output:
 ---
 
 <br>
-<br>
-
-<article class="article" itemscope="" itemtype="http://schema.org/Article"> 
-<div class="article-header">
-  <img src="images/f2.jpeg" class="article-banner" itemprop="image">
-</div>
-</article>
-
-<br>
 
 <div style="text-align: right"> 
 <p>&quot;<em>The writer Umberto Eco belongs to that small class of scholars who are encyclopedic, insightful, and nondull.<br>He is the owner of a large personal library (containing thirty thousand books), and separates visitors into two categories: those who react with “Wow! Signore, professore dottore Eco, what a library you have ! How many of these books have you read?” and the others - a very small minority - who get the point that a private library is not an ego-boosting appendage but a research tool.<br> Read books are far less valuable than unread ones.</em>&quot; <br> The Black Swan - N. N. Taleb</p>
@@ -28,6 +19,11 @@ output:
 <br><br>
   
   
+<article class="article" itemscope="" itemtype="http://schema.org/Article"> 
+<div class="article-header">
+  <img src="images/f2.jpeg" class="article-banner" itemprop="image">
+</div>
+</article>
 
 <br><br>
 
@@ -35,31 +31,12 @@ output:
   
 ---
 
-<img style="float: left;vertical-align:middle;margin:0px 20px" src="images/fd.jpg" width="150"> 
-
 I am an Assistant Professor (RtdA) at the [Department of Statistics of Università Cattolica del Sacro Cuore - Milan](https://dipartimenti.unicatt.it/scienze_statistiche).  
-
 Previously, I spent two years as a Postdoctoral Scholar at the [Department of Statistics of Univerisity of California - Irvine](https://www.stat.uci.edu/) (UCI), working under the supervision of Professor [Babak Shahbaba](https://www.ics.uci.edu/~babaks/).  
-
-Before joining UCI, I obtained a Ph.D. in Statistics at University of Milan - Bicocca and Università della Svizzera italiana (joint program, awarded with honors) working with Professor [Antonietta Mira](https://search.usi.ch/en/people/f8960de6d60dd08a79b6c1eb20b7442b/mira-antonietta) and Professor [Michele Guindani](https://www.micheleguindani.info).  
-
+Before joining UCI, I obtained a Ph.D. in Statistics at University of Milan - Bicocca and Università della Svizzera italiana (joint program, awarded with honors).  
 I am interested in Bayesian mixtures, Bayesian nonparametrics, model-based clustering, shrinkage priors, and dimensionality reduction.  
 
-
-<br>
-<br>
-<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Research](/Rmarkdowns/Research)</button>
-<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Presentations](/Rmarkdowns/ConferencesAndTalks)</button>
-<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Teaching](/Rmarkdowns/Teaching)
-</button>
-<br>
-<br>
-
-#### Other useful links
-
-
-<br>
-<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 48%;">[Google Scholar Profile](https://scholar.google.it/citations?hl=it&user=8WqmGiEAAAAJ)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 48%;">[Google Scholar Profile](https://scholar.google.com/citations?user=DLiw19MAAAAJ&hl=en)</button>
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 48%;">[Github Profile](https://github.com/Fradenti)</button>  
 <button type="button" name="button" class="btn btn" style="background-color:white;color:blue;width: 48%;">[ArXiv](https://arxiv.org/search/?searchtype=author&query=Denti%2C+F)</button>
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 48%;">[ResearchGate](https://www.researchgate.net/profile/Francesco-Denti-2)</button>
@@ -70,11 +47,19 @@ I am interested in Bayesian mixtures, Bayesian nonparametrics, model-based clust
 
 ---  
 
-[2023/01/11] One of my postdoc projects, the *Horseshoe mixture model*, got accepted on **AOAS**!  
-[2022/09/15] Our paper on *Generalized Ratios ID* estimation got accepted for publication on **Scientific Reports**!    
-[2022/03/01] Our *collaborative paper* got accepted for publication on **Appetite**!  
+[2022/03/01] Our collaborative paper got accepted for publication on Appetite!  
 [2022/03/01] I joined the Department of Statistics at Università Cattolica del Sacro Cuore - Milan as an Assistant Professor (RtdA)
 
+<!---
+### Academia
+---
+* [Research](/Rmarkdowns/Research)
+* [Presentations](/Rmarkdowns/ConferencesAndTalks)
+* [Teaching](/Teaching)
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Research](/Rmarkdowns/Research)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Presentations](/Rmarkdowns/ConferencesAndTalks)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Teaching](/Rmarkdowns/Teaching)</button>
+--->
 
 <br><br>
 
@@ -91,4 +76,3 @@ I am interested in Bayesian mixtures, Bayesian nonparametrics, model-based clust
 ---
 
 **Email**: francesco.denti@unicatt.it
-
