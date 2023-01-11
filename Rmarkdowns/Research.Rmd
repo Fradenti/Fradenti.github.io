@@ -48,6 +48,14 @@ Rosenrot - Rammstein </p>
 #### On Statistical Journals
 <ol reversed>
 
+<li>  **Denti, F.**, Azevedo, R., Lo, C., Wheeler, D. G., Gandhi, S.P.,Guindani, M., and Shahbaba, B.  
+*A Horseshoe mixture model for Bayesian screening with an application to light sheet fluorescence microscopy in brain imaging*  
+<tt>Annals of Applied Statistics</tt>, 2023 - Just Accepted  
+<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/abs/2106.08281)</button>  
+</li> 
+
+<br>
+
 <li> **Denti, F.**, Doimo, D., Laio, A., and Mira, A.  
 *Gride: a novel likelihood-based intrinsic dimension estimator*  
 <tt>Scientific Reports</tt>, 2022  
@@ -223,11 +231,6 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 
 
-1.  **Denti, F.**, Azevedo, R., Lo, C., Wheeler, D. G., Gandhi, S.P.,Guindani, M., and Shahbaba, B.  
-*A Horseshoe mixture model for Bayesian screening with an application to light sheet fluorescence microscopy in brain imaging*  - Submitted  
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/abs/2106.08281)</button>  
-
-
 1. **Denti, F.**  
 *intRinsic: an R package for the package for model-based estimation of the intrinsic dimension of a dataset*  - Submitted  
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](http://arxiv.org/abs/2102.11425)</button>  
@@ -275,10 +278,8 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 ### Reviewer for (alphabetical order)
 
-Advances in Statistical Analysis (AStA) --- Bayesian Analysis (BA) --- Biometrics --- Computational Statistics \& Data Analysis (CSDA) --- International Statistical Review ---
-Journal of the American Statistical Association (JASA - A&CS) --- Journal of Computational and Graphical Statistics (JCGS) --- Journal of Statistical Software (JSS) --- Journal of the Royal Statistical Society - Series B (JRSS-B) --- Statistics and Computing --- Statistical Methods and Applications (SMA) --- Statistical Science --- Technometrics --- 2021 SBSS Student Paper Competition     
-     
-     
+Advances in Statistical Analysis (AStA, 1) --- Bayesian Analysis (BA, 3) --- Biometrics (1) --- Computational Statistics \& Data Analysis (CSDA, 2) --- International Statistical Review (2) ---
+Journal of the American Statistical Association (JASA - A&CS, 1) --- Journal of Computational and Graphical Statistics (JCGS, 1) --- Journal of Statistical Software (JSS, 1) --- Journal of the Royal Statistical Society - Series B (JRSS-B ,1) --- Pattern Recognition (1) --- Statistics and Computing (2) --- Statistical Methods and Applications (SMA, 2) --- Statistical Science (1) --- Technometrics (1) --- 2021 SBSS Student Paper Competition     
      
 [**<**](/index)
          
