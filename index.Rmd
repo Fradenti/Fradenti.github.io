@@ -9,7 +9,12 @@ output:
         includes:
           in_header: forHead.html
 ---
-
+<br>
+<br>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Research](/Rmarkdowns/Research)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Presentations](/Rmarkdowns/ConferencesAndTalks)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Teaching](/Rmarkdowns/Teaching)
+</button>
 <br>
 <br>
 
@@ -46,6 +51,8 @@ Before joining UCI, I obtained a Ph.D. in Statistics at University of Milan - Bi
 I am interested in Bayesian mixtures, Bayesian nonparametrics, model-based clustering, shrinkage priors, and dimensionality reduction.  
 
 
+<br>
+<br>
 <br>
 <br>
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Research](/Rmarkdowns/Research)</button>
