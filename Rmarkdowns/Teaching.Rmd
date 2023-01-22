@@ -22,10 +22,16 @@ output:
 
 
 <div style="text-align: right"> <p>&quot;<em>Questions? &quot; <br>&quot;When's Bart coming back?&quot;<br> &quot;He's not. He thought he was better than the laws of probability. <br>Anyone else think he's better than the laws of probability? <br>Well, you're not!</em>&quot; <br>MoneyBart, S22E03 - Lisa Simpson</p>
+</div>
+
+<br>
+
+<div style="text-align: right"> <p>&quot;<em>Via il Denti, via il dolore</em>&quot; <br>LDA</p>
 <img src="images/smvs.jpg?raw=true" width="600" height="500"/>
 </div>
 
 <br>
+
 
 # {.tabset .tabset-fade}
 
@@ -38,10 +44,6 @@ output:
 You can consult the program and the schedule [here](https://docenti.unicatt.it/ppd2/en/docenti/59969/francesco-denti/didattica)  
 @ *Università Cattolica del Sacro Cuore, Milan*  
 
-* Teaching Assistant for the BSc course in **Statistics** (Mc-Ri -- Ita -- 24h)  
-You can consult the program and the schedule [here](https://docenti.unicatt.it/ppd2/it/docenti/17169/silvia-angela-osmetti/didattica) and on the corresponding BlackBoard page.  
-**Office hour**: Thursday, 11:00-12:00. Please send me an email in advance.  
-@ *Università Cattolica del Sacro Cuore, Milan*  
 
    
 <br>     
@@ -61,16 +63,17 @@ library(kableExtra)
 corsi <- tibble(Level =".", Course = "", University = ".", Role = "",AA = ".", Hours = ".", Language = ".")
 
 corsi = rbind(corsi,
-              c("BSc","Statistica","Unicatt","Teaching Assistant", "22-23", "24", "Ita"),
-              c("MSc","Computational Statistics","Unicatt","Lab Instructor", "21-22", "20", "Eng"),
-              c("MSc","Advanced Statistics","USI","Teaching Assistant", "19-20", "15", "Eng"),
-              c("MSc", "Statistics","USI","Teaching Assistant", "18-19", "15", "Eng"),
-              c("BSc", "Statistica","UniBocconi","Teaching Assistant", "17-18", "24", "Ita"),
-              c("MSc", "Precourse in Statistics","Unicatt","Principal Instructor", "17-18", "15", "Eng"),
-              c("BSc", "Probability","Unimib","Teaching Assistant", "17-18", "34", "Ita"),
-              c("BSc", "Probability","Unimib","Teaching Assistant", "16-17", "34", "Ita"),
-              c("BSc", "Probability","Unimib","Teaching Assistant", "15-16", "34", "Ita"),
-              c("MSc", "Bayesian Statistics","Unimib","Volounteer Teaching Assistant", "16-17", "8", "Ita"))
+              c("Master in DS4M","Introduction to Statistics","Unicatt","Principal Instructor", "22-23", "14", "Eng"),
+              c("BSc in Economics","Statistica","Unicatt","Teaching Assistant", "22-23", "24", "Ita"),
+              c("MSc in Data Analysis","Computational Statistics","Unicatt","Lab Instructor", "21-22", "20", "Eng"),
+              c("MSc in Finance","Advanced Statistics","USI","Teaching Assistant", "19-20", "15", "Eng"),
+              c("MSc in Finance", "Statistics","USI","Teaching Assistant", "18-19", "15", "Eng"),
+              c("BSc in Economics", "Statistica","UniBocconi","Teaching Assistant", "17-18", "24", "Ita"),
+              c("MSc in Finance", "Introduction to Statistics","Unicatt","Principal Instructor", "17-18", "15", "Eng"),
+              c("BSc in Statistics", "Probability","Unimib","Teaching Assistant", "17-18", "34", "Ita"),
+              c("BSc in Statistics", "Probability","Unimib","Teaching Assistant", "16-17", "34", "Ita"),
+              c("BSc in Statistics", "Probability","Unimib","Teaching Assistant", "15-16", "34", "Ita"),
+              c("MSc in Statistics", "Bayesian Statistics","Unimib","Volounteer Teaching Assistant", "16-17", "8", "Ita"))
              
 
 kableExtra::kable_styling(kable(corsi[-1,]))
