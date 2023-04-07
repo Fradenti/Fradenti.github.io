@@ -71,6 +71,7 @@ Rosenrot - Rammstein </p>
 <li> **Denti, F.**  
 *intRinsic: an R package for the package for model-based estimation of the intrinsic dimension of a dataset*  
 <tt>Journal of Statistical Software</tt>, 2023 - In Press  
+<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://doi.org/10.18637/jss.v106.i09)</button>
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](http://arxiv.org/abs/2102.11425)</button>  
 </li> 
 
