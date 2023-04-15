@@ -2,7 +2,7 @@
 title: "Research"
 output: 
       html_document:
-        theme: cosmo
+        theme: readable
         highlight: tango
         includes:
           in_header: forHead.html
@@ -189,7 +189,32 @@ Perciò+dovrò+continuare+a+scrivere+perché+di+certo+riesco.
 
 <ol reversed>
 
+<li>
+D'Angelo, L., and **Denti, F.**  
+*Bayesian analysis of Amazon’s best-selling books via finite nested mixture models''*  
+To appear in the <tt>Book of short papers SIS 2023.</tt>
+</li>
 
+<li>
+Di Noia, A., **Denti, F.**, and Mira, A.  
+*A tool for assessing weak identifiability of statistical models*  
+To appear in the <tt>Book of short papers SIS 2023.</tt>
+</li>
+
+<li>
+**Denti, F.**, Di Noia, A., and Mira, A.  
+*Bayesian nonparametric estimation of heterogeneous intrinsic dimension via product partition models*  
+To appear in the <tt>Book of short papers SIS 2023.</tt>
+</li>
+
+<li>
+Capitoli, G., Colombara, S., Cotroneo, A., De Caro, F., Morandi, R., Schembri, C., Zapiola, A.G., and **Denti, F.**    
+*Detecting latent spatial patterns in mass spectrometry brain imaging data via Bayesian mixtures*  
+To appear in the <tt>Book of short papers SIS 2023.</tt>
+</li>
+<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:grey;">[~~Proceedings~~](/Rmarkdowns/Research)</button>
+
+<br>
 
 <li>**Denti, F.**, D'Angelo, L., and Guindani, M.  
 *Bayesian approaches for capturing the heterogeneity of neuroimaging experiments*  
@@ -232,7 +257,7 @@ style="background-color:white;color:blue;">[Proceeding](https://it.pearson.com/c
 
 <li> Caponera, A., **Denti, F.**, Rigon, T., Sottosanti, A., and Gelfand, A.  
 *Hierarchical Spatio-Temporal Modeling of Resting State fMRI Data*  
-in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., Scarpa, B., editors), 2018  
+in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., Scarpa, B., editors), 2018.  
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Book Chapter](https://link.springer.com/chapter/10.1007/978-3-030-00039-4_7)</button>  
 </li> 
 
@@ -294,7 +319,7 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 ### Reviewer for (alphabetical order)
 
-Advances in Statistical Analysis (AStA, 1) --- Bayesian Analysis (BA, 3) --- Biometrics (2) --- Computational Statistics \& Data Analysis (CSDA, 2) --- International Statistical Review (2) ---
+Advances in Statistical Analysis (AStA, 1) --- Bayesian Analysis (BA, 3) --- Biometrics (2) --- Computational Statistics \& Data Analysis (CSDA, 2) --- International Statistical Review (3) ---
 Journal of the American Statistical Association (JASA - A&CS, 1) --- Journal of Computational and Graphical Statistics (JCGS, 1) --- Journal of Statistical Software (JSS, 2) --- Journal of the Royal Statistical Society - Series B (JRSS-B ,1) --- Pattern Recognition (1) --- Statistics and Computing (2) --- Statistical Methods and Applications (SMA, 2) --- Statistical Science (1) --- Technometrics (1) --- 2021 SBSS Student Paper Competition     
      
 [**<**](/index)

@@ -2,7 +2,7 @@
 title: "Presentations"
 output: 
       html_document:
-            theme: cosmo
+            theme: readable
             highlight: tango
       includes:
         in_header: forHead.html

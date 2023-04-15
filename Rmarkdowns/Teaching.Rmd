@@ -2,7 +2,7 @@
 title: "Teaching"
 output: 
       html_document:
-            theme: cosmo
+            theme: readable
             highlight: tango
             df_print: paged
       includes:
@@ -63,7 +63,7 @@ library(kableExtra)
 corsi <- tibble(Level =".", Course = "", University = ".", Role = "",AA = ".", Hours = ".", Language = ".")
 
 corsi = rbind(corsi,
-              c("Master in DS4M","R for Data Science","Unicatt","Principal Instructor", "22-23", "14", "Eng"),
+              c("Master in DS4M","R for Data Science","Unicatt","Principal Instructor", "22-23", "7", "Eng"),
               c("Master in DS4M","Introduction to Statistics","Unicatt","Principal Instructor", "22-23", "14", "Eng"),
               c("BSc in Economics","Statistica","Unicatt","Teaching Assistant", "22-23", "24", "Ita"),
               c("MSc in Data Analysis","Computational Statistics","Unicatt","Lab Instructor", "21-22", "20", "Eng"),
