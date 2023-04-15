@@ -4,7 +4,7 @@ title: "Francesco Denti - Personal Website"
 output: 
       html_document:
         css: style.css
-        theme: cosmo
+        theme: readable
         highlight: tango
         includes:
           in_header: forHead.html
