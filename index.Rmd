@@ -43,7 +43,7 @@ output:
   
 ---
 
-<img style="float: left;vertical-align:middle;margin:0px 20px" src="images/fd.jpg" width="150"> 
+<img style="float: left;vertical-align:middle;margin:0px 20px" src="images/fd.jpg" width="160"> 
 
 I am an Assistant Professor (RtdA) at the [Department of Statistics of Università Cattolica del Sacro Cuore - Milan](https://dipartimenti.unicatt.it/scienze_statistiche).  
 
