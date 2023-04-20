@@ -191,7 +191,7 @@ Perciò+dovrò+continuare+a+scrivere+perché+di+certo+riesco.
 
 <li>
 D'Angelo, L., and **Denti, F.**  
-*Bayesian analysis of Amazon’s best-selling books via finite nested mixture models''*  
+*Bayesian analysis of Amazon’s best-selling books via finite nested mixture models*  
 To appear in the <tt>Book of short papers SIS 2023.</tt>
 </li>
 
@@ -302,8 +302,9 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Github](https://github.com/Fradenti/intRinsic)</button>
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[CRAN](https://CRAN.R-project.org/package=intRinsic)</button>  
 
+* **Brand** - R package  
+<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Github](https://github.com/Fradenti/Brand)</button>
 
-  
 ***
 
 ***
