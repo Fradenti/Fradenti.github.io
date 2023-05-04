@@ -281,7 +281,11 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 <br>
 
 
-1.  Benedetti, L., Boniardi, E., Chiani, L., Ghirri, J., Mastropietro, M., Cappozzo,A., **Denti, F.**  
+1.  D'Angelo, L. and **Denti, F.**  
+*A finite-infinite shared atoms nested model for the Bayesian nonparametric analysis of large data sets* - Submitted  
+<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:grey;">[~~Preprint~~](/Rmarkdowns/Research)</button>
+
+1.  Benedetti, L., Boniardi, E., Chiani, L., Ghirri, J., Mastropietro, M., Cappozzo,A., and **Denti, F.**  
 *Variational Inference for Semiparametric Bayesian Novelty Detection in Large Datasets* - Submitted  
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/abs/2212.01865)</button>  
 
