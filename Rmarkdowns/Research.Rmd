@@ -58,6 +58,17 @@ Rosenrot - Rammstein </p>
 #### On Statistical Journals
 <ol reversed>
 
+
+<li>  Varghese, A., Santos-Fernandez E., **Denti, F.**, Mira, A., and Mergensen, K.  
+*A global perspective on the intrinsic dimensionality of COVID-19 data*    
+<tt>Scientific Reports</tt>, 2023     
+<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://doi.org/10.1038/s41598-023-36116-1
+)</button>
+<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/pdf/2203.04165.pdf)</button>  
+</li> 
+
+<br>
+
 <li> **Denti, F.**, Peluso, S., Guindani, M., and Mira, A.  
 *Multiple hypothesis screening using mixtures of non-local distributions*  
 <tt>Statistics in Medicine</tt>, 2023     
@@ -283,15 +294,11 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 1.  D'Angelo, L. and **Denti, F.**  
 *A finite-infinite shared atoms nested model for the Bayesian nonparametric analysis of large data sets* - Submitted  
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:grey;">[~~Preprint~~](/Rmarkdowns/Research)</button>
+<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:grey;">[~~Preprint~~ WIP](/Rmarkdowns/Research)</button>
 
 1.  Benedetti, L., Boniardi, E., Chiani, L., Ghirri, J., Mastropietro, M., Cappozzo,A., and **Denti, F.**  
 *Variational Inference for Semiparametric Bayesian Novelty Detection in Large Datasets* - Submitted  
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/abs/2212.01865)</button>  
-
-1.  Varghese, A., Santos-Fernandez E., **Denti, F.**, Mira, A., and Mergensen, K.  
-*On the intrinsic dimensionality of Covid-19 data: a global perspective*  - Submitted  
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/pdf/2203.04165.pdf)</button>  
 
 ***
 
