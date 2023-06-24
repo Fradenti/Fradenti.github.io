@@ -1,0 +1,11 @@
+---
+title: "&nbsp;"
+output: 
+  html_document
+---
+
+[**<**](/Rmarkdowns/ConferencesAndTalks.html)
+
+![ ](../images/sis23_1.jpeg)
+
+![Ancona knows how to best describe the current job market situation - It's slippery!](../images/sis23_slip.jpeg)
