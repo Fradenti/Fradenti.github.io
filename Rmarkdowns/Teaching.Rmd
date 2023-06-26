@@ -40,7 +40,7 @@ output:
 
 <br>
 
-* Principal Instructor and Teaching Assistant for the MSc course in **Computational Statistics** (Eng -- 50h)  
+* Principal Instructor and Teaching Assistant for the MSc course in **Computational Statistics** (Eng -- 80h)  
 You can consult the program and the schedule [here](https://docenti.unicatt.it/ppd2/en/docenti/59969/francesco-denti/didattica)  
 @ *Università Cattolica del Sacro Cuore, Milan*  
 
