@@ -8,3 +8,25 @@
 .rev-lists > ol > li:after {
   content: counter(item);
 }
+
+
+#rcorn_intro {
+  border-radius: 100px;
+  background: url(images/newpalm.jpeg);
+  background-position: center;
+  background-repeat: repeat;
+  padding: 0px; 
+  width:  950px;
+  height: 500px;  
+}
+
+
+#rcorn_me {
+  border-radius: 20px;
+  background: url(images/fd.jpg);
+  background-position: top left;
+  background-repeat: repeat;
+  padding: 0px; 
+  width:  200px;
+  height: 200px;  
+}

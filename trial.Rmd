@@ -22,7 +22,7 @@ output:
   
 <article class="article" itemscope="" itemtype="http://schema.org/Article"> 
 <div class="article-header">
-  <img src="images/f2.jpeg" class="article-banner" itemprop="image">
+  <img style = ";border-radius: 20px;" src="images/f2.jpeg" class="article-banner" itemprop="image">
 </div>
 </article>
 

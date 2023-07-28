@@ -11,20 +11,19 @@ output:
 <br>
 <br>
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Main page](/index)</button>
-<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Research](/Rmarkdowns/Research)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Conferences and Talks](/Rmarkdowns/ConferencesAndTalks)</button>
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Teaching](/Rmarkdowns/Teaching)
 </button>
 <br>
-<br>
 
-# 
+***
 
 <br>
 
 
 <div style="text-align: right"> <p>&quot;<em>Dice che molte volte dovrei stare zitto perché parlo senza aver sudato.<br>
 E le altre volte dovrei stare zitto perché parlo senza aver studiato.</em>&quot; <br> La mia donna dice che - D. D'Amico - [Translation](https://translate.google.com/?sl=origin_language_or_auto&tl=en&text=%20La%20mia%20donna%20dice%20che%20molte%20volte%20dovrei%20stare%20zitto%20perch%C3%A9%20parlo%20senza%20aver%20sudato.%20%20E%20le%20altre%20volte%20dovrei%20stare%20zitto%20perch%C3%A9%20parlo%20senza%20aver%20studiato.&op=translate)</p>
-<img src="images/prese.png?raw=true" width="600" height="500"/>
+<img style = "border-radius: 20px;" src="images/prese.png?raw=true" width="600" height="500"/>
 </div>
 
 <br><br>
@@ -121,13 +120,10 @@ Statistics Department Seminar - April 2022 - [ <img  width="20" height="20" src=
        Oxford - June 2019 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/ox) 
 </li>
 <br>
-</ol>
 
-
-## Conferences and Workshops
+### Other Conferences and Workshops
 
 <br>
-<ol reversed>
 
 <li>  [Bayesian Nonparametrics for Complex Data](http://bnp4cd.stat.unipd.it/workshop.html)  
       Padua - January 2020 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/PAD)  
@@ -153,3 +149,15 @@ Statistics Department Seminar - April 2022 - [ <img  width="20" height="20" src=
       Edinburgh - June 2018 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/isba.html)  
 </li>
 </ol>
+
+
+---
+
+<br>
+<br>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Main page](/index)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Research](/Rmarkdowns/Research)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%">[Teaching](/Rmarkdowns/Teaching)
+</button>
+<br>
+<br>

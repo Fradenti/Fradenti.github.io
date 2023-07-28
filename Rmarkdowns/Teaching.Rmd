@@ -12,11 +12,12 @@ output:
 <br>
 <br>
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Main page](/index)</button>
-<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Research](/Rmarkdowns/Research)
-</button>
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Conferences and Talks](/Rmarkdowns/ConferencesAndTalks)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Teaching](/Rmarkdowns/Teaching)
+</button>
 <br>
-<br>
+
+***
 
 <br>
 
@@ -27,7 +28,8 @@ output:
 <br>
 
 <div style="text-align: right"> <p>&quot;<em>Via il Denti, via il dolore</em>&quot; <br>LDA</p>
-<img src="images/smvs.jpg?raw=true" width="600" height="500"/>
+<img style ="border-radius: 20px;
+  " src="images/smvs.jpg?raw=true" width="600" height="500"/>
 </div>
 
 <br>
@@ -36,13 +38,11 @@ output:
 # {.tabset .tabset-fade}
 
 
-## Courses for the Academic Year 2022-2023
+## Courses for the Academic Year 2023-2024
 
 <br>
 
-* Principal Instructor and Teaching Assistant for the MSc course in **Computational Statistics** (Eng -- 80h)  
-You can consult the program and the schedule [here](https://docenti.unicatt.it/ppd2/en/docenti/59969/francesco-denti/didattica)  
-@ *Università Cattolica del Sacro Cuore, Milan*  
+* TBA
 
 
    
@@ -60,13 +60,14 @@ library(kableExtra)
 ```
 
 ```{r,echo=F}
-corsi <- tibble(Course =".", Topic = "", University = ".", Role = "",`Academic Year` = ".", Hours = ".", Language = ".")
+corsi <- tibble(`Degree type` =".", Course = "", University = ".", Role = "",`Academic Year` = ".", Hours = ".", Language = ".")
 
 corsi = rbind(corsi,
+              c("MSc in Data Analysis for Businness","Computational Statistics","Unicatt","Principal Instructor + TA", "22-23", "80", "Eng"),
               c("Master in DS4M","R for Data Science","Unicatt","Principal Instructor", "22-23", "7", "Eng"),
               c("Master in DS4M","Introduction to Statistics","Unicatt","Principal Instructor", "22-23", "14", "Eng"),
               c("BSc in Economics","Statistica","Unicatt","Teaching Assistant", "22-23", "24", "Ita"),
-              c("MSc in Data Analysis","Computational Statistics","Unicatt","Lab Instructor", "21-22", "20", "Eng"),
+              c("MSc in Data Analysis for Businness","Computational Statistics","Unicatt","Lab Instructor", "21-22", "20", "Eng"),
               c("MSc in Finance","Advanced Statistics","USI","Teaching Assistant", "19-20", "15", "Eng"),
               c("MSc in Finance", "Statistics","USI","Teaching Assistant", "18-19", "15", "Eng"),
               c("BSc in Economics", "Statistica","UniBocconi","Teaching Assistant", "17-18", "24", "Ita"),

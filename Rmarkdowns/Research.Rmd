@@ -15,13 +15,15 @@ output:
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Teaching](/Rmarkdowns/Teaching)
 </button>
 <br>
-<br>
+
+***
 
 
 
 <br>
 <div style="text-align: right"> <p>&quot;<em>It gets easier... Every day it gets a little easier...<br>But you gotta do it every day - that’s the hard part.<br>But it does get easier</em>&quot;<br> BJH - S2 finale</p>
-<img align="center" src="images/tres4.jpg?raw=true"/>
+<img style = "border-radius: 20px;
+  " align="center" src="images/tres4.jpg?raw=true"/>
 </div>
 
 <br>
@@ -29,7 +31,7 @@ output:
 
 ## Research interests
 
-Bayesian Stastistics, Bayesian Nonparametrics, Computational Methods, Applied Statistics 
+Bayesian Statistics, Bayesian Nonparametrics, Computational Methods, Applied Statistics 
 
 <br>
 
@@ -181,7 +183,6 @@ Rosenrot - Rammstein </p>
 
 ***
 
-***
 
 ### Book chapters and proceedings
 
@@ -277,7 +278,6 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 ***
 
-***
 
 ### Submitted and working papers
 
@@ -302,8 +302,6 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 ***
 
-***
-
 
 ### Software
 
@@ -318,9 +316,15 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 ***
 
+#
+
+
+<img style = "border-radius: 50px;"
+  src="../images/f2.jpeg?raw=true" class="article-banner" itemprop="image">
+
 ***
 
-<br><br><br>
+<br>
 
 
 
