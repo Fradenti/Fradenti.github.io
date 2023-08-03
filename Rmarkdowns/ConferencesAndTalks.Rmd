@@ -47,7 +47,7 @@ Montreal, Canada - June 2022 - [ <img  width="20" height="20" src="images/cam3.p
 </li>
 <br>
 <li>  [SIS 2022](https://meetings3.sis-statistica.org/index.php/SIS2022/Caserta)  
-Invited and contributed talks: *Clustering artists based on the energy distributions of their songs on Spotify via the Common Atoms Model* and *A tool to validate the assumptions on ratios of nearest neighbors’ distances: the Consecutive Ratio Paths*  
+Invited talk: *Clustering artists based on the energy distributions of their songs on Spotify via the Common Atoms Model*    
 Caserta, IT - June 2022 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/sis22)
 </li>
 <br>
@@ -81,6 +81,11 @@ Statistics Department Seminar - April 2022 - [ <img  width="20" height="20" src=
 <li>  [SIS 2023](https://meetings3.sis-statistica.org/index.php/ancona/ancona)   
       Contributed Talk with Poster: *Bayesian analysis of Amazon's best-selling books via finite nested mixture models*  
       Ancona, IT - June 2023 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/sis23)
+</li>
+<br>
+<li>  [SIS 2022](https://meetings3.sis-statistica.org/index.php/SIS2022/Caserta)  
+Contributed talk: *A tool to validate the assumptions on ratios of nearest neighbors’ distances: the Consecutive Ratio Paths*  
+Caserta, IT - June 2022 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/sis22)
 </li>
 <br>
 <li>  [Joint Statistical Meeting 2021](https://ww2.amstat.org/meetings/jsm/2021/)   

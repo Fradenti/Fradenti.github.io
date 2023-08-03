@@ -29,13 +29,6 @@ output:
 <br>
 
 
-## Research interests
-
-Bayesian Statistics, Bayesian Nonparametrics, Computational Methods, Applied Statistics 
-
-<br>
-
-
 ## Scientific publications {.tabset .tabset-fade}
 
 <br>
@@ -335,8 +328,7 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 ### Reviewer for (alphabetical order)
 
-Advances in Statistical Analysis (AStA, 1) --- Bayesian Analysis (BA, 3) --- Biometrics (2) --- Computational Statistics \& Data Analysis (CSDA, 2) --- International Statistical Review (3) ---
-Journal of the American Statistical Association (JASA - A&CS, 1) --- Journal of Computational and Graphical Statistics (JCGS, 1) --- Journal of Statistical Software (JSS, 2) --- Journal of the Royal Statistical Society - Series B (JRSS-B ,1) --- Pattern Recognition (1) --- Statistics and Computing (2) --- Statistical Methods and Applications (SMA, 2) --- Statistical Science (2) --- Technometrics (1) --- 2021 SBSS Student Paper Competition     
+Advances in Statistical Analysis (AStA, 1) --- Bayesian Analysis (BA, 3) --- Biometrics (2) --- Computational Statistics \& Data Analysis (CSDA, 2) --- International Statistical Review (3) ---  Italian Journal of Applied Statistics (1) --- Journal of the American Statistical Association (JASA - A&CS, 1) --- Journal of Computational and Graphical Statistics (JCGS, 1) --- Journal of Statistical Software (JSS, 2) --- Journal of the Royal Statistical Society - Series B (JRSS-B ,1) --- Pattern Recognition (1) --- Statistics and Computing (2) --- Statistical Methods and Applications (SMA, 2) --- Statistical Science (2) --- Technometrics (1) --- 2021 SBSS Student Paper Competition     
      
 [**<**](/index)
          
