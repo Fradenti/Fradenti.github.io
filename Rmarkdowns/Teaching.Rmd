@@ -60,7 +60,7 @@ library(kableExtra)
 ```
 
 ```{r,echo=F}
-corsi <- tibble(`Degree type` =".", Course = "", University = ".", Role = "",`Academic Year` = ".", Hours = ".", Language = ".")
+corsi <- tibble(`Degree type` =".", Course = "", University = ".", Role = "",`AY` = ".", Hours = ".", Language = ".")
 
 corsi = rbind(corsi,
               c("MSc in Data Analysis for Businness","Computational Statistics","Unicatt","Principal Instructor + TA", "22-23", "80", "Eng"),
