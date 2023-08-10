@@ -11,8 +11,8 @@ output:
 <br>
 <br>
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Main page](/index)</button>
-<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Conferences and Talks](/Rmarkdowns/ConferencesAndTalks)</button>
-<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Teaching](/Rmarkdowns/Teaching)
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Research](/Rmarkdowns/Research)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%">[Teaching](/Rmarkdowns/Teaching)
 </button>
 <br>
 
@@ -36,8 +36,11 @@ E le altre volte dovrei stare zitto perché parlo senza aver studiato.</em>&quot
 <br>
 
 ### Invited Talks
+
+<br>
+
 <li>  [CMStatistics 2022 (Ercim)](http://www.cmstatistics.org/CMStatistics2022/index.php)  
-Invited talk (virtual): *Multiple hypothesis screening via mixtures of non-local distributions with applications to genomic datasets*  
+Invited virtual talk: *Multiple hypothesis screening via mixtures of non-local distributions with applications to genomic datasets*  
 London, UK - December 2022 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/CMS_Ercim22)
 </li>
 <br>
@@ -57,6 +60,8 @@ Caserta, IT - June 2022 - [ <img  width="20" height="20" src="images/cam3.png"> 
 </li>
 
 ### Invited Seminars
+
+<br>
 
 <li>  [CSUEB ASA Student Chapter](https://www.instagram.com/asacsueb/)  
 Invited virtual 1h talk: *Bayesian nonparametric mixtures for novelty detection*  
@@ -109,6 +114,7 @@ Caserta, IT - June 2022 - [ <img  width="20" height="20" src="images/cam3.png"> 
 <br>
 
 ### Posters
+<br>
 
 <li>  [Models and Learning for Clustering and Classification](http://mbc2.unict.it/)   
       Video Poster: *Bayesian Nonparametric Functional Novelty Detector*   
@@ -131,27 +137,27 @@ Caserta, IT - June 2022 - [ <img  width="20" height="20" src="images/cam3.png"> 
 <br>
 
 <li>  [Bayesian Nonparametrics for Complex Data](http://bnp4cd.stat.unipd.it/workshop.html)  
-      Padua - January 2020 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/PAD)  
+      Padua - January 2020 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/PAD)
 </li>
-<br>   
+<br>
 <li>  [Network Models in Statistics, Economics and Social Sciences](https://www.eventbrite.it/e/network-models-in-statistics-economics-and-social-registration-59152695304)  
-      Milan - November 2019 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/catto)  
+      Milan - November 2019 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/catto)
 </li>
-<br>      
+<br>
 <li>  [Statistical Methods in Imaging - SMI 2019](https://sites.uci.edu/smi2019/)  
-      Irvine - June 2019 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/SMI19)  
-</li>     
-<br>      
+      Irvine - June 2019 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/SMI19)
+</li> 
+<br>
 <li>  [FoMICS-DADSi Summer School on Data Assimilation](https://www.ics.usi.ch/index.php/news/285-fomics-dadsi-summer-school-on-data-assimilation)  
-      Lugano - September 2018 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/lug)  
+      Lugano - September 2018 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/lug)
 </li>
-<br>      
+<br>
 <li>  [LMS Invited Lecture Series and CRISM Summer School in Computational Statistics 2018](https://warwick.ac.uk/fac/sci/statistics/crism/workshops/lms2018/)   
-      Warwick -July 2018 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/Warwick18)  
+      Warwick -July 2018 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/Warwick18)
 </li>
-<br>      
+<br>
 <li>  [ISBA](https://bayesian.org/isba2018/)  
-      Edinburgh - June 2018 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/isba.html)  
+      Edinburgh - June 2018 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/isba.html)
 </li>
 </ol>
 

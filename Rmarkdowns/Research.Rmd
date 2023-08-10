@@ -334,12 +334,19 @@ Advances in Statistical Analysis (AStA, 1) --- Bayesian Analysis (BA, 3) --- Bio
          
 ### Others
 
-+ Associate Editor for the [ISBA bulletin](https://bayesian.org/resources/bulletin/) - *News of the World* section
-+ Member of [ISBA](https://bayesian.org), [j-ISBA](https://j-isba.github.io), and [BNP-ISBA](https://bnp-isba.github.io)
++ Associate Editor for the [ISBA bulletin](https://bayesian.org/resources/bulletin/) - *News of the World* section  
+
++ Member of [ISBA](https://bayesian.org), [j-ISBA](https://j-isba.github.io), and [BNP-ISBA](https://bnp-isba.github.io)  
+
 + Member of [Complex Data Modeling Research Network](https://midas.mat.uc.cl/network/)
      
      
-     
-     
-[**<**](/index)
- 
+---
+
+ <br>
+<br>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Main page](/index)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Conferences and Talks](/Rmarkdowns/ConferencesAndTalks)</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Teaching](/Rmarkdowns/Teaching)
+</button>
+<br>
