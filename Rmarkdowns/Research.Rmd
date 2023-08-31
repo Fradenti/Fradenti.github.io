@@ -275,7 +275,7 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 ***
 
 
-### Submitted and working papers
+### Submitted manuscripts
 
 <br>
 
@@ -290,7 +290,7 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 1.  D'Angelo, L. and **Denti, F.**  
 *A finite-infinite shared atoms nested model for the Bayesian nonparametric analysis of large data sets* - Submitted  
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:grey;">[~~Preprint~~ WIP](/Rmarkdowns/Research)</button>
+<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:grey;">[Work in progress](/Rmarkdowns/Research)</button>
 
 1.  Benedetti, L., Boniardi, E., Chiani, L., Ghirri, J., Mastropietro, M., Cappozzo,A., and **Denti, F.**  
 *Variational Inference for Semiparametric Bayesian Novelty Detection in Large Datasets* - Submitted  
@@ -330,8 +330,34 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 
 ### Reviewer for (alphabetical order)
-
+<!--
 Advances in Statistical Analysis (AStA, 1) --- Bayesian Analysis (BA, 3) --- Biometrics (2) --- Computational Statistics \& Data Analysis (CSDA, 2) --- International Statistical Review (3) ---  Italian Journal of Applied Statistics (1) --- Journal of the American Statistical Association (JASA - A&CS, 1) --- Journal of Computational and Graphical Statistics (JCGS, 1) --- Journal of Statistical Software (JSS, 2) --- Journal of the Royal Statistical Society - Series B (JRSS-B ,1) --- Pattern Recognition (1) --- Statistics and Computing (2) --- Statistical Methods and Applications (SMA, 2) --- Statistical Science (2) --- Technometrics (1) --- 2021 SBSS Student Paper Competition     
+-->
+```{r,echo=F}
+D <- rbind(
+cbind("Advances in Statistical Analysis (AStA)", 1), 
+cbind("Bayesian Analysis (BA)", 3), 
+cbind("Biometrics", (2)),
+cbind("Computational Statistics & Data Analysis (CSDA)", (2)),
+cbind("International Statistical Review", (3)),
+cbind("Italian Journal of Applied Statistics", (1)),
+cbind("Journal of the American Statistical Association (JASA - A&CS)", 1),
+cbind("Journal of Computational and Graphical Statistics (JCGS)", 1),
+cbind("Journal of Statistical Software (JSS)", 2),
+cbind("Journal of the Royal Statistical Society - Series B (JRSS-B)",1),
+cbind("Pattern Recognition", (1)),
+cbind("Statistics and Computing", (2)),
+cbind("Statistical Methods and Applications (SMA)", 2),
+cbind("Statistical Science", (2)),
+cbind("Technometrics", (1)),
+cbind("2021 SBSS Student Paper Competition",1)     
+)
+D = as.data.frame(D)
+D[,2] = as.numeric(D[,2])
+colnames(D) <- c("Journal","# revisions")
+kableExtra::kable_styling(knitr::kable(D))
+```
+
      
 [**<**](/index)
          
