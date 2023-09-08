@@ -89,6 +89,7 @@ Rosenrot - Rammstein </p>
 <li>  **Denti, F.**, Azevedo, R., Lo, C., Wheeler, D. G., Gandhi, S.P.,Guindani, M., and Shahbaba, B.  
 *A Horseshoe mixture model for Bayesian screening with an application to light sheet fluorescence microscopy in brain imaging*  
 <tt>Annals of Applied Statistics</tt>, 2023 - In Press  
+<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://doi.org/10.1214/23-AOAS1736)</button>
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/abs/2106.08281)</button>  
 </li> 
 
