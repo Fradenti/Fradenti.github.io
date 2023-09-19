@@ -134,8 +134,10 @@ Caserta, IT - June 2022 - [ <img  width="20" height="20" src="images/cam3.png"> 
 
 ### Other Conferences and Workshops
 
+<li>  [Statalk 2023](https://statalk2023.shinyapps.io/statalk2023/?fbclid=PAAabvEPTG5lakUm-opB8QfxM5Q7PNjjjkeyir1Hi8cUn3JyBr40GlRXIlYgs)  
+      Rome - September 2023 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/statalk)
+</li>
 <br>
-
 <li>  [Bayesian Nonparametrics for Complex Data](http://bnp4cd.stat.unipd.it/workshop.html)  
       Padua - January 2020 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/PAD)
 </li>
