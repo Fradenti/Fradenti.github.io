@@ -347,9 +347,10 @@ cbind("Journal of Computational and Graphical Statistics (JCGS)", 1),
 cbind("Journal of Statistical Software (JSS)", 2),
 cbind("Journal of the Royal Statistical Society - Series B (JRSS-B)",1),
 cbind("Pattern Recognition", (1)),
-cbind("Statistics and Computing", (2)),
 cbind("Statistical Methods and Applications (SMA)", 2),
 cbind("Statistical Science", (2)),
+cbind("Statistics and Computing", (2)),
+cbind("Statistics and Probability Letters", (1)),
 cbind("Technometrics", (1)),
 cbind("2021 SBSS Student Paper Competition",1)     
 )
