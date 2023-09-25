@@ -104,5 +104,7 @@ I am interested in Bayesian mixtures, Bayesian nonparametrics, model-based clust
 
 ---
 
-**Email**: francesco.denti@unicatt.it
+**Email**: francesco (dot) denti (at) unicatt (dot) it  
+**Office**: 324, Lanzone 18 building, third floor - Main campus
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2798.4534860530503!2d9.174485875257238!3d45.46066803367586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4786c155db6d6b73%3A0x680ade2cccd18046!2sVia%20Lanzone%2C%2018%2C%2020123%20Milano%20MI!5e0!3m2!1sen!2sit!4v1695628361756!5m2!1sen!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
