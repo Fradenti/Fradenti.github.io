@@ -8,3 +8,6 @@
 .rev-lists > ol > li:after {
   content: counter(item);
 }
+
+
+a{text-decoration:none; border:none;}
