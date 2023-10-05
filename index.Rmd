@@ -96,7 +96,7 @@ I am interested in Bayesian mixtures, Bayesian nonparametrics, model-based clust
 </svg>
 </a>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://arxiv.org/search/?searchtype=author&query=Denti%2C+">
+<a href="https://arxiv.org/search/?query=Denti%2C+Francesco&searchtype=author&abstracts=show&order=-announced_date_first&size=50">
 <svg viewBox="0 0 448 512" style="position:relative;display:inline-block;top:.1em;fill:black;height:5em;href:https://github.com;" xmlns="http://www.w3.org/2000/svg">
   <g label="icon" id="layer6" groupmode="layer">
     <g transform="matrix(1.5499998,0,0,-1.5499998,-123.19936,553.59966)" id="g4" style="stroke-width:0.645161">
