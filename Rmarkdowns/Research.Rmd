@@ -54,6 +54,14 @@ Rosenrot - Rammstein </p>
 
 <ol reversed>
 
+<br>
+
+<li> Benedetti, L., Boniardi, E., Chiani, L., Ghirri, J., Mastropietro, M., Cappozzo, A., and **Denti, F.**   
+*Variational Inference for Semiparametric Bayesian Novelty Detection in Large Datasets*  
+<tt>Advances in Data Analysis and Classification</tt>, 2023 - In press     
+<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/abs/2212.01865)</button>  
+
+<br>
 
 <li>  Varghese, A., Santos-Fernandez E., **Denti, F.**, Mira, A., and Mergensen, K.  
 *A global perspective on the intrinsic dimensionality of COVID-19 data*    
@@ -88,7 +96,7 @@ Rosenrot - Rammstein </p>
 
 <li>  **Denti, F.**, Azevedo, R., Lo, C., Wheeler, D. G., Gandhi, S.P.,Guindani, M., and Shahbaba, B.  
 *A Horseshoe mixture model for Bayesian screening with an application to light sheet fluorescence microscopy in brain imaging*  
-<tt>Annals of Applied Statistics</tt>, 2023 - In Press  
+<tt>Annals of Applied Statistics</tt>, 2023  
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://doi.org/10.1214/23-AOAS1736)</button>
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/abs/2106.08281)</button>  
 </li> 
@@ -293,9 +301,6 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 *A finite-infinite shared atoms nested model for the Bayesian nonparametric analysis of large data sets* - Submitted  
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:grey;">[Work in progress](/Rmarkdowns/Research)</button>
 
-1.  Benedetti, L., Boniardi, E., Chiani, L., Ghirri, J., Mastropietro, M., Cappozzo,A., and **Denti, F.**  
-*Variational Inference for Semiparametric Bayesian Novelty Detection in Large Datasets* - Submitted  
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/abs/2212.01865)</button>  
 
 ***
 
@@ -304,11 +309,22 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 <br>
 
-* **intRinsic** - R package  
+* **SANba** - R package - In collaboration with L. D'Angelo  
+<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:gray;">[Github](https://github.com/Fradenti/SANba)</button>
+
+* **SANvi** - R package - In collaboration with L. D'Angelo  
+<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Github](https://github.com/Fradenti/SANvi)</button>
+<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[CRAN](https://CRAN.R-project.org/package=SANvi)</button>  
+
+* **SANple** - R package - In collaboration with L. D'Angelo    
+<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Github](https://github.com/laura-dangelo/SANple)</button>
+<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[CRAN](https://CRAN.R-project.org/package=SANple)</button>  
+
+* **intRinsic** - R package - In collaboration with A. Gilardi  
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Github](https://github.com/Fradenti/intRinsic)</button>
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[CRAN](https://CRAN.R-project.org/package=intRinsic)</button>  
 
-* **Brand** - R package  
+* **Brand** - R package - In collaboration with A. Cappozzo  
 <button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Github](https://github.com/Fradenti/Brand)</button>
 
 ***
