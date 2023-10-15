@@ -12,8 +12,8 @@ output:
 <br>
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Main page](/index)</button>
 <button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Conferences and Talks](/Rmarkdowns/ConferencesAndTalks)</button>
-<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Teaching](/Rmarkdowns/Teaching)
-</button>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Teaching](/Rmarkdowns/Teaching)</button>
+ 
 <br>
 
 ***
@@ -29,7 +29,7 @@ output:
 <br>
 
 
-## Scientific publications {.tabset .tabset-fade}
+## Publications {.tabset .tabset-fade}
 
 <br>
 
@@ -59,16 +59,15 @@ Rosenrot - Rammstein </p>
 <li> Benedetti, L., Boniardi, E., Chiani, L., Ghirri, J., Mastropietro, M., Cappozzo, A., and **Denti, F.**   
 *Variational Inference for Semiparametric Bayesian Novelty Detection in Large Datasets*  
 <tt>Advances in Data Analysis and Classification</tt>, 2023 - In press     
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/abs/2212.01865)</button>  
+[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11.2%}](https://arxiv.org/abs/2212.01865)
 
 <br>
 
 <li>  Varghese, A., Santos-Fernandez E., **Denti, F.**, Mira, A., and Mergensen, K.  
 *A global perspective on the intrinsic dimensionality of COVID-19 data*    
 <tt>Scientific Reports</tt>, 2023     
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://doi.org/10.1038/s41598-023-36116-1
-)</button>
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/pdf/2203.04165.pdf)</button>  
+[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://www.nature.com/articles/s41598-023-36116-1)
+[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11.2%}](https://arxiv.org/abs/2212.01865)
 </li> 
 
 <br>
@@ -76,8 +75,8 @@ Rosenrot - Rammstein </p>
 <li> **Denti, F.**, Peluso, S., Guindani, M., and Mira, A.  
 *Multiple hypothesis screening using mixtures of non-local distributions*  
 <tt>Statistics in Medicine</tt>, 2023     
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.9705)</button>
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/abs/2205.00930)</button>  
+[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.9705)
+[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11.2%}](https://arxiv.org/abs/2212.01865)
 </li> 
 
 <br>
@@ -86,8 +85,8 @@ Rosenrot - Rammstein </p>
 <li> **Denti, F.**  
 *intRinsic: an R package for the package for model-based estimation of the intrinsic dimension of a dataset*  
 <tt>Journal of Statistical Software</tt>, 2023    
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://doi.org/10.18637/jss.v106.i09)</button>
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](http://arxiv.org/abs/2102.11425)</button>  
+[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://doi.org/10.18637/jss.v106.i09) 
+[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11.2%}](https://arxiv.org/abs/2102.11425)   
 </li> 
 
 <br>
@@ -97,8 +96,8 @@ Rosenrot - Rammstein </p>
 <li>  **Denti, F.**, Azevedo, R., Lo, C., Wheeler, D. G., Gandhi, S.P.,Guindani, M., and Shahbaba, B.  
 *A Horseshoe mixture model for Bayesian screening with an application to light sheet fluorescence microscopy in brain imaging*  
 <tt>Annals of Applied Statistics</tt>, 2023  
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://doi.org/10.1214/23-AOAS1736)</button>
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/abs/2106.08281)</button>  
+[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://doi.org/10.1214/23-AOAS1736) 
+[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11.2%}](https://arxiv.org/abs/2106.08281)   
 </li> 
 
 <br>
@@ -106,8 +105,8 @@ Rosenrot - Rammstein </p>
 <li> **Denti, F.**, Doimo, D., Laio, A., and Mira, A.  
 *Gride: a novel likelihood-based intrinsic dimension estimator*  
 <tt>Scientific Reports</tt>, 2022  
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://www.nature.com/articles/s41598-022-20991-1)</button>
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/abs/2104.13832)</button>  
+[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://www.nature.com/articles/s41598-022-20991-1) 
+[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11.2%}](https://arxiv.org/abs/2104.13832)   
 </li> 
 
 <br>
@@ -115,8 +114,8 @@ Rosenrot - Rammstein </p>
 <li> Santos-Fernandez, E., **Denti, F.**, Mengersen, K., and Mira A.  
 *The role of intrinsic dimension in high-resolution player tracking data -- Insights in basketball*  
 <tt>Annals of Applied Statistics</tt>, 2021  
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-1/The-role-of-intrinsic-dimension-in-high-resolution-player-tracking/10.1214/21-AOAS1506.short)</button>
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/abs/2002.04148)</button>  
+[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-1/The-role-of-intrinsic-dimension-in-high-resolution-player-tracking/10.1214/21-AOAS1506.short) 
+[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11.2%}](https://arxiv.org/abs/2002.04148)   
 </li> 
 
 <br>
@@ -124,8 +123,8 @@ Rosenrot - Rammstein </p>
 <li> **Denti, F.**, Camerlenghi, F., Guindani, M., and Mira, A.  
 *A Common Atom Model for the Bayesian Nonparametric Analysis of Nested Data*  
 <tt>Journal of the American Statistical Association</tt>, 2021   
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://doi.org/10.1080/01621459.2021.1933499)</button>
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/abs/2008.07077)</button>  
+[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://doi.org/10.1080/01621459.2021.1933499) 
+[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11.2%}](https://arxiv.org/abs/2008.07077)   
 </li> 
 
 <br>
@@ -133,8 +132,8 @@ Rosenrot - Rammstein </p>
 <li> **Denti, F.**, Cappozzo, A., and Greselin, F.  
 *A Two-Stage Bayesian Semiparametric Model for Novelty Detection with Robust Prior Information*  
 <tt>Statistics and Computing</tt>, 2021  
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://doi.org/10.1007/s11222-021-10017-7)</button>
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/abs/2006.09012)</button>  
+[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://doi.org/10.1007/s11222-021-10017-7) 
+[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11.2%}](https://arxiv.org/abs/2006.09012)   
 </li> 
 
 <br>
@@ -142,8 +141,8 @@ Rosenrot - Rammstein </p>
 <li> Allegra, M., Facco, E.  , **Denti, F.**, Laio, A., and Mira, A.  
 *Data segmentation based on the local intrinsic dimension*  
 <tt>Scientific Reports</tt>, 2020   
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://www.nature.com/articles/s41598-020-72222-0)</button>
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](https://arxiv.org/abs/1902.10459)</button>  
+[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://www.nature.com/articles/s41598-020-72222-0) 
+[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11.2%}](https://arxiv.org/abs/1902.10459)   
 </li> 
 
 <br>
@@ -151,8 +150,8 @@ Rosenrot - Rammstein </p>
 <li> **Denti, F.**, Guindani, M., Leisen, F., Lioji, A., and Vannucci, M.  
 *Two-group Poisson-Dirichlet mixtures for multiple testing*  
 <tt>Biometrics</tt>, 2020  
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://onlinelibrary.wiley.com/doi/10.1111/biom.13314)</button>
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Preprint](../pdf/BNPT.pdf)</button>  
+[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://onlinelibrary.wiley.com/doi/10.1111/biom.13314) 
+[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11.2%}](../pdf/BNPT.pdf)   
 </li> 
 </ol>
 
@@ -165,7 +164,7 @@ Rosenrot - Rammstein </p>
 <li> Migliavada, R., Ricci, F. Z., **Denti, F.**, Haghverdian, D., and Torri, L.    
 *Is purchasing of vegetable dishes affected by organic or local labels? Empirical evidence from a university canteen*  
 <tt>Appetite</tt>, 2022  
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://www.sciencedirect.com/science/article/pii/S0195666322000861?dgcid=author)</button>  
+[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://www.sciencedirect.com/science/article/pii/S0195666322000861?dgcid=author)   
 </li> 
 
 <br>
@@ -173,7 +172,7 @@ Rosenrot - Rammstein </p>
 <li> Petazzoni, M., De Giacinto, E., Troiano, D., **Denti, F.**, and Buiatti, M.  
 *Computed Tomographic Trochlear Depth Measurement in Normal Dogs*  
 <tt>Journal of Veterinary and Comparative Orthopaedics and Traumatology</tt>, 2018  
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Article](https://pubmed.ncbi.nlm.nih.gov/30300915/)</button> </li> 
+[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://pubmed.ncbi.nlm.nih.gov/30300915/)  </li> 
 </ol>
 
 
@@ -226,7 +225,7 @@ Capitoli, G., Colombara, S., Cotroneo, A., De Caro, F., Morandi, R., Schembri, C
 
 in F.M. Chelli, M. Ciommi, S. Ingrassia, F. Mariani, M.C. Recchioni (a cura di) <tt>Book of Short Papers SEAS IN 2023</tt>, Pearson.
 
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Proceedings](https://it.pearson.com/docenti/universita/partnership/sis.html)</button>  
+[![Static Badge](https://img.shields.io/badge/_-Proceedings-blue?color=blue){width=9.5%}](https://it.pearson.com/docenti/universita/partnership/sis.html)   
 
 
 <br>
@@ -247,7 +246,7 @@ in F.M. Chelli, M. Ciommi, S. Ingrassia, F. Mariani, M.C. Recchioni (a cura di) 
 
 in A. Balzanella, M. Bini, C. Cavicchia, and R. Verde (a cura di), <tt>Book of Short Papers SIS 2022</tt>, Pearson. 
 
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Proceedings](https://it.pearson.com/docenti/universita/partnership/sis.html)</button>  
+[![Static Badge](https://img.shields.io/badge/_-Proceedings-blue?color=blue){width=9.5%}](https://it.pearson.com/docenti/universita/partnership/sis.html)   
 
 <br>
 
@@ -255,7 +254,7 @@ in A. Balzanella, M. Bini, C. Cavicchia, and R. Verde (a cura di), <tt>Book of S
 <li> **Denti, F.**, Cappozzo, A., and Greselin, F.    
 *Outlier and novelty detection for Functional data: a semiparametric Bayesian approach*  
 in <tt>Book of Short Papers of the 5th international workshop on Models and Learning for Clustering and Classification</tt>, (Ingrassia A., Punzo A., Rocci R., editors) (pp. 33-38). Ledizioni.  
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Proceeding](https://zenodo.org/record/5598945\#.YZPWzy-B0qy)</button>  
+[![Static Badge](https://img.shields.io/badge/_-Proceeding-blue?color=blue){width=9.5%}](https://zenodo.org/record/5598945\#.YZPWzy-B0qy)   
 </li> 
 
 <br>
@@ -263,8 +262,7 @@ in <tt>Book of Short Papers of the 5th international workshop on Models and Lear
 <li> **Denti, F.**, Cappozzo, A., and Greselin, F.    
 *Bayesian nonparametric adaptive classification with robust prior information*    
 in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), <tt>Book of Short Papers SIS 2020</tt> (pp. 655-660). Pearson.  
-<button type="button" name="button" class="btn btn-primary btn-sm"
-style="background-color:white;color:blue;">[Proceeding](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Università/Pearson-SIS-2020-atti-convegno.pdf)</button>  
+[![Static Badge](https://img.shields.io/badge/_-Proceeding-blue?color=blue){width=9.5%}](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Università/Pearson-SIS-2020-atti-convegno.pdf)   
 </li> 
 
 
@@ -275,7 +273,8 @@ style="background-color:white;color:blue;">[Proceeding](https://it.pearson.com/c
 <li> Caponera, A., **Denti, F.**, Rigon, T., Sottosanti, A., and Gelfand, A.
   *Hierarchical Spatio-Temporal Modeling of Resting State fMRI Data*    
 in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., Scarpa, B., editors), 2018.  
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Book Chapter](https://link.springer.com/chapter/10.1007/978-3-030-00039-4_7)</button>  
+[![Static Badge](https://img.shields.io/badge/_-Book Chapter-blue?color=blue){width=9.5%}](https://link.springer.com/chapter/10.1007/978-3-030-00039-4_7)   
+
 </li> 
 
 
@@ -284,7 +283,7 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 ***
 
 
-### Submitted manuscripts
+### Manuscripts
 
 <br>
 
@@ -298,8 +297,18 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 
 1.  D'Angelo, L. and **Denti, F.**  
-*A finite-infinite shared atoms nested model for the Bayesian nonparametric analysis of large data sets* - Submitted  
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:grey;">[Work in progress](/Rmarkdowns/Research)</button>
+*A finite-infinite shared atoms nested model for the Bayesian nonparametric analysis of large data sets*  
+![Static Badge](https://img.shields.io/badge/_-Submitted-blue?color=gray){width=9.5%}
+<!--
+1. **Denti, F.** and D'Angelo, L.  
+*The Influence of Stick-Breaking Priors on the Correlation Among Nonparametric Nested Common Atoms Random Measures*  
+![Static Badge](https://img.shields.io/badge/_-Submitted-blue?color=gray){width=9.5%}
+
+1. **Denti, F.** and D'Angelo, L.  
+*SANba: An R Package for Bayesian Clustering of Distributions via Shared Atoms Nested Models*  
+![Static Badge](https://img.shields.io/badge/_-Submitted-blue?color=gray){width=9.5%}
+-->
+
 
 
 ***
@@ -309,28 +318,53 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 <br>
 
-* **SANba** - R package - In collaboration with L. D'Angelo  
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:gray;">[Github](https://github.com/Fradenti/SANba)</button>
+#### On CRAN
 
 * **SANvi** - R package - In collaboration with L. D'Angelo  
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Github](https://github.com/Fradenti/SANvi)</button>
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[CRAN](https://CRAN.R-project.org/package=SANvi)</button>  
+[![R-CMD-check](https://github.com/fradenti/SANvi/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/fradenti/SANvi/actions/workflows/R-CMD-check.yaml)
+[![CRAN](https://www.r-pkg.org/badges/version/SANvi)](https://cran.r-project.org/package=SANvi)
+[![Downloads (monthly)](https://cranlogs.r-pkg.org/badges/SANvi?color=brightgreen)](https://www.r-pkg.org/pkg/SANvi)
+[![Downloads (total)](https://cranlogs.r-pkg.org/badges/grand-total/SANvi?color=brightgreen)](https://www.r-pkg.org/pkg/SANvi)
+[![Static Badge](https://img.shields.io/badge/%20-GitHub%20repository-blue?logo=github&color=black)](https://github.com/Fradenti/SANvi)
+[![Last Commit](https://img.shields.io/github/last-commit/fradenti/SANvi)](https://github.com/fradenti/SANvi)
+
+<br>
 
 * **SANple** - R package - In collaboration with L. D'Angelo    
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Github](https://github.com/laura-dangelo/SANple)</button>
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[CRAN](https://CRAN.R-project.org/package=SANple)</button>  
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/laura-dangelo/SANple/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/laura-dangelo/SANple/actions/workflows/R-CMD-check.yaml)
+[![CRAN](https://www.r-pkg.org/badges/version/SANple)](https://cran.r-project.org/package=SANple)
+[![Downloads (monthly)](https://cranlogs.r-pkg.org/badges/SANple?color=brightgreen)](https://www.r-pkg.org/pkg/SANple)
+[![Downloads (total)](https://cranlogs.r-pkg.org/badges/grand-total/SANple?color=brightgreen)](https://www.r-pkg.org/pkg/SANple)
+[![Static Badge](https://img.shields.io/badge/%20-GitHub%20repository-blue?logo=github&color=black)](https://github.com/laura-dangelo/SANple)
+[![Last Commit](https://img.shields.io/github/last-commit/laura-dangelo/SANple)](https://github.com/laura-dangelo/SANple)  
+
+<br>
+
 
 * **intRinsic** - R package - In collaboration with A. Gilardi  
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Github](https://github.com/Fradenti/intRinsic)</button>
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[CRAN](https://CRAN.R-project.org/package=intRinsic)</button>  
+[![R-CMD-check](https://github.com/Fradenti/intRinsic/workflows/R-CMD-check/badge.svg)](https://github.com/Fradenti/intRinsic/actions)
+[![CRAN](https://www.r-pkg.org/badges/version/intRinsic)](https://cran.r-project.org/package=intRinsic)
+[![Downloads (monthly)](https://cranlogs.r-pkg.org/badges/intRinsic?color=brightgreen)](https://www.r-pkg.org/pkg/intRinsic)
+[![Downloads (total)](https://cranlogs.r-pkg.org/badges/grand-total/intRinsic?color=brightgreen)](https://www.r-pkg.org/pkg/intRinsic)
+[![Static Badge](https://img.shields.io/badge/%20-GitHub%20repository-blue?logo=github&color=black)](&link=https://github.com/Fradenti/intRinsic)
+[![Last Commit](https://img.shields.io/github/last-commit/fradenti/intRinsic)](https://github.com/fradenti/intRinsic)
+
+<br>
+
+#### On GitHub
+
+* **SANba** - R package - In collaboration with L. D'Angelo  
+[![Static Badge](https://img.shields.io/badge/%20-GitHub%20repository-blue?logo=github&color=black)](link=https://github.com/Fradenti/SANba)
+<br>
 
 * **Brand** - R package - In collaboration with A. Cappozzo  
-<button type="button" name="button" class="btn btn-primary btn-sm" style="background-color:white;color:blue;">[Github](https://github.com/Fradenti/Brand)</button>
+[![Static Badge](https://img.shields.io/badge/%20-GitHub%20repository-blue?logo=github&color=black)](https://github.com/Fradenti/Brand)
+<br>
 
 ***
 
 #
-
 
 <img style = "border-radius: 50px;"
   src="../images/f2.jpeg?raw=true" class="article-banner" itemprop="image">
@@ -391,10 +425,10 @@ kableExtra::kable_styling(knitr::kable(D))
      
 ---
 
- <br>
 <br>
-<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Main page](/index)</button>
-<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Conferences and Talks](/Rmarkdowns/ConferencesAndTalks)</button>
-<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Teaching](/Rmarkdowns/Teaching)
-</button>
+<br>
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Main page](/index)</button> 
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Conferences and Talks](/Rmarkdowns/ConferencesAndTalks)</button> 
+<button type="button" name="button" class="btn" style="background-color:white;color:blue;width: 32%;">[Teaching](/Rmarkdowns/Teaching)</button>
+ 
 <br>
