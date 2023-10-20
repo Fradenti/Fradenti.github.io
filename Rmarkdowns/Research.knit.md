@@ -224,7 +224,7 @@ Capitoli, G., Colombara, S., Cotroneo, A., De Caro, F., Morandi, R., Schembri, C
 </li>
 
 in F.M. Chelli, M. Ciommi, S. Ingrassia, F. Mariani, M.C. Recchioni (a cura di) <tt>Book of Short Papers SEAS IN 2023</tt>, Pearson.  
-[![Static Badge](https://img.shields.io/badge/_-Book of short papers-blue?color=blue){width=10.5%}](https://it.pearson.com/docenti/universita/partnership/sis.html)   
+[![Static Badge](https://img.shields.io/badge/_-Book of short papers-blue?color=blue){width=13%}](https://it.pearson.com/docenti/universita/partnership/sis.html)   
 
 
 <br>
@@ -244,7 +244,7 @@ in F.M. Chelli, M. Ciommi, S. Ingrassia, F. Mariani, M.C. Recchioni (a cura di) 
 </li>  
 
 in A. Balzanella, M. Bini, C. Cavicchia, and R. Verde (a cura di), <tt>Book of Short Papers SIS 2022</tt>, Pearson. 
-[![Static Badge](https://img.shields.io/badge/_-Book of short papers-blue?color=blue){width=10.5%}](https://it.pearson.com/docenti/universita/partnership/sis.html)   
+[![Static Badge](https://img.shields.io/badge/_-Book of short papers-blue?color=blue){width=13%}](https://it.pearson.com/docenti/universita/partnership/sis.html)   
 
 <br>
 
@@ -252,7 +252,7 @@ in A. Balzanella, M. Bini, C. Cavicchia, and R. Verde (a cura di), <tt>Book of S
 <li> **Denti, F.**, Cappozzo, A., and Greselin, F.    
 *Outlier and novelty detection for Functional data: a semiparametric Bayesian approach*  
 in <tt>Book of Short Papers of the 5th international workshop on Models and Learning for Clustering and Classification</tt>, (Ingrassia A., Punzo A., Rocci R., editors) (pp. 33-38). Ledizioni.  
-[![Static Badge](https://img.shields.io/badge/_-Book of short papers-blue?color=blue){width=10.5%}](https://zenodo.org/record/5598945\#.YZPWzy-B0qy)   
+[![Static Badge](https://img.shields.io/badge/_-Book of short papers-blue?color=blue){width=13%}](https://zenodo.org/record/5598945\#.YZPWzy-B0qy)   
 </li> 
 
 <br>
@@ -260,7 +260,7 @@ in <tt>Book of Short Papers of the 5th international workshop on Models and Lear
 <li> **Denti, F.**, Cappozzo, A., and Greselin, F.    
 *Bayesian nonparametric adaptive classification with robust prior information*    
 in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), <tt>Book of Short Papers SIS 2020</tt> (pp. 655-660). Pearson.  
-[![Static Badge](https://img.shields.io/badge/_-Proceeding-blue?color=blue){width=10.5%}](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Università/Pearson-SIS-2020-atti-convegno.pdf)   
+[![Static Badge](https://img.shields.io/badge/_-Book of short papers-blue?color=blue){width=13%}](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Università/Pearson-SIS-2020-atti-convegno.pdf)   
 </li> 
 
 
@@ -271,7 +271,7 @@ in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), <tt>Book of Shor
 <li> Caponera, A., **Denti, F.**, Rigon, T., Sottosanti, A., and Gelfand, A.
   *Hierarchical Spatio-Temporal Modeling of Resting State fMRI Data*    
 in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., Scarpa, B., editors), 2018.  
-[![Static Badge](https://img.shields.io/badge/_-Book Chapter-blue?color=blue){width=10.5%}](https://link.springer.com/chapter/10.1007/978-3-030-00039-4_7)   
+[![Static Badge](https://img.shields.io/badge/_-Book Chapter-blue?color=blue){width=12%}](https://link.springer.com/chapter/10.1007/978-3-030-00039-4_7)   
 
 </li> 
 
@@ -296,15 +296,15 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 1.  D'Angelo, L. and **Denti, F.**  
 *A finite-infinite shared atoms nested model for the Bayesian nonparametric analysis of large data sets*  
-![Static Badge](https://img.shields.io/badge/_-Submitted-blue?color=gray){width=10.5%}
+![Static Badge](https://img.shields.io/badge/_-Submitted-blue?color=gray){width=13%}
 <!--
 1. **Denti, F.** and D'Angelo, L.  
 *The Influence of Stick-Breaking Priors on the Correlation Among Nonparametric Nested Common Atoms Random Measures*  
-![Static Badge](https://img.shields.io/badge/_-Submitted-blue?color=gray){width=10.5%}
+![Static Badge](https://img.shields.io/badge/_-Submitted-blue?color=gray){width=13%}
 
 1. **Denti, F.** and D'Angelo, L.  
 *SANba: An R Package for Bayesian Clustering of Distributions via Shared Atoms Nested Models*  
-![Static Badge](https://img.shields.io/badge/_-Submitted-blue?color=gray){width=10.5%}
+![Static Badge](https://img.shields.io/badge/_-Submitted-blue?color=gray){width=13%}
 -->
 
 
@@ -382,32 +382,88 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 <!--
 Advances in Statistical Analysis (AStA, 1) --- Bayesian Analysis (BA, 3) --- Biometrics (2) --- Computational Statistics \& Data Analysis (CSDA, 2) --- International Statistical Review (3) ---  Italian Journal of Applied Statistics (1) --- Journal of the American Statistical Association (JASA - A&CS, 1) --- Journal of Computational and Graphical Statistics (JCGS, 1) --- Journal of Statistical Software (JSS, 2) --- Journal of the Royal Statistical Society - Series B (JRSS-B ,1) --- Pattern Recognition (1) --- Statistics and Computing (2) --- Statistical Methods and Applications (SMA, 2) --- Statistical Science (2) --- Technometrics (1) --- 2021 SBSS Student Paper Competition     
 -->
-```{r,echo=F}
-D <- rbind(
-cbind("Advances in Statistical Analysis (AStA)", 1), 
-cbind("Bayesian Analysis (BA)", 3), 
-cbind("Biometrics", (2)),
-cbind("Computational Statistics & Data Analysis (CSDA)", (2)),
-cbind("International Statistical Review", (3)),
-cbind("Italian Journal of Applied Statistics", (1)),
-cbind("Journal of the American Statistical Association (JASA - A&CS)", 1),
-cbind("Journal of Computational and Graphical Statistics (JCGS)", 1),
-cbind("Journal of Statistical Software (JSS)", 2),
-cbind("Journal of the Royal Statistical Society - Series B (JRSS-B)",1),
-cbind("Pattern Recognition", (2)),
-cbind("Statistical Methods and Applications (SMA)", 2),
-cbind("Statistical Science", (2)),
-cbind("Statistics and Computing", (2)),
-cbind("Statistics and Probability Letters", (1)),
-cbind("Technometrics", (1)),
-cbind("2021 SBSS Student Paper Competition",1),
-cbind("IEEE CIBCB 2023 - Special Session",1)
-)
-D = as.data.frame(D)
-D[,2] = as.numeric(D[,2])
-colnames(D) <- c("Journal","# revisions")
-kableExtra::kable_styling(knitr::kable(D))
-```
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Journal </th>
+   <th style="text-align:right;"> # revisions </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Advances in Statistical Analysis (AStA) </td>
+   <td style="text-align:right;"> 1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Bayesian Analysis (BA) </td>
+   <td style="text-align:right;"> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Biometrics </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Computational Statistics &amp; Data Analysis (CSDA) </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> International Statistical Review </td>
+   <td style="text-align:right;"> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Italian Journal of Applied Statistics </td>
+   <td style="text-align:right;"> 1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Journal of the American Statistical Association (JASA - A&amp;CS) </td>
+   <td style="text-align:right;"> 1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Journal of Computational and Graphical Statistics (JCGS) </td>
+   <td style="text-align:right;"> 1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Journal of Statistical Software (JSS) </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Journal of the Royal Statistical Society - Series B (JRSS-B) </td>
+   <td style="text-align:right;"> 1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Pattern Recognition </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Statistical Methods and Applications (SMA) </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Statistical Science </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Statistics and Computing </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Statistics and Probability Letters </td>
+   <td style="text-align:right;"> 1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Technometrics </td>
+   <td style="text-align:right;"> 1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 2021 SBSS Student Paper Competition </td>
+   <td style="text-align:right;"> 1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> IEEE CIBCB 2023 - Special Session </td>
+   <td style="text-align:right;"> 1 </td>
+  </tr>
+</tbody>
+</table>
 
      
 [**<**](/index)
