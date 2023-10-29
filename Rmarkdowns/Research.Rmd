@@ -387,6 +387,7 @@ D <- rbind(
 cbind("Advances in Statistical Analysis (AStA)", 1), 
 cbind("Bayesian Analysis (BA)", 3), 
 cbind("Biometrics", (2)),
+cbind("Communications in Statistics", (1)),
 cbind("Computational Statistics & Data Analysis (CSDA)", (2)),
 cbind("International Statistical Review", (3)),
 cbind("Italian Journal of Applied Statistics", (1)),
@@ -405,7 +406,7 @@ cbind("IEEE CIBCB 2023 - Special Session",1)
 )
 D = as.data.frame(D)
 D[,2] = as.numeric(D[,2])
-colnames(D) <- c("Journal","# revisions")
+colnames(D) <- c("Journal","# Reviews")
 kableExtra::kable_styling(knitr::kable(D))
 ```
 
