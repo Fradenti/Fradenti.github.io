@@ -83,6 +83,11 @@ Statistics Department Seminar - April 2022 - [ <img  width="20" height="20" src=
 ### Contributed Talks
 
 <br>
+<li>  [BAYSM 2023](https://events.stat.uconn.edu/BAYSM2023/)   
+      Contributed Talk: *Segmenting MALDI-MSI brain imaging mass spectrometry data under separate exchangeability*  
+      Virtual Conference - November 2023 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/baysm)
+</li>
+<br>
 <li>  [SIS 2023](https://meetings3.sis-statistica.org/index.php/ancona/ancona)   
       Contributed Talk with Poster: *Bayesian analysis of Amazon's best-selling books via finite nested mixture models*  
       Ancona, IT - June 2023 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/sis23)
