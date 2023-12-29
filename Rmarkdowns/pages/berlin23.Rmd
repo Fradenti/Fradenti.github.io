@@ -1,0 +1,9 @@
+---
+title: "&nbsp;"
+output: 
+  html_document
+---
+
+[**<**](/Rmarkdowns/ConferencesAndTalks.html)
+
+![Mustafa's Gemüse Kebab Kiosk - More crowded than the conference!](../images/berlin23.jpg)

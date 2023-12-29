@@ -37,6 +37,11 @@ E le altre volte dovrei stare zitto perché parlo senza aver studiato.</em>&quot
 
 ### Invited Talks
 
+<li>  [CMStatistics 2023 (Ercim)](https://www.cmstatistics.org/CMStatistics2023/programme.php)  
+Invited virtual talk: *Bayesian models and computational methods for complex biological and environmental datasets*  
+Berlin, GE - December 2023 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/berlin23)
+</li>
+
 <br>
 
 <li>  [CMStatistics 2022 (Ercim)](http://www.cmstatistics.org/CMStatistics2022/index.php)  

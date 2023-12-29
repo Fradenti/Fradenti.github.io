@@ -403,6 +403,7 @@ cbind("Statistical Science", (2)),
 cbind("Statistics and Computing", (2)),
 cbind("Statistics and Probability Letters", (1)),
 cbind("Technometrics", (1)),
+cbind("The American Statistician", (1)),
 cbind("2021 SBSS Student Paper Competition",1),
 cbind("IEEE CIBCB 2023 - Special Session",1)
 )
