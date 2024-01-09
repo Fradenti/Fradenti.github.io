@@ -58,7 +58,7 @@ Rosenrot - Rammstein </p>
 
 <li> Benedetti, L., Boniardi, E., Chiani, L., Ghirri, J., Mastropietro, M., Cappozzo, A., and **Denti, F.**   
 *Variational Inference for Semiparametric Bayesian Novelty Detection in Large Datasets*  
-<tt>Advances in Data Analysis and Classification</tt>, 2023 - In press     
+<tt>Advances in Data Analysis and Classification</tt>, 2023     
 [![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://link.springer.com/article/10.1007/s11634-023-00569-z?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231204&utm_content=10.1007/s11634-023-00569-z)
 [![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11.2%}](https://arxiv.org/abs/2212.01865)
 
