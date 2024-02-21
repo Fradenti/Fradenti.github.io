@@ -418,7 +418,9 @@ kableExtra::kable_styling(knitr::kable(D))
          
 ### Others
 
-+ Associate Editor for the [ISBA bulletin](https://bayesian.org/resources/bulletin/) - *News of the World* section  
++ Editor of the [ISBA bulletin](https://bayesian.org/resources/bulletin/) from 2024 
+
++ Associate Editor for the [ISBA bulletin](https://bayesian.org/resources/bulletin/) - *News of the World* section from 2019 to 2024
 
 + Member of [ISBA](https://bayesian.org), [j-ISBA](https://j-isba.github.io), and [BNP-ISBA](https://bnp-isba.github.io)  
 

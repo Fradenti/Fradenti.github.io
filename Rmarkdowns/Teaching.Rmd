@@ -41,6 +41,7 @@ output:
 * TBA
 
 
+
    
 <br>     
 [**<**](/index)
@@ -63,26 +64,32 @@ library(kableExtra)
 ```
 
 ```{r,echo=F}
-corsi <- tibble(`Degree type` =".", Course = "", University = ".", Role = "",`AY` = ".", Hours = ".", Language = ".")
+corsi <- tibble(`Degree type` =".", Course = "", University = ".", Role = "",`  Year` = ".", Hours = ".", Language = ".")
 
 corsi = rbind(corsi,
-              c("MSc in Data Analysis for Businness","Computational Statistics","Unicatt","Principal Instructor + TA", "22-23", "80", "Eng"),
-              c("Master in DS4M","R for Data Science","Unicatt","Principal Instructor", "22-23", "7", "Eng"),
-              c("Master in DS4M","Introduction to Statistics","Unicatt","Principal Instructor", "22-23", "14", "Eng"),
-              c("BSc in Economics","Statistica","Unicatt","Teaching Assistant", "22-23", "24", "Ita"),
-              c("MSc in Data Analysis for Businness","Computational Statistics","Unicatt","Lab Instructor", "21-22", "20", "Eng"),
-              c("MSc in Finance","Advanced Statistics","USI","Teaching Assistant", "19-20", "15", "Eng"),
-              c("MSc in Finance", "Statistics","USI","Teaching Assistant", "18-19", "15", "Eng"),
-              c("BSc in Economics", "Statistica","UniBocconi","Teaching Assistant", "17-18", "24", "Ita"),
-              c("MSc in Finance", "Introduction to Statistics","Unicatt","Principal Instructor", "17-18", "15", "Eng"),
-              c("BSc in Statistics", "Probability","Unimib","Teaching Assistant", "17-18", "34", "Ita"),
-              c("BSc in Statistics", "Probability","Unimib","Teaching Assistant", "16-17", "34", "Ita"),
-              c("BSc in Statistics", "Probability","Unimib","Teaching Assistant", "15-16", "34", "Ita"),
-              c("MSc in Statistics", "Bayesian Statistics","Unimib","Volounteer Teaching Assistant", "16-17", "8", "Ita"))
+              c("MSc in Data Analytics for Businness","Computational Statistics","Unicatt","PrI + TA", "22-23", "80", "Eng"),
+              c("Master in DS4M","R for Data Science","Unicatt","PrI", "22-23", "7", "Eng"),
+              c("Master in DS4M","Introduction to Statistics","Unicatt","PrI", "22-23", "14", "Eng"),
+              c("BSc in Economics","Statistica","Unicatt","TA", "22-23", "24", "Ita"),
+              c("MSc in Data Analysis for Businness","Computational Statistics","Unicatt","TA", "21-22", "20", "Eng"),
+              c("MSc in Finance","Advanced Statistics","USI","TA", "19-20", "15", "Eng"),
+              c("MSc in Finance", "Statistics","USI","TA", "18-19", "15", "Eng"),
+              c("BSc in Economics", "Statistica","UniBocconi","TA", "17-18", "24", "Ita"),
+              c("MSc in Finance", "Introduction to Statistics","Unicatt","PrI", "17-18", "15", "Eng"),
+              c("BSc in Statistics", "Probability","Unimib","TA", "17-18", "34", "Ita"),
+              c("BSc in Statistics", "Probability","Unimib","TA", "16-17", "34", "Ita"),
+              c("BSc in Statistics", "Probability","Unimib","TA", "15-16", "34", "Ita"),
+              c("MSc in Statistics", "Bayesian Statistics","Unimib","vTA", "16-17", "8", "Ita"))
              
 
-kableExtra::kable_styling(kable(corsi[-1,]))
+kableExtra::kable_styling(kable(corsi[-1,])) %>% footnote(c("PI: Principal Instructor  -  TA: Teaching Assistant  -  vTA: volounteer Teaching Assistant"))
 ```
+
+<div class="article-header">
+  <img style = "border-radius: 50px;
+  " src="images/santambrogio.jpg" class="article-banner" itemprop="image">
+</div>
+
 
 <!--
 1. [Apr 19 – Jul 20] Lab instructor (20h), MSc course in **Computational Statistics** (Eng)  
