@@ -77,7 +77,7 @@ Rosenrot - Rammstein </p>
 *Multiple hypothesis screening using mixtures of non-local distributions*  
 <tt>Statistics in Medicine</tt>, 2023     
 [![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.9705)
-[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11%}](https://arxiv.org/abs/2212.01865)
+[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11%}](https://arxiv.org/abs/2205.00930)
 </li> 
 
 <br>
@@ -401,7 +401,7 @@ cbind("Journal of the Royal Statistical Society - Series B (JRSS-B)",1),
 cbind("Pattern Recognition", (2)),
 cbind("Statistical Methods and Applications (SMA)", 2),
 cbind("Statistical Science", (2)),
-cbind("Statistics and Computing", (2)),
+cbind("Statistics and Computing", (3)),
 cbind("Statistics and Probability Letters", (1)),
 cbind("Technometrics", (1)),
 cbind("The American Statistician", (1)),
