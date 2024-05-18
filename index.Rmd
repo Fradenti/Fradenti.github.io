@@ -45,6 +45,17 @@ output:
   
 ---
 
+<br>
+<div style="text-align: right"> <p>&quot;<em>Cammino in mezzo agli altri, tutti più o meno uguali<br>
+E canto nella testa un poco di Brunori SAS<br>
+Faccio parte anch'io di quest'aurea mediocritas.<br>
+E vado ricercando medie senza varianza, un pò di stabilità<br>
+Male non fa</em>&quot;<br>
+Romastino - [Translation](https://translate.google.com/?sl=auto&tl=en&text=Cammino%20in%20mezzo%20agli%20altri%2C%20tutti%20più%20o%20meno%20uguali%0AE%20canto%20nella%20testa%20un%20poco%20di%20Brunori%20SAS%0AFaccio%20parte%20anch%27io%20di%20quest%27aurea%20mediocritas.%0AE%20vado%20ricercando%20medie%20senza%20varianza%2C%20un%20pò%20di%20stabilità%0AMale%20non%20fa%0A&op=translate)
+</p>
+</div>
+
+
 <img style="float: left;vertical-align:middle;margin:0px 20px;border-radius: 20px;
   " src="images/fd.jpg" width="160"> 
   
@@ -114,6 +125,7 @@ I am interested in Bayesian mixtures, Bayesian nonparametrics, model-based clust
 
 ---  
 
+[2024/02/21] I joined the Department of Statistics at the University of Padua as a senior Assistant Professor (RtdB)
 [2023/01/11] One of my postdoc projects, the *Horseshoe mixture model*, got accepted on **AOAS**!  
 [2022/09/15] Our paper on *Generalized Ratios ID* estimation got accepted for publication on **Scientific Reports**!    
 [2022/03/01] Our *collaborative paper* got accepted for publication on **Appetite**!  
@@ -134,10 +146,18 @@ I am interested in Bayesian mixtures, Bayesian nonparametrics, model-based clust
 
 ---
 
+
+
+<div class="article-header">
+  <img 
+  style="float: right;vertical-align:middle;margin:10px 10px;border-radius: 20px;
+  " src="images/glicine.jpg" class="article-banner" itemprop="image"
+  width="500" 
+     height="500">
+</div>
 **Email**: francesco (dot) denti (at) unipd (dot) it  
 **Office**: Room 151, Via Santa Caterina, Padua
-
-
+[Department of Statistics of University of Padua](https://www.stat.unipd.it)
 
 ```{r icon-chunk, echo=FALSE, eval=F}
 suppressMessages(library(icons))

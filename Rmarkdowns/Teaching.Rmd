@@ -38,8 +38,15 @@ output:
 
 <br>
 
-* TBA
+Esercitatore per 
 
+* Metodi Statistici per Big Data
+* Statistica Progredito
+
+<div class="article-header">
+  <img style = "border-radius: 50px;
+  " src="images/PD_square.jpg" class="article-banner" itemprop="image">
+</div>
 
 
    
