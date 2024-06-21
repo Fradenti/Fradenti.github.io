@@ -297,7 +297,8 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 1.  D'Angelo, L. and **Denti, F.**  
 *A finite-infinite shared atoms nested model for the Bayesian nonparametric analysis of large data sets*  
-![Static Badge](https://img.shields.io/badge/_-Submitted-blue?color=gray){width=10.5%}
+[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11%}](https://arxiv.org/abs/2406.13310)   
+
 <!--
 1. **Denti, F.** and D'Angelo, L.  
 *The Influence of Stick-Breaking Priors on the Correlation Among Nonparametric Nested Common Atoms Random Measures*  
