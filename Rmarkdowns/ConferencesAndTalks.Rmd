@@ -37,6 +37,15 @@ E le altre volte dovrei stare zitto perché parlo senza aver studiato.</em>&quot
 
 ### Invited Talks
 
+<br>
+
+<li>  [ISBA Satellite workshop to ISBA World Meeting](https://www.usi.ch/en/feeds/25999)  
+Invited virtual talk: *Segmenting brain imaging mass spectrometry data under separate exchangeability*  
+Lugano, CH - June 2024 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/Lugano24)
+</li>
+
+<br>
+
 <li>  [CMStatistics 2023 (Ercim)](https://www.cmstatistics.org/CMStatistics2023/programme.php)  
 Invited virtual talk: *Bayesian models and computational methods for complex biological and environmental datasets*  
 Berlin, GE - December 2023 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/berlin23)
@@ -143,6 +152,8 @@ Caserta, IT - June 2022 - [ <img  width="20" height="20" src="images/cam3.png"> 
 <br>
 
 ### Other Conferences and Workshops
+
+<br>
 
 <li>  [Statalk 2023](https://statalk2023.shinyapps.io/statalk2023/?fbclid=PAAabvEPTG5lakUm-opB8QfxM5Q7PNjjjkeyir1Hi8cUn3JyBr40GlRXIlYgs)  
       Rome - September 2023 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/statalk)
