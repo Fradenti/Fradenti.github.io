@@ -135,6 +135,11 @@ Caserta, IT - June 2022 - [ <img  width="20" height="20" src="images/cam3.png"> 
 ### Posters
 <br>
 
+<li>  [ISBA 2024 World Meeting](https://www.unive.it/web/en/2208/home)   
+      Poster: *Finite-infinite nested priors for the segmentation of complex, large-scale grouped datasets*   
+      Venice - July 2024 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/isba24)  
+</li>
+<br>
 <li>  [Models and Learning for Clustering and Classification](http://mbc2.unict.it/)   
       Video Poster: *Bayesian Nonparametric Functional Novelty Detector*   
       Virtual Conference - September 2020 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/MBC2)  
@@ -143,7 +148,7 @@ Caserta, IT - June 2022 - [ <img  width="20" height="20" src="images/cam3.png"> 
 <li>  [Young-ISA Twitter Poster Conference (#YISAPoster2020)](https://young-istat.github.io/events/posts/2020-07-15-poster-conference-2020)  
       Virtual Poster: *A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information*  
       Twitter - July 2020 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/YisaPoster)  
-</li>
+</li> 
 <br>
 <li>  [BNP19 - Bayesian Nonparametrics](https://www.stats.ox.ac.uk/bnp12/)  
        Poster: *Modeling Human Microbiome Data via Latent Nested Nonparametric Priors*   
@@ -155,6 +160,10 @@ Caserta, IT - June 2022 - [ <img  width="20" height="20" src="images/cam3.png"> 
 
 <br>
 
+<li>  [Uncertainty, Bayes and Statistics - A meeting in honor of Guido Consonni](https://dipartimenti.unicatt.it/scienze-statistiche-seminari-eventi-uncertainty-bayes-and-statistics-a-meeting-in-honour-of-guido-consonni)  
+      Milan - July 2024 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/consonni24)
+</li>
+<br>
 <li>  [Statalk 2023](https://statalk2023.shinyapps.io/statalk2023/?fbclid=PAAabvEPTG5lakUm-opB8QfxM5Q7PNjjjkeyir1Hi8cUn3JyBr40GlRXIlYgs)  
       Rome - September 2023 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/statalk)
 </li>

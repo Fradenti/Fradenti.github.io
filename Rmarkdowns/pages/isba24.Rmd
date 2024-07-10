@@ -1,0 +1,9 @@
+---
+title: "&nbsp;"
+output: 
+  html_document
+---
+
+[**<**](/Rmarkdowns/ConferencesAndTalks.html)
+
+!["Economics = Astrology for white people", written on a toilet door in Ca' Foscari - Venice's students are very wise.](../images/isba24.jpg)
