@@ -57,7 +57,8 @@ Rosenrot - Rammstein </p>
 <br>
 
 <li> D'Angelo, L. and **Denti, F.**  
-*A finite-infinite shared atoms nested model for the Bayesian nonparametric analysis of large data sets* Accepted in <tt>Bayesian Analysis</tt>, 2024     
+*A finite-infinite shared atoms nested model for the Bayesian nonparametric analysis of large data sets*   
+Just accepted in <tt>Bayesian Analysis</tt>, 2024     
 [![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11%}](https://arxiv.org/abs/2406.13310)
 
 <br>
@@ -300,9 +301,8 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 <br>
 
-...
+Stay tuned!  
 
-[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11%}](https://arxiv.org/abs/2406.13310)   
 
 <!--
 1. **Denti, F.** and D'Angelo, L.  
