@@ -56,6 +56,12 @@ Rosenrot - Rammstein </p>
 
 <br>
 
+<li> D'Angelo, L. and **Denti, F.**  
+*A finite-infinite shared atoms nested model for the Bayesian nonparametric analysis of large data sets* Accepted in <tt>Bayesian Analysis</tt>, 2024     
+[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11%}](https://arxiv.org/abs/2406.13310)
+
+<br>
+
 <li> Benedetti, L., Boniardi, E., Chiani, L., Ghirri, J., Mastropietro, M., Cappozzo, A., and **Denti, F.**   
 *Variational Inference for Semiparametric Bayesian Novelty Detection in Large Datasets*  
 <tt>Advances in Data Analysis and Classification</tt>, 2023     
@@ -294,9 +300,8 @@ in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., S
 
 <br>
 
+...
 
-1.  D'Angelo, L. and **Denti, F.**  
-*A finite-infinite shared atoms nested model for the Bayesian nonparametric analysis of large data sets*  
 [![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11%}](https://arxiv.org/abs/2406.13310)   
 
 <!--
@@ -398,7 +403,7 @@ cbind("International Statistical Review", (3)),
 cbind("Italian Journal of Applied Statistics", (1)),
 cbind("Journal of the American Statistical Association (JASA - A&CS)", 1),
 cbind("Journal of Computational and Graphical Statistics (JCGS)", 1),
-cbind("Journal of Statistical Software (JSS)", 2),
+cbind("Journal of Statistical Software (JSS)", 3),
 cbind("Journal of the Royal Statistical Society - Series B (JRSS-B)",1),
 cbind("Pattern Recognition", (2)),
 cbind("Statistical Methods and Applications (SMA)", 2),
