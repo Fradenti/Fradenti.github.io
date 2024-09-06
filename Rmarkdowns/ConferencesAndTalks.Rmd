@@ -39,6 +39,14 @@ E le altre volte dovrei stare zitto perché parlo senza aver studiato.</em>&quot
 
 <br>
 
+<li>  [Frontiers of Bayesian Inference and Data Science](https://www.birs.ca/events/2024/5-day-workshops/24w5196/schedule)  
+Invited virtual talk: *Of mice and music: finite-infinite nested priors for the segmentation of large-scale grouped data*  
+Oaxaca, MX - September 2024 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/Oax)
+
+</li>
+
+<br>
+
 <li>  [ISBA Satellite workshop to ISBA World Meeting](https://www.usi.ch/en/feeds/25999)  
 Invited virtual talk: *Segmenting brain imaging mass spectrometry data under separate exchangeability*  
 Lugano, CH - June 2024 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/Lugano24)
@@ -48,7 +56,7 @@ Lugano, CH - June 2024 - [ <img  width="20" height="20" src="images/cam3.png"> ]
 
 <li>  [CMStatistics 2023 (Ercim)](https://www.cmstatistics.org/CMStatistics2023/programme.php)  
 Invited virtual talk: *Bayesian models and computational methods for complex biological and environmental datasets*  
-Berlin, GE - December 2023 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/berlin23)
+Berlin, DE - December 2023 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/berlin23)
 </li>
 
 <br>
@@ -60,7 +68,7 @@ London, UK - December 2022 - [ <img  width="20" height="20" src="images/cam3.png
 <br>
 <li>  [ISBA World Meeting 2022](https://isbawebmaster.github.io/ISBA2022/)  
 j-ISBA session invited talk: *Bayesian screening via mixtures of shrinkage priors with applications to light-sheet fluorescence microscopy in brain imaging*  
-Montreal, Canada - June 2022 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/isba22)
+Montreal, CA - June 2022 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/isba22)
 </li>
 <br>
 <li>  [SIS 2022](https://meetings3.sis-statistica.org/index.php/SIS2022/Caserta)  
@@ -79,7 +87,7 @@ Caserta, IT - June 2022 - [ <img  width="20" height="20" src="images/cam3.png"> 
 
 <li>  [CSUEB ASA Student Chapter](https://www.instagram.com/asacsueb/)  
 Invited virtual 1h talk: *Bayesian nonparametric mixtures for novelty detection*  
-Hayward, CA - October 2022 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/csueb22)
+Hayward (California), US - October 2022 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/csueb22)
 </li>
 <br>
 <li>  [Cattolica - Spring 22 Seminar Series](https://dipartimenti.unicatt.it/scienze-statistiche-dipartimento-di-scienze-statistiche-eventi#content)  
@@ -137,7 +145,7 @@ Caserta, IT - June 2022 - [ <img  width="20" height="20" src="images/cam3.png"> 
 
 <li>  [ISBA 2024 World Meeting](https://www.unive.it/web/en/2208/home)   
       Poster: *Finite-infinite nested priors for the segmentation of complex, large-scale grouped datasets*   
-      Venice - July 2024 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/isba24)  
+      Venice, IT - July 2024 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/isba24)  
 </li>
 <br>
 <li>  [Models and Learning for Clustering and Classification](http://mbc2.unict.it/)   
@@ -152,7 +160,7 @@ Caserta, IT - June 2022 - [ <img  width="20" height="20" src="images/cam3.png"> 
 <br>
 <li>  [BNP19 - Bayesian Nonparametrics](https://www.stats.ox.ac.uk/bnp12/)  
        Poster: *Modeling Human Microbiome Data via Latent Nested Nonparametric Priors*   
-       Oxford - June 2019 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/ox) 
+       Oxford, UK - June 2019 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/ox) 
 </li>
 <br>
 
@@ -161,35 +169,35 @@ Caserta, IT - June 2022 - [ <img  width="20" height="20" src="images/cam3.png"> 
 <br>
 
 <li>  [Uncertainty, Bayes and Statistics - A meeting in honor of Guido Consonni](https://dipartimenti.unicatt.it/scienze-statistiche-seminari-eventi-uncertainty-bayes-and-statistics-a-meeting-in-honour-of-guido-consonni)  
-      Milan - July 2024 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/consonni24)
+      Milan, T - July 2024 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/consonni24)
 </li>
 <br>
 <li>  [Statalk 2023](https://statalk2023.shinyapps.io/statalk2023/?fbclid=PAAabvEPTG5lakUm-opB8QfxM5Q7PNjjjkeyir1Hi8cUn3JyBr40GlRXIlYgs)  
-      Rome - September 2023 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/statalk)
+      Rome, IT - September 2023 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/statalk)
 </li>
 <br>
 <li>  [Bayesian Nonparametrics for Complex Data](http://bnp4cd.stat.unipd.it/workshop.html)  
-      Padua - January 2020 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/PAD)
+      Padua, IT - January 2020 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/PAD)
 </li>
 <br>
 <li>  [Network Models in Statistics, Economics and Social Sciences](https://www.eventbrite.it/e/network-models-in-statistics-economics-and-social-registration-59152695304)  
-      Milan - November 2019 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/catto)
+      Milan, IT - November 2019 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/catto)
 </li>
 <br>
 <li>  [Statistical Methods in Imaging - SMI 2019](https://sites.uci.edu/smi2019/)  
-      Irvine - June 2019 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/SMI19)
+      Irvine, US - June 2019 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/SMI19)
 </li> 
 <br>
 <li>  [FoMICS-DADSi Summer School on Data Assimilation](https://www.ics.usi.ch/index.php/news/285-fomics-dadsi-summer-school-on-data-assimilation)  
-      Lugano - September 2018 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/lug)
+      Lugano, CH - September 2018 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/lug)
 </li>
 <br>
 <li>  [LMS Invited Lecture Series and CRISM Summer School in Computational Statistics 2018](https://warwick.ac.uk/fac/sci/statistics/crism/workshops/lms2018/)   
-      Warwick -July 2018 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/Warwick18)
+      Warwick, UK -July 2018 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/Warwick18)
 </li>
 <br>
 <li>  [ISBA](https://bayesian.org/isba2018/)  
-      Edinburgh - June 2018 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/isba.html)
+      Edinburgh, UK - June 2018 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/isba.html)
 </li>
 </ol>
 

@@ -1,0 +1,9 @@
+---
+title: "&nbsp;"
+output: 
+  html_document
+---
+  
+[**<**](/Rmarkdowns/ConferencesAndTalks.html)
+
+![How I felt inside after 9 shots of Mezcal on a empty stomach, after a tasting.](../images/oax.jpg)
