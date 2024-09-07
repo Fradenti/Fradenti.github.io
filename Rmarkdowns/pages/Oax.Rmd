@@ -6,4 +6,6 @@ output:
   
 [**<**](/Rmarkdowns/ConferencesAndTalks.html)
 
+![Hierva El Agua hike gang. Credits: [Dr. R. Corradin](https://rcorradin.github.io) ](../images/HEA.jpeg)
+
 ![How I felt inside after 9 shots of Mezcal on a empty stomach, after a tasting.](../images/oax.jpg)
