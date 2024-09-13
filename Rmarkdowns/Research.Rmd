@@ -212,6 +212,22 @@ Perciò+dovrò+continuare+a+scrivere+perché+di+certo+riesco.
 <ol reversed>
 
 <li>
+**Denti, F.**, Balocchi C., and Capitoli, G.  
+*Segmenting brain MALDI-MSI data under separate exchangeability'*  
+(Proceeding of the BAYSM 2024 conference accepted in the New Trends in Bayesian Statistics Volume)
+</li>
+
+<br>
+
+<li>
+Capitoli, G., Balocchi C., and **Denti, F.**    
+*Bayesian Biclustering on a Renal Cell Carcinoma Tissue Section*  
+(Accepted, In press, SIS 2024 Conference proceeding)
+</li>
+
+<br>
+
+<li>
 D'Angelo, L., and **Denti, F.**  
 *Bayesian analysis of Amazon’s best-selling books via finite nested mixture models* (pp. 1117-1120)
 </li>
@@ -231,7 +247,7 @@ Capitoli, G., Colombara, S., Cotroneo, A., De Caro, F., Morandi, R., Schembri, C
 *Detecting latent spatial patterns in mass spectrometry brain imaging data via Bayesian mixtures*,  (pp. 1127-1132)
 </li>
 
-in F.M. Chelli, M. Ciommi, S. Ingrassia, F. Mariani, M.C. Recchioni (a cura di) <tt>Book of Short Papers SEAS IN 2023</tt>, Pearson.  
+in F.M. Chelli, M. Ciommi, S. Ingrassia, F. Mariani, M.C. Recchioni (a cura di) <tt>Book of Short Papers SEAS IN 2023</tt>, Pearson.    
 [![Static Badge](https://img.shields.io/badge/_-Book of short papers-blue?color=blue){width=10.5%}](https://it.pearson.com/docenti/universita/partnership/sis.html)   
 
 
@@ -406,7 +422,7 @@ cbind("Journal of Computational and Graphical Statistics (JCGS)", 1),
 cbind("Journal of Statistical Software (JSS)", 3),
 cbind("Journal of the Royal Statistical Society - Series B (JRSS-B)",1),
 cbind("Pattern Recognition", (2)),
-cbind("Statistical Methods and Applications (SMA)", 2),
+cbind("Statistical Methods and Applications (SMA)", 3),
 cbind("Statistical Science", (2)),
 cbind("Statistics and Computing", (3)),
 cbind("Statistics and Probability Letters", (1)),
