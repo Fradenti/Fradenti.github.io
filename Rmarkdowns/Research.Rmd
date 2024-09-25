@@ -58,9 +58,13 @@ Rosenrot - Rammstein </p>
 
 <li> D'Angelo, L. and **Denti, F.**  
 *A finite-infinite shared atoms nested model for the Bayesian nonparametric analysis of large data sets*   
-Just accepted in <tt>Bayesian Analysis</tt>, 2024     
-[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11%}](https://arxiv.org/abs/2406.13310)
+<tt>Bayesian Analysis</tt>, 2024     
+[[Journal](https://arxiv.org/abs/2406.13310) - [Preprint]() - [GitHub]()]
 
+<!--
+[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/A-Finite-Infinite-Shared-Atoms-Nested-Model-for-the-Bayesian/10.1214/24-BA1458.full?tab=ArticleLink)
+[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11%}](https://arxiv.org/abs/2406.13310)
+-->
 <br>
 
 <li> Benedetti, L., Boniardi, E., Chiani, L., Ghirri, J., Mastropietro, M., Cappozzo, A., and **Denti, F.**   
