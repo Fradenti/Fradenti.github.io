@@ -57,117 +57,84 @@ Rosenrot - Rammstein </p>
 <br>
 
 <li> D'Angelo, L. and **Denti, F.**  
-*A finite-infinite shared atoms nested model for the Bayesian nonparametric analysis of large data sets*   
-<tt>Bayesian Analysis</tt>, 2024     
-[[Journal](https://arxiv.org/abs/2406.13310) - [Preprint]() - [GitHub]()]
-
+*A finite-infinite shared atoms nested model for the Bayesian nonparametric analysis of large data sets*  
+**Bayesian Analysis**, 2024 - [[Journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/A-Finite-Infinite-Shared-Atoms-Nested-Model-for-the-Bayesian/10.1214/24-BA1458.full?tab=ArticleLink) - [Preprint](https://arxiv.org/abs/2406.13310) - [GitHub](https://github.com/Fradenti/SAN4BA)]
 <!--
-[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/A-Finite-Infinite-Shared-Atoms-Nested-Model-for-the-Bayesian/10.1214/24-BA1458.full?tab=ArticleLink)
-[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11%}](https://arxiv.org/abs/2406.13310)
--->
+[[Journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/A-Finite-Infinite-Shared-Atoms-Nested-Model-for-the-Bayesian/10.1214/24-BA1458.full?tab=ArticleLink)
+ - [Preprint](https://arxiv.org/abs/2406.13310)
 <br>
+-->
+
 
 <li> Benedetti, L., Boniardi, E., Chiani, L., Ghirri, J., Mastropietro, M., Cappozzo, A., and **Denti, F.**   
 *Variational Inference for Semiparametric Bayesian Novelty Detection in Large Datasets*  
-<tt>Advances in Data Analysis and Classification</tt>, 2023     
-[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://link.springer.com/article/10.1007/s11634-023-00569-z?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231204&utm_content=10.1007/s11634-023-00569-z)
-[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11%}](https://arxiv.org/abs/2212.01865)
+**Advances in Data Analysis and Classification**, 2023 - 
+[[Journal](https://link.springer.com/article/10.1007/s11634-023-00569-z?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231204&utm_content=10.1007/s11634-023-00569-z) - 
+[Preprint](https://arxiv.org/abs/2212.01865) - [GitHub]()]
 
-<br>
 
 <li>  Varghese, A., Santos-Fernandez E., **Denti, F.**, Mira, A., and Mergensen, K.  
 *A global perspective on the intrinsic dimensionality of COVID-19 data*    
-<tt>Scientific Reports</tt>, 2023     
-[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://www.nature.com/articles/s41598-023-36116-1)
-[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11%}](https://arxiv.org/abs/2212.01865)
-</li> 
+**Scientific Reports**, 2023 - [[Journal](https://www.nature.com/articles/s41598-023-36116-1)- [Preprint](https://arxiv.org/abs/2212.01865) - [GitHub]()]
 
-<br>
 
 <li> **Denti, F.**, Peluso, S., Guindani, M., and Mira, A.  
 *Multiple hypothesis screening using mixtures of non-local distributions*  
-<tt>Statistics in Medicine</tt>, 2023     
-[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.9705)
-[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11%}](https://arxiv.org/abs/2205.00930)
-</li> 
-
-<br>
+**Statistics in Medicine**, 2023 - 
+[[Journal](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.9705)
+ - [Preprint](https://arxiv.org/abs/2205.00930) - [GitHub]()]
 
 
 <li> **Denti, F.**  
 *intRinsic: an R package for the package for model-based estimation of the intrinsic dimension of a dataset*  
-<tt>Journal of Statistical Software</tt>, 2023    
-[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://doi.org/10.18637/jss.v106.i09) 
-[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11%}](https://arxiv.org/abs/2102.11425)   
-</li> 
+**Journal of Statistical Software**, 2023 -
+[[Journal](https://doi.org/10.18637/jss.v106.i09) 
+ - [Preprint](https://arxiv.org/abs/2102.11425) - [GitHub]()]  
 
-<br>
 
 
 
 <li>  **Denti, F.**, Azevedo, R., Lo, C., Wheeler, D. G., Gandhi, S.P.,Guindani, M., and Shahbaba, B.  
 *A Horseshoe mixture model for Bayesian screening with an application to light sheet fluorescence microscopy in brain imaging*  
-<tt>Annals of Applied Statistics</tt>, 2023  
-[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://doi.org/10.1214/23-AOAS1736) 
-[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11%}](https://arxiv.org/abs/2106.08281)   
-</li> 
+**Annals of Applied Statistics**, 2023 - [[Journal](https://doi.org/10.1214/23-AOAS1736) 
+ - [Preprint](https://arxiv.org/abs/2106.08281) - [GitHub]()]
 
-<br>
 
 <li> **Denti, F.**, Doimo, D., Laio, A., and Mira, A.  
 *Gride: a novel likelihood-based intrinsic dimension estimator*  
-<tt>Scientific Reports</tt>, 2022  
-[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://www.nature.com/articles/s41598-022-20991-1) 
-[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11%}](https://arxiv.org/abs/2104.13832)   
-</li> 
+**Scientific Reports**, 2022 - [[Journal](https://www.nature.com/articles/s41598-022-20991-1) 
+ - [Preprint](https://arxiv.org/abs/2104.13832) - [GitHub]()]
 
-<br>
 
 <li> Santos-Fernandez, E., **Denti, F.**, Mengersen, K., and Mira A.  
 *The role of intrinsic dimension in high-resolution player tracking data -- Insights in basketball*  
-<tt>Annals of Applied Statistics</tt>, 2021  
-[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-1/The-role-of-intrinsic-dimension-in-high-resolution-player-tracking/10.1214/21-AOAS1506.short) 
-[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11%}](https://arxiv.org/abs/2002.04148)   
-</li> 
+**Annals of Applied Statistics**, 2021 - [[Journal](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-1/The-role-of-intrinsic-dimension-in-high-resolution-player-tracking/10.1214/21-AOAS1506.short) 
+ - [Preprint](https://arxiv.org/abs/2002.04148) - [GitHub]()]
 
-<br>
 
 <li> **Denti, F.**, Camerlenghi, F., Guindani, M., and Mira, A.  
 *A Common Atom Model for the Bayesian Nonparametric Analysis of Nested Data*  
-<tt>Journal of the American Statistical Association</tt>, 2021   
-[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://doi.org/10.1080/01621459.2021.1933499) 
-[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11%}](https://arxiv.org/abs/2008.07077)   
-</li> 
+**Journal of the American Statistical Association**, 2021 - [[Journal](https://doi.org/10.1080/01621459.2021.1933499) 
+ - [Preprint](https://arxiv.org/abs/2008.07077) - [GitHub]()]
 
-<br>
 
 <li> **Denti, F.**, Cappozzo, A., and Greselin, F.  
 *A Two-Stage Bayesian Semiparametric Model for Novelty Detection with Robust Prior Information*  
-<tt>Statistics and Computing</tt>, 2021  
-[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://doi.org/10.1007/s11222-021-10017-7) 
-[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11%}](https://arxiv.org/abs/2006.09012)   
-</li> 
+**Statistics and Computing**, 2021 - [[Journal](https://doi.org/10.1007/s11222-021-10017-7) - [Preprint](https://arxiv.org/abs/2006.09012) - [GitHub]()]  
 
-<br>
 
-<li> Allegra, M., Facco, E.  , **Denti, F.**, Laio, A., and Mira, A.  
+<li> Allegra, M., Facco, E., **Denti, F.**, Laio, A., and Mira, A.  
 *Data segmentation based on the local intrinsic dimension*  
-<tt>Scientific Reports</tt>, 2020   
-[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://www.nature.com/articles/s41598-020-72222-0) 
-[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11%}](https://arxiv.org/abs/1902.10459)   
-</li> 
+**Scientific Reports**, 2020 - [[Journal](https://www.nature.com/articles/s41598-020-72222-0) 
+ - [Preprint](https://arxiv.org/abs/1902.10459) - [GitHub]()]
 
-<br>
 
 <li> **Denti, F.**, Guindani, M., Leisen, F., Lioji, A., and Vannucci, M.  
 *Two-group Poisson-Dirichlet mixtures for multiple testing*  
-<tt>Biometrics</tt>, 2020  
-[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://onlinelibrary.wiley.com/doi/10.1111/biom.13314) 
-[![Static Badge](https://img.shields.io/badge/_-Preprint-blue?logo=arxiv&color=blue){width=11%}](../pdf/BNPT.pdf)   
-</li> 
+**Biometrics**, 2020 - [[Journal](https://onlinelibrary.wiley.com/doi/10.1111/biom.13314) 
+ - [Preprint](../pdf/BNPT.pdf) - [GitHub]()]
 </ol>
 
-<br>
 
 #### Collaborative Papers
 
@@ -175,16 +142,12 @@ Rosenrot - Rammstein </p>
 
 <li> Migliavada, R., Ricci, F. Z., **Denti, F.**, Haghverdian, D., and Torri, L.    
 *Is purchasing of vegetable dishes affected by organic or local labels? Empirical evidence from a university canteen*  
-<tt>Appetite</tt>, 2022  
-[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://www.sciencedirect.com/science/article/pii/S0195666322000861?dgcid=author)   
+**Appetite**, 2022 - [[Journal](https://www.sciencedirect.com/science/article/pii/S0195666322000861?dgcid=author)]
 </li> 
-
-<br>
 
 <li> Petazzoni, M., De Giacinto, E., Troiano, D., **Denti, F.**, and Buiatti, M.  
 *Computed Tomographic Trochlear Depth Measurement in Normal Dogs*  
-<tt>Journal of Veterinary and Comparative Orthopaedics and Traumatology</tt>, 2018  
-[![Static Badge](https://img.shields.io/badge/_-Article-blue?logoColor=white&logo=Google%20scholar&color=blue){width=10%}](https://pubmed.ncbi.nlm.nih.gov/30300915/)  </li> 
+**Journal of Veterinary and Comparative Orthopaedics and Traumatology**, 2018 - [[Journal](https://pubmed.ncbi.nlm.nih.gov/30300915/)]  </li> 
 </ol>
 
 
@@ -192,7 +155,7 @@ Rosenrot - Rammstein </p>
 <!--
 1.   Menicagli, R., and **Denti, F.**  
 *First results if an in vitro study on the effects of green tea on the defensive layer of the oral cavity*  
-<tt>International Journal of Current Research</tt>, 2016  
+**International Journal of Current Research**, 2016  
 -->
 
 ***
@@ -219,17 +182,14 @@ Perciò+dovrò+continuare+a+scrivere+perché+di+certo+riesco.
 **Denti, F.**, Balocchi C., and Capitoli, G.  
 *Segmenting brain MALDI-MSI data under separate exchangeability'*  
 (Proceeding of the BAYSM 2024 conference accepted in the New Trends in Bayesian Statistics Volume)
-</li>
 
-<br>
 
 <li>
 Capitoli, G., Balocchi C., and **Denti, F.**    
 *Bayesian Biclustering on a Renal Cell Carcinoma Tissue Section*  
 (Accepted, In press, SIS 2024 Conference proceeding)
-</li>
 
-<br>
+
 
 <li>
 D'Angelo, L., and **Denti, F.**  
@@ -249,13 +209,11 @@ Di Noia, A., **Denti, F.**, and Mira, A.
 <li>
 Capitoli, G., Colombara, S., Cotroneo, A., De Caro, F., Morandi, R., Schembri, C., Zapiola, A.G., and **Denti, F.**    
 *Detecting latent spatial patterns in mass spectrometry brain imaging data via Bayesian mixtures*,  (pp. 1127-1132)
-</li>
-
-in F.M. Chelli, M. Ciommi, S. Ingrassia, F. Mariani, M.C. Recchioni (a cura di) <tt>Book of Short Papers SEAS IN 2023</tt>, Pearson.    
-[![Static Badge](https://img.shields.io/badge/_-Book of short papers-blue?color=blue){width=10.5%}](https://it.pearson.com/docenti/universita/partnership/sis.html)   
 
 
-<br>
+in F.M. Chelli, M. Ciommi, S. Ingrassia, F. Mariani, M.C. Recchioni (a cura di) **Book of Short Papers SEAS IN 2023**, Pearson - [[Proceeding](https://it.pearson.com/docenti/universita/partnership/sis.html)]   
+
+
 
 
 
@@ -271,35 +229,28 @@ in F.M. Chelli, M. Ciommi, S. Ingrassia, F. Mariani, M.C. Recchioni (a cura di) 
 *A tool to validate the assumptions on ratios of nearest neighbor distances: the Consecutive Ratio Paths*, (pp. 1233-1238)
 </li>  
 
-in A. Balzanella, M. Bini, C. Cavicchia, and R. Verde (a cura di), <tt>Book of Short Papers SIS 2022</tt>, Pearson. 
-[![Static Badge](https://img.shields.io/badge/_-Book of short papers-blue?color=blue){width=10.5%}](https://it.pearson.com/docenti/universita/partnership/sis.html)   
 
-<br>
+in A. Balzanella, M. Bini, C. Cavicchia, and R. Verde (a cura di), **Book of Short Papers SIS 2022**, Pearson - [[Proceeding](https://it.pearson.com/docenti/universita/partnership/sis.html)]   
+
 
 
 <li> **Denti, F.**, Cappozzo, A., and Greselin, F.    
 *Outlier and novelty detection for Functional data: a semiparametric Bayesian approach*  
-in <tt>Book of Short Papers of the 5th international workshop on Models and Learning for Clustering and Classification</tt>, (Ingrassia A., Punzo A., Rocci R., editors) (pp. 33-38). Ledizioni.  
-[![Static Badge](https://img.shields.io/badge/_-Book of short papers-blue?color=blue){width=10.5%}](https://zenodo.org/record/5598945\#.YZPWzy-B0qy)   
+in **Book of Short Papers of the 5th international workshop on Models and Learning for Clustering and Classification**, (Ingrassia A., Punzo A., Rocci R., editors) (pp. 33-38), Ledizioni - [[Proceeding](https://zenodo.org/record/5598945\#.YZPWzy-B0qy)]   
 </li> 
 
-<br>
 
 <li> **Denti, F.**, Cappozzo, A., and Greselin, F.    
 *Bayesian nonparametric adaptive classification with robust prior information*    
-in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), <tt>Book of Short Papers SIS 2020</tt> (pp. 655-660). Pearson.  
-[![Static Badge](https://img.shields.io/badge/_-Proceeding-blue?color=blue){width=10.5%}](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Università/Pearson-SIS-2020-atti-convegno.pdf)   
+in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), **Book of Short Papers SIS 2020** (pp. 655-660). Pearson.  
+[[Preprint](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Università/Pearson-SIS-2020-atti-convegno.pdf)]   
 </li> 
 
 
-
-
-<br>
-
 <li> Caponera, A., **Denti, F.**, Rigon, T., Sottosanti, A., and Gelfand, A.
   *Hierarchical Spatio-Temporal Modeling of Resting State fMRI Data*    
-in <tt>Studies in Neural Data Science</tt> (Canale, A., Durante, D., Paci, L., Scarpa, B., editors), 2018.  
-[![Static Badge](https://img.shields.io/badge/_-Book Chapter-blue?color=blue){width=10.5%}](https://link.springer.com/chapter/10.1007/978-3-030-00039-4_7)   
+in **Studies in Neural Data Science** (Canale, A., Durante, D., Paci, L., Scarpa, B., editors), 2018 - 
+[[Book Chapter](https://link.springer.com/chapter/10.1007/978-3-030-00039-4_7)]   
 
 </li> 
 
