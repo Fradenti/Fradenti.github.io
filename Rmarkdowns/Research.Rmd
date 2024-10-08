@@ -56,83 +56,80 @@ Rosenrot - Rammstein </p>
 
 <br>
 
+<li> Sottosanti, A., **Denti F.**, Galimberti, S., Risso, D., and Capitoli, G.  
+*Spatially informed non-negative matrix tri-factorization for co-clustering mass spectrometry data*  
+**Biometrical Journal**, (Conditionally accepted) 2024 - [[Journal]() - [Preprint]() - [GitHub](https://github.com/andreasottosanti/TRIFASE)]
+
+
 <li> D'Angelo, L. and **Denti, F.**  
 *A finite-infinite shared atoms nested model for the Bayesian nonparametric analysis of large data sets*  
 **Bayesian Analysis**, 2024 - [[Journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/A-Finite-Infinite-Shared-Atoms-Nested-Model-for-the-Bayesian/10.1214/24-BA1458.full?tab=ArticleLink) - [Preprint](https://arxiv.org/abs/2406.13310) - [GitHub](https://github.com/Fradenti/SAN4BA)]
-<!--
-[[Journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/A-Finite-Infinite-Shared-Atoms-Nested-Model-for-the-Bayesian/10.1214/24-BA1458.full?tab=ArticleLink)
- - [Preprint](https://arxiv.org/abs/2406.13310)
-<br>
--->
 
 
 <li> Benedetti, L., Boniardi, E., Chiani, L., Ghirri, J., Mastropietro, M., Cappozzo, A., and **Denti, F.**   
 *Variational Inference for Semiparametric Bayesian Novelty Detection in Large Datasets*  
 **Advances in Data Analysis and Classification**, 2023 - 
 [[Journal](https://link.springer.com/article/10.1007/s11634-023-00569-z?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231204&utm_content=10.1007/s11634-023-00569-z) - 
-[Preprint](https://arxiv.org/abs/2212.01865) - [GitHub]()]
+[Preprint](https://arxiv.org/abs/2212.01865) - [GitHub](https://github.com/JacopoGhirri/VarBRAND)]
 
 
 <li>  Varghese, A., Santos-Fernandez E., **Denti, F.**, Mira, A., and Mergensen, K.  
 *A global perspective on the intrinsic dimensionality of COVID-19 data*    
-**Scientific Reports**, 2023 - [[Journal](https://www.nature.com/articles/s41598-023-36116-1)- [Preprint](https://arxiv.org/abs/2212.01865) - [GitHub]()]
+**Scientific Reports**, 2023 - [[Journal](https://www.nature.com/articles/s41598-023-36116-1)- [Preprint](https://arxiv.org/abs/2212.01865) - [GitHub]]
 
 
 <li> **Denti, F.**, Peluso, S., Guindani, M., and Mira, A.  
 *Multiple hypothesis screening using mixtures of non-local distributions*  
 **Statistics in Medicine**, 2023 - 
 [[Journal](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.9705)
- - [Preprint](https://arxiv.org/abs/2205.00930) - [GitHub]()]
+ - [Preprint](https://arxiv.org/abs/2205.00930) - [GitHub](https://github.com/Fradenti/Nollik_2GM)]
 
 
 <li> **Denti, F.**  
 *intRinsic: an R package for the package for model-based estimation of the intrinsic dimension of a dataset*  
 **Journal of Statistical Software**, 2023 -
 [[Journal](https://doi.org/10.18637/jss.v106.i09) 
- - [Preprint](https://arxiv.org/abs/2102.11425) - [GitHub]()]  
+ - [Preprint](https://arxiv.org/abs/2102.11425) - [GitHub](https://github.com/Fradenti/intRinsic)]  
 
-
-
-
-<li>  **Denti, F.**, Azevedo, R., Lo, C., Wheeler, D. G., Gandhi, S.P.,Guindani, M., and Shahbaba, B.  
+<li>  **Denti, F.**, Azevedo, R., Lo, C., Wheeler, D. G., Gandhi, S.P., Guindani, M., and Shahbaba, B.  
 *A Horseshoe mixture model for Bayesian screening with an application to light sheet fluorescence microscopy in brain imaging*  
 **Annals of Applied Statistics**, 2023 - [[Journal](https://doi.org/10.1214/23-AOAS1736) 
- - [Preprint](https://arxiv.org/abs/2106.08281) - [GitHub]()]
+ - [Preprint](https://arxiv.org/abs/2106.08281) - [GitHub](https://github.com/Fradenti/HorseshoeMix)]
 
 
 <li> **Denti, F.**, Doimo, D., Laio, A., and Mira, A.  
 *Gride: a novel likelihood-based intrinsic dimension estimator*  
 **Scientific Reports**, 2022 - [[Journal](https://www.nature.com/articles/s41598-022-20991-1) 
- - [Preprint](https://arxiv.org/abs/2104.13832) - [GitHub]()]
+ - [Preprint](https://arxiv.org/abs/2104.13832) - [GitHub](https://github.com/Fradenti/GRIDE_repo)]
 
 
 <li> Santos-Fernandez, E., **Denti, F.**, Mengersen, K., and Mira A.  
 *The role of intrinsic dimension in high-resolution player tracking data -- Insights in basketball*  
 **Annals of Applied Statistics**, 2021 - [[Journal](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-1/The-role-of-intrinsic-dimension-in-high-resolution-player-tracking/10.1214/21-AOAS1506.short) 
- - [Preprint](https://arxiv.org/abs/2002.04148) - [GitHub]()]
+ - [Preprint](https://arxiv.org/abs/2002.04148) - [GitHub](https://github.com/EdgarSantos-Fernandez/id_basketball)]
 
 
 <li> **Denti, F.**, Camerlenghi, F., Guindani, M., and Mira, A.  
 *A Common Atom Model for the Bayesian Nonparametric Analysis of Nested Data*  
 **Journal of the American Statistical Association**, 2021 - [[Journal](https://doi.org/10.1080/01621459.2021.1933499) 
- - [Preprint](https://arxiv.org/abs/2008.07077) - [GitHub]()]
+ - [Preprint](https://arxiv.org/abs/2008.07077) - [GitHub]]
 
 
 <li> **Denti, F.**, Cappozzo, A., and Greselin, F.  
 *A Two-Stage Bayesian Semiparametric Model for Novelty Detection with Robust Prior Information*  
-**Statistics and Computing**, 2021 - [[Journal](https://doi.org/10.1007/s11222-021-10017-7) - [Preprint](https://arxiv.org/abs/2006.09012) - [GitHub]()]  
+**Statistics and Computing**, 2021 - [[Journal](https://doi.org/10.1007/s11222-021-10017-7) - [Preprint](https://arxiv.org/abs/2006.09012) - [GitHub](https://github.com/Fradenti/CommonAtomModel)]  
 
 
 <li> Allegra, M., Facco, E., **Denti, F.**, Laio, A., and Mira, A.  
 *Data segmentation based on the local intrinsic dimension*  
 **Scientific Reports**, 2020 - [[Journal](https://www.nature.com/articles/s41598-020-72222-0) 
- - [Preprint](https://arxiv.org/abs/1902.10459) - [GitHub]()]
+ - [Preprint](https://arxiv.org/abs/1902.10459) - [GitHub]]
 
 
 <li> **Denti, F.**, Guindani, M., Leisen, F., Lioji, A., and Vannucci, M.  
 *Two-group Poisson-Dirichlet mixtures for multiple testing*  
 **Biometrics**, 2020 - [[Journal](https://onlinelibrary.wiley.com/doi/10.1111/biom.13314) 
- - [Preprint](../pdf/BNPT.pdf) - [GitHub]()]
+ - [Preprint](../pdf/BNPT.pdf) - [GitHub](https://github.com/Fradenti/twogroup2PPD)]
 </ol>
 
 
@@ -195,17 +192,14 @@ Capitoli, G., Balocchi C., and **Denti, F.**
 D'Angelo, L., and **Denti, F.**  
 *Bayesian analysis of Amazon’s best-selling books via finite nested mixture models* (pp. 1117-1120)
 </li>
-
 <li>
 Di Noia, A., **Denti, F.**, and Mira, A.  
 *A tool for assessing weak identifiability of statistical models*, (pp. 1230-1234) 
 </li>
-
 <li>
 **Denti, F.**, Di Noia, A., and Mira, A.  
 *Bayesian nonparametric estimation of heterogeneous intrinsic dimension via product partition models*,  (pp. 316-321)
 </li>
-
 <li>
 Capitoli, G., Colombara, S., Cotroneo, A., De Caro, F., Morandi, R., Schembri, C., Zapiola, A.G., and **Denti, F.**    
 *Detecting latent spatial patterns in mass spectrometry brain imaging data via Bayesian mixtures*,  (pp. 1127-1132)
@@ -221,7 +215,6 @@ in F.M. Chelli, M. Ciommi, S. Ingrassia, F. Mariani, M.C. Recchioni (a cura di) 
 <li>**Denti, F.**, D'Angelo, L., and Guindani, M.  
 *Bayesian approaches for capturing the heterogeneity of neuroimaging experiments*, (pp. 17-29) 
 </li>
-  
 <li>**Denti, F.**, Camerlenghi, F., Guindani, M., and Mira, A.  
 *Clustering artists based on the energy distributions of their songs on Spotify via the Common Atoms Model*, (pp. 121-126)  
 </li>
@@ -229,9 +222,7 @@ in F.M. Chelli, M. Ciommi, S. Ingrassia, F. Mariani, M.C. Recchioni (a cura di) 
 *A tool to validate the assumptions on ratios of nearest neighbor distances: the Consecutive Ratio Paths*, (pp. 1233-1238)
 </li>  
 
-
 in A. Balzanella, M. Bini, C. Cavicchia, and R. Verde (a cura di), **Book of Short Papers SIS 2022**, Pearson - [[Proceeding](https://it.pearson.com/docenti/universita/partnership/sis.html)]   
-
 
 
 <li> **Denti, F.**, Cappozzo, A., and Greselin, F.    
@@ -307,8 +298,9 @@ Stay tuned!
 <br>
 
 * **SANple** - R package - In collaboration with L. D'Angelo    
-<!-- badges: start -->
+<!-- badges: start
 [![R-CMD-check](https://github.com/laura-dangelo/SANple/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/laura-dangelo/SANple/actions/workflows/R-CMD-check.yaml)
+ -->
 [![CRAN](https://www.r-pkg.org/badges/version/SANple)](https://cran.r-project.org/package=SANple)
 [![Downloads (monthly)](https://cranlogs.r-pkg.org/badges/SANple?color=brightgreen)](https://www.r-pkg.org/pkg/SANple)
 [![Downloads (total)](https://cranlogs.r-pkg.org/badges/grand-total/SANple?color=brightgreen)](https://www.r-pkg.org/pkg/SANple)
