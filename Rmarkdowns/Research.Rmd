@@ -158,7 +158,7 @@ Rosenrot - Rammstein </p>
 ***
 
 
-### Book chapters and proceedings
+### Book chapters, Discussions and Conference Proceedings
 
 <br>
 
@@ -174,10 +174,15 @@ Perciò+dovrò+continuare+a+scrivere+perché+di+certo+riesco.
 <br>
 
 <ol reversed>
+<li>
+**Denti, F.** and Rizzelli, S.  
+*Contributed Discussion on "Sparse Bayesian factor analysis when the number of factors is unknown"*  
+(Accepted, In press, Bayesian Analysis)
+
 
 <li>
 **Denti, F.**, Balocchi C., and Capitoli, G.  
-*Segmenting brain MALDI-MSI data under separate exchangeability'*  
+*Segmenting brain MALDI-MSI data under separate exchangeability*  
 (Proceeding of the BAYSM 2024 conference accepted in the New Trends in Bayesian Statistics Volume)
 
 
