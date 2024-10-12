@@ -152,7 +152,7 @@ I am interested in Bayesian mixtures, Bayesian nonparametrics, model-based clust
      height="500">
 </div>
 **Email**: francesco (dot) denti (at) unipd (dot) it  
-**Office**: Room 151, Via Santa Caterina, Padua
+**Office**: Room 151, Via Santa Caterina, Padua  
 [Department of Statistics of University of Padua](https://www.stat.unipd.it)
 
 ```{r icon-chunk, echo=FALSE, eval=F}
