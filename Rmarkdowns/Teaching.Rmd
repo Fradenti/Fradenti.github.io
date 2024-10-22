@@ -96,7 +96,7 @@ corsi = rbind(corsi,
               c("MSc in Statistics", "Bayesian Statistics","Unimib","vTA", "16-17", "8", "Ita"))
              
 
-kableExtra::kable_styling(kable(corsi[-1,])) %>% footnote(c("PI: Principal Instructor  -  TA: Teaching Assistant  -  vTA: volounteer Teaching Assistant"))
+kableExtra::kable_styling(kable(corsi[-1,])) %>% footnote(c("PI: Principal Instructor  -  SumS: Summer School  -  TA: Teaching Assistant  -  vTA: volounteer Teaching Assistant"))
 ```
 
 <div class="article-header">
