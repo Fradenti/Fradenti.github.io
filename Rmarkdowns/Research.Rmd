@@ -56,7 +56,7 @@ Rosenrot - Rammstein </p>
 
 <li> Sottosanti, A., **Denti F.**, Galimberti, S., Risso, D., and Capitoli, G.  
 *Spatially informed non-negative matrix tri-factorization for co-clustering mass spectrometry data*  
-**Biometrical Journal**, (Conditionally accepted) 2024 - [GitHub](https://github.com/andreasottosanti/TRIFASE)]
+**Biometrical Journal**, (Conditionally accepted) 2024 - [GitHub](https://github.com/andreasottosanti/TRIFASE)
 
 
 <li> D'Angelo, L. and **Denti, F.**  
