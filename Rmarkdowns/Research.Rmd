@@ -56,7 +56,7 @@ Rosenrot - Rammstein </p>
 
 <li> Sottosanti, A., **Denti F.**, Galimberti, S., Risso, D., and Capitoli, G.  
 *Spatially informed non-negative matrix tri-factorization for co-clustering mass spectrometry data*  
-**Biometrical Journal**, (Conditionally accepted) 2024 - [GitHub](https://github.com/andreasottosanti/TRIFASE)
+**Biometrical Journal**, (Conditionally accepted) 2024 - [[GitHub](https://github.com/andreasottosanti/TRIFASE)]
 
 
 <li> D'Angelo, L. and **Denti, F.**  
@@ -156,7 +156,7 @@ Rosenrot - Rammstein </p>
 ***
 
 
-### Book Chapters, Discussions and Conference Proceedings
+### Book Chapters, Discussions, and Conference Proceedings
 
 <br>
 
@@ -173,14 +173,13 @@ Perciò+dovrò+continuare+a+scrivere+perché+di+certo+riesco.
 
 #### Book Chapters
 
-<li>
-**Denti, F.**, Balocchi C., and Capitoli, G.  
+
+<ol reversed>
+
+<li>**Denti, F.**, Balocchi C., and Capitoli, G.  
 *Segmenting brain MALDI-MSI data under separate exchangeability*  
 (Proceeding of the BAYSM 2024 conference accepted in the New Trends in Bayesian Statistics Volume)
 
-
-
-<ol reversed>
 
 <li> Caponera, A., **Denti, F.**, Rigon, T., Sottosanti, A., and Gelfand, A.
   *Hierarchical Spatio-Temporal Modeling of Resting State fMRI Data*    
@@ -189,6 +188,9 @@ in **Studies in Neural Data Science** (Canale, A., Durante, D., Paci, L., Scarpa
 </li> 
 
 #### Discussions
+
+<ol reversed>
+
 <li>
 **Denti, F.** and Rizzelli, S.  
 *Contributed Discussion on "Sparse Bayesian factor analysis when the number of factors is unknown"*  
@@ -196,6 +198,8 @@ in **Studies in Neural Data Science** (Canale, A., Durante, D., Paci, L., Scarpa
 </li> 
 
 #### Conference Proceedings
+
+<ol reversed>
 
 <li>
 Capitoli, G., Balocchi C., and **Denti, F.**    
@@ -217,12 +221,11 @@ Di Noia, A., **Denti, F.**, and Mira, A.
 *Bayesian nonparametric estimation of heterogeneous intrinsic dimension via product partition models*,  (pp. 316-321)
 </li>
 <li>
-Capitoli, G., Colombara, S., Cotroneo, A., De Caro, F., Morandi, R., Schembri, C., Zapiola, A.G., and **Denti, F.**    
+Capitoli, G., Colombara, S., Cotroneo, A., De Caro, F., Morandi, R., Schembri, C., Zapiola, A.G., and **Denti, F.**   
 *Detecting latent spatial patterns in mass spectrometry brain imaging data via Bayesian mixtures*,  (pp. 1127-1132)
-</li>. 
+</li> 
 
 in F.M. Chelli, M. Ciommi, S. Ingrassia, F. Mariani, M.C. Recchioni (a cura di) **Book of Short Papers SEAS IN 2023**, Pearson - [[Proceeding](https://it.pearson.com/docenti/universita/partnership/sis.html)]   
-
 
 
 <li>**Denti, F.**, D'Angelo, L., and Guindani, M.  
