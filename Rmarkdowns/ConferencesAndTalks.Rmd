@@ -85,6 +85,11 @@ Caserta, IT - June 2022 - [ <img  width="20" height="20" src="images/cam3.png"> 
 
 <br>
 
+<li>  [UniPD Welcome Seminar](https://www.linkedin.com/feed/update/urn:li:activity:7259643658784669697/)  
+Invited virtual 45min talk: *Of mice and music: finite-infinite nested priors for the segmentation of large-scale grouped data*  
+Padova, IT - November 2024 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/welcomePD)
+</li>
+<br>
 <li>  [CSUEB ASA Student Chapter](https://www.instagram.com/asacsueb/)  
 Invited virtual 1h talk: *Bayesian nonparametric mixtures for novelty detection*  
 Hayward (California), US - October 2022 - [ <img  width="20" height="20" src="images/cam3.png"> ](/Rmarkdowns/pages/csueb22)
