@@ -387,10 +387,11 @@ cbind("Statistics and Computing", (3)),
 cbind("Statistics and Probability Letters", (1)),
 cbind("Statistics in Medicine", (1)),
 cbind("Technometrics", (1)),
-cbind("Transactions on Machine Learning Research (TMLR)", (1)),
 cbind("The American Statistician", (1)),
-cbind("2021 SBSS Student Paper Competition",1),
-cbind("IEEE CIBCB 2023 - Special Session",1)
+cbind("Transactions on Machine Learning Research (TMLR)", (1)),
+cbind("2021 SBSS Student Paper Competition","--"),
+cbind("IEEE CIBCB 2023 - Special Session","--"),
+cbind("2024 ASA-SBSS Student Paper Competition","--")
 )
 D = as.data.frame(D)
 D[,2] = as.numeric(D[,2])
