@@ -56,7 +56,7 @@ Rosenrot - Rammstein </p>
 
 <li> Sottosanti, A., **Denti F.**, Galimberti, S., Risso, D., and Capitoli, G.  
 *Spatially informed non-negative matrix tri-factorization for co-clustering mass spectrometry data*  
-**Biometrical Journal**, (Conditionally accepted) 2024 - [[GitHub](https://github.com/andreasottosanti/TRIFASE)]
+**Biometrical Journal**, 2024 - [[GitHub](https://github.com/andreasottosanti/TRIFASE)]
 
 
 <li> D'Angelo, L. and **Denti, F.**  
@@ -202,7 +202,7 @@ in **Studies in Neural Data Science** (Canale, A., Durante, D., Paci, L., Scarpa
 <ol reversed>
 
 <li>
-Capitoli, G., Balocchi C., and **Denti, F.**    
+Capitoli, G., Denti, V., Balocchi C., and **Denti, F.**    
 *Bayesian Biclustering on a Renal Cell Carcinoma Tissue Section*  
 (Accepted, In press, SIS 2024 Conference proceeding)
 </li> 
@@ -388,16 +388,20 @@ cbind("Statistics and Probability Letters", (1)),
 cbind("Statistics in Medicine", (1)),
 cbind("Technometrics", (1)),
 cbind("The American Statistician", (1)),
-cbind("Transactions on Machine Learning Research (TMLR)", (1)),
-cbind("2021 SBSS Student Paper Competition","--"),
-cbind("IEEE CIBCB 2023 - Special Session","--"),
-cbind("2024 ASA-SBSS Student Paper Competition","--")
+cbind("Transactions on Machine Learning Research (TMLR)", (1))
 )
 D = as.data.frame(D)
 D[,2] = as.numeric(D[,2])
 colnames(D) <- c("Journal","# Reviews")
 kableExtra::kable_styling(knitr::kable(D))
 ```
+
+Also reviewer for 
+
+- *2021 SBSS Student Paper Competition*,  
+- *IEEE CIBCB 2023 - Special Session*,  
+- *2024 ASA-SBSS Student Paper Competition*.
+
 
      
 [**<**](/index)
