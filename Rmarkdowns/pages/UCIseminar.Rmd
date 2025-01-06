@@ -1,9 +1,0 @@
----
-title: "&nbsp;"
-output: 
-  html_document
----
-  
-[**<**](/Rmarkdowns/ConferencesAndTalks.html)
-
-![Still in quarantine, so here's a California sunset instead, San Marcos, 2020](../images/UCIsemi.jpeg)

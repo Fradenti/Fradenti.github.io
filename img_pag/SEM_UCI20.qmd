@@ -1,0 +1,8 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+![Still in quarantine, so here's a California sunset instead, San Marcos, 2020](../images/UCIsemi.jpeg)

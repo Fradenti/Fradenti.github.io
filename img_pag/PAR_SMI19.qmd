@@ -1,0 +1,8 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+![SMI Workshop, Top Floor of DBH, UCI, 2019.](../images/SMI19.jpg)

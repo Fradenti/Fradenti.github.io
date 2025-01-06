@@ -1,0 +1,8 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+![Finally appreciating in-person conferences again!](../images/sis22.jpeg)

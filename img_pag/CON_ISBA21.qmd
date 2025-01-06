@@ -1,0 +1,8 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+![A non-distributional Horseshoe-Pit found in Uhills, Irvine.](../images/hsp.jpg)

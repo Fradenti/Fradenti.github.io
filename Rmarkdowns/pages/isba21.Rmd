@@ -1,9 +1,0 @@
----
-title: "&nbsp;"
-output: 
-  html_document
----
-  
-[**<**](/Rmarkdowns/ConferencesAndTalks.html)
-
-![A non-distributional Horseshoe-Pit found in Uhills, Irvine](../images/hsp.jpg)

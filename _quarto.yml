@@ -1,0 +1,28 @@
+project:
+  type: website
+website:
+  title: "Francesco Denti"
+  navbar:
+    background: primary
+    search: true
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: pages/research.qmd
+      - text: "Talks"
+        href: pages/talks.qmd
+      - text: "Teaching"
+        href: pages/teach.qmd
+      - text: "Misc"
+        href: pages/misc.qmd
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    css: 
+      - styles.css
+      - https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.5/font/bootstrap-icons.min.css
+    toc: false
+editor: source

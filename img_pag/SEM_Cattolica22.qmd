@@ -1,0 +1,9 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+
+![It's a beautiful work place, isn't it?](../images/cattolica.jpg)

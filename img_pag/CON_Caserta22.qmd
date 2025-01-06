@@ -1,0 +1,8 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+![Short hike in the Reggia with my new Department Chair! Caserta, June 2020.](../images/consonnireggia.jpg)

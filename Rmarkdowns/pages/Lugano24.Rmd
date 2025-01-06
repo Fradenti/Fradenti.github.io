@@ -1,9 +1,0 @@
----
-title: "&nbsp;"
-output: 
-  html_document
----
-
-[**<**](/Rmarkdowns/ConferencesAndTalks.html)
-
-![Guess where I was.](../images/lugano24.jpeg)

@@ -1,0 +1,9 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+
+![Mustafa's Gemüse Kebab Kiosk - More crowded than the conference!](../images/berlin23.jpg)

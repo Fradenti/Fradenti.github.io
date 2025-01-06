@@ -1,0 +1,9 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+![To celebrate a long journey!](../images/unipd_welcome.png)
+

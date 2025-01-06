@@ -1,0 +1,8 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+![Wildfire Time, Irvine, September 2020.](../images/mbc2.jpg)

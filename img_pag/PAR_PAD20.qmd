@@ -1,0 +1,8 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+![BNP for Complex data, Padua, January 2020.](../images/PAD.jpg)

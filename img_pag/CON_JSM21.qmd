@@ -1,0 +1,9 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+![Mason Park, where I prepared my JSM talk (threatened by a gang of geese).](../images/mason_jsm.jpg)
+

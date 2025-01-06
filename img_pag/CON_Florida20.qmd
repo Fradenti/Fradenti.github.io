@@ -1,0 +1,9 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+![A stroll in the swamps close to University of Florida, Gainesville, January 2020. No gators to be seen.](../images/FLO.jpeg)
+

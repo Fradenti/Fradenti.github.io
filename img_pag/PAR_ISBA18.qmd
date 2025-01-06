@@ -1,0 +1,8 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+![A sunset in Edinburgh, June 2018.](../images/EDINB.jpg)

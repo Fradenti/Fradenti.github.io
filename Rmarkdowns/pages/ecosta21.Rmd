@@ -1,9 +1,0 @@
----
-title: "&nbsp;"
-output: 
-  html_document
----
-  
-[**<**](/Rmarkdowns/ConferencesAndTalks.html)
-
-![EcoSta2021, Virtual, June 2021](../images/clouds.jpg)

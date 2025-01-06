@@ -1,0 +1,96 @@
+---
+title: "Welcome to my website!"
+page-layout: full
+---
+
+<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+:::: {.columns}
+
+::: {.column width="47.5%"}
+![](images/glicine.jpg){style="float: left;vertical-align:middle;
+margin:10px 20px;border-radius: 10px;"}
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="47.5%"}
+<div style="text-align: right"> 
+<p>&quot;<em>The writer Umberto Eco belongs to that small class of scholars who are encyclopedic, insightful, and nondull. He is the owner of a large personal library (containing thirty thousand books), and separates visitors into two categories: those who react with “Wow! Signore, professore dottore Eco, what a library you have ! How many of these books have you read?” and the others - a very small minority - who get the point that a private library is not an ego-boosting appendage but a research tool.<br> Read books are far less valuable than unread ones.</em>&quot; <br> The Black Swan - N. N. Taleb</p>
+</div>
+
+---
+
+<div style="text-align: right"> <p>&quot;<em>Cammino in mezzo agli altri, tutti più o meno uguali<br>
+E canto nella testa un poco di Brunori SAS<br>
+Faccio parte anch'io di quest'aurea mediocritas.<br>
+E vado ricercando medie senza varianza, un pò di stabilità<br>
+Male non fa</em>&quot;<br>
+Romastino - [Translation](https://translate.google.com/?sl=auto&tl=en&text=Cammino%20in%20mezzo%20agli%20altri%2C%20tutti%20più%20o%20meno%20uguali%0AE%20canto%20nella%20testa%20un%20poco%20di%20Brunori%20SAS%0AFaccio%20parte%20anch%27io%20di%20quest%27aurea%20mediocritas.%0AE%20vado%20ricercando%20medie%20senza%20varianza%2C%20un%20pò%20di%20stabilità%0AMale%20non%20fa%0A&op=translate)
+</p>
+</div>
+
+:::
+::::
+
+<br>
+
+
+## About (the academic) me
+
+<img style="float: left;vertical-align:middle;
+margin:10px 20px;border-radius: 10px;
+  " src="images/fd.jpg" width="160"> 
+  
+I am an Assistant Professor (RtdB) at the [Department of Statistics of University of Padua](https://www.stat.unipd.it).
+
+Previously, I held the role of Assistant Professor (RtdA) at the [Department of Statistics of Università Cattolica del Sacro Cuore - Milan](https://dipartimenti.unicatt.it/scienze_statistiche).  
+Prior to that, I spent two years as a Postdoctoral Scholar at the [Department of Statistics of Univerisity of California - Irvine](https://www.stat.uci.edu/) (UCI), working under the supervision of Professor [Babak Shahbaba](https://www.ics.uci.edu/~babaks/).  
+
+I obtained a Ph.D. in Statistics at University of Milan - Bicocca and Università della Svizzera italiana (joint program, awarded with honors) working with Professor [Antonietta Mira](https://search.usi.ch/en/people/f8960de6d60dd08a79b6c1eb20b7442b/mira-antonietta) and Professor [Michele Guindani](https://www.micheleguindani.info).  
+
+I am interested in Bayesian mixtures, Bayesian nonparametrics, model-based clustering, shrinkage priors, and dimensionality reduction.  
+
+
+<a href="mailto: francesco.denti@unipd.it" class="btn btn-primary">
+  <i class="bi bi-envelope-at"></i> Email address
+</a>
+<a href="https://scholar.google.com/citations?user=8WqmGiEAAAAJ&hl=en" class="btn btn-primary">
+  <i class="bi bi-google"></i> Google Scholar profile
+</a>
+<a href="https://scholar.google.com/citations?user=8WqmGiEAAAAJ&hl=en" class="btn btn-primary">
+  <i class="bi bi-github"></i> GitHub profile
+</a>
+<a href="https://www.linkedin.com/in/francesco-denti/" class="btn btn-primary">
+  <i class="bi bi-linkedin"></i> LinkedIn profile
+</a>
+
+
+### News and highlights
+
+---  
+
+[2024/02/21] I joined the Department of Statistics at the University of Padua as a senior Assistant Professor (RtdB)
+
+
+### Contacts
+
+---
+
+**Email**: francesco (dot) denti (at) unipd (dot) it  
+**Office**: Room 151, Via Cesare Battisti 241, Padua  
+[Department of Statistics](https://www.stat.unipd.it)  
+University of Padua, Italy
+
+---
+
+::::columns
+::: {.column width="90%"}
+![](images/newpalm.jpeg){style="float: left;vertical-align:middle;
+margin:50px 50px;border-radius: 10px;"}
+:::
+::::

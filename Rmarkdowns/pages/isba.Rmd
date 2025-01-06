@@ -1,9 +1,0 @@
----
-title: "&nbsp;"
-output: 
-  html_document
----
-
-[**<**](/Rmarkdowns/ConferencesAndTalks.html)
-
-![ISBA 2018](../images/EDINB.jpg)

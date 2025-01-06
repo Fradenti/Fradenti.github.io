@@ -1,0 +1,8 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+![A Gate in the park, Lugano, 2018](../images/lugano.jpg)

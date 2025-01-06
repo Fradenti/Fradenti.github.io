@@ -1,9 +1,0 @@
----
-title: "&nbsp;"
-output: 
-  html_document
----
-  
-[**<**](/Rmarkdowns/ConferencesAndTalks.html)
-
-![A Gate in the park, Lugano, 2018](../images/lugano.jpg)

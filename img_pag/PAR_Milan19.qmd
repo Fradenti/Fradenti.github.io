@@ -1,0 +1,8 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+![Aula Magna, Università Cattolica del Sacro Cuore del Sacro Cuore, Milano, 2018.](../images/magnacatto.jpeg)

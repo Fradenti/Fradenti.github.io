@@ -1,9 +1,0 @@
----
-title: "&nbsp;"
-output: 
-  html_document
----
-
-[**<**](/Rmarkdowns/ConferencesAndTalks.html)
-
-![A clingy gattone in Rome, September 2023](../images/romecat.jpeg)

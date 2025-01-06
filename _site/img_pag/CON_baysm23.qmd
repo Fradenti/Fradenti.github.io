@@ -1,0 +1,8 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+![A Rorschach brain image: what do you see in our image segmentation? - Baysm 2023, November 2023](../images/Potts2.png)

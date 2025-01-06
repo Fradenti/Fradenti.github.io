@@ -1,0 +1,158 @@
+---
+title: "Teaching"
+page-layout: full
+---
+
+:::: {.columns}
+
+::: {.column width="47.5%"}
+![](../images/smvs.jpg){style="float: left;vertical-align:middle;
+margin:10px 20px;border-radius: 10px;"}
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="47.5%"}
+<div style="text-align: right"> <p>&quot;<em>Questions? &quot; <br>&quot;When's Bart coming back?&quot;<br> &quot;He's not. He thought he was better than the laws of probability. <br>Anyone else think he's better than the laws of probability? <br>Well, you're not!</em>&quot; <br>MoneyBart, S22E03 - Lisa Simpson</p>
+</div>
+:::
+::::
+
+
+<br>
+
+
+## Courses for the Academic Year 2024-2025
+
+
+**Principal instructor**
+
+* [Metodi Statistici per Big Data](https://didattica.unipd.it/off/2022/LT/SC/SC2095/000ZZ/SCP4063754/N0)
+* [Big Data and Artificial Intelligence](https://didattica.unipd.it/off/2023/LM/EP/EP2731/000ZZ/EPQ4107100/N0)
+
+**Teaching Assistant** (Esercitatore) for 
+
+* Statistica Progredito
+
+::::columns
+::: {.column width="90%"}
+![](../images/PD_square.jpg){style="float: left;vertical-align:middle;
+margin:50px 50px;border-radius: 10px;"}
+:::
+::::
+
+
+## Past Courses
+
+<br>
+
+<div style="text-align: right"> <p>&quot;<em>Via il Denti, via il dolore</em>&quot; <br>LDA</p>
+</div>
+
+
+### Summer Schools and Tutorials
+
+- **Dec 2024**: Bayesian nonparametric methods  *(13h, Eng)*  
+COST Action HiTEc Tutorial (jointly taught with M. Guindani)  
+
+- **Aug 2024**: Bayesian Modelling  *(40h, Eng)*  
+Università della Svizzera italiana - 28th Summer School in Social Science Methods (jointly taught with A. Mira)
+
+---
+
+## Academic Year 2023/2024
+
+#### University of Padua
+
+- **Feb-Jun 2024**:  *Teaching Assistant (Esercitatore)* of the course Statistical Methods for Big Data  *(22h, Ita)*  
+BSc in Statistics (Esercitatore)  
+
+- **Feb-Jun 2024**:  *Teaching Assistant (Esercitatore)* of the course Advanced Statistical Inference  *(26h, Ita)*  
+MSc in Statistics ("Statistica Progredito", Esercitatore)  
+
+#### Università Cattolica del Sacro Cuore - Milan
+
+- **Sep-Dec 2023**:  *Teaching Assistant (Esercitatore)* of the course Statistics and Data Analysis  *(24h, Ita)*  
+BSc in Economics (Statistica e Analisi dei Dati, Esercitatore)
+
+---
+
+## Academic Year 2022/2023
+
+#### Università Cattolica del Sacro Cuore - Milan
+
+- **Apr–Jun 2023**: *Principal Instructor and Teaching Assistant (Esercitatore)* of the course Computational Statistics  *(60h+20h, Eng)*  
+MSc in Data Analytics for Business
+
+- **Jan 2023**: *Principal Instructor* of the course R for Data Science  *(7h, Eng)*  
+Master (I level) in Data Science for Management (Feb 2023)  
+
+- **Jan-May 2023**: **Teaching Assistant** as Individual Study Tutor  *(42h, Eng)*  
+Master (I level) in Data Science for Management (Jan–May 2023)  
+
+- **Jan 2023**: *Principal Instructor* of the course Introduction to Statistics  *(14h, Eng)*  
+Master (I level) in Data Science for Management  
+
+- **Sep–Dec 2022**: *Teaching Assistant (Esercitatore)* of the course Statistics and Data Analysis  *(24h, Ita)*  
+BSc in Economics
+
+---
+
+## Academic Year 2021/2022
+
+#### Università Cattolica del Sacro Cuore - Milan
+
+- **Apr–Jun 2022**: *Teaching Assistant* for the course Computational Statistics  *(20h, Eng)*  
+MSc in Data Analytics for Business (Esercitatore)  
+
+- **Sep–Dec 2021**: *Teaching Assistant* for the course Statistics  *(15h, Ita)*  
+BSc in Economics - Created 8 videos presenting step-by-step exam solutions  
+
+---
+
+## Earlier Assignments
+
+#### University of California - Irvine
+
+- **Mar 2021**: *Guest Lecturer* for the course Bayesian Statistics  *(3h, Eng)*  
+PhD in Statistics - Two lectures on Dirichlet Process and extensions  
+
+- **May 2020**: *Guest Lecturer* for the course Bayesian Nonparametric  *(1.5h, Eng)*  
+PhD in Statistics - One lecture on Nested Dirichlet Process and the Common Atom Model  
+
+#### Università della Svizzera italiana
+
+- **Sep 2019–Jan 2020**: *Teaching Assistant* for the course Advanced Statistics  *(Eng)*  
+MSc in Finance - Jointly created the course with Prof. Mira, author of the course notes. TA evaluations available [here](https://www.dropbox.com/sh/4wsql4l3vkbjj5y/AAAdaJgzPI4p_hB469mPhpMsa?dl=0)  
+
+- **Sep 2018–Jan 2019**: *Teaching Assistant* for the course Statistics  *(Eng)*  
+  MSc in Finance  
+
+#### Bocconi University
+
+- **Sep 2017–Jun 2018**: *Teaching Assistant* for the course Statistics  *(90h, Ita)*  
+  BSc in Economics and Management (CLEAM)  
+
+#### Università Cattolica del Sacro Cuore - Milan
+
+- **Sep 2017**: *Teaching Assistant* for the course Introduction to Statistics  *(14h, Eng)*  
+  MSc in Finance  
+
+#### University of Milan-Bicocca
+
+- **Nov 2015–Oct 2017**: *Teaching Assistant* for the course Probability (9 ECTS)  *(Ita)*  
+  BSc in Economics and Statistics (SSE) - Author of the course notes; also *Cultore della materia* for 2015–2021  
+
+- **Oct–Dec 2016**: *Teaching Assistant* for the course Bayesian Statistics (6 ECTS)  *(Ita)*  
+  MSc in Economics and Statistics (SSE)
+
+
+::::columns
+::: {.column width="90%"}
+![](../images/santambrogio.jpg){style="float: left;vertical-align:middle;
+margin:50px 50px;border-radius: 10px;"}
+:::
+::::
+

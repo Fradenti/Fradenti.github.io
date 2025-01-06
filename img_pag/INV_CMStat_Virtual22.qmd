@@ -1,0 +1,9 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+![Breaking Null - Better this picture than my room, from where I gave the talk :(](../images/null_heis.png)
+

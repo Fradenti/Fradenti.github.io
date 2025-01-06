@@ -1,9 +1,0 @@
----
-title: "&nbsp;"
-output: 
-  html_document
----
-
-[**<**](/Rmarkdowns/ConferencesAndTalks.html)
-
-![A rorschach brain image: what do you see in our image segmentation? - Baysm 2023, November 2023](../images/Potts2.png)

@@ -1,9 +1,0 @@
----
-title: "&nbsp;"
-output: 
-  html_document
----
-
-[**<**](/Rmarkdowns/ConferencesAndTalks.html)
-
-![Aula Magna, Università Cattolica del Sacro Cuore del Sacro Cuore, Milano, 2018](../images/magnacatto.jpeg)

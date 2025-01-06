@@ -1,0 +1,146 @@
+---
+title: "Miscellanea"
+page-layout: full
+---
+
+
+:::: {.columns}
+
+::: {.column width="57.5%"}
+![](../images/mont.jpg){style="float: left;vertical-align:middle;
+margin:10px 20px;border-radius: 10px;"}
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="37.5%"}
+<div style="text-align: right"> <p>&quot;<em>
+Because there's no such thing as rock stars<br>
+There's just people who play music<br>
+And some of them are just like us<br>
+And some of them are dicks<br>
+So quick, turn off your stereo<br>
+Pick up that pen and paper<br>
+You could do much better than some<br>
+Skinny half-assed English country singer</em>&quot; <br>Try This at Home, Frank Turner</p>
+</div>
+:::
+::::
+
+<br>
+
+## Software
+
+#### On CRAN
+
+* **SANvi** - R package - In collaboration with L. D'Angelo  
+[![R-CMD-check](https://github.com/fradenti/SANvi/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/fradenti/SANvi/actions/workflows/R-CMD-check.yaml)
+[![CRAN](https://www.r-pkg.org/badges/version/SANvi)](https://cran.r-project.org/package=SANvi)
+[![Downloads (monthly)](https://cranlogs.r-pkg.org/badges/SANvi?color=brightgreen)](https://www.r-pkg.org/pkg/SANvi)
+[![Downloads (total)](https://cranlogs.r-pkg.org/badges/grand-total/SANvi?color=brightgreen)](https://www.r-pkg.org/pkg/SANvi)
+[![Static Badge](https://img.shields.io/badge/%20-GitHub%20repository-blue?logo=github&color=black)](https://github.com/Fradenti/SANvi)
+[![Last Commit](https://img.shields.io/github/last-commit/fradenti/SANvi)](https://github.com/fradenti/SANvi)
+
+
+* **SANple** - R package - In collaboration with L. D'Angelo    
+<!-- badges: start
+[![R-CMD-check](https://github.com/laura-dangelo/SANple/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/laura-dangelo/SANple/actions/workflows/R-CMD-check.yaml)
+ -->
+[![CRAN](https://www.r-pkg.org/badges/version/SANple)](https://cran.r-project.org/package=SANple)
+[![Downloads (monthly)](https://cranlogs.r-pkg.org/badges/SANple?color=brightgreen)](https://www.r-pkg.org/pkg/SANple)
+[![Downloads (total)](https://cranlogs.r-pkg.org/badges/grand-total/SANple?color=brightgreen)](https://www.r-pkg.org/pkg/SANple)
+[![Static Badge](https://img.shields.io/badge/%20-GitHub%20repository-blue?logo=github&color=black)](https://github.com/laura-dangelo/SANple)
+[![Last Commit](https://img.shields.io/github/last-commit/laura-dangelo/SANple)](https://github.com/laura-dangelo/SANple)  
+
+
+* **intRinsic** - R package - In collaboration with A. Gilardi  
+[![R-CMD-check](https://github.com/Fradenti/intRinsic/workflows/R-CMD-check/badge.svg)](https://github.com/Fradenti/intRinsic/actions)
+[![CRAN](https://www.r-pkg.org/badges/version/intRinsic)](https://cran.r-project.org/package=intRinsic)
+[![Downloads (monthly)](https://cranlogs.r-pkg.org/badges/intRinsic?color=brightgreen)](https://www.r-pkg.org/pkg/intRinsic)
+[![Downloads (total)](https://cranlogs.r-pkg.org/badges/grand-total/intRinsic?color=brightgreen)](https://www.r-pkg.org/pkg/intRinsic)
+[![Static Badge](https://img.shields.io/badge/%20-GitHub%20repository-blue?logo=github&color=black)](&link=https://github.com/Fradenti/intRinsic)
+[![Last Commit](https://img.shields.io/github/last-commit/fradenti/intRinsic)](https://github.com/fradenti/intRinsic)
+
+
+#### On GitHub
+
+* **SANba** - R package - In collaboration with L. D'Angelo  
+[![Static Badge](https://img.shields.io/badge/%20-GitHub%20repository-blue?logo=github&color=black)](link=https://github.com/Fradenti/SANba)
+<br>
+
+* **Brand** - R package - In collaboration with A. Cappozzo  
+[![Static Badge](https://img.shields.io/badge/%20-GitHub%20repository-blue?logo=github&color=black)](https://github.com/Fradenti/Brand)
+<br>
+
+***
+
+:::: {.columns}
+::: {.column width="90%"}
+![](../images/f2.jpeg){style="float: left;vertical-align:middle;
+margin:10px 20px;border-radius: 50px;"}
+:::
+::::
+
+
+
+## Service to Profession and Affiliations {.tabset .tabset-fade}
+
+### Reviewer for (alphabetical order)
+<!--
+Advances in Statistical Analysis (AStA, 1) --- Bayesian Analysis (BA, 3) --- Biometrics (2) --- Computational Statistics \& Data Analysis (CSDA, 2) --- International Statistical Review (3) ---  Italian Journal of Applied Statistics (1) --- Journal of the American Statistical Association (JASA - A&CS, 1) --- Journal of Computational and Graphical Statistics (JCGS, 1) --- Journal of Statistical Software (JSS, 2) --- Journal of the Royal Statistical Society - Series B (JRSS-B ,1) --- Pattern Recognition (1) --- Statistics and Computing (2) --- Statistical Methods and Applications (SMA, 2) --- Statistical Science (2) --- Technometrics (1) --- 2021 SBSS Student Paper Competition     
+-->
+```{r,echo=F}
+D <- rbind(
+cbind("Advances in Statistical Analysis (AStA)", 1), 
+cbind("Annals of Applied Statistics (AOAS)", 2), 
+cbind("Bayesian Analysis (BA)", 3), 
+cbind("Biometrical Journal", (1)),
+cbind("Biometrics", (2)),
+cbind("Communications in Statistics", (1)),
+cbind("Computational Statistics & Data Analysis (CSDA)", (2)),
+cbind("Econometrics and Statistics",2),
+cbind("International Statistical Review", (3)),
+cbind("Italian Journal of Applied Statistics", (1)),
+cbind("Journal of the American Statistical Association (JASA)", 2),
+cbind("Journal of Computational and Graphical Statistics (JCGS)", 1),
+cbind("Journal of Statistical Software (JSS)", 3),
+cbind("Journal of the Royal Statistical Society - Series B (JRSS-B)",1),
+cbind("Pattern Recognition", (2)),
+cbind("Statistical Methods and Applications (SMA)", 3),
+cbind("Statistical Science", (2)),
+cbind("Statistics and Computing", (3)),
+cbind("Statistics and Probability Letters", (1)),
+cbind("Statistics in Medicine", (1)),
+cbind("Technometrics", (1)),
+cbind("The American Statistician", (1)),
+cbind("Transactions on Machine Learning Research (TMLR)", (1))
+)
+D = as.data.frame(D)
+D[,2] = as.numeric(D[,2])
+colnames(D) <- c("Journal","# Reviews")
+kableExtra::kable_styling(knitr::kable(D))
+```
+
+Also reviewer for 
+
+- *2021 SBSS Student Paper Competition*,  
+- *IEEE CIBCB 2023 - Special Session*,  
+- *2024 ASA-SBSS Student Paper Competition*.
+
+
+#### Others
+
++ Editor of the [ISBA bulletin](https://bayesian.org/resources/bulletin/) from 2024 
+
++ Associate Editor for the [ISBA bulletin](https://bayesian.org/resources/bulletin/) - *News of the World* section from 2019 to 2024
+
++ Member of [ISBA](https://bayesian.org), [j-ISBA](https://j-isba.github.io), and [BNP-ISBA](https://bnp-isba.github.io)  
+
++ Member of [Complex Data Modeling Research Network](https://midas.mat.uc.cl/network/)
+
+## Miscellanea
+
+- [My second family (in italian)](http://www.compagniameteor.it/)
+

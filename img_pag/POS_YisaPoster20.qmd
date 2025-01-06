@@ -1,0 +1,9 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+![Remote YISA poster session, the Internet - Avocado plant, BNP, and Panera coffee.](../images/YisaPoster.jpg)
+

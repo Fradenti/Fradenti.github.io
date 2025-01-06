@@ -1,0 +1,162 @@
+---
+title: "Dissemination"
+page-layout: full
+---
+
+
+:::: {.columns}
+
+::: {.column width="47.5%"}
+![](../images/prese.png){style="float: left;vertical-align:middle;
+margin:10px 20px;border-radius: 10px;"}
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="47.5%"}
+<div style="text-align: right"> <p>&quot;<em>Dice che molte volte dovrei stare zitto perché parlo senza aver sudato.<br>
+E le altre volte dovrei stare zitto perché parlo senza aver studiato.</em>&quot; <br> La mia donna dice che - D. D'Amico - [Translation](https://translate.google.com/?sl=origin_language_or_auto&tl=en&text=%20La%20mia%20donna%20dice%20che%20molte%20volte%20dovrei%20stare%20zitto%20perch%C3%A9%20parlo%20senza%20aver%20sudato.%20%20E%20le%20altre%20volte%20dovrei%20stare%20zitto%20perch%C3%A9%20parlo%20senza%20aver%20studiato.&op=translate)</p>
+</div>
+:::
+::::
+
+
+# Talks and Posters
+
+
+## Invited Talks
+
+- [Frontiers of Bayesian Inference and Data Science](https://www.birs.ca/events/2024/5-day-workshops/24w5196/schedule)  
+Talk: *Of mice and music: finite-infinite nested priors for the segmentation of large-scale grouped data*  
+Oaxaca, MX - September 2024 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_Oaxaca24.qmd)
+
+- [ISBA Satellite workshop to ISBA World Meeting](https://www.usi.ch/en/feeds/25999)  
+Talk: *Segmenting brain imaging mass spectrometry data under separate exchangeability*  
+Lugano, CH - June 2024 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_Lugano24.qmd)
+
+- [CFE-CMStatistics 2023](https://www.cmstatistics.org/CMStatistics2023/programme.php)  
+Virtual talk: *Bayesian models and computational methods for complex biological and environmental datasets*  
+Berlin, DE - December 2023 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_Berlin23.qmd)
+
+- [CFE-CMStatistics 2022 (Ercim)](http://www.cmstatistics.org/CMStatistics2022/index.php)  
+Virtual talk: *Multiple hypothesis screening via mixtures of non-local distributions with applications to genomic datasets*  
+London, UK - December 2022 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_CMStat_Virtual22.qmd)
+
+- [ISBA World Meeting 2022](https://isbawebmaster.github.io/ISBA2022/)  
+j-ISBA session talk: *Bayesian screening via mixtures of shrinkage priors with applications to light-sheet fluorescence microscopy in brain imaging*  
+Montreal, CA - June 2022 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_MOntreal22.qmd)
+
+- [SIS 2022](https://meetings3.sis-statistica.org/index.php/SIS2022/Caserta)  
+Talk: *Clustering artists based on the energy distributions of their songs on Spotify via the Common Atoms Model*    
+Caserta, IT - June 2022 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_Ancona22.qmd)
+
+- [EcoSta 2021](http://www.cmstatistics.org/EcoSta2021/index.php)   
+Virtual talk: *Horseshoe Pit -- A Unified Framework for Large-Scale Bayesian Inference*   
+Virtual Conference - June 2021- [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_CMStat_Virtual21.qmd)  
+
+
+## Invited Seminars
+
+- [UniPD Welcome Seminar](https://www.linkedin.com/feed/update/urn:li:activity:7259643658784669697/)  
+Seminar (45 min): *Of mice and music: finite-infinite nested priors for the segmentation of large-scale grouped data*  
+Padova, IT - November 2024 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/SEM_Padua24.qmd)
+
+- [CSUEB ASA Student Chapter](https://www.instagram.com/asacsueb/)  
+Virtual seminar (1 hour): *Bayesian nonparametric mixtures for novelty detection*  
+Hayward (California), US - October 2022 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/SEM_CSUEB22.qmd)
+
+- [Cattolica - Spring 22 Seminar Series](https://dipartimenti.unicatt.it/scienze-statistiche-dipartimento-di-scienze-statistiche-eventi#content)  
+Seminar (1 hour): *Bayesian nonparametric mixtures for novelty detection and partially exchangeable data*   
+Statistics Department Seminar - April 2022 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/SEM_Cattolica22.qmd)  
+
+- [UCI - Fall 2020 Seminar Series](https://www.stat.uci.edu/seminar-series/)   
+Virtual Seminar (45 min): *Bayesian Sparse Regression via Cluster Shrinkage Parameters*   
+      Statistics Department Seminar - November 2020 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/SEM_UCI20.qmd)  
+
+
+## Contributed Talks
+
+- [BAYSM 2023](https://events.stat.uconn.edu/BAYSM2023/)   
+Talk: *Segmenting MALDI-MSI brain imaging mass spectrometry data under separate exchangeability*  
+Virtual Conference - November 2023 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/CON_Baysm23.qmd)
+
+- [SIS 2023](https://meetings3.sis-statistica.org/index.php/ancona/ancona)   
+Talk with Poster: *Bayesian analysis of Amazon's best-selling books via finite nested mixture models*  
+Ancona, IT - June 2023 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/CON_Ancona23.qmd)
+
+- [SIS 2022](https://meetings3.sis-statistica.org/index.php/SIS2022/Caserta)  
+Talk: *A tool to validate the assumptions on ratios of nearest neighbors’ distances: the Consecutive Ratio Paths*  
+Caserta, IT - June 2022 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/CON_Caserta22.qmd)
+
+- [Joint Statistical Meeting 2021](https://ww2.amstat.org/meetings/jsm/2021/)   
+Virtual Talk: *Detecting Brain Activation via Bayesian Mixture of Horseshoe Distributions*  
+Virtual Conference - August 2021 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/CON_JSM21.qmd)
+
+- [ISBA World Meeting 2021](https://events.stat.uconn.edu/ISBA2021/)   
+Virtual Talk: *Bayesian Variable Selection via Mixture of Horseshoe Distributions*   
+Virtual Conference - June 2021 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/CON_ISBA21.qmd)  
+
+- [Bayes Comp 2020](http://users.stat.ufl.edu/~jhobert/BayesComp2020/Conf_Website)  
+Talk: *Bayesian nonparametric dimensionality reduction via estimation of data intrinsic dimensions*  
+Florida, US - January 2020 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/CON_Florida20.qmd)
+
+- [12th IBS-Italian Region conference](https://ibs-italy.org/?page_id=922&lang=en)  
+Contributed Talk: *Modeling Human Microbiome Data via Latent Nested Nonparametric Priors*  
+Naples, IT - July 2019 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/CON_Naples19.qmd)
+
+## Posters
+
+- [ISBA 2024 World Meeting](https://www.unive.it/web/en/2208/home) Poster: *Finite-infinite nested priors for the segmentation of complex, large-scale grouped datasets*   
+Venice, IT - July 2024 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/POS_Venice24.qmd)  
+
+- [Models and Learning for Clustering and Classification](http://mbc2.unict.it/)   
+Video Poster: *Bayesian Nonparametric Functional Novelty Detector*   
+Virtual Conference - September 2020 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/POS_MBC220.qmd) 
+
+
+- [Young-ISA Twitter Poster Conference (#YISAPoster2020)](https://young-istat.github.io/events/posts/2020-07-15-poster-conference-2020)  
+Virtual Poster: *A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information*  
+Twitter - July 2020 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/POS_YisaPoster20.qmd)  
+ 
+
+- [BNP19 - Bayesian Nonparametrics](https://www.stats.ox.ac.uk/bnp12/)  
+Poster: *Modeling Human Microbiome Data via Latent Nested Nonparametric Priors*   
+Oxford, UK - June 2019 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/POS_Oxford19.qmd) 
+
+
+
+## Other Conferences and Workshops
+
+- [Uncertainty, Bayes and Statistics - A meeting in honor of Guido Consonni](https://dipartimenti.unicatt.it/scienze-statistiche-seminari-eventi-uncertainty-bayes-and-statistics-a-meeting-in-honour-of-guido-consonni)  
+Milan, IT - July 2024 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/PAR_consonni24.qmd)
+
+- [Statalk 2023](https://statalk2023.shinyapps.io/statalk2023/?fbclid=PAAabvEPTG5lakUm-opB8QfxM5Q7PNjjjkeyir1Hi8cUn3JyBr40GlRXIlYgs)  
+Rome, IT - September 2023 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/PAR_Roma23.qmd)
+
+- [Bayesian Nonparametrics for Complex Data](http://bnp4cd.stat.unipd.it/workshop.html)  
+Padua, IT - January 2020 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/PAR_PAD20.qmd)
+
+- [Network Models in Statistics, Economics and Social Sciences](https://www.eventbrite.it/e/network-models-in-statistics-economics-and-social-registration-59152695304)  
+Milan, IT - November 2019 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/PAR_Milan19.qmd)
+
+- [Statistical Methods in Imaging - SMI 2019](https://sites.uci.edu/smi2019/)  
+Irvine, US - June 2019 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/PAR_SMI19.qmd)
+ 
+- [FoMICS-DADSi Summer School on Data Assimilation](https://www.ics.usi.ch/index.php/news/285-fomics-dadsi-summer-school-on-data-assimilation)  
+Lugano, CH - September 2018 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/PAR_Lugano18.qmd)
+
+- [LMS Invited Lecture Series and CRISM Summer School in Computational Statistics 2018](https://warwick.ac.uk/fac/sci/statistics/crism/workshops/lms2018/)   
+Warwick, UK -July 2018 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/PAR_Warwick18.qmd)
+
+- [ISBA World Meeting 2018](https://bayesian.org/isba2018/)  
+Edinburgh, UK - June 2018 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/PAR_ISBA18.qmd)
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+![Hierva El Agua hike gang. Credits: [Dr. R. Corradin](https://rcorradin.github.io). ](../images/HEA.jpeg)
+
+![How I felt inside after 9 shots of Mezcal on a empty stomach, after a tasting.](../images/oax.jpg)
