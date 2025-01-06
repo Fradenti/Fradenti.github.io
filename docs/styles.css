@@ -1,0 +1,11 @@
+/* css styles */
+
+.main-container {
+  max-width: 80%; /* Adjust this value to your preferred width */
+  margin: 0 auto; /* Center the content */
+}
+
+img {
+  max-width: 80%;
+  height: auto;
+}
