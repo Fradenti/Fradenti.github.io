@@ -26,3 +26,5 @@ format:
       - https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.5/font/bootstrap-icons.min.css
     toc: false
 editor: source
+execute:
+  freeze: auto
