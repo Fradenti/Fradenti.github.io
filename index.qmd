@@ -62,7 +62,7 @@ I am interested in Bayesian mixtures, Bayesian nonparametrics, model-based clust
 <a href="https://scholar.google.com/citations?user=8WqmGiEAAAAJ&hl=en" class="btn btn-primary">
   <i class="bi bi-google"></i> Google Scholar profile
 </a>
-<a href="https://scholar.google.com/citations?user=8WqmGiEAAAAJ&hl=en" class="btn btn-primary">
+<a href="https://github.com/Fradenti" class="btn btn-primary">
   <i class="bi bi-github"></i> GitHub profile
 </a>
 <a href="https://www.linkedin.com/in/francesco-denti/" class="btn btn-primary">
