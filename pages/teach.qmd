@@ -44,15 +44,17 @@ margin:50px 50px;border-radius: 10px;"}
 ::::
 
 
-## Past Courses
+# Past Courses
 
 <br>
 
 <div style="text-align: right"> <p>&quot;<em>Via il Denti, via il dolore</em>&quot; <br>LDA</p>
 </div>
 
+## Academic Year 2024/2025
 
-### Summer Schools and Tutorials
+
+#### Summer Schools and Tutorials
 
 - **Dec 2024**: Bayesian nonparametric methods  *(13h, Eng)*  
 COST Action HiTEc Tutorial (jointly taught with M. Guindani)  

@@ -25,7 +25,7 @@ format:
     css: 
       - styles.css
       - https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.5/font/bootstrap-icons.min.css
-    toc: false
+    toc: true
 editor: source
 execute:
   freeze: auto

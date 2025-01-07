@@ -108,7 +108,8 @@ Naples, IT - July 2019 - [ <img  width="20" height="20" src="../images/cam3.png"
 
 ## Posters
 
-- [ISBA 2024 World Meeting](https://www.unive.it/web/en/2208/home) Poster: *Finite-infinite nested priors for the segmentation of complex, large-scale grouped datasets*   
+- [ISBA 2024 World Meeting](https://www.unive.it/web/en/2208/home)  
+Poster: *Finite-infinite nested priors for the segmentation of complex, large-scale grouped datasets*   
 Venice, IT - July 2024 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/POS_Venice24.qmd)  
 
 - [Models and Learning for Clustering and Classification](http://mbc2.unict.it/)   

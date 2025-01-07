@@ -49,7 +49,7 @@ margin:10px 20px;border-radius: 10px;
 I am an Assistant Professor (RtdB) at the [Department of Statistics of University of Padua](https://www.stat.unipd.it).
 
 Previously, I held the role of Assistant Professor (RtdA) at the [Department of Statistics of Università Cattolica del Sacro Cuore - Milan](https://dipartimenti.unicatt.it/scienze_statistiche).  
-Prior to that, I spent two years as a Postdoctoral Scholar at the [Department of Statistics of Univerisity of California - Irvine](https://www.stat.uci.edu/) (UCI), working under the supervision of Professor [Babak Shahbaba](https://www.ics.uci.edu/~babaks/).  
+Prior to that, I spent two years as a Postdoctoral Scholar at the [Department of Statistics of Univerisity of California - Irvine](https://www.stat.uci.edu/), working under the supervision of Professor [Babak Shahbaba](https://www.ics.uci.edu/~babaks/).  
 
 I obtained a Ph.D. in Statistics at University of Milan - Bicocca and Università della Svizzera italiana (joint program, awarded with honors) working with Professor [Antonietta Mira](https://search.usi.ch/en/people/f8960de6d60dd08a79b6c1eb20b7442b/mira-antonietta) and Professor [Michele Guindani](https://www.micheleguindani.info).  
 
