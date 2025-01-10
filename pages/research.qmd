@@ -129,7 +129,6 @@ Rosenrot - Rammstein </p>
 <li> Migliavada, R., Ricci, F. Z., **Denti, F.**, Haghverdian, D., and Torri, L.    
 *Is purchasing of vegetable dishes affected by organic or local labels? Empirical evidence from a university canteen*  
 **Appetite**, 2022 - [[Journal](https://www.sciencedirect.com/science/article/pii/S0195666322000861?dgcid=author)]
-</li> 
 
 <li> Petazzoni, M., De Giacinto, E., Troiano, D., **Denti, F.**, and Buiatti, M.  
 *Computed Tomographic Trochlear Depth Measurement in Normal Dogs*  
@@ -176,7 +175,7 @@ Perciò+dovrò+continuare+a+scrivere+perché+di+certo+riesco.
   *Hierarchical Spatio-Temporal Modeling of Resting State fMRI Data*    
 in **Studies in Neural Data Science** (Canale, A., Durante, D., Paci, L., Scarpa, B., editors), 2018 - 
 [[Book Chapter](https://link.springer.com/chapter/10.1007/978-3-030-00039-4_7)]   
-</li> 
+</ol> 
 
 ### Discussions
 
@@ -186,7 +185,7 @@ in **Studies in Neural Data Science** (Canale, A., Durante, D., Paci, L., Scarpa
 **Denti, F.** and Rizzelli, S.  
 *Contributed Discussion on "Sparse Bayesian factor analysis when the number of factors is unknown"*  
 **Bayesian Analysis**, 2024 - [[Journal](10.1214/24-BA1423)]
-</li> 
+</ol> 
 
 ### Conference Proceedings
 
@@ -196,10 +195,7 @@ in **Studies in Neural Data Science** (Canale, A., Durante, D., Paci, L., Scarpa
 Capitoli, G., Denti, V., Balocchi C., and **Denti, F.**    
 *Bayesian Biclustering on a Renal Cell Carcinoma Tissue Section*  
 (Accepted, In press, SIS 2024 Conference proceeding)
-</li> 
 
-
-<br>
 
 <li>
 D'Angelo, L., and **Denti, F.**  
@@ -217,7 +213,6 @@ Di Noia, A., **Denti, F.**, and Mira, A.
 Capitoli, G., Colombara, S., Cotroneo, A., De Caro, F., Morandi, R., Schembri, C., Zapiola, A.G., and **Denti, F.**   
 *Detecting latent spatial patterns in mass spectrometry brain imaging data via Bayesian mixtures*,  (pp. 1127-1132)
 </li> 
-
 in F.M. Chelli, M. Ciommi, S. Ingrassia, F. Mariani, M.C. Recchioni (a cura di) **Book of Short Papers SEAS IN 2023**, Pearson - [[Proceedings](https://it.pearson.com/docenti/universita/partnership/sis.html)]   
 
 
@@ -230,22 +225,18 @@ in F.M. Chelli, M. Ciommi, S. Ingrassia, F. Mariani, M.C. Recchioni (a cura di) 
 <li>**Denti, F.** and Mira, A.  
 *A tool to validate the assumptions on ratios of nearest neighbor distances: the Consecutive Ratio Paths*, (pp. 1233-1238)
 </li>  
-
 in A. Balzanella, M. Bini, C. Cavicchia, and R. Verde (a cura di), **Book of Short Papers SIS 2022**, Pearson - [[Proceedings](https://it.pearson.com/docenti/universita/partnership/sis.html)]   
 
 
 <li> **Denti, F.**, Cappozzo, A., and Greselin, F.    
 *Outlier and novelty detection for Functional data: a semiparametric Bayesian approach*  
 in **Book of Short Papers of the 5th international workshop on Models and Learning for Clustering and Classification**, (Ingrassia A., Punzo A., Rocci R., editors) (pp. 33-38), Ledizioni - [[Proceedings](https://zenodo.org/record/5598945\#.YZPWzy-B0qy)]   
-</li> 
 
 
 <li> **Denti, F.**, Cappozzo, A., and Greselin, F.    
 *Bayesian nonparametric adaptive classification with robust prior information*    
 in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), **Book of Short Papers SIS 2020** (pp. 655-660). Pearson.  
 [[Proceedings](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Università/Pearson-SIS-2020-atti-convegno.pdf)]   
-</li> 
-
 
 
 

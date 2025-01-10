@@ -7,7 +7,7 @@ page-layout: full
 :::: {.columns}
 
 ::: {.column width="57.5%"}
-![](../images/mont.jpg){style="float: left;vertical-align:middle;
+![](../images/sanluca2.png){style="float: left;vertical-align:middle;
 margin:10px 20px;border-radius: 10px;"}
 :::
 

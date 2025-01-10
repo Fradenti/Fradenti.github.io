@@ -4,6 +4,6 @@ output:
   html_document
 ---
 
-[**<**](/Rmarkdowns/ConferencesAndTalks.html)
+[**[Back]**](../pages/talks.qmd)
 
 ![A clingy gattone in Rome, September 2023.](../images/romecat.jpeg)
