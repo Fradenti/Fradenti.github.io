@@ -46,7 +46,7 @@ London, UK - December 2022 - [ <img  width="20" height="20" src="../images/cam3.
 
 - [ISBA World Meeting 2022](https://isbawebmaster.github.io/ISBA2022/)  
 j-ISBA session talk: *Bayesian screening via mixtures of shrinkage priors with applications to light-sheet fluorescence microscopy in brain imaging*  
-Montreal, CA - June 2022 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_MOntreal22.qmd)
+Montreal, CA - June 2022 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_Montreal22.qmd)
 
 - [SIS 2022](https://meetings3.sis-statistica.org/index.php/SIS2022/Caserta)  
 Talk: *Clustering artists based on the energy distributions of their songs on Spotify via the Common Atoms Model*    
