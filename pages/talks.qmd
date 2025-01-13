@@ -16,8 +16,8 @@ margin:10px 20px;border-radius: 10px;"}
 :::
 
 ::: {.column width="47.5%"}
-<div style="text-align: right"> <p>&quot;<em>Dice che molte volte dovrei stare zitto perché parlo senza aver sudato.<br>
-E le altre volte dovrei stare zitto perché parlo senza aver studiato.</em>&quot; <br> La mia donna dice che - D. D'Amico - [Translation](https://translate.google.com/?sl=origin_language_or_auto&tl=en&text=%20La%20mia%20donna%20dice%20che%20molte%20volte%20dovrei%20stare%20zitto%20perch%C3%A9%20parlo%20senza%20aver%20sudato.%20%20E%20le%20altre%20volte%20dovrei%20stare%20zitto%20perch%C3%A9%20parlo%20senza%20aver%20studiato.&op=translate)</p>
+<div style="text-align: right"> <p>&quot;<em>Dice che molte volte dovrei stare zitto<br>perché parlo senza aver sudato.<br>
+E le altre volte dovrei stare zitto<br>perché parlo senza aver studiato.</em>&quot; <br> La mia donna dice che - D. D'Amico - [Translation](https://translate.google.com/?sl=origin_language_or_auto&tl=en&text=%20La%20mia%20donna%20dice%20che%20molte%20volte%20dovrei%20stare%20zitto%20perch%C3%A9%20parlo%20senza%20aver%20sudato.%20%20E%20le%20altre%20volte%20dovrei%20stare%20zitto%20perch%C3%A9%20parlo%20senza%20aver%20studiato.&op=translate)</p>
 </div>
 :::
 ::::
