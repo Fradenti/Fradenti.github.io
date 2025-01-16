@@ -4,7 +4,8 @@ project:
 website:
   title: "Francesco Denti"
   navbar:
-    background: primary
+    background: "#2c4878"
+    foreground: "white"
     search: true
     right:
       - text: "Home"
