@@ -45,6 +45,11 @@ Rosenrot - Rammstein </p>
 
 <ol reversed>
 
+<li> **Denti F.** and D’Angelo, L.  
+*The Generalized Nested Common Atoms Model*  
+**Econometrics and Statistics**, 2025 - [Just Accepted- [GitHub](https://github.com/Fradenti/geCAM)]
+
+
 <li> Sottosanti, A., **Denti F.**, Galimberti, S., Risso, D., and Capitoli, G.  
 *Spatially informed non-negative matrix tri-factorization for co-clustering mass spectrometry data*  
 **Biometrical Journal**, 2024 - [[GitHub](https://github.com/andreasottosanti/TRIFASE)]
