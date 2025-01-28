@@ -26,7 +26,16 @@ format:
     css: 
       - styles.css
       - https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.5/font/bootstrap-icons.min.css
+    grid:
+      sidebar-width: 300px
+      body-width: 1300px
+      margin-width: 200px
+      gutter-width: 1.5rem
+#    grid:
+#      sidebar-width: 10px
     toc: true
+    toc-location: left
+
 editor: source
 execute:
   freeze: auto

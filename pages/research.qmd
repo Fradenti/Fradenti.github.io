@@ -47,7 +47,7 @@ Rosenrot - Rammstein </p>
 
 <li> **Denti F.** and D’Angelo, L.  
 *The Generalized Nested Common Atoms Model*  
-**Econometrics and Statistics**, 2025 - [[Journal](https://www.sciencedirect.com/science/article/pii/S2452306225000012) - [GitHub](https://github.com/Fradenti/geCAM)]
+**Econometrics and Statistics**, 2025 - [[Journal](https://www.sciencedirect.com/science/article/pii/S2452306225000012) - [Preprint](../pdf/geCAM.pdf) - [GitHub](https://github.com/Fradenti/geCAM)]
 
 
 <li> Sottosanti, A., **Denti F.**, Galimberti, S., Risso, D., and Capitoli, G.  
