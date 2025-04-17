@@ -1,0 +1,8 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+![I did not take any picture of the charming Porto Marghera... here's our wisteria instead!](../images/glicine2.jpg)

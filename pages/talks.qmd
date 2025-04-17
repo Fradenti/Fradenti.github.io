@@ -59,6 +59,11 @@ Virtual Conference - June 2021- [ <img  width="20" height="20" src="../images/ca
 
 ## Invited Seminars
 
+- [DAIS Seminar Series](https://www.unive.it/pag/16129/)  
+Seminar (45 min): *BNP4BNP: Bayesian Nonparametric Models for Biomarkers and Neuronal Patterns*  
+Padova, IT - November 2024 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/SEM_CaFosca25.qmd)
+
+
 - [UniPD Welcome Seminar](https://www.linkedin.com/feed/update/urn:li:activity:7259643658784669697/)  
 Seminar (45 min): *Of mice and music: finite-infinite nested priors for the segmentation of large-scale grouped data*  
 Padova, IT - November 2024 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/SEM_Padua24.qmd)
