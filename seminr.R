@@ -6,6 +6,20 @@ fd <- presenter(name = "Francesco", surname = "Denti",
                 link = "https://fradenti.github.io")
 
 FD <- add_presentation(presenter = fd,     
+                       country = "Italy", city = "Rome",
+                       lon = 12.4676, lat = 41.9225,
+                       event = "Early-Career Workshop on Nonparametric Statistics",
+                       title = "Bayesian nonparametric models for biomarkers and neuronal patterns",
+                       link = "https://sites.google.com/view/wsnpstats",
+                       materials = "../img_pag/INV_Oaxaca24.qmd",
+                       type = "presentation", institution = NA, department = NA,
+                       venue = NA, room = NA,
+                       year = 2024, month = 9, day = NA,
+                       start_hour = NA, start_min = NA,
+                       end_hour = NA, end_min = NA)
+
+
+FD <-FD %>%  add_presentation(presenter = fd,     
                        country = "Mexico", city = "Oaxaca",
                  lon = -96.72365, lat = 17.06542,
                  event = "Frontiers of Bayesian Inference and Data Science",

@@ -1,0 +1,9 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+
+![A pic with very bright colleagues!](../images/npstat_luiss.jpg)
