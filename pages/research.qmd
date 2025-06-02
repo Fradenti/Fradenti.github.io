@@ -199,7 +199,7 @@ in **Studies in Neural Data Science** (Canale, A., Durante, D., Paci, L., Scarpa
 <li>
 Capitoli, G., Denti, V., Balocchi C., and **Denti, F.**    
 *Bayesian Biclustering on a Renal Cell Carcinoma Tissue Section*  
-(Accepted, In press, SIS 2024 Conference proceeding)
+in Alessio Pollice, Paolo Mariani (Editors) **Methodological and Applied Statistics and Demography II - SIS 2024**, Short Papers, Solicited Sessions. Springer - [[Proceeding](https://link.springer.com/book/9783031643453)]
 
 
 <li>
