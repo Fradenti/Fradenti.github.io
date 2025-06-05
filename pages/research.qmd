@@ -25,6 +25,7 @@ margin:10px 20px;border-radius: 10px;"}
 
 # Publications 
 
+:::{.panel-tabset}
 
 ## Articles in Refereed Journals
 
@@ -266,7 +267,6 @@ Stay tuned!
 
 
 
-
 <!--
 1. **Denti, F.** and D'Angelo, L.  
 *The Influence of Stick-Breaking Priors on the Correlation Among Nonparametric Nested Common Atoms Random Measures*  
@@ -278,14 +278,8 @@ Stay tuned!
 -->
 
 
-
----
-
-::::columns
 ::: {.column width="90%"}
 ![](../images/f2.jpeg){style="float: left;vertical-align:middle;
 margin:50px 50px;border-radius: 10px;"}
 :::
-::::
 
-     
