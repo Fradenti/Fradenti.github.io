@@ -1,0 +1,10 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+
+![The Bayesian Non Padovanics at the Griffith Observatory](../images/bnp25_1.jpg)
+![Afternoon hike](../images/bnp25_2.jpg)

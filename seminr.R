@@ -6,15 +6,28 @@ fd <- presenter(name = "Francesco", surname = "Denti",
                 link = "https://fradenti.github.io")
 
 FD <- add_presentation(presenter = fd,     
+                       country = "United States", city = "Los Angeles",
+                       lon = -118.44455, lat = 34.07062,
+                       event = "BNP 14",
+                       title = "BNP4BNP: Bayesian Nonparametric Models For Biomarkers And Neuronal Patterns",
+                       link = "https://bnp14.org",
+                       materials = "../img_pag/INV_LosAngeles25.qmd",
+                       type = "presentation", institution = "UCLA", department = NA,
+                       venue = NA, room = NA,
+                       year = 2025, month = 6, day = NA,
+                       start_hour = NA, start_min = NA,
+                       end_hour = NA, end_min = NA)
+
+FD <- FD %>%  add_presentation(presenter = fd,     
                        country = "Italy", city = "Rome",
                        lon = 12.4676, lat = 41.9225,
                        event = "Early-Career Workshop on Nonparametric Statistics",
                        title = "Bayesian nonparametric models for biomarkers and neuronal patterns",
                        link = "https://sites.google.com/view/wsnpstats",
-                       materials = "../img_pag/INV_Oaxaca24.qmd",
-                       type = "presentation", institution = NA, department = NA,
+                       materials = "../img_pag/INV_Rome25.qmd",
+                       type = "presentation", institution = "LUISS", department = NA,
                        venue = NA, room = NA,
-                       year = 2024, month = 9, day = NA,
+                       year = 2025, month = 5, day = NA,
                        start_hour = NA, start_min = NA,
                        end_hour = NA, end_min = NA)
 
