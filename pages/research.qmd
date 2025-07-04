@@ -26,10 +26,7 @@ margin:10px 20px;border-radius: 10px;"}
 # Publications 
 
 :::{.panel-tabset}
-
 ## Articles in Refereed Journals
-
-
 <div style="text-align: right"> 
 <p>&quot;<em>Tiefe Brunnen muss man graben<br>
 wenn man klares Wasser will<br>
@@ -45,6 +42,12 @@ Rosenrot - Rammstein </p>
 ### Statistical Methodology
 
 <ol reversed>
+
+<li> Fasano, A. and **Denti F.**  
+*Multivariate Gaussian cumulative distribution functions as the marginal likelihood of their dual Bayesian probit models*  
+**Biometrika**, 2025 - [In press - [Postprint](../pdf/2025_BMKA_AM.pdf) - [GitHub](https://github.com/Fradenti/DualProbitCDF)]
+
+
 
 <li> **Denti F.** and D’Angelo, L.  
 *The Generalized Nested Common Atoms Model*  

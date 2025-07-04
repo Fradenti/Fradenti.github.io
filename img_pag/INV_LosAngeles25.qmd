@@ -6,5 +6,4 @@ page-layout: full
 [**[Back]**](../pages/talks.qmd)
 
 
-![The Bayesian Non Padovanics at the Griffith Observatory](../images/bnp25_1.jpg)
-![Afternoon hike](../images/bnp25_2.jpg)
+![Afternoon hike at the Griffith Observatory - Bayesian Non Padovanics et al.](../images/bnp25_2.jpg)
