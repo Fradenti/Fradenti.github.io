@@ -45,7 +45,7 @@ Rosenrot - Rammstein </p>
 
 <li> Fasano, A. and **Denti F.**  
 *Multivariate Gaussian cumulative distribution functions as the marginal likelihood of their dual Bayesian probit models*  
-**Biometrika**, 2025 - [In press - [Postprint](../pdf/2025_BMKA_AM.pdf) - [GitHub](https://github.com/Fradenti/DualProbitCDF)]
+**Biometrika**, 2025+ - [In press - [Postprint](../pdf/2025_BMKA_AM.pdf) - [GitHub](https://github.com/Fradenti/DualProbitCDF)]
 
 
 
@@ -160,12 +160,12 @@ Rosenrot - Rammstein </p>
 <br>
 
 
-<div style="text-align: right"> <p>&quot;<em>Il testo che avrei voluto scrivere non è di certo questo<br>
+<div style="text-align: right"> <p title="This is certainly not the text I wanted to write.
+So I'll have to keep writing because I can certainly do it.
+(Sooner or later)">&quot;<em>Il testo che avrei voluto scrivere non è di certo questo<br>
 Perciò dovrò continuare a scrivere perché di certo riesco<br>
-(Prima o poi)</em>&quot;<br> Michele Salvemini - [Translation](http://translate.google.com/#origin_language_or_auto|en|Il+testo+che+avrei+voluto+scrivere+non+è+di+certo+questo.
-Perciò+dovrò+continuare+a+scrivere+perché+di+certo+riesco.
-(Prima+o+poi)
-)</p>
+(Prima o poi)</em>&quot;<br> Michele Salvemini  
+</p>
 </div>
 
 <br>
