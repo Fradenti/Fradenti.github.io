@@ -223,17 +223,18 @@ FD <- FD %>% add_presentation(presenter = fd,                         country = 
                  start_hour = NA, start_min = NA,
                  end_hour = NA, end_min = NA)
 
-FD <- FD %>% add_presentation(presenter = fd,                         country = "Italy", city = "Caserta",
-                 lon = 14.3265, lat = 41.0747,
-                 event = "SIS 2022",
-                 title = "A tool to validate the assumptions on ratios of nearest neighbors’ distances: the Consecutive Ratio Paths",
-                 link = "https://meetings3.sis-statistica.org/index.php/SIS2022/Caserta",
-                 materials = "../img_pag/CON_Caserta22.qmd",
-                 type = "talk", institution = NA, department = NA,
-                 venue = NA, room = NA,
-                 year = 2022, month = 6, day = NA,
-                 start_hour = NA, start_min = NA,
-                 end_hour = NA, end_min = NA)
+# FD <- FD %>% add_presentation(presenter = fd,                         
+#                               country = "Italy", city = "Caserta",
+#                  lon = 14.3265, lat = 41.0747,
+#                  event = "SIS 2022",
+#                  title = "A tool to validate the assumptions on ratios of nearest neighbors’ distances: the Consecutive Ratio Paths",
+#                  link = "https://meetings3.sis-statistica.org/index.php/SIS2022/Caserta",
+#                  materials = "../img_pag/CON_Caserta22.qmd",
+#                  type = "talk", institution = NA, department = NA,
+#                  venue = NA, room = NA,
+#                  year = 2022, month = 6, day = NA,
+#                  start_hour = NA, start_min = NA,
+#                  end_hour = NA, end_min = NA)
 
 FD <- FD %>% add_presentation(presenter = fd,                         country = "United States", city = "Virtual",
                  lon = NA, lat = NA,
