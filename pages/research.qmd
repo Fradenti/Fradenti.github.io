@@ -266,9 +266,17 @@ in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), **Book of Short 
 
 <br>
 
-Stay tuned!  
+### Submitted
 
+<ol>
+<li> Sottosanti, A., Risso, D., and **Denti, F.**   
+*Spatially Regularized Gaussian Mixtures for Clustering Spatial Transcriptomic Data*   
+**Submitted**, 2025+
+</ol>
 
+### Working papers
+
+Stay tuned!
 
 <!--
 1. **Denti, F.** and D'Angelo, L.  
