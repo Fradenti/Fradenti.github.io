@@ -95,7 +95,9 @@ I am interested in Bayesian mixtures, Bayesian nonparametrics, model-based clust
 University of Padua, Italy
 <br>
 
+::: {.column width="90%"}
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3184.220641741057!2d11.882621467933566!3d45.40452436317138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477eda564e652e63%3A0x7d2e14da0badd282!2sDipartimento%20di%20Scienze%20Statistiche!5e1!3m2!1sit!2sit!4v1737048284611!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+:::
 ---
 
 ::: {.column width="90%"}

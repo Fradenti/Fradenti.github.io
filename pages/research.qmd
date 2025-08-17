@@ -45,7 +45,7 @@ Rosenrot - Rammstein </p>
 
 <li> Fasano, A. and **Denti F.**  
 *Multivariate Gaussian cumulative distribution functions as the marginal likelihood of their dual Bayesian probit models*  
-**Biometrika**, 2025+ - [[Journal](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asaf060/8221931) - [Postprint](../pdf/2025_BMKA_AM.pdf) - [GitHub](https://github.com/Fradenti/DualProbitCDF)]
+**Biometrika**, 2025 - [[Journal](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asaf060/8221931) - [Postprint](../pdf/2025_BMKA_AM.pdf) - [GitHub](https://github.com/Fradenti/DualProbitCDF)]
 
 
 
@@ -269,13 +269,19 @@ in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), **Book of Short 
 ### Submitted
 
 <ol>
+<li> D'Angelo, L., **Denti, F.**, Canale, A., and Guindani, M.   
+*Decoding Neuronal Ensembles from Spatially-Referenced Calcium Traces: A Bayesian Semiparametric Approach*  
+**Submitted**, 2025+ - [[Preprint](https://arxiv.org/abs/2508.09576)]
+
+
+<li> **Denti, F.** and D'Angelo, L.  
+*`sanba`: An R Package for Bayesian Clustering of Distributions via Shared Atoms Nested Models*  
+**Submitted**, 2025+ - [[Preprint](https://arxiv.org/abs/2508.09758) - [GitHub](https://github.com/fradenti/sanba)]
+
 <li> Sottosanti, A., Risso, D., and **Denti, F.**   
 *Spatially Regularized Gaussian Mixtures for Clustering Spatial Transcriptomic Data*   
 **Submitted**, 2025+
 
-<li> **Denti, F.** and D'Angelo, L.  
-*`sanba`: An R Package for Bayesian Clustering of Distributions via Shared Atoms Nested Models*  
-**Submitted**, 2025+
 
 </ol>
 
