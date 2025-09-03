@@ -271,7 +271,7 @@ in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), **Book of Short 
 <ol>
 <li> **Denti, F.**, Balocchi, C., Denti, V., and Capitoli, G.   
 *Multiomics Tissue Segmentation via Spatially-Informed Nested Biclustering Methods*    
-**Submitted**, 2025+ - [[Preprint](https://arxiv.org)]
+**Submitted**, 2025+ - [[Preprint](https://arxiv.org/abs/2509.02482)]
 
 
 

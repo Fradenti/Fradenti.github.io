@@ -36,8 +36,7 @@ Skinny half-assed English country singer</em>&quot; <br>Try This at Home, Frank 
 #### On CRAN
 
 * **SANvi** - R package - In collaboration with L. D'Angelo  
-[![R-CMD-check](https://github.com/fradenti/SANvi/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/fradenti/SANvi/actions/workflows/R-CMD-check.yaml)
-[![CRAN](https://www.r-pkg.org/badges/version/SANvi)](https://cran.r-project.org/package=SANvi)
+[![CRAN](https://www.r-pkg.org/badges/version/sanvi)](https://cran.r-project.org/package=SANvi)
 [![Downloads (monthly)](https://cranlogs.r-pkg.org/badges/SANvi?color=brightgreen)](https://www.r-pkg.org/pkg/SANvi)
 [![Downloads (total)](https://cranlogs.r-pkg.org/badges/grand-total/SANvi?color=brightgreen)](https://www.r-pkg.org/pkg/SANvi)
 [![Static Badge](https://img.shields.io/badge/%20-GitHub%20repository-blue?logo=github&color=black)](https://github.com/Fradenti/SANvi)
@@ -45,10 +44,7 @@ Skinny half-assed English country singer</em>&quot; <br>Try This at Home, Frank 
 
 
 * **SANple** - R package - In collaboration with L. D'Angelo    
-<!-- badges: start
-[![R-CMD-check](https://github.com/laura-dangelo/SANple/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/laura-dangelo/SANple/actions/workflows/R-CMD-check.yaml)
- -->
-[![CRAN](https://www.r-pkg.org/badges/version/SANple)](https://cran.r-project.org/package=SANple)
+[![CRAN](https://www.r-pkg.org/badges/version/sanple)](https://cran.r-project.org/package=SANple)
 [![Downloads (monthly)](https://cranlogs.r-pkg.org/badges/SANple?color=brightgreen)](https://www.r-pkg.org/pkg/SANple)
 [![Downloads (total)](https://cranlogs.r-pkg.org/badges/grand-total/SANple?color=brightgreen)](https://www.r-pkg.org/pkg/SANple)
 [![Static Badge](https://img.shields.io/badge/%20-GitHub%20repository-blue?logo=github&color=black)](https://github.com/laura-dangelo/SANple)
