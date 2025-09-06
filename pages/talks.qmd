@@ -35,6 +35,20 @@ fd <- presenter(name = "Francesco", surname = "Denti",
                 link = "https://fradenti.github.io")
 
 FD <- add_presentation(presenter = fd,     
+                       country = "Italy", city = "Padova",
+                       lon = 11.88586, lat = 45.40797,                       
+                       event = "SISBayes",
+                       title = "BNP4BNP: Bayesian Nonparametric Models For Biomarkers And Neuronal Patterns",
+                       link = "https://sisbayes2025.stat.unipd.it",
+                       materials = "../img_pag/...",
+                       type = "presentation", institution = "UniPD", department = NA,
+                       venue = NA, room = NA,
+                       year = 2025, month = 9, day = NA,
+                       start_hour = NA, start_min = NA,
+                       end_hour = NA, end_min = NA)
+
+
+FD <- FD %>% add_presentation(presenter = fd,     
                        country = "United States", city = "Los Angeles",
                        lon = -118.44455, lat = 34.07062,
                        event = "BNP 14",
@@ -353,6 +367,10 @@ A visual summary obtained with the great [semnar](https://cran.r-project.org/web
 
 ## Invited Talks
 
+
+- [SISBayes 2025](https://sisbayes2025.stat.unipd.it)  
+Talk: *Bnp4bnp: Bayesian Nonparametric Models For Biomarkers And Neuronal Patterns*  
+Padua, IT - September 2025 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_Padua25.qmd)
 
 - [BNP 14](https://bnp14.org)  
 Talk: *Bnp4bnp: Bayesian Nonparametric Models For Biomarkers And Neuronal Patterns*  

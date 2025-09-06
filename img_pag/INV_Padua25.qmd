@@ -1,0 +1,9 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+
+![So many Bayesians (both fundamentalists and pragmatists) in Santa Caterina! A great workshop full of colleagues and friends! And what a honorable mention! :)](../images/sisbayes25.jpg)
