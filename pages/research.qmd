@@ -43,18 +43,18 @@ Rosenrot - Rammstein </p>
 
 <ol reversed>
 
-<li> Fasano, A. and **Denti F.**  
+<li> Fasano, A. and **Denti, F.**  
 *Multivariate Gaussian cumulative distribution functions as the marginal likelihood of their dual Bayesian probit models*  
 **Biometrika**, 2025 - [[Journal](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asaf060/8221931) - [Postprint](../pdf/2025_BMKA_AM.pdf) - [GitHub](https://github.com/Fradenti/DualProbitCDF)]
 
 
 
-<li> **Denti F.** and D’Angelo, L.  
+<li> **Denti, F.** and D’Angelo, L.  
 *The Generalized Nested Common Atoms Model*  
 **Econometrics and Statistics**, 2025 - [[Journal](https://www.sciencedirect.com/science/article/pii/S2452306225000012) - [Preprint](../pdf/geCAM.pdf) - [GitHub](https://github.com/Fradenti/geCAM)]
 
 
-<li> Sottosanti, A., **Denti F.**, Galimberti, S., Risso, D., and Capitoli, G.  
+<li> Sottosanti, A., **Denti, F.**, Galimberti, S., Risso, D., and Capitoli, G.  
 *Spatially informed non-negative matrix tri-factorization for co-clustering mass spectrometry data*  
 **Biometrical Journal**, 2024 - [[Journal](https://onlinelibrary.wiley.com/doi/10.1002/bimj.70031) - [GitHub](https://github.com/andreasottosanti/TRIFASE)]
 
