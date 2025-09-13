@@ -24,7 +24,7 @@ margin:10px 20px;border-radius: 10px;"}
 <br>
 
 
-## Courses for the Academic Year 2024-2025
+## Courses for the Academic Year 2025-2026
 
 
 **Principal instructor**
@@ -34,7 +34,7 @@ margin:10px 20px;border-radius: 10px;"}
 
 **Teaching Assistant** (Esercitatore) for 
 
-* Statistica Progredito
+* [Statistica Progredito](https://didattica.unipd.it/off/2025/LM/SC/SC3012/000ZZ/SCP4063084/N0)
 
 ::::columns
 ::: {.column width="90%"}
@@ -53,13 +53,24 @@ margin:50px 50px;border-radius: 10px;"}
 
 ## Academic Year 2024/2025
 
+#### University of Padua
+
+- **Feb-Jun 2025**:  *Principal Instructor* of the course Statistical Methods for Big Data  *(42h, Ita)*  
+BSc in Statistics (Metodi statistici per i Big Data)  
+
+- **Feb-Jun 2025**:  *Principal Instructor* of the course Big Data and Artificial Intelligence *(42h, Eng)*  
+MSc in Economics
+
+- **Feb-Jun 2025**:  *Teaching Assistant (Esercitatore)* of the course Advanced Statistical Inference  *(26h, Ita)*  
+MSc in Statistics (Statistica Progredito, Esercitatore)  
+
 
 #### Summer Schools and Tutorials
 
-- **Dec 2024**: Bayesian nonparametric methods  *(13h, Eng)*  
-COST Action HiTEc Tutorial (jointly taught with M. Guindani)  
+- **Dec 2024**: Bayesian nonparametric methods  *(13h, Eng)*. 
+COST Action HiTEc Tutorial (jointly taught with M. Guindani). 
 
-- **Aug 2024**: Bayesian Modelling  *(40h, Eng)*  
+- **Aug 2025**: An Introduction to Bayesian Methods for the Social Sciences *(40h, Eng)*  
 Università della Svizzera italiana - 28th Summer School in Social Science Methods (jointly taught with A. Mira)
 
 ---
@@ -69,15 +80,20 @@ Università della Svizzera italiana - 28th Summer School in Social Science Metho
 #### University of Padua
 
 - **Feb-Jun 2024**:  *Teaching Assistant (Esercitatore)* of the course Statistical Methods for Big Data  *(22h, Ita)*  
-BSc in Statistics (Esercitatore)  
+BSc in Statistics (Metodi statistici per i Big Data, Esercitatore)  
 
 - **Feb-Jun 2024**:  *Teaching Assistant (Esercitatore)* of the course Advanced Statistical Inference  *(26h, Ita)*  
-MSc in Statistics ("Statistica Progredito", Esercitatore)  
+MSc in Statistics (Statistica Progredito, Esercitatore)  
 
 #### Università Cattolica del Sacro Cuore - Milan
 
 - **Sep-Dec 2023**:  *Teaching Assistant (Esercitatore)* of the course Statistics and Data Analysis  *(24h, Ita)*  
 BSc in Economics (Statistica e Analisi dei Dati, Esercitatore)
+
+#### Summer Schools and Tutorials
+
+- **Aug 2024**: Bayesian Modelling  *(40h, Eng)*  
+Università della Svizzera italiana - 28th Summer School in Social Science Methods (jointly taught with A. Mira)
 
 ---
 
@@ -97,8 +113,8 @@ Master (I level) in Data Science for Management (Jan–May 2023)
 - **Jan 2023**: *Principal Instructor* of the course Introduction to Statistics  *(14h, Eng)*  
 Master (I level) in Data Science for Management  
 
-- **Sep–Dec 2022**: *Teaching Assistant (Esercitatore)* of the course Statistics and Data Analysis  *(24h, Ita)*  
-BSc in Economics
+- **Sep–Dec 2022**: *Teaching Assistant (Esercitatore)* for the course Statistics and Data Analysis  *(24h, Ita)*  
+BSc in Economics (Statistica e Analisi dei Dati)
 
 ---
 
@@ -110,7 +126,7 @@ BSc in Economics
 MSc in Data Analytics for Business (Esercitatore)  
 
 - **Sep–Dec 2021**: *Teaching Assistant* for the course Statistics  *(15h, Ita)*  
-BSc in Economics - Created 8 videos presenting step-by-step exam solutions  
+BSc in Economics - Created 8 videos presenting step-by-step exam solutions (Statistica e Analisi dei Dati)
 
 ---
 
@@ -139,7 +155,7 @@ MSc in Finance - Jointly created the course with Prof. Mira, author of the cours
 
 #### Università Cattolica del Sacro Cuore - Milan
 
-- **Sep 2017**: *Teaching Assistant* for the course Introduction to Statistics  *(14h, Eng)*  
+- **Sep 2017**: *Principal Instructor* of the course Introduction to Statistics  *(14h, Eng)*  
   MSc in Finance  
 
 #### University of Milan-Bicocca

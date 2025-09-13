@@ -35,8 +35,16 @@ Skinny half-assed English country singer</em>&quot; <br>Try This at Home, Frank 
 
 #### On CRAN
 
+* **sanba** - R package - In collaboration with L. D'Angelo  
+<!--[![CRAN](https://www.r-pkg.org/badges/version/sanba)](https://www.r-pkg.org/pkg/sanba)-->
+[![Downloads (monthly)](https://cranlogs.r-pkg.org/badges/sanba?color=brightgreen)](https://www.r-pkg.org/pkg/sanba)
+[![Downloads (total)](https://cranlogs.r-pkg.org/badges/grand-total/sanba?color=brightgreen)](https://www.r-pkg.org/pkg/sanba)
+[![Static Badge](https://img.shields.io/badge/%20-GitHub%20repository-blue?logo=github&color=black)](https://github.com/Fradenti/sanba)
+[![Last Commit](https://img.shields.io/github/last-commit/fradenti/sanba)](https://github.com/fradenti/sanba)
+
+
 * **SANvi** - R package - In collaboration with L. D'Angelo  
-[![CRAN](https://www.r-pkg.org/badges/version/sanvi)](https://cran.r-project.org/package=SANvi)
+<!--[![CRAN](https://www.r-pkg.org/badges/version/SANvi)](https://www.r-pkg.org/pkg/SANvi)-->
 [![Downloads (monthly)](https://cranlogs.r-pkg.org/badges/SANvi?color=brightgreen)](https://www.r-pkg.org/pkg/SANvi)
 [![Downloads (total)](https://cranlogs.r-pkg.org/badges/grand-total/SANvi?color=brightgreen)](https://www.r-pkg.org/pkg/SANvi)
 [![Static Badge](https://img.shields.io/badge/%20-GitHub%20repository-blue?logo=github&color=black)](https://github.com/Fradenti/SANvi)
@@ -44,7 +52,7 @@ Skinny half-assed English country singer</em>&quot; <br>Try This at Home, Frank 
 
 
 * **SANple** - R package - In collaboration with L. D'Angelo    
-[![CRAN](https://www.r-pkg.org/badges/version/sanple)](https://cran.r-project.org/package=SANple)
+<!--[![CRAN](https://www.r-pkg.org/badges/version/SANple)](https://www.r-pkg.org/pkg/SANple)-->
 [![Downloads (monthly)](https://cranlogs.r-pkg.org/badges/SANple?color=brightgreen)](https://www.r-pkg.org/pkg/SANple)
 [![Downloads (total)](https://cranlogs.r-pkg.org/badges/grand-total/SANple?color=brightgreen)](https://www.r-pkg.org/pkg/SANple)
 [![Static Badge](https://img.shields.io/badge/%20-GitHub%20repository-blue?logo=github&color=black)](https://github.com/laura-dangelo/SANple)
@@ -52,8 +60,7 @@ Skinny half-assed English country singer</em>&quot; <br>Try This at Home, Frank 
 
 
 * **intRinsic** - R package - In collaboration with A. Gilardi  
-[![R-CMD-check](https://github.com/Fradenti/intRinsic/workflows/R-CMD-check/badge.svg)](https://github.com/Fradenti/intRinsic/actions)
-[![CRAN](https://www.r-pkg.org/badges/version/intRinsic)](https://cran.r-project.org/package=intRinsic)
+<!--[![CRAN](https://www.r-pkg.org/badges/version/intRinsic)](https://cran.r-project.org/package=intRinsic)-->
 [![Downloads (monthly)](https://cranlogs.r-pkg.org/badges/intRinsic?color=brightgreen)](https://www.r-pkg.org/pkg/intRinsic)
 [![Downloads (total)](https://cranlogs.r-pkg.org/badges/grand-total/intRinsic?color=brightgreen)](https://www.r-pkg.org/pkg/intRinsic)
 [![Static Badge](https://img.shields.io/badge/%20-GitHub%20repository-blue?logo=github&color=black)](&link=https://github.com/Fradenti/intRinsic)
@@ -61,10 +68,11 @@ Skinny half-assed English country singer</em>&quot; <br>Try This at Home, Frank 
 
 
 #### On GitHub
-
+<!--
 * **SANba** - R package - In collaboration with L. D'Angelo  
 [![Static Badge](https://img.shields.io/badge/%20-GitHub%20repository-blue?logo=github&color=black)](link=https://github.com/Fradenti/SANba)
 <br>
+-->
 
 * **Brand** - R package - In collaboration with A. Cappozzo  
 [![Static Badge](https://img.shields.io/badge/%20-GitHub%20repository-blue?logo=github&color=black)](https://github.com/Fradenti/Brand)
@@ -91,6 +99,7 @@ Advances in Statistical Analysis (AStA, 1) --- Bayesian Analysis (BA, 3) --- Bio
 D <- rbind(
 cbind("Advances in Statistical Analysis (AStA)", 1), 
 cbind("Annals of Applied Statistics (AOAS)", 2), 
+cbind("Artificial Intelligence in Medicine", 1), 
 cbind("Bayesian Analysis (BA)", 3), 
 cbind("Biometrical Journal", (1)),
 cbind("Biometrics", (3)),
