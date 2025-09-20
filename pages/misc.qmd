@@ -89,8 +89,9 @@ margin:10px 20px;border-radius: 50px;"}
 
 
 
-## Service to Profession and Affiliations {.tabset .tabset-fade}
+## Service to Profession and Affiliations
 
+:::{.panel-tabset}
 ### Reviewer for (alphabetical order)
 <!--
 Advances in Statistical Analysis (AStA, 1) --- Bayesian Analysis (BA, 3) --- Biometrics (2) --- Computational Statistics \& Data Analysis (CSDA, 2) --- International Statistical Review (3) ---  Italian Journal of Applied Statistics (1) --- Journal of the American Statistical Association (JASA - A&CS, 1) --- Journal of Computational and Graphical Statistics (JCGS, 1) --- Journal of Statistical Software (JSS, 2) --- Journal of the Royal Statistical Society - Series B (JRSS-B ,1) --- Pattern Recognition (1) --- Statistics and Computing (2) --- Statistical Methods and Applications (SMA, 2) --- Statistical Science (2) --- Technometrics (1) --- 2021 SBSS Student Paper Competition     
@@ -136,8 +137,53 @@ Also reviewer for
 - *IEEE CIBCB 2023 - Special Session*,  
 - *2024 ASA-SBSS Student Paper Competition*.
 
+### Supervisions
 
-#### Others
+#### MSc students
+
+---
+
+##### University of Padova
+
+::: {.list .list-inside .list-decimal}
+-   **Sep 25**: Andrea Ongarato - *"Cumulative Shrinkage Processes for Bayesian Multiresolution Functional Regression"* (redacted in English), MSc in Statistics @ UniPD
+:::
+
+##### Università Cattolica del Sacro Cuore
+
+::: {.list .list-inside .list-decimal}
+-   **Dec 23**: Francesco Donelli - *"Manufacturing plant’s production: forecasting of demand level via Gaussian Process Regression"*, MSc in Data Analytics for Business @ Unicatt
+-   **Feb 24**: Francesco Esposito - *"A Bayesian hierarchical approach for modeling the outcome of football matches"*, MSc in Data Analytics for Business @ Unicatt
+-   **Apr 24**: Paola Veglio - *"Bayesian Mixture Model for nested data with application to large dataset"*, MSc in Data Analytics for Business @ Unicatt - co-supervised with A. Fasano
+:::
+
+##### Politecnico of Milan
+
+::: {.list .list-inside .list-decimal}
+-   **Apr 24**: Michele Cosi - *"A Bayesian Cointegration Model for Spatial Alignment of Particulate Matter Data Sources"*, MSc in Mathematical Engineering @ Polimi - co-supervised with A. Guglielmi
+:::
+
+#### BSc students
+
+##### University of Padova
+
+::: {.list .list-inside .list-decimal}
+-   **Sep 25**: Luca Fabris - *"Metodi Statistici per l'Analisi di Assoli nella Musica Jazz"* (redacted in Italian), BSc in Statistica per le Tecnologie e le Scienze @ UniPD
+-   **Sep 25**: Loris Pivato - *"Analisi delle Curve di Decadimento Cognitivo Tramite Modelli Mistura"* (redacted in Italian), BSc in Statistica per le Tecnologie e le Scienze @ UniPD
+-   **Sep 25**: Dakota D. Calori - *"Previsione del numero di giocatori attivi per la scalabilità dei server attraverso il modello Prophet."* (redacted in Italian), BSc in Statistica per le Tecnologie e le Scienze @ UniPD
+-   **Sep 25**: Francesco Micillo - *"Metodi statistici per le traiettorie di movimento degli squali"* (redacted in Italian), BSc in Statistica per l'Economia e l'Impresa @ UniPD
+-   **Sep 25**: Vittorio Baseggio - *"Stochastic Block Models applicati a reti finanziarie"* (redacted in Italian), BSc in Statistica per l'Economia e l'Impresa @ UniPD
+-   **Mar 25**: Claudio Paolini - *"Musica e disabilità: un'analisi statistica di performance improvvisative"* (redacted in Italian), BSc in Statistica per le Tecnologie e le Scienze @ UniPD
+-   **Nov 24**: Pietro Zannini - *"Analisi della Hot Hand Fallacy nella pallacanestro attraverso Hidden Markov Models"* (redacted in Italian), BSc in Statistica per le Tecnologie e le Scienze @ UniPD
+:::
+
+##### Università Cattolica del Sacro Cuore
+
+::: {.list .list-inside .list-decimal}
+-   **Sep 23**: Gabriele Nicolasi - *"Scomposizione delle serie storiche dei tassi di occupazione: indici europei e italiani a confronto"* (redacted in Italian), BSc in Economics and Management @ Unicatt
+:::
+
+### Other
 
 + Editor of the [ISBA bulletin](https://bayesian.org/resources/bulletin/) from 2024 
 
@@ -147,7 +193,5 @@ Also reviewer for
 
 + Member of [Complex Data Modeling Research Network](https://midas.mat.uc.cl/network/)
 
-## Miscellanea
-
-- [My second family (in italian)](http://www.compagniameteor.it/)
-
++ [My second family (in italian)](http://www.compagniameteor.it/)
+:::
