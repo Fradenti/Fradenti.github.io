@@ -46,7 +46,7 @@ Rosenrot - Rammstein </p>
 
 <li> Sottosanti, A., Risso, D., and **Denti, F.**   
 *Spatially Regularized Gaussian Mixtures for Clustering Spatial Transcriptomic Data*   
-**Journal of Classification**, 2025+, Just accepted
+**Journal of Classification**, 2025 - [Just Accepted - [Preprint](https://arxiv.org/pdf/2510.19108) - [GitHub](https://github.com/andreasottosanti/SR-GMM_JoC)]
 
 
 <li> Fasano, A. and **Denti, F.**  
