@@ -78,11 +78,15 @@ I am interested in Bayesian mixtures, Bayesian nonparametrics, model-based clust
 </a>
 
 
-### News and highlights
+### News, upcoming talks and confereces
 
 ---  
 
-[2024/02/21] I joined the Department of Statistics at the University of Padua as a senior Assistant Professor (RtdB)
+[*November 2025*] I am honored to have received the [2025 Blackwell-Rosenbluth award](https://j-isba.github.io/blackwell-rosenbluth.html) assigned by [j-ISBA](https://j-isba.github.io/) to junior researchers in Bayesian statistics based on their overall contribution to the field and to the community!  
+
+[*February 2024*] I joined the Department of Statistics at the University of Padova as a senior Assistant Professor (RtdB)
+
+
 
 
 ### Contacts
