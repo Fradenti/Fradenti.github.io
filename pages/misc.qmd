@@ -117,6 +117,7 @@ cbind("Journal of Statistical Planning and Inference (JSPI)",1),
 cbind("Journal of Statistical Software (JSS)", 3),
 cbind("Journal of the Royal Statistical Society - Series B (JRSS-B)",1),
 cbind("Pattern Recognition", (2)),
+cbind("Statistica Applicata",1),
 cbind("Statistical Methods and Applications (SMAP)", 4),
 cbind("Statistical Science", (2)),
 cbind("Statistics and Computing", (3)),
@@ -147,6 +148,7 @@ Also reviewer for
 ##### University of Padova
 
 ::: {.list .list-inside .list-decimal}
+- **Nov 25**: Irene Veghin - *"Biclustering bayesiano in presenza di covariate: teoria e applicazioni"* (redacted in Italian), MSc in Statistics @ UniPD  - co-supervised with G. Menardi
 -   **Sep 25**: Andrea Ongarato - *"Cumulative Shrinkage Processes for Bayesian Multiresolution Functional Regression"* (redacted in English), MSc in Statistics @ UniPD
 :::
 
@@ -166,9 +168,14 @@ Also reviewer for
 
 #### BSc students
 
+---
+
 ##### University of Padova
 
 ::: {.list .list-inside .list-decimal}
+-   **Nov 25**: Matteo Bottan - *"Comparazione di tecniche statistiche per la visualizzazione di dati ad alta dimensionalità"* (redacted in Italian), BSc in Statistica per le Tecnologie e le Scienze @ UniPD
+-   **Nov 25**: Gabriele D'Angela - *"Metodi statistici per la modellazione e previsione di risultati calcistici"* (redacted in Italian), BSc in Statistica per le Tecnologie e le Scienze @ UniPD
+-   **Nov 25**: Mattia Grillai - *"Metodi statistici per la classificazione di allenatori NBA"* (redacted in Italian), BSc in Statistica per le Tecnologie e le Scienze @ UniPD
 -   **Sep 25**: Luca Fabris - *"Metodi Statistici per l'Analisi di Assoli nella Musica Jazz"* (redacted in Italian), BSc in Statistica per le Tecnologie e le Scienze @ UniPD
 -   **Sep 25**: Loris Pivato - *"Analisi delle Curve di Decadimento Cognitivo Tramite Modelli Mistura"* (redacted in Italian), BSc in Statistica per le Tecnologie e le Scienze @ UniPD
 -   **Sep 25**: Dakota D. Calori - *"Previsione del numero di giocatori attivi per la scalabilità dei server attraverso il modello Prophet."* (redacted in Italian), BSc in Statistica per le Tecnologie e le Scienze @ UniPD
