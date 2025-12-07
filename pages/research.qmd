@@ -25,7 +25,7 @@ margin:10px 20px;border-radius: 10px;"}
 
 # Publications 
 
-:::{.panel-tabset}
+:::: {.panel-tabset}
 ## Articles in Refereed Journals
 <div style="text-align: right"> 
 <p>&quot;<em>Tiefe Brunnen muss man graben<br>
@@ -46,93 +46,92 @@ Rosenrot - Rammstein </p>
 
 <li> Sottosanti, A., Risso, D., and **Denti, F.**   
 *Spatially Regularized Gaussian Mixtures for Clustering Spatial Transcriptomic Data*   
-**Journal of Classification**, 2025 - [Just Accepted - [Preprint](https://arxiv.org/pdf/2510.19108) - [GitHub](https://github.com/andreasottosanti/SR-GMM_JoC)]
+**Journal of Classification**, 2025 - [[Journal Article](https://link.springer.com/article/10.1007/s00357-025-09527-0) - [Preprint](https://arxiv.org/pdf/2510.19108) - [GitHub](https://github.com/andreasottosanti/SR-GMM_JoC)]
 
 
 <li> Fasano, A. and **Denti, F.**  
 *Multivariate Gaussian cumulative distribution functions as the marginal likelihood of their dual Bayesian probit models*  
-**Biometrika**, 2025 - [[Journal](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asaf060/8221931) - [Postprint](../pdf/2025_BMKA_AM.pdf) - [GitHub](https://github.com/Fradenti/DualProbitCDF)]
-
+**Biometrika**, 2025 - [[Journal Article](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asaf060/8221931) - [Postprint](../pdf/2025_BMKA_AM.pdf) - [GitHub](https://github.com/Fradenti/DualProbitCDF)]
 
 
 <li> **Denti, F.** and D’Angelo, L.  
 *The Generalized Nested Common Atoms Model*  
-**Econometrics and Statistics**, 2025 - [[Journal](https://www.sciencedirect.com/science/article/pii/S2452306225000012) - [Preprint](../pdf/geCAM.pdf) - [GitHub](https://github.com/Fradenti/geCAM)]
+**Econometrics and Statistics**, 2025 - [[Journal Article](https://www.sciencedirect.com/science/article/pii/S2452306225000012) - [Preprint](../pdf/geCAM.pdf) - [GitHub](https://github.com/Fradenti/geCAM)]
 
 
 <li> Sottosanti, A., **Denti, F.**, Galimberti, S., Risso, D., and Capitoli, G.  
 *Spatially informed non-negative matrix tri-factorization for co-clustering mass spectrometry data*  
-**Biometrical Journal**, 2024 - [[Journal](https://onlinelibrary.wiley.com/doi/10.1002/bimj.70031) - [GitHub](https://github.com/andreasottosanti/TRIFASE)]
+**Biometrical Journal**, 2024 - [[Journal Article](https://onlinelibrary.wiley.com/doi/10.1002/bimj.70031) - [GitHub](https://github.com/andreasottosanti/TRIFASE)]
 
 
 <li> D'Angelo, L. and **Denti, F.**  
 *A finite-infinite shared atoms nested model for the Bayesian nonparametric analysis of large data sets*  
-**Bayesian Analysis**, 2024 - [[Journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/A-Finite-Infinite-Shared-Atoms-Nested-Model-for-the-Bayesian/10.1214/24-BA1458.full?tab=ArticleLink) - [Preprint](https://arxiv.org/abs/2406.13310) - [GitHub](https://github.com/Fradenti/SAN4BA)]
+**Bayesian Analysis**, 2024 - [[Journal Article](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/A-Finite-Infinite-Shared-Atoms-Nested-Model-for-the-Bayesian/10.1214/24-BA1458.full?tab=ArticleLink) - [Preprint](https://arxiv.org/abs/2406.13310) - [GitHub](https://github.com/Fradenti/SAN4BA)]
 
 
 <li> Benedetti, L., Boniardi, E., Chiani, L., Ghirri, J., Mastropietro, M., Cappozzo, A., and **Denti, F.**   
 *Variational Inference for Semiparametric Bayesian Novelty Detection in Large Datasets*  
 **Advances in Data Analysis and Classification**, 2023 - 
-[[Journal](https://link.springer.com/article/10.1007/s11634-023-00569-z?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231204&utm_content=10.1007/s11634-023-00569-z) - 
+[[Journal Article](https://link.springer.com/article/10.1007/s11634-023-00569-z?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231204&utm_content=10.1007/s11634-023-00569-z) - 
 [Preprint](https://arxiv.org/abs/2212.01865) - [GitHub](https://github.com/JacopoGhirri/VarBRAND)]
 
 
 <li>  Varghese, A., Santos-Fernandez E., **Denti, F.**, Mira, A., and Mergensen, K.  
 *A global perspective on the intrinsic dimensionality of COVID-19 data*    
-**Scientific Reports**, 2023 - [[Journal](https://www.nature.com/articles/s41598-023-36116-1)- [Preprint](https://arxiv.org/abs/2212.01865) - [GitHub](https://github.com/EdgarSantos-Fernandez/covid19_ID)]
+**Scientific Reports**, 2023 - [[Journal Article](https://www.nature.com/articles/s41598-023-36116-1)- [Preprint](https://arxiv.org/abs/2212.01865) - [GitHub](https://github.com/EdgarSantos-Fernandez/covid19_ID)]
 
 
 <li> **Denti, F.**, Peluso, S., Guindani, M., and Mira, A.  
 *Multiple hypothesis screening using mixtures of non-local distributions*  
 **Statistics in Medicine**, 2023 - 
-[[Journal](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.9705)
+[[Journal Article](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.9705)
  - [Preprint](https://arxiv.org/abs/2205.00930) - [GitHub](https://github.com/Fradenti/Nollik_2GM)]
 
 
 <li> **Denti, F.**  
 *`intRinsic`: an R package for model-based estimation of the intrinsic dimension of a dataset*  
 **Journal of Statistical Software**, 2023 -
-[[Journal](https://doi.org/10.18637/jss.v106.i09) 
+[[Journal Article](https://doi.org/10.18637/jss.v106.i09) 
  - [Preprint](https://arxiv.org/abs/2102.11425) - [GitHub](https://github.com/Fradenti/intRinsic)]  
 
 <li>  **Denti, F.**, Azevedo, R., Lo, C., Wheeler, D. G., Gandhi, S.P., Guindani, M., and Shahbaba, B.  
 *A Horseshoe mixture model for Bayesian screening with an application to light sheet fluorescence microscopy in brain imaging*  
-**Annals of Applied Statistics**, 2023 - [[Journal](https://doi.org/10.1214/23-AOAS1736) 
+**Annals of Applied Statistics**, 2023 - [[Journal Article](https://doi.org/10.1214/23-AOAS1736) 
  - [Preprint](https://arxiv.org/abs/2106.08281) - [GitHub](https://github.com/Fradenti/HorseshoeMix)]
 
 
 <li> **Denti, F.**, Doimo, D., Laio, A., and Mira, A.  
 *Gride: a novel likelihood-based intrinsic dimension estimator*  
-**Scientific Reports**, 2022 - [[Journal](https://www.nature.com/articles/s41598-022-20991-1) 
+**Scientific Reports**, 2022 - [[Journal Article](https://www.nature.com/articles/s41598-022-20991-1) 
  - [Preprint](https://arxiv.org/abs/2104.13832) - [GitHub](https://github.com/Fradenti/GRIDE_repo)]
 
 
 <li> Santos-Fernandez, E., **Denti, F.**, Mengersen, K., and Mira A.  
 *The role of intrinsic dimension in high-resolution player tracking data -- Insights in basketball*  
-**Annals of Applied Statistics**, 2021 - [[Journal](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-1/The-role-of-intrinsic-dimension-in-high-resolution-player-tracking/10.1214/21-AOAS1506.short) 
+**Annals of Applied Statistics**, 2021 - [[Journal Article](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-1/The-role-of-intrinsic-dimension-in-high-resolution-player-tracking/10.1214/21-AOAS1506.short) 
  - [Preprint](https://arxiv.org/abs/2002.04148) - [GitHub](https://github.com/EdgarSantos-Fernandez/id_basketball)]
 
 
 <li> **Denti, F.**, Camerlenghi, F., Guindani, M., and Mira, A.  
 *A Common Atom Model for the Bayesian Nonparametric Analysis of Nested Data*  
-**Journal of the American Statistical Association**, 2021 - [[Journal](https://doi.org/10.1080/01621459.2021.1933499) 
+**Journal of the American Statistical Association**, 2021 - [[Journal Article](https://doi.org/10.1080/01621459.2021.1933499) 
  - [Preprint](https://arxiv.org/abs/2008.07077) - [GitHub](https://github.com/Fradenti/CommonAtomModel)]
 
 
 <li> **Denti, F.**, Cappozzo, A., and Greselin, F.  
 *A Two-Stage Bayesian Semiparametric Model for Novelty Detection with Robust Prior Information*  
-**Statistics and Computing**, 2021 - [[Journal](https://doi.org/10.1007/s11222-021-10017-7) - [Preprint](https://arxiv.org/abs/2006.09012) - [GitHub](https://github.com/Fradenti/Brand)]  
+**Statistics and Computing**, 2021 - [[Journal Article](https://doi.org/10.1007/s11222-021-10017-7) - [Preprint](https://arxiv.org/abs/2006.09012) - [GitHub](https://github.com/Fradenti/Brand)]  
 
 
 <li> Allegra, M., Facco, E., **Denti, F.**, Laio, A., and Mira, A.  
 *Data segmentation based on the local intrinsic dimension*  
-**Scientific Reports**, 2020 - [[Journal](https://www.nature.com/articles/s41598-020-72222-0) 
+**Scientific Reports**, 2020 - [[Journal Article](https://www.nature.com/articles/s41598-020-72222-0) 
  - [Preprint](https://arxiv.org/abs/1902.10459) - [GitHub](https://github.com/micheleallegra/Hidalgo)]
 
 
 <li> **Denti, F.**, Guindani, M., Leisen, F., Lioji, A., and Vannucci, M.  
 *Two-group Poisson-Dirichlet mixtures for multiple testing*  
-**Biometrics**, 2020 - [[Journal](https://onlinelibrary.wiley.com/doi/10.1111/biom.13314) 
+**Biometrics**, 2020 - [[Journal Article](https://onlinelibrary.wiley.com/doi/10.1111/biom.13314) 
  - [Preprint](../pdf/BNPT.pdf) - [GitHub](https://github.com/Fradenti/twogroup2PPD)]
 </ol>
 
@@ -143,22 +142,12 @@ Rosenrot - Rammstein </p>
 
 <li> Migliavada, R., Ricci, F. Z., **Denti, F.**, Haghverdian, D., and Torri, L.    
 *Is purchasing of vegetable dishes affected by organic or local labels? Empirical evidence from a university canteen*  
-**Appetite**, 2022 - [[Journal](https://www.sciencedirect.com/science/article/pii/S0195666322000861?dgcid=author)]
+**Appetite**, 2022 - [[Journal Article](https://www.sciencedirect.com/science/article/pii/S0195666322000861?dgcid=author)]
 
 <li> Petazzoni, M., De Giacinto, E., Troiano, D., **Denti, F.**, and Buiatti, M.  
 *Computed Tomographic Trochlear Depth Measurement in Normal Dogs*  
-**Journal of Veterinary and Comparative Orthopaedics and Traumatology**, 2018 - [[Journal](https://pubmed.ncbi.nlm.nih.gov/30300915/)]  </li> 
+**Journal of Veterinary and Comparative Orthopaedics and Traumatology**, 2018 - [[Journal Article](https://pubmed.ncbi.nlm.nih.gov/30300915/)]  </li> 
 </ol>
-
-
-
-<!--
-1.   Menicagli, R., and **Denti, F.**  
-*First results if an in vitro study on the effects of green tea on the defensive layer of the oral cavity*  
-**International Journal of Current Research**, 2016  
--->
-
-***
 
 
 ## Book Chapters, Discussions, and Conference Proceedings
@@ -199,7 +188,7 @@ in **Studies in Neural Data Science** (Canale, A., Durante, D., Paci, L., Scarpa
 <li>
 **Denti, F.** and Rizzelli, S.  
 *Contributed Discussion on "Sparse Bayesian factor analysis when the number of factors is unknown"*  
-**Bayesian Analysis**, 2024 - [[Journal](10.1214/24-BA1423)]
+**Bayesian Analysis**, 2024 - [[Journal Article](10.1214/24-BA1423)]
 </ol> 
 
 ### Conference Proceedings
@@ -253,11 +242,8 @@ in **Book of Short Papers of the 5th international workshop on Models and Learni
 in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), **Book of Short Papers SIS 2020** (pp. 655-660). Pearson.  
 [[Proceedings](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Università/Pearson-SIS-2020-atti-convegno.pdf)]   
 
-
-
 </ol>
 
-***
 
 
 ## Manuscripts
@@ -279,8 +265,6 @@ in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), **Book of Short 
 *Multiomics Tissue Segmentation via Spatially-Informed Nested Biclustering Methods*    
 **Submitted**, 2025+ - [[Preprint](https://arxiv.org/abs/2509.02482)]
 
-
-
 <li> D'Angelo, L., **Denti, F.**, Canale, A., and Guindani, M.   
 *Decoding Neuronal Ensembles from Spatially-Referenced Calcium Traces: A Bayesian Semiparametric Approach*  
 **Submitted**, 2025+ - [[Preprint](https://arxiv.org/abs/2508.09576)]
@@ -289,28 +273,13 @@ in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), **Book of Short 
 <li> **Denti, F.** and D'Angelo, L.  
 *`sanba`: An R Package for Bayesian Clustering of Distributions via Shared Atoms Nested Models*  
 **Submitted**, 2025+ - [[Preprint](https://arxiv.org/abs/2508.09758) - [GitHub](https://github.com/fradenti/sanba)]
-
-
-
 </ol>
 
-### Working papers
-
-Stay tuned!
-
-<!--
-1. **Denti, F.** and D'Angelo, L.  
-*The Influence of Stick-Breaking Priors on the Correlation Among Nonparametric Nested Common Atoms Random Measures*  
-![Static Badge](https://img.shields.io/badge/_-Submitted-blue?color=gray){width=10.5%}
-
-1. **Denti, F.** and D'Angelo, L.  
-*SANba: An R Package for Bayesian Clustering of Distributions via Shared Atoms Nested Models*  
-![Static Badge](https://img.shields.io/badge/_-Submitted-blue?color=gray){width=10.5%}
--->
 
 
+:::: {.columns}
 ::: {.column width="90%"}
 ![](../images/f2.jpeg){style="float: left;vertical-align:middle;
 margin:50px 50px;border-radius: 10px;"}
 :::
-
+:::: 
