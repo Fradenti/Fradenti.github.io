@@ -490,6 +490,10 @@ Oxford, UK - June 2019 - [ <img  width="20" height="20" src="../images/cam3.png"
 
 ## Other Conferences and Workshops
 
+
+- [Skew 2026 - A class of distributions which includes the normal one: foundational contributions and recent advancements on skewed distributions](https://skew2026.stat.unipd.it)  
+Padova, IT - January 2026  - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/PAR_skew26.qmd)
+
 - [Uncertainty, Bayes and Statistics - A meeting in honor of Guido Consonni](https://dipartimenti.unicatt.it/scienze-statistiche-seminari-eventi-uncertainty-bayes-and-statistics-a-meeting-in-honour-of-guido-consonni)  
 Milan, IT - July 2024 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/PAR_consonni24.qmd)
 

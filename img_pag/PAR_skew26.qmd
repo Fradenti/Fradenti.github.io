@@ -1,0 +1,8 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+![Skew 26 Workshop, SC140, UniPD 2019.](../images/skew2026.png)

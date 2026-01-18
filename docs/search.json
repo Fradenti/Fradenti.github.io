@@ -60,7 +60,7 @@
     "href": "pages/talks.html#other-conferences-and-workshops",
     "title": "Dissemination",
     "section": "Other Conferences and Workshops",
-    "text": "Other Conferences and Workshops\n\nUncertainty, Bayes and Statistics - A meeting in honor of Guido Consonni\nMilan, IT - July 2024 - \nStatalk 2023\nRome, IT - September 2023 - \nBayesian Nonparametrics for Complex Data\nPadua, IT - January 2020 - \nNetwork Models in Statistics, Economics and Social Sciences\nMilan, IT - November 2019 - \nStatistical Methods in Imaging - SMI 2019\nIrvine, US - June 2019 - \nFoMICS-DADSi Summer School on Data Assimilation\nLugano, CH - September 2018 - \nLMS Invited Lecture Series and CRISM Summer School in Computational Statistics 2018\nWarwick, UK -July 2018 - \nISBA World Meeting 2018\nEdinburgh, UK - June 2018 -"
+    "text": "Other Conferences and Workshops\n\nSkew 2026 - A class of distributions which includes the normal one: foundational contributions and recent advancements on skewed distributions\nPadova, IT - January 2026 - \nUncertainty, Bayes and Statistics - A meeting in honor of Guido Consonni\nMilan, IT - July 2024 - \nStatalk 2023\nRome, IT - September 2023 - \nBayesian Nonparametrics for Complex Data\nPadua, IT - January 2020 - \nNetwork Models in Statistics, Economics and Social Sciences\nMilan, IT - November 2019 - \nStatistical Methods in Imaging - SMI 2019\nIrvine, US - June 2019 - \nFoMICS-DADSi Summer School on Data Assimilation\nLugano, CH - September 2018 - \nLMS Invited Lecture Series and CRISM Summer School in Computational Statistics 2018\nWarwick, UK -July 2018 - \nISBA World Meeting 2018\nEdinburgh, UK - June 2018 -"
   },
   {
     "objectID": "about.html",
@@ -154,60 +154,18 @@
     "text": "[Back]\n\n\n\nA Gate in the park, Lugano, 2018"
   },
   {
-    "objectID": "img_pag/CON_Caserta22.html",
-    "href": "img_pag/CON_Caserta22.html",
+    "objectID": "img_pag/PAR_skew26.html",
+    "href": "img_pag/PAR_skew26.html",
     "title": "Francesco Denti",
     "section": "",
-    "text": "[Back]\n\n\n\nShort hike in the Reggia with my new Department Chair! Caserta, June 2020."
+    "text": "[Back]\n\n\n\nSkew 26 Workshop, SC140, UniPD 2019."
   },
   {
-    "objectID": "img_pag/CON_Baysm23.html",
-    "href": "img_pag/CON_Baysm23.html",
+    "objectID": "img_pag/SEM_CaFosca25.html",
+    "href": "img_pag/SEM_CaFosca25.html",
     "title": "Francesco Denti",
     "section": "",
-    "text": "[Back]\n\n\n\nA Rorschach brain image: what do you see in our image segmentation? - Baysm 2023, November 2023."
-  },
-  {
-    "objectID": "img_pag/INV_Oaxaca24.html",
-    "href": "img_pag/INV_Oaxaca24.html",
-    "title": "Francesco Denti",
-    "section": "",
-    "text": "[Back]\n\n\n\nHierva El Agua hike gang. Credits: Dr. R. Corradin.\n\n\n\n\n\nHow I felt inside after 9 shots of Mezcal on a empty stomach, after a tasting."
-  },
-  {
-    "objectID": "img_pag/CON_JSM21.html",
-    "href": "img_pag/CON_JSM21.html",
-    "title": "Francesco Denti",
-    "section": "",
-    "text": "[Back]\n\n\n\nMason Park, where I prepared my JSM talk (threatened by a gang of geese)."
-  },
-  {
-    "objectID": "img_pag/PAR_ISBA18.html",
-    "href": "img_pag/PAR_ISBA18.html",
-    "title": "Francesco Denti",
-    "section": "",
-    "text": "[Back]\n\n\n\nA sunset in Edinburgh, June 2018."
-  },
-  {
-    "objectID": "img_pag/PAR_PAD20.html",
-    "href": "img_pag/PAR_PAD20.html",
-    "title": "Francesco Denti",
-    "section": "",
-    "text": "[Back]\n\n\n\nBNP for Complex data, Padua, January 2020."
-  },
-  {
-    "objectID": "img_pag/POS_MBC220.html",
-    "href": "img_pag/POS_MBC220.html",
-    "title": "Francesco Denti",
-    "section": "",
-    "text": "[Back]\n\n\n\nWildfire Time, Irvine, September 2020."
-  },
-  {
-    "objectID": "img_pag/INV_Padua25.html",
-    "href": "img_pag/INV_Padua25.html",
-    "title": "Francesco Denti",
-    "section": "",
-    "text": "[Back]\n\n\n\nSo many Bayesians (both fundamentalists and pragmatists) in Santa Caterina! A great workshop full of colleagues and friends! And what a honorable mention! :)"
+    "text": "[Back]\n\n\n\nI did not take any picture of the charming Porto Marghera… here’s our wisteria instead!"
   },
   {
     "objectID": "img_pag/PAR_Milan19.html",
@@ -217,11 +175,60 @@
     "text": "[Back]\n\n\n\nAula Magna, Università Cattolica del Sacro Cuore del Sacro Cuore, Milano, 2018."
   },
   {
-    "objectID": "img_pag/SEM_CaFosca25.html",
-    "href": "img_pag/SEM_CaFosca25.html",
+    "objectID": "img_pag/INV_Padua25.html",
+    "href": "img_pag/INV_Padua25.html",
     "title": "Francesco Denti",
     "section": "",
-    "text": "[Back]\n\n\n\nI did not take any picture of the charming Porto Marghera… here’s our wisteria instead!"
+    "text": "[Back]\n\n\n\nSo many Bayesians (both fundamentalists and pragmatists) in Santa Caterina! A great workshop full of colleagues and friends! And what a honorable mention! :)"
+  },
+  {
+    "objectID": "img_pag/POS_MBC220.html",
+    "href": "img_pag/POS_MBC220.html",
+    "title": "Francesco Denti",
+    "section": "",
+    "text": "[Back]\n\n\n\nWildfire Time, Irvine, September 2020."
+  },
+  {
+    "objectID": "img_pag/PAR_PAD20.html",
+    "href": "img_pag/PAR_PAD20.html",
+    "title": "Francesco Denti",
+    "section": "",
+    "text": "[Back]\n\n\n\nBNP for Complex data, Padua, January 2020."
+  },
+  {
+    "objectID": "img_pag/PAR_ISBA18.html",
+    "href": "img_pag/PAR_ISBA18.html",
+    "title": "Francesco Denti",
+    "section": "",
+    "text": "[Back]\n\n\n\nA sunset in Edinburgh, June 2018."
+  },
+  {
+    "objectID": "img_pag/CON_JSM21.html",
+    "href": "img_pag/CON_JSM21.html",
+    "title": "Francesco Denti",
+    "section": "",
+    "text": "[Back]\n\n\n\nMason Park, where I prepared my JSM talk (threatened by a gang of geese)."
+  },
+  {
+    "objectID": "img_pag/INV_Oaxaca24.html",
+    "href": "img_pag/INV_Oaxaca24.html",
+    "title": "Francesco Denti",
+    "section": "",
+    "text": "[Back]\n\n\n\nHierva El Agua hike gang. Credits: Dr. R. Corradin.\n\n\n\n\n\nHow I felt inside after 9 shots of Mezcal on a empty stomach, after a tasting."
+  },
+  {
+    "objectID": "img_pag/CON_Baysm23.html",
+    "href": "img_pag/CON_Baysm23.html",
+    "title": "Francesco Denti",
+    "section": "",
+    "text": "[Back]\n\n\n\nA Rorschach brain image: what do you see in our image segmentation? - Baysm 2023, November 2023."
+  },
+  {
+    "objectID": "img_pag/CON_Caserta22.html",
+    "href": "img_pag/CON_Caserta22.html",
+    "title": "Francesco Denti",
+    "section": "",
+    "text": "[Back]\n\n\n\nShort hike in the Reggia with my new Department Chair! Caserta, June 2020."
   },
   {
     "objectID": "img_pag/PAR_Roma23.html",
