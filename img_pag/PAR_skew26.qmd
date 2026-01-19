@@ -5,4 +5,4 @@ page-layout: full
   
 [**[Back]**](../pages/talks.qmd)
 
-![Skew 26 Workshop, SC140, UniPD 2019.](../images/skew2026.png)
+![Skew 2026 Workshop, SC140, UniPD 2026](../images/skew2026.png)
