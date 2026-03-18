@@ -151,6 +151,8 @@ Also reviewer for
 ##### University of Padova
 
 ::: {.list .list-inside .list-decimal}
+- **Mar 26**: Murat Efe - *"Renewable Penetration and Residual Load Predictability in the Romanian Power System"*
+(redacted in English), MSc in Applied Economics @ UniPD - co-supervised with M. Bertolini  
 - **Nov 25**: Irene Veghin - *"Biclustering bayesiano in presenza di covariate: teoria e applicazioni"* (redacted in Italian), MSc in Statistics @ UniPD  - co-supervised with G. Menardi
 -   **Sep 25**: Andrea Ongarato - *"Cumulative Shrinkage Processes for Bayesian Multiresolution Functional Regression"* (redacted in English), MSc in Statistics @ UniPD
 :::
@@ -176,6 +178,8 @@ Also reviewer for
 ##### University of Padova
 
 ::: {.list .list-inside .list-decimal}
+
+-   **Mar 26**: Margherita Vincenzi - *"Statistical Learning Methods for Psychiatric Disorder Classification Using Resting-State Electroencephalography Recordings"* (redacted in English), BSc in Statistica per l'Economia e l'impresa @ UniPD  
 -   **Nov 25**: Matteo Bottan - *"Comparazione di tecniche statistiche per la visualizzazione di dati ad alta dimensionalità"* (redacted in Italian), BSc in Statistica per le Tecnologie e le Scienze @ UniPD
 -   **Nov 25**: Gabriele D'Angela - *"Metodi statistici per la modellazione e previsione di risultati calcistici"* (redacted in Italian), BSc in Statistica per le Tecnologie e le Scienze @ UniPD
 -   **Nov 25**: Mattia Grillai - *"Metodi statistici per la classificazione di allenatori NBA"* (redacted in Italian), BSc in Statistica per le Tecnologie e le Scienze @ UniPD
