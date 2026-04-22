@@ -160,6 +160,18 @@ FD <- FD %>% add_presentation(presenter = fd,                         country = 
                  start_hour = NA, start_min = NA,
                  end_hour = NA, end_min = NA)
 
+FD <- FD %>% add_presentation(presenter = fd,                         country = "Italy", city = "Padova",
+                 lon = 11.88586, lat = 45.40797,
+                 event = "GLASS informal seminar series",
+                 title = "An informal intro to BNP mixture models",
+                 link = "https://sites.google.com/view/laboratoriodistatisticasociale/appuntamenti-online?authuser=0",
+                 materials = "../img_pag/...",
+                 type = "seminar", 
+                 institution = NA, department = NA,
+                 venue = NA, room = NA,
+                 year = 2025, month = 04, day = NA,
+                 start_hour = NA, start_min = NA,
+                 end_hour = NA, end_min = NA)
 
 
 FD <- FD %>% add_presentation(presenter = fd,                         country = "Italy", city = "Mestre",
@@ -173,6 +185,8 @@ FD <- FD %>% add_presentation(presenter = fd,                         country = 
                  year = 2025, month = 04, day = NA,
                  start_hour = NA, start_min = NA,
                  end_hour = NA, end_min = NA)
+
+
 
 FD <- FD %>% add_presentation(presenter = fd,                         country = "Italy", city = "Padova",
                  lon = 11.88586, lat = 45.40797,
@@ -413,6 +427,11 @@ Virtual Conference - June 2021- [ <img  width="20" height="20" src="../images/ca
 
 
 ## Invited Seminars
+
+- [GLASS informal seminar series](https://sites.google.com/view/laboratoriodistatisticasociale/home)  
+Seminar (45 min): *An informal intro to BNP mixture models*  
+Padova, IT - April 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/SEM_...)
+
 
 - [DAIS Seminar Series](https://www.unive.it/pag/16129/)  
 Seminar (45 min): *BNP4BNP: Bayesian Nonparametric Models for Biomarkers and Neuronal Patterns*  
