@@ -33,14 +33,29 @@ fd <- presenter(name = "Francesco", surname = "Denti",
                 affiliation = "University of Padua",
                 email = "francesco.denti@unipd.it",
                 link = "https://fradenti.github.io")
-
+ 
 FD <- add_presentation(presenter = fd,     
+                       country = "Finland", city = "Helsinki",
+                       lat = 60.20018600, lon = 25.04655000,                  
+                       event = "Nordstat",
+                       title = "Bayesian Multiresolution Functional Regression and Clustering via stCUSP",
+                       link = "https://www.helsinki.fi/en/conferences/nordstat-2026",
+                       materials = "../img_pag/INV_Hles_26.qmd",
+                       type = "presentation", institution = "University of Helsinky", 
+                       department = NA,
+                       venue = NA, room = NA,
+                       year = 2026, month = 6, day = 2,
+                       start_hour = NA, start_min = NA,
+                       end_hour = NA, end_min = NA)
+
+
+FD <- FD %>% add_presentation(presenter = fd,     
                        country = "Italy", city = "Padova",
                        lon = 11.88586, lat = 45.40797,                       
                        event = "SISBayes",
                        title = "BNP4BNP: Bayesian Nonparametric Models For Biomarkers And Neuronal Patterns",
                        link = "https://sisbayes2025.stat.unipd.it",
-                       materials = "../img_pag/...",
+                       materials = "../img_pag/INV_Pauda25.qmd",
                        type = "presentation", institution = "UniPD", department = NA,
                        venue = NA, room = NA,
                        year = 2025, month = 9, day = NA,
@@ -381,6 +396,15 @@ A visual summary obtained with the great [semnar](https://cran.r-project.org/web
 
 ## Invited Talks
 
+<!---
+- [BAYMS 2026](https://)  
+Talk: **  
+Tokyo, JAP - June 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_BAYSM26.qmd)
+--->
+
+- [Nordstat 2026](https://www.helsinki.fi/en/conferences/nordstat-2026)  
+Talk: *Bayesian Multiresolution Functional Regression and Clustering via stCUSP*  
+Helsinki, FIN - June 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_Hels26.qmd)
 
 - [SISBayes 2025](https://sisbayes2025.stat.unipd.it)  
 Talk: *Bnp4bnp: Bayesian Nonparametric Models For Biomarkers And Neuronal Patterns*  

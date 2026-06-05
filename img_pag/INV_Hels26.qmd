@@ -1,0 +1,16 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+
+![The nordic people are stricter...](../images/hel2.jpeg)  
+
+
+![...and the nordic sky is bluer.](../images/hel1.jpeg)  
+
+
+
+![The OnePiece!](../images/hel3.jpeg)

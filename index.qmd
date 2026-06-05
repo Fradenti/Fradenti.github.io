@@ -54,7 +54,7 @@ Romastino
 margin:10px 20px;border-radius: 10px;
   " src="images/fd.jpg" width="160"> 
   
-I am an Assistant Professor (RtdB) at the [Department of Statistics of University of Padua](https://www.stat.unipd.it).
+I am an Assistant Professor (RtdB) at the [Department of Statistics of University of Padova](https://www.stat.unipd.it).
 
 Previously, I held the role of Assistant Professor (RtdA) at the [Department of Statistics of Università Cattolica del Sacro Cuore - Milan](https://dipartimenti.unicatt.it/scienze_statistiche).  
 Prior to that, I spent two years as a Postdoctoral Scholar at the [Department of Statistics of Univerisity of California - Irvine](https://www.stat.uci.edu/), working under the supervision of Professor [Babak Shahbaba](https://www.ics.uci.edu/~babaks/).  
@@ -78,25 +78,35 @@ I am interested in Bayesian mixtures, Bayesian nonparametrics, model-based clust
 </a>
 
 
-### News, upcoming talks and confereces
+### News
 
 ---  
 
+- [*May 2026*] I have been appointed **Associate Editor** for the journal [*Computational Statistics and Data Analysis*](https://www.sciencedirect.com/journal/computational-statistics-and-data-analysis/about/editorial-board) 
+
+- [*January 2026*] I have been appointed **Associate Editor** for the journal [*Statistical Methods and Applications*](https://link.springer.com/journal/10260/editorial-board) 
+
 - [*January 2026*] My project *BNP4BNP* has obtained the **Seal of Excellence** in the [**STARS@UNIPD 2025** grant](https://www.unipd.it/en/stars-call-2025) and has been funded!
 
-- [*November 2025*] I am honored to have received the [2025 **Blackwell-Rosenbluth award**](https://j-isba.github.io/blackwell-rosenbluth.html), assigned by [j-ISBA](https://j-isba.github.io/) to junior researchers in Bayesian statistics based on their overall contribution to the field and to the community!  
+- [*November 2025*] I am honored to have received the [2025 **Blackwell-Rosenbluth award**](https://j-isba.github.io/blackwell-rosenbluth-past-winners2025.html), assigned by [j-ISBA](https://j-isba.github.io/) to junior researchers in Bayesian statistics based on their overall contribution to the field and to the community!  
 
+## Upcoming talks, schools, and conferences
 
-
+- [x] **Nordstat 2026**, Helsinki, June
+- [ ] **SIS-Fenstat 2026**, Rome, June
+- [ ] **BAYSM 2026**, Tokyo (Chiba U), June
+- [ ] **ISBA Wordl meeting**, Nagoya, July
+- [ ] **IFCS 2026**, Milan, July
+- [ ] **Compstat 2026**, Athens, August
 
 ### Contacts
 
 ---
 
 **Email**: francesco (dot) denti (at) unipd (dot) it  
-**Office**: Room 151, Via Cesare Battisti 241, Padua  
+**Office**: Room 151, Via Cesare Battisti 241, Padova  
 [Department of Statistics](https://www.stat.unipd.it)  
-University of Padua, Italy
+University of Padova, Italy
 <br>
 
 ::: {.column width="90%"}

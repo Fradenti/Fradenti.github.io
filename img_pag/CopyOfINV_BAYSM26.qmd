@@ -1,0 +1,9 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+
+![...](../images/)
