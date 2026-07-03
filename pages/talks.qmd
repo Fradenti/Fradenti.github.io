@@ -34,13 +34,46 @@ fd <- presenter(name = "Francesco", surname = "Denti",
                 email = "francesco.denti@unipd.it",
                 link = "https://fradenti.github.io")
  
+
+
 FD <- add_presentation(presenter = fd,     
+                       country = "Japan", city = "Nagoya",
+                       lat = 35.17065, lon = 136.88659,                  
+                       event = "ISBA World Meeting 2026",
+                       title = "Bayesian Multiresolution Functional Regression and Clustering via stCUSP",
+                       link = "https://isba2026.github.io",
+                       materials = "../img_pag/POS_ISBA26.qmd",
+                       type = "poster", institution = "WINC AICI Center Nagoya", 
+                       department = NA,
+                       venue = NA, room = NA,
+                       year = 2026, month = 6, day = 27,
+                       start_hour = NA, start_min = NA,
+                       end_hour = NA, end_min = NA)
+
+
+
+FD <- FD %>% add_presentation(presenter = fd,     
+                       country = "Japan", city = "Chiba",
+                       lat = 35.6278, lon = 140.1031,                  
+                       event = "BAYSM2026",
+                       title = "Bayesian Multiresolution Functional Regression and Clustering via stCUSP",
+                       link = "https://baysm2026.github.io",
+                       materials = "../img_pag/INV_BAYSM26.qmd",
+                       type = "presentation", institution = "Chiba University", 
+                       department = NA,
+                       venue = NA, room = NA,
+                       year = 2026, month = 6, day = 27,
+                       start_hour = NA, start_min = NA,
+                       end_hour = NA, end_min = NA)
+
+
+FD <- FD %>% add_presentation(presenter = fd,     
                        country = "Finland", city = "Helsinki",
-                       lat = 60.20018600, lon = 25.04655000,                  
+                       lat = 60.20018600, lon = 25.04655000,                
                        event = "Nordstat",
                        title = "Bayesian Multiresolution Functional Regression and Clustering via stCUSP",
                        link = "https://www.helsinki.fi/en/conferences/nordstat-2026",
-                       materials = "../img_pag/INV_Hles_26.qmd",
+                       materials = "../img_pag/INV_Hels_26.qmd",
                        type = "presentation", institution = "University of Helsinky", 
                        department = NA,
                        venue = NA, room = NA,
@@ -402,6 +435,11 @@ Talk: **
 Tokyo, JAP - June 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_BAYSM26.qmd)
 --->
 
+- [BAYSM26](https://baysm2026.github.io)  
+Talk: *Bayesian Multiresolution Functional Regression and Clustering via stCUSP*  
+Chiba, JAP - June 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_INV_BAYSM26.qmd)
+
+
 - [Nordstat 2026](https://www.helsinki.fi/en/conferences/nordstat-2026)  
 Talk: *Bayesian Multiresolution Functional Regression and Clustering via stCUSP*  
 Helsinki, FIN - June 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_Hels26.qmd)
@@ -510,6 +548,12 @@ Contributed Talk: *Modeling Human Microbiome Data via Latent Nested Nonparametri
 Naples, IT - July 2019 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/CON_Naples19.qmd)
 
 ## Posters
+
+
+
+- [ISBA 2026 World Meeting](https://isba2026.github.io)  
+Poster: *Bayesian Multiresolution Functional Regression and Clustering via stCUSP*   
+Nagoya, JAP - June 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/POS_ISBA2026.qmd)  
 
 - [ISBA 2024 World Meeting](https://www.unive.it/web/en/2208/home)  
 Poster: *Finite-infinite nested priors for the segmentation of complex, large-scale grouped datasets*   
