@@ -550,7 +550,6 @@ Naples, IT - July 2019 - [ <img  width="20" height="20" src="../images/cam3.png"
 ## Posters
 
 
-
 - [ISBA 2026 World Meeting](https://isba2026.github.io)  
 Poster: *Bayesian Multiresolution Functional Regression and Clustering via stCUSP*   
 Nagoya, JAP - June 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/POS_ISBA2026.qmd)  
