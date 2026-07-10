@@ -5,8 +5,12 @@ page-layout: full
   
 [**[Back]**](../pages/talks.qmd)
 
-TBA
 
-![...](../images/)
 
-![...](../images/)
+![Record-breaking (low-res) participation this year!](../images/BAYSM_1.jpeg)
+
+![And super cool posters too!](../images/BAYSM_0.jpeg)
+
+![Me diring the talk](../images/BAYSM_3.jpeg)
+
+![Me after the talk: "Are there any questions? (Please don't hurt me)"](../images/BAYSM_4.jpeg)

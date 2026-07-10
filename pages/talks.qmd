@@ -425,6 +425,7 @@ FD <- FD %>% add_presentation(presenter = fd,                         country = 
 plot(FD, group = "city",
      title = "<a href='https://cran.r-project.org/package=semnar'>semnar</a> map")
 ```
+
 A visual summary obtained with the great [semnar](https://cran.r-project.org/web/packages/semnar/readme/README.html) package.
 
 ## Invited Talks
@@ -437,7 +438,7 @@ Tokyo, JAP - June 2026 - [ <img  width="20" height="20" src="../images/cam3.png"
 
 - [BAYSM26](https://baysm2026.github.io)  
 Talk: *Bayesian Multiresolution Functional Regression and Clustering via stCUSP*  
-Chiba, JAP - June 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_INV_BAYSM26.qmd)
+Chiba, JAP - June 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_BAYSM26.qmd)
 
 
 - [Nordstat 2026](https://www.helsinki.fi/en/conferences/nordstat-2026)  
