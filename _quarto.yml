@@ -10,12 +10,16 @@ website:
     right:
       - text: "Home"
         href: index.qmd
-      - text: "Research"
+      - text: "Publications"
         href: pages/research.qmd
+      - text: "Research Projects"
+        href: pages/projects.qmd
       - text: "Talks"
         href: pages/talks.qmd
       - text: "Teaching"
         href: pages/teach.qmd
+      - text: "Supervisions"
+        href: pages/students.qmd
       - text: "Misc"
         href: pages/misc.qmd
 format:
