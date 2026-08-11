@@ -99,7 +99,7 @@ Rosenrot - Rammstein </p>
 
 
 <li> **Denti, F.**, Doimo, D., Laio, A., and Mira, A.  
-*Gride: a novel likelihood-based intrinsic dimension estimator*  
+*The generalized ratios intrinsic dimension estimator*  
 **Scientific Reports**, 2022 - [[Journal Article](https://www.nature.com/articles/s41598-022-20991-1) 
  - [Preprint](https://arxiv.org/abs/2104.13832) - [GitHub](https://github.com/Fradenti/GRIDE_repo)]
 

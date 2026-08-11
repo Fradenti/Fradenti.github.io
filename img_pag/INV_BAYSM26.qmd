@@ -7,10 +7,10 @@ page-layout: full
 
 
 
-![Record-breaking (low-res) participation this year!](../images/BAYSM_1.jpeg)
+![Record-breaking (low-res) participation this year...](../images/BAYSM_1.jpeg)
 
-![And super cool posters too!](../images/BAYSM_0.jpeg)
+![...and super cool posters too!](../images/BAYSM_0.jpeg)
 
-![Me diring the talk](../images/BAYSM_3.jpeg)
+![Me during the talk](../images/BAYSM_3.jpeg)
 
 ![Me after the talk: "Are there any questions? (Please don't hurt me)"](../images/BAYSM_4.jpeg)
