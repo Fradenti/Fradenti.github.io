@@ -151,6 +151,8 @@ Also reviewer for
 
 + Associate Editor for the [ISBA bulletin](https://bayesian.org/resources/bulletin/) - *News of the World* section from 2019 to 2024
 
++ Editor of the Springer Volume of Conference Proceedings (IFCS 2026) [Navigating ComplexityStatistical Methods, Data Analysis, and Machine Learning for Actionable Insights](https://link.springer.com/book/10.1007/978-3-032-32009-4)
+
 + Member of [ISBA](https://bayesian.org), [j-ISBA](https://j-isba.github.io), and [BNP-ISBA](https://bnp-isba.github.io)  
 
 + Member of [Complex Data Modeling Research Network](https://midas.mat.uc.cl/network/)
