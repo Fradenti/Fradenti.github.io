@@ -41,6 +41,10 @@ Rosenrot - Rammstein </p>
 
 <ol reversed>
 
+<li> **Denti, F.**, Balocchi, C., Denti, V., and Capitoli, G.   
+*Multiomics Tissue Segmentation via Spatially-Informed Nested Biclustering Methods*    
+**Biometrics**, 2026 - [[Preprint](https://arxiv.org/abs/2509.02482)]
+
 
 <li> Sottosanti, A., Risso, D., and **Denti, F.**   
 *Spatially Regularized Gaussian Mixtures for Clustering Spatial Transcriptomic Data*   
@@ -265,10 +269,6 @@ in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), **Book of Short 
 ### Submitted
 
 <ol>
-<li> **Denti, F.**, Balocchi, C., Denti, V., and Capitoli, G.   
-*Multiomics Tissue Segmentation via Spatially-Informed Nested Biclustering Methods*    
-**Submitted**, 2026+ - [[Preprint](https://arxiv.org/abs/2509.02482)]
-
 <li> D'Angelo, L., **Denti, F.**, Canale, A., and Guindani, M.   
 *Decoding Neuronal Ensembles from Spatially-Referenced Calcium Traces: A Bayesian Semiparametric Approach*  
 **Submitted**, 2026+ - [[Preprint](https://arxiv.org/abs/2508.09576)]
