@@ -3,7 +3,6 @@ title: "Research Projects"
 page-layout: full
 ---
 
-# Page under construction
 
 
 ## BNP4BNP – Bayesian Non Parametrics for Biclustering and Nested Partitions
@@ -28,5 +27,9 @@ A central objective of the project is to bridge theory and practice. The project
 
 
 ### Publications
+<img src="../images/Poseidon_logo.png" align="right" width="150" />
 
-- Hopefully coming soon
+<li> **Denti, F.**, Balocchi, C., Denti, V., and Capitoli, G.   
+*Multiomics Tissue Segmentation via Spatially-Informed Nested Biclustering Methods*    
+**Biometrics**, 2026 - [[Preprint](https://arxiv.org/abs/2509.02482)]
+
