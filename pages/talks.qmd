@@ -37,6 +37,21 @@ fd <- presenter(name = "Francesco", surname = "Denti",
 
 
 FD <- add_presentation(presenter = fd,     
+                       country = "Greece", city = "Athems",
+                       lat = 37.9818, lon = 23.7335,                  
+                       event = "Compstat 2026",
+                       title = "",
+                       link = "hhttps://www.compstat2026.org",
+                       materials = "../img_pag/POS_ISBA26.qmd",
+                       type = "poster", institution = "Athens University Law School", 
+                       department = NA,
+                       venue = NA, room = NA,
+                       year = 2026, month = 8, day = 24,
+                       start_hour = NA, start_min = NA,
+                       end_hour = NA, end_min = NA)
+
+
+FD <- FD |> add_presentation(presenter = fd,     
                        country = "Japan", city = "Nagoya",
                        lat = 35.17065, lon = 136.88659,                  
                        event = "ISBA World Meeting 2026",
