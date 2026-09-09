@@ -12,16 +12,22 @@ page-layout: full
 ::: {.list .list-inside .list-decimal}
 - **Mar 26**: Murat Efe - *"Renewable Penetration and Residual Load Predictability in the Romanian Power System"*
   (redacted in English), MSc in Applied Economics @ UniPD - co-supervised with M. Bertolini  
+  
 - **Nov 25**: Irene Veghin - *"Biclustering bayesiano in presenza di covariate: teoria e applicazioni"* (redacted in Italian), MSc in Statistics @ UniPD  - co-supervised with G. Menardi
+
 -   **Sep 25**: Andrea Ongarato - *"Cumulative Shrinkage Processes for Bayesian Multiresolution Functional Regression"* (redacted in English), MSc in Statistics @ UniPD
+
 :::
   
 ### Università Cattolica del Sacro Cuore
   
 ::: {.list .list-inside .list-decimal}
 -   **Dec 23**: Francesco Donelli - *"Manufacturing plant’s production: forecasting of demand level via Gaussian Process Regression"*, MSc in Data Analytics for Business @ Unicatt
+
 -   **Feb 24**: Francesco Esposito - *"A Bayesian hierarchical approach for modeling the outcome of football matches"*, MSc in Data Analytics for Business @ Unicatt
+
 -   **Apr 24**: Paola Veglio - *"Bayesian Mixture Model for nested data with application to large dataset"*, MSc in Data Analytics for Business @ Unicatt - co-supervised with A. Fasano
+
 :::
   
 ### Politecnico of Milan
@@ -34,6 +40,11 @@ page-layout: full
 ### University of Padova
   
 ::: {.list .list-inside .list-decimal}
+
+
+-   **Sep 26**: Milo Bizzotto - *"PCA Bayesiana: Un Confronto Teorico e Applicativo con i Metodi Classici"* (redacted in Italian), BSc in Statistica per le Tecnologie e le Scienze @ UniPD
+                
+-   **Sep 26**: Filippo Antico - *"Nearest Neighbor Gaussian Processes: A Solution to the Scalability Problem"* (redacted in English), BSc in Statistica per l’Economia e l’Impresa @ UniPD
 
 -   **Mar 26**: Margherita Vincenzi - *"Statistical Learning Methods for Psychiatric Disorder Classification Using Resting-State Electroencephalography Recordings"* (redacted in English), BSc in Statistica per l'Economia e l'impresa @ UniPD  
 -   **Nov 25**: Matteo Bottan - *"Comparazione di tecniche statistiche per la visualizzazione di dati ad alta dimensionalità"* (redacted in Italian), BSc in Statistica per le Tecnologie e le Scienze @ UniPD

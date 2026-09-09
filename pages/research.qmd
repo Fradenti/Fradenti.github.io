@@ -271,7 +271,7 @@ in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), **Book of Short 
 <ol>
 <li> D'Angelo, L., **Denti, F.**, Canale, A., and Guindani, M.   
 *Decoding Neuronal Ensembles from Spatially-Referenced Calcium Traces: A Bayesian Semiparametric Approach*  
-**Submitted**, 2026+ - [[Preprint](https://arxiv.org/abs/2508.09576)]
+**Submitted**, 2026+ - [[Preprint](https://arxiv.org/pdf/2508.09576v3)]
 
 
 <li> **Denti, F.** and D'Angelo, L.  
