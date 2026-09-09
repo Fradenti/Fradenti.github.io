@@ -43,7 +43,7 @@ Rosenrot - Rammstein </p>
 
 <li> **Denti, F.**, Balocchi, C., Denti, V., and Capitoli, G.   
 *Multiomics Tissue Segmentation via Spatially-Informed Nested Biclustering Methods*    
-**Biometrics**, 2026 - [[Preprint](https://arxiv.org/abs/2509.02482)]
+**Biometrics**, 2026 - [[Journal Article]() - [Preprint](../pdf/Poseidon.pdf) - [GitHub](https://github.com/fradenti/poseidon-maldi)]
 
 
 <li> Sottosanti, A., Risso, D., and **Denti, F.**   
