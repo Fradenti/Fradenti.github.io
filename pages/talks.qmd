@@ -40,9 +40,9 @@ FD <- add_presentation(presenter = fd,
                        country = "Greece", city = "Athems",
                        lat = 37.9818, lon = 23.7335,                  
                        event = "Compstat 2026",
-                       title = "",
+                       title = "Bayesian nonparametric priors and discrete random structures for high-dimensional biological inference",
                        link = "hhttps://www.compstat2026.org",
-                       materials = "../img_pag/POS_ISBA26.qmd",
+                       materials = "../img_pag/INV_COMPSTAT26.qmd",
                        type = "poster", institution = "Athens University Law School", 
                        department = NA,
                        venue = NA, room = NA,
@@ -450,6 +450,14 @@ A visual summary obtained with the great [semnar](https://cran.r-project.org/web
 Talk: **  
 Tokyo, JAP - June 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_BAYSM26.qmd)
 --->
+
+
+
+- [COMPSTAT 2026](https://www.compstat2026.org/)  
+Talk: *Bayesian nonparametric priors and discrete random structures for high-dimensional biological inference*  
+Athens, GRE - August 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_COMPSTAT26.qmd)
+
+
 
 - [BAYSM26](https://baysm2026.github.io)  
 Talk: *Bayesian Multiresolution Functional Regression and Clustering via stCUSP*  

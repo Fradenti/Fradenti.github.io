@@ -1,0 +1,15 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+
+![As Nolan intended.](../images/Compstat26_1.jpeg)
+
+![A view from Licabettus hill.](../images/Compstat26_2.jpeg)
+
+![Another view from Licabettus hill, with interesting stickers.](../images/Compstat26_3.jpeg)
+
+![Last resort to get a paper accepted - Poseidon, hear me! And help me getting `Poseidon` accepted! (It worked!!)](../images/Compstat26_4.jpeg)
