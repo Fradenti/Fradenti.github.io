@@ -42,6 +42,12 @@ page-layout: full
 ::: {.list .list-inside .list-decimal}
 
 
+-   **Sep 26**: Elena Battistoni - *"Strutture latenti nella musica: un'applicazione dell'analisi fattoriale multi-studio bayesiana su playlist Spotify"* (redacted in Italian), BSc in Statistica per l’Economia e l’Impresa @ UniPD
+
+-   **Sep 26**: Andrea Fior - *"Modellazione e previsione dei risultati calcistici: dall’approccio frequentista all’analisi bayesiana"* (redacted in Italian), BSc in Statistica per l’Economia e l’Impresa @ UniPD
+
+-   **Sep 26**: Thomas Rambaldo - *"Evoluzione dei temi narrativi nel cinema attraverso l'analisi statistica del testo"* (redacted in Italian), BSc in Statistica per le Tecnologie e le Scienze @ UniPD
+
 -   **Sep 26**: Milo Bizzotto - *"PCA Bayesiana: Un Confronto Teorico e Applicativo con i Metodi Classici"* (redacted in Italian), BSc in Statistica per le Tecnologie e le Scienze @ UniPD
                 
 -   **Sep 26**: Filippo Antico - *"Nearest Neighbor Gaussian Processes: A Solution to the Scalability Problem"* (redacted in English), BSc in Statistica per l’Economia e l’Impresa @ UniPD
