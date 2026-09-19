@@ -9,3 +9,52 @@ img {
   max-width: 80%;
   height: auto;
 }
+
+.publication-search {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+
+  margin: 1rem 0 1.5rem;
+  padding: 0.8rem 1rem;
+
+  border: 1px solid var(--bs-border-color);
+  border-radius: 0.5rem;
+  background: var(--bs-body-bg);
+  box-shadow: 0 0.125rem 0.35rem rgba(0, 0, 0, 0.06);
+}
+
+#publication-search {
+  flex: 1 1 auto;
+  width: 100%;
+  min-width: 0;
+  border: 0;
+  outline: 0;
+  background: transparent;
+}
+
+.publication-search-count {
+  flex: 0 0 auto;
+  margin-left: auto;
+  white-space: nowrap;
+  text-align: right;
+}
+
+@media (max-width: 768px) {
+  .publication-search {
+    width: 100% !important;
+    left: 0;
+    transform: none;
+  }
+}
+
+#publication-search {
+  flex: 1;
+  min-width: 0;
+}
+
+.publication-search-count {
+  margin-left: auto;
+  white-space: nowrap;
+  text-align: right;
+}

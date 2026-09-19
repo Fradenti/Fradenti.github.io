@@ -44,9 +44,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-2470e1fdc04c69a178e641a3086c2d23.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-29418f1594eda97e5de65bbe5e095ad3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../site_libs/bootstrap/bootstrap-2470e1fdc04c69a178e641a3086c2d23.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-f03efdb24841b97a2b177ca87f808452.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-d282831b604361109546d881ab1241bc.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-f03efdb24841b97a2b177ca87f808452.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -347,8 +347,67 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const searchInput = document.getElementById("publication-search");
+    const resultCount = document.getElementById("publication-search-count");
+    const publications = [...document.querySelectorAll("main ol > li")];
+    
+    if (!searchInput || publications.length === 0) return;
+    
+    const normalize = (text) => text
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLocaleLowerCase();
+    
+    const updateResults = () => {
+      const query = normalize(searchInput.value.trim());
+      let matches = 0;
+      
+      publications.forEach((publication) => {
+        const isMatch = !query || normalize(publication.textContent).includes(query);
+        publication.hidden = !isMatch;
+        if (isMatch) matches += 1;
+      });
+      
+      resultCount.textContent = query
+      ? `${matches} ${matches === 1 ? "result" : "results"}`
+      : `${publications.length} publications`;
+      
+      if (query) {
+        const activePane = document.querySelector(".tab-pane.active");
+        const activeHasMatch = activePane?.querySelector("ol > li:not([hidden])");
+        
+        if (!activeHasMatch) {
+          const firstPaneWithMatch = [...document.querySelectorAll(".tab-pane")]
+          .find((pane) => pane.querySelector("ol > li:not([hidden])"));
+          const trigger = firstPaneWithMatch
+          ? document.querySelector(`[data-bs-target="#${firstPaneWithMatch.id}"], [href="#${firstPaneWithMatch.id}"]`)
+          : null;
+          
+          if (trigger && window.bootstrap?.Tab) {
+            bootstrap.Tab.getOrCreateInstance(trigger).show();
+          }
+        }
+      }
+    };
+    
+    searchInput.addEventListener("input", updateResults);
+    searchInput.addEventListener("keydown", (event) => {
+      if (event.key === "Escape") {
+        searchInput.value = "";
+        updateResults();
+      }
+    });
+    
+    updateResults();
+  });
+</script>
 <section id="publications" class="level1">
 <h1>Publications</h1>
+<div class="publication-search" role="search" aria-label="Search publications">
+<p><i class="bi bi-search" aria-hidden="true"></i> <input id="publication-search" type="search" placeholder="Type to filter" autocomplete="off" aria-label="Search publications"> <span id="publication-search-count" class="publication-search-count" aria-live="polite"></span></p>
+</div>
 <div class="tabset-margin-container"></div><div class="panel-tabset">
 <ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" href="">Articles in Refereed Journals</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false" href="">Book Chapters, Discussions, and Conference Proceedings</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" role="tab" aria-controls="tabset-1-3" aria-selected="false" href="">Manuscripts</a></li></ul>
 <div class="tab-content">
