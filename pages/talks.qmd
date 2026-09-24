@@ -35,9 +35,22 @@ fd <- presenter(name = "Francesco", surname = "Denti",
                 link = "https://fradenti.github.io")
  
 
-
 FD <- add_presentation(presenter = fd,     
-                       country = "Greece", city = "Athems",
+                       country = "Italy", city = "Padova",
+                       lat = 45.4127, lon = 11.8925,            
+                       event = "Non-Clinical Statistics Conference NCS 2026",
+                       title = "Bayesian Nonparametrics Methods for Complex Biomedical Data",
+                       link = "https://ncs-conference.org",
+                       materials = "../img_pag/PLE_NCS2026.qmd",
+                       type = "poster", institution = "Savhotel Padova", 
+                       department = NA,
+                       venue = NA, room = NA,
+                       year = 2026, month = 9, day = 24,
+                       start_hour = NA, start_min = NA,
+                       end_hour = NA, end_min = NA)
+
+FD <- FD |> add_presentation(presenter = fd,     
+                       country = "Greece", city = "Athens",
                        lat = 37.9818, lon = 23.7335,                  
                        event = "Compstat 2026",
                        title = "Bayesian nonparametric priors and discrete random structures for high-dimensional biological inference",
