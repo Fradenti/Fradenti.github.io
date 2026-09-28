@@ -91,9 +91,10 @@ margin:10px 20px;border-radius: 10px;"}
 <span id="publication-search-count"
       class="publication-search-count"
       aria-live="polite"></span>
+      
 :::
 
-:::: {.panel-tabset}
+::: {.panel-tabset}
 ## Articles in Refereed Journals
 <div style="text-align: right"> 
   <p>&quot;<em>Tiefe Brunnen muss man graben<br>
@@ -348,8 +349,7 @@ in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), **Book of Short 
 **Submitted**, 2026+ - [[Preprint](https://arxiv.org/abs/2508.09758) - [GitHub](https://github.com/fradenti/sanba)]
 
 </ol>
-
-
+:::
 
 :::: {.columns}
 ::: {.column width="90%"}

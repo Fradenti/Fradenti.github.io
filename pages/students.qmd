@@ -10,6 +10,15 @@ page-layout: full
 ### University of Padova
   
 ::: {.list .list-inside .list-decimal}
+
+
+
+- **Sep 26**: Patrik Lazzarin - *"Tecnica di riduzione della dimensionalità per tensori: un approccio Bayesiano adattivo"*  
+  (redacted in Italian), MSc in Statistics @ UniPD - co-supervised with A. Canale  
+
+- **Sep 26**: Matteo Brognera - *"Topic Modelling non parametrico bayesiano per l'estrazione di conoscenza da dati testuali: un'applicazione ai dati di Caritas Treviso"*  
+  (redacted in Italian), MSc in Statistics @ UniPD
+
 - **Mar 26**: Murat Efe - *"Renewable Penetration and Residual Load Predictability in the Romanian Power System"*
   (redacted in English), MSc in Applied Economics @ UniPD - co-supervised with M. Bertolini  
   

@@ -112,8 +112,7 @@ FD <- FD %>% add_presentation(presenter = fd,
 
 FD <- FD %>% add_presentation(presenter = fd,     
                        country = "Italy", city = "Padova",
-                       lon = 11.88586, lat = 45.40797,                       
-                       event = "SISBayes",
+ lon = 11.883828, lat = 45.404456,                       event = "SISBayes",
                        title = "BNP4BNP: Bayesian Nonparametric Models For Biomarkers And Neuronal Patterns",
                        link = "https://sisbayes2025.stat.unipd.it",
                        materials = "../img_pag/INV_Pauda25.qmd",
@@ -237,8 +236,8 @@ FD <- FD %>% add_presentation(presenter = fd,                         country = 
                  end_hour = NA, end_min = NA)
 
 FD <- FD %>% add_presentation(presenter = fd,                         country = "Italy", city = "Padova",
-                 lon = 11.88586, lat = 45.40797,
-                 event = "GLASS informal seminar series",
+ lon = 11.883828, lat = 45.404456,
+ event = "GLASS informal seminar series",
                  title = "An informal intro to BNP mixture models",
                  link = "https://sites.google.com/view/laboratoriodistatisticasociale/appuntamenti-online?authuser=0",
                  materials = "../img_pag/...",
@@ -265,7 +264,7 @@ FD <- FD %>% add_presentation(presenter = fd,                         country = 
 
 
 FD <- FD %>% add_presentation(presenter = fd,                         country = "Italy", city = "Padova",
-                 lon = 11.88586, lat = 45.40797,
+                 lon = 11.883828, lat = 45.404456,
                  event = "UniPD Welcome Seminar",
                  title = "Of mice and music: finite-infinite nested priors for the segmentation of large-scale grouped data",
                  link = "https://www.linkedin.com/feed/update/urn:li:activity:7259643658784669697/",

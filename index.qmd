@@ -98,6 +98,7 @@ I am interested in Bayesian mixtures, Bayesian nonparametrics, model-based clust
 - [x] **ISBA World meeting**, Nagoya, July - *Poster presentation*
 - [x] **Compstat 2026**, Athens, August - *Invited talk*
 - [x] **Non-Clinical Statistics 2026**, Padova, September - *Plenary talk*
+- [ ] **Rethinking the Role of Bayesianism in the Age of Modern AI**, Edinburgh, October - *Attending*
 
 ### Contacts
 
