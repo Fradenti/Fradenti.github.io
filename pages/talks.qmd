@@ -459,7 +459,7 @@ A visual summary obtained with the great [semnar](https://cran.r-project.org/web
 
 - [Non-Clinical Statistics NCS 2026](https://ncs-conference.org/)  
 Talk: *Bayesian Nonparametrics Methods for Complex Biomedical Data*  
-Padova, ITA - September 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/PLE_NSC2026.qmd)
+Padova, ITA - September 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/PLE_NCS2026.qmd)
 
 ## Invited Talks
 

@@ -6,7 +6,4 @@ page-layout: full
 [**[Back]**](../pages/talks.qmd)
   
   
-  
-![TBA]()
-
-![TBA]()
+![Group pic from the Hotel's terrace! Nice to see Padova from above, in all its... gray(?)](../images/NCS26.jpeg)

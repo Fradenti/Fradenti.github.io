@@ -3,15 +3,17 @@ title: "Supervisions"
 page-layout: full
 ---
   
+## Ph.D. students
   
+  
+- [Alex Cecchetto](https://alexcecchetto.github.io/), co-supervised with D. Risso and A. Salim - *"Latent Structure Modeling in Single Cell and Spatial Transcriptomics"*  
+Expected discussion date: February 2027 
 
 ## MSc students
   
 ### University of Padova
   
 ::: {.list .list-inside .list-decimal}
-
-
 
 - **Sep 26**: Patrik Lazzarin - *"Tecnica di riduzione della dimensionalità per tensori: un approccio Bayesiano adattivo"*  
   (redacted in Italian), MSc in Statistics @ UniPD - co-supervised with A. Canale  

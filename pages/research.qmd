@@ -349,11 +349,12 @@ in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), **Book of Short 
 **Submitted**, 2026+ - [[Preprint](https://arxiv.org/abs/2508.09758) - [GitHub](https://github.com/fradenti/sanba)]
 
 </ol>
-:::
 
 :::: {.columns}
 ::: {.column width="90%"}
+
 ![](../images/f2.jpeg){style="float: left;vertical-align:middle;
 margin:50px 50px;border-radius: 10px;"}
+
 :::
 :::: 
