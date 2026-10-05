@@ -1,7 +1,13 @@
 ---
-title: "Supervisions"
+title: "People"
 page-layout: full
 ---
+  
+## Postdocs  
+
+- [Marco Dalla Pria](https://marcodallapria.github.io/), working on the [BNP4BNP project](https://fradenti.github.io/pages/projects.html)  
+October 2026 -- Ongoing
+
   
 ## Ph.D. students
   
@@ -9,6 +15,9 @@ page-layout: full
 - [Alex Cecchetto](https://alexcecchetto.github.io/), co-supervised with D. Risso and A. Salim - *"Latent Structure Modeling in Single Cell and Spatial Transcriptomics"*  
 Expected discussion date: February 2027 
 
+
+## Supervisions
+:::: {.panel-tabset}
 ## MSc students
   
 ### University of Padova
@@ -81,3 +90,5 @@ Expected discussion date: February 2027
 ::: {.list .list-inside .list-decimal}
 -   **Sep 23**: Gabriele Nicolasi - *"Scomposizione delle serie storiche dei tassi di occupazione: indici europei e italiani a confronto"* (redacted in Italian), BSc in Economics and Management @ Unicatt
 :::
+
+::::
