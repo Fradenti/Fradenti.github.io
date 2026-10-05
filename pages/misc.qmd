@@ -100,7 +100,7 @@ Advances in Statistical Analysis (AStA, 1) --- Bayesian Analysis (BA, 3) --- Bio
 D <- rbind(
 cbind("Advances in Data Analysis and Classification" , 1),
 cbind("Advances in Statistical Analysis (AStA)", 1), 
-cbind("Annals of Applied Statistics (AOAS)", 3), 
+cbind("Annals of Applied Statistics (AOAS)", 4), 
 cbind("Artificial Intelligence in Medicine", 1), 
 cbind("Bayesian Analysis (BA)", 4), 
 cbind("Biometrical Journal", (1)),
