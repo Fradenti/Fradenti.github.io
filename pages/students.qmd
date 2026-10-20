@@ -11,6 +11,9 @@ October 2026 -- Ongoing
   
 ## Ph.D. students
   
+- [Andrea Ongarato](https://andreaonga.github.io),    
+Expected discussion date: February 2029 
+
   
 - [Alex Cecchetto](https://alexcecchetto.github.io/), co-supervised with D. Risso and A. Salim - *"Latent Structure Modeling in Single Cell and Spatial Transcriptomics"*  
 Expected discussion date: February 2027 
