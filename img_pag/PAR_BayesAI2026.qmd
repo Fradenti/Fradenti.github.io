@@ -1,0 +1,15 @@
+---
+title: ""
+page-layout: full
+---
+  
+[**[Back]**](../pages/talks.qmd)
+
+![BayesAI first workshop, Informatics Building, Edinburgh, 2026.](../images/BayesAI.jpg)
+
+
+![The Bayes Centre stole the show though...](../images/edi1_26.jpeg)
+
+![They have a great view...](../images/edi2_26.jpeg)
+
+![And an artwork of a statistically confused minister of infrastructures and transportation.](../images/edi3_26.jpeg)
