@@ -12,4 +12,4 @@ page-layout: full
 
 ![They have a great view...](../images/edi2_26.jpeg)
 
-![And an artwork of a statistically confused minister of infrastructures and transportation.](../images/edi3_26.jpeg)
+![..and an artwork of a statistically confused minister of infrastructures and transportation.](../images/edi3_26.jpeg)
