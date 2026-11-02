@@ -53,13 +53,14 @@ Romastino
 <img style="float: left;vertical-align:middle;
 margin:10px 20px;border-radius: 10px;
   " src="images/fd.jpg" width="160"> 
+
   
-I am an Assistant Professor (RtdB) at the [Department of Statistics of University of Padova](https://www.stat.unipd.it).
+I am an Associate Professor at the [Department of Statistics of University of Padova](https://www.stat.unipd.it). I held the role of Assistant Professor (RtdB) in the same Department (2024-2026).
 
-Previously, I held the role of Assistant Professor (RtdA) at the [Department of Statistics of Università Cattolica del Sacro Cuore - Milan](https://dipartimenti.unicatt.it/scienze_statistiche).  
-Prior to that, I spent two years as a Postdoctoral Scholar at the [Department of Statistics of Univerisity of California - Irvine](https://www.stat.uci.edu/), working under the supervision of Professor [Babak Shahbaba](https://www.ics.uci.edu/~babaks/).  
+Previously, I held the role of Assistant Professor (RtdA) at the [Department of Statistics of Università Cattolica del Sacro Cuore - Milan](https://dipartimenti.unicatt.it/scienze_statistiche) (2022-2024).  
+Prior to that, I spent two years as a Postdoctoral Scholar at the [Department of Statistics of Univerisity of California - Irvine](https://www.stat.uci.edu/), working under the supervision of Professor [Babak Shahbaba](https://www.ics.uci.edu/~babaks/) (2020-2022).  
 
-I obtained a Ph.D. in Statistics at University of Milan - Bicocca and Università della Svizzera italiana (joint program, awarded with honors) working with Professor [Antonietta Mira](https://search.usi.ch/en/people/f8960de6d60dd08a79b6c1eb20b7442b/mira-antonietta) and Professor [Michele Guindani](https://www.micheleguindani.info).  
+I obtained a Ph.D. in Statistics at University of Milan - Bicocca and Università della Svizzera italiana (joint program, awarded with honors) working with Professor [Antonietta Mira](https://search.usi.ch/en/people/f8960de6d60dd08a79b6c1eb20b7442b/mira-antonietta) and Professor [Michele Guindani](https://www.micheleguindani.info) in 2020.  
 
 I am interested in Bayesian mixtures, Bayesian nonparametrics, model-based clustering, shrinkage priors, and dimensionality reduction.  
 
@@ -82,6 +83,8 @@ I am interested in Bayesian mixtures, Bayesian nonparametrics, model-based clust
 
 ---  
 
+- [*Nov 2026*] I have been promoted to Associate Professor! 
+
 - [*Oct-Nov 2026*] I am spending a three-week visiting period at the [*University of Edinburgh, School of Mathematics*](https://maths.ed.ac.uk) 
 
 - [*May 2026*] I have been appointed **Associate Editor** for the journal [*Computational Statistics and Data Analysis*](https://www.sciencedirect.com/journal/computational-statistics-and-data-analysis/about/editorial-board) 
@@ -100,7 +103,7 @@ I am interested in Bayesian mixtures, Bayesian nonparametrics, model-based clust
 - [x] **ISBA World meeting**, Nagoya, July - *Poster presentation*
 - [x] **Compstat 2026**, Athens, August - *Invited talk*
 - [x] **Non-Clinical Statistics 2026**, Padova, September - *Plenary talk*
-- [ ] **Rethinking the Role of Bayesianism in the Age of Modern AI**, Edinburgh, October - *Attending*
+- [x] **Rethinking the Role of Bayesianism in the Age of Modern AI**, Edinburgh, October - *Attending*
 
 ### Contacts
 
