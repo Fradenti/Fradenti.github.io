@@ -3,7 +3,6 @@ title: "Dissemination"
 page-layout: full
 ---
 
-
 :::: {.columns}
 
 ::: {.column width="47.5%"}
@@ -26,440 +25,161 @@ E le altre volte dovrei stare zitto<br>perché parlo senza aver studiato.</em>&q
 # Talks and Posters
 
 
-```{r, echo = FALSE, message= FALSE, warning=FALSE}
+```{r, echo = FALSE, message = FALSE, warning = FALSE}
 library(tidyverse)
-library(semnar)
-fd <- presenter(name = "Francesco", surname = "Denti",
-                affiliation = "University of Padua",
-                email = "francesco.denti@unipd.it",
-                link = "https://fradenti.github.io")
- 
+library(leaflet)
+library(htmltools)
 
-FD <- add_presentation(presenter = fd,     
-                       country = "Italy", city = "Padova",
-                       lat = 45.4127, lon = 11.8925,            
-                       event = "Non-Clinical Statistics Conference NCS 2026",
-                       title = "Bayesian Nonparametrics Methods for Complex Biomedical Data",
-                       link = "https://ncs-conference.org",
-                       materials = "../img_pag/PLE_NCS2026.qmd",
-                       type = "poster", institution = "Savhotel Padova", 
-                       department = NA,
-                       venue = NA, room = NA,
-                       year = 2026, month = 9, day = 24,
-                       start_hour = NA, start_min = NA,
-                       end_hour = NA, end_min = NA)
+# ---- Data -------------------------------------------------------------------
+# type: plenary | presentation (invited talk) | talk (contributed) | poster |
+#       seminar | attended (other conferences and workshops)
+# Rows without coordinates (virtual events) are not drawn on the map.
+df <- tribble(
+  ~event, ~title, ~city, ~country, ~lon, ~lat, ~type, ~year, ~month, ~link,
 
-FD <- FD |> add_presentation(presenter = fd,     
-                       country = "Greece", city = "Athens",
-                       lat = 37.9818, lon = 23.7335,                  
-                       event = "Compstat 2026",
-                       title = "Bayesian nonparametric priors and discrete random structures for high-dimensional biological inference",
-                       link = "hhttps://www.compstat2026.org",
-                       materials = "../img_pag/INV_COMPSTAT26.qmd",
-                       type = "poster", institution = "Athens University Law School", 
-                       department = NA,
-                       venue = NA, room = NA,
-                       year = 2026, month = 8, day = 24,
-                       start_hour = NA, start_min = NA,
-                       end_hour = NA, end_min = NA)
+  # ---- 2026 ----
+  "Non-Clinical Statistics Conference NCS 2026", "Bayesian Nonparametrics Methods for Complex Biomedical Data", "Padua", "Italy", 11.8925, 45.4127, "plenary", 2026, 9, "https://ncs-conference.org",
+  "COMPSTAT 2026", "Bayesian nonparametric priors and discrete random structures for high-dimensional biological inference", "Athens", "Greece", 23.7335, 37.9818, "presentation", 2026, 8, "https://www.compstat2026.org",
+  "ISBA World Meeting 2026", "Bayesian Multiresolution Functional Regression and Clustering via stCUSP", "Nagoya", "Japan", 136.88659, 35.17065, "poster", 2026, 6, "https://isba2026.github.io",
+  "BAYSM 2026", "Bayesian Multiresolution Functional Regression and Clustering via stCUSP", "Chiba", "Japan", 140.1031, 35.6278, "presentation", 2026, 6, "https://baysm2026.github.io",
+  "Nordstat 2026", "Bayesian Multiresolution Functional Regression and Clustering via stCUSP", "Helsinki", "Finland", 25.04655, 60.200186, "presentation", 2026, 6, "https://www.helsinki.fi/en/conferences/nordstat-2026",
+  "GLASS informal seminar series", "An informal intro to BNP mixture models", "Padua", "Italy", 11.883828, 45.404456, "seminar", 2026, 4, "https://sites.google.com/view/laboratoriodistatisticasociale/appuntamenti-online?authuser=0",
 
+  # ---- 2025 ----
+  "SISBayes 2025", "BNP4BNP: Bayesian Nonparametric Models for Biomarkers and Neuronal Patterns", "Padua", "Italy", 11.883828, 45.404456, "presentation", 2025, 9, "https://sisbayes2025.stat.unipd.it",
+  "BNP 14", "BNP4BNP: Bayesian Nonparametric Models for Biomarkers and Neuronal Patterns", "Los Angeles", "United States", -118.44455, 34.07062, "presentation", 2025, 6, "https://bnp14.org",
+  "Early-Career Workshop on Nonparametric Statistics", "Bayesian nonparametric models for biomarkers and neuronal patterns", "Rome", "Italy", 12.4676, 41.9225, "presentation", 2025, 5, "https://sites.google.com/view/wsnpstats",
+  "DAIS Seminar Series", "BNP4BNP: Bayesian Nonparametric Models for Biomarkers and Neuronal Patterns", "Mestre", "Italy", 12.254767, 45.478127, "seminar", 2025, 4, "https://www.unive.it/pag/16129/",
 
-FD <- FD |> add_presentation(presenter = fd,     
-                       country = "Japan", city = "Nagoya",
-                       lat = 35.17065, lon = 136.88659,                  
-                       event = "ISBA World Meeting 2026",
-                       title = "Bayesian Multiresolution Functional Regression and Clustering via stCUSP",
-                       link = "https://isba2026.github.io",
-                       materials = "../img_pag/POS_ISBA26.qmd",
-                       type = "poster", institution = "WINC AICI Center Nagoya", 
-                       department = NA,
-                       venue = NA, room = NA,
-                       year = 2026, month = 6, day = 27,
-                       start_hour = NA, start_min = NA,
-                       end_hour = NA, end_min = NA)
+  # ---- 2024 ----
+  "Frontiers of Bayesian Inference and Data Science", "Of mice and music: finite-infinite nested priors for the segmentation of large-scale grouped data", "Oaxaca", "Mexico", -96.72365, 17.06542, "presentation", 2024, 9, "https://www.birs.ca/events/2024/5-day-workshops/24w5196/schedule",
+  "UniPD Welcome Seminar", "Of mice and music: finite-infinite nested priors for the segmentation of large-scale grouped data", "Padua", "Italy", 11.883828, 45.404456, "seminar", 2024, 11, "https://www.linkedin.com/feed/update/urn:li:activity:7259643658784669697/",
+  "ISBA Satellite workshop to ISBA World Meeting", "Segmenting brain imaging mass spectrometry data under separate exchangeability", "Lugano", "Switzerland", 8.96004, 46.01008, "presentation", 2024, 6, "https://www.usi.ch/en/feeds/25999",
+  "ISBA World Meeting 2024", "Finite-infinite nested priors for the segmentation of complex, large-scale grouped datasets", "Venice", "Italy", 12.3155, 45.4408, "poster", 2024, 7, "https://www.unive.it/web/en/2208/home",
 
+  # ---- 2023 ----
+  "CFE-CMStatistics 2023", "Bayesian models and computational methods for complex biological and environmental datasets", "Berlin", "Germany", 13.404954, 52.520008, "presentation", 2023, 12, "https://www.cmstatistics.org/CMStatistics2023/programme.php",
+  "SIS 2023", "Bayesian analysis of Amazon's best-selling books via finite nested mixture models", "Ancona", "Italy", 13.5150, 43.6158, "talk", 2023, 6, "https://meetings3.sis-statistica.org/index.php/ancona/ancona",
+  "BAYSM 2023", "Segmenting MALDI-MSI brain imaging mass spectrometry data under separate exchangeability", "Online", "Virtual", NA, NA, "talk", 2023, 11, "https://events.stat.uconn.edu/BAYSM2023/",
 
+  # ---- 2022 ----
+  "CFE-CMStatistics 2022 (Ercim)", "Multiple hypothesis screening via mixtures of non-local distributions with applications to genomic datasets", "London", "United Kingdom", -0.118092, 51.509865, "presentation", 2022, 12, "http://www.cmstatistics.org/CMStatistics2022/index.php",
+  "ISBA World Meeting 2022", "Bayesian screening via mixtures of shrinkage priors with applications to light-sheet fluorescence microscopy in brain imaging", "Montreal", "Canada", -73.561668, 45.508888, "presentation", 2022, 6, "https://isbawebmaster.github.io/ISBA2022/",
+  "SIS 2022", "Clustering artists based on the energy distributions of their songs on Spotify via the Common Atoms Model", "Caserta", "Italy", 14.33333, 41.066666, "presentation", 2022, 6, "https://meetings3.sis-statistica.org/index.php/SIS2022/Caserta",
+  # The contributed SIS 2022 talk listed below was commented out in your data (same city and month):
+  # "SIS 2022", "A tool to validate the assumptions on ratios of nearest neighbors' distances: the Consecutive Ratio Paths", "Caserta", "Italy", 14.3265, 41.0747, "talk", 2022, 6, "https://meetings3.sis-statistica.org/index.php/SIS2022/Caserta",
+  "CSUEB ASA Student Chapter", "Bayesian nonparametric mixtures for novelty detection", "Hayward", "United States", -122.080795, 37.668819, "seminar", 2022, 10, "https://www.instagram.com/asacsueb/",
+  "Cattolica - Spring 22 Seminar Series", "Bayesian nonparametric mixtures for novelty detection and partially exchangeable data", "Milan", "Italy", 9.18854, 45.464664, "seminar", 2022, 4, "https://dipartimenti.unicatt.it/scienze-statistiche-dipartimento-di-scienze-statistiche-eventi#content",
 
-FD <- FD %>% add_presentation(presenter = fd,     
-                       country = "Japan", city = "Chiba",
-                       lat = 35.6278, lon = 140.1031,                  
-                       event = "BAYSM2026",
-                       title = "Bayesian Multiresolution Functional Regression and Clustering via stCUSP",
-                       link = "https://baysm2026.github.io",
-                       materials = "../img_pag/INV_BAYSM26.qmd",
-                       type = "presentation", institution = "Chiba University", 
-                       department = NA,
-                       venue = NA, room = NA,
-                       year = 2026, month = 6, day = 27,
-                       start_hour = NA, start_min = NA,
-                       end_hour = NA, end_min = NA)
+  # ---- 2021 ----
+  "EcoSta 2021", "Horseshoe Pit -- A Unified Framework for Large-Scale Bayesian Inference", "Online", "Virtual", NA, NA, "presentation", 2021, 6, "http://www.cmstatistics.org/EcoSta2021/index.php",
+  "Joint Statistical Meeting 2021", "Detecting Brain Activation via Bayesian Mixture of Horseshoe Distributions", "Virtual", "United States", NA, NA, "talk", 2021, 8, "https://ww2.amstat.org/meetings/jsm/2021/",
+  "ISBA World Meeting 2021", "Bayesian Variable Selection via Mixture of Horseshoe Distributions", "Virtual", "United States", NA, NA, "talk", 2021, 6, "https://events.stat.uconn.edu/ISBA2021/",
 
+  # ---- 2020 ----
+  "UCI - Fall 2020 Seminar Series", "Bayesian Sparse Regression via Cluster Shrinkage Parameters", "Irvine", "United States", -117.823059, 33.669445, "seminar", 2020, 11, "https://www.stat.uci.edu/seminar-series/",
+  "Bayes Comp 2020", "Bayesian nonparametric dimensionality reduction via estimation of data intrinsic dimensions", "Gainesville", "United States", -82.3248, 29.6516, "talk", 2020, 1, "http://users.stat.ufl.edu/~jhobert/BayesComp2020/Conf_Website",
+  "Models and Learning for Clustering and Classification", "Bayesian Nonparametric Functional Novelty Detector", "Online", "Virtual", NA, NA, "poster", 2020, 9, "http://mbc2.unict.it/",
+  "Young-ISA Twitter Poster Conference (#YISAPoster2020)", "A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information", "Online", "Virtual", NA, NA, "poster", 2020, 7, "https://young-istat.github.io/events/posts/2020-07-15-poster-conference-2020",
 
-FD <- FD %>% add_presentation(presenter = fd,     
-                       country = "Finland", city = "Helsinki",
-                       lat = 60.20018600, lon = 25.04655000,                
-                       event = "Nordstat",
-                       title = "Bayesian Multiresolution Functional Regression and Clustering via stCUSP",
-                       link = "https://www.helsinki.fi/en/conferences/nordstat-2026",
-                       materials = "../img_pag/INV_Hels_26.qmd",
-                       type = "presentation", institution = "University of Helsinky", 
-                       department = NA,
-                       venue = NA, room = NA,
-                       year = 2026, month = 6, day = 2,
-                       start_hour = NA, start_min = NA,
-                       end_hour = NA, end_min = NA)
+  # ---- 2019 ----
+  "12th IBS-Italian Region Conference", "Modeling Human Microbiome Data via Latent Nested Nonparametric Priors", "Naples", "Italy", 14.2681, 40.8518, "talk", 2019, 7, "https://ibs-italy.org/?page_id=922&lang=en",
+  "BNP 12 - Bayesian Nonparametrics", "Modeling Human Microbiome Data via Latent Nested Nonparametric Priors", "Oxford", "United Kingdom", -1.2550, 51.7548, "poster", 2019, 6, "https://www.stats.ox.ac.uk/bnp12/",
 
+  # ---- Other conferences and workshops (attended) ----
+  "Rethinking the Role of Bayesianism in the Age of Modern AI", NA, "Edinburgh", "United Kingdom", -3.1883, 55.9533, "attended", 2026, 10, "https://workshops.inf.ed.ac.uk/ml/bayesai/",
+  "Skew 2026 - A class of distributions which includes the normal one", NA, "Padua", "Italy", 11.883828, 45.404456, "attended", 2026, 1, "https://skew2026.stat.unipd.it",
+  "Uncertainty, Bayes and Statistics - A meeting in honor of Guido Consonni", NA, "Milan", "Italy", 9.18854, 45.464664, "attended", 2024, 7, "https://dipartimenti.unicatt.it/scienze-statistiche-seminari-eventi-uncertainty-bayes-and-statistics-a-meeting-in-honour-of-guido-consonni",
+  "Statalk 2023", NA, "Rome", "Italy", 12.4676, 41.9225, "attended", 2023, 9, "https://statalk2023.shinyapps.io/statalk2023/",
+  "Bayesian Nonparametrics for Complex Data", NA, "Padua", "Italy", 11.883828, 45.404456, "attended", 2020, 1, "http://bnp4cd.stat.unipd.it/workshop.html",
+  "Network Models in Statistics, Economics and Social Sciences", NA, "Milan", "Italy", 9.18854, 45.464664, "attended", 2019, 11, "https://www.eventbrite.it/e/network-models-in-statistics-economics-and-social-registration-59152695304",
+  "Statistical Methods in Imaging - SMI 2019", NA, "Irvine", "United States", -117.823059, 33.669445, "attended", 2019, 6, "https://sites.uci.edu/smi2019/",
+  "FoMICS-DADSi Summer School on Data Assimilation", NA, "Lugano", "Switzerland", 8.96004, 46.01008, "attended", 2018, 9, "https://www.ics.usi.ch/index.php/news/285-fomics-dadsi-summer-school-on-data-assimilation",
+  "LMS Invited Lecture Series and CRiSM Summer School in Computational Statistics 2018", NA, "Warwick", "United Kingdom", -1.5615, 52.3793, "attended", 2018, 7, "https://warwick.ac.uk/fac/sci/statistics/crism/workshops/lms2018/",
+  "ISBA World Meeting 2018", NA, "Edinburgh", "United Kingdom", -3.1883, 55.9533, "attended", 2018, 6, "https://bayesian.org/isba2018/"
+)
 
-FD <- FD %>% add_presentation(presenter = fd,     
-                       country = "Italy", city = "Padova",
- lon = 11.883828, lat = 45.404456,                       event = "SISBayes",
-                       title = "BNP4BNP: Bayesian Nonparametric Models For Biomarkers And Neuronal Patterns",
-                       link = "https://sisbayes2025.stat.unipd.it",
-                       materials = "../img_pag/INV_Pauda25.qmd",
-                       type = "presentation", institution = "UniPD", department = NA,
-                       venue = NA, room = NA,
-                       year = 2025, month = 9, day = NA,
-                       start_hour = NA, start_min = NA,
-                       end_hour = NA, end_min = NA)
+# ---- Prep -------------------------------------------------------------------
+type_levels <- c("plenary", "presentation", "talk", "poster", "seminar", "attended")
+type_labels <- c(plenary      = "Plenary talk",
+                 presentation = "Invited talk",
+                 talk         = "Contributed talk",
+                 poster       = "Poster",
+                 seminar      = "Invited seminar",
+                 attended     = "Attended (other conferences)")
+type_cols   <- c(plenary = "#c77dff", presentation = "#e63946", talk = "#ffb703",
+                 poster = "#06d6a0", seminar = "#4cc9f0", attended = "#9aa0a6")
 
+yr <- range(df$year)
 
-FD <- FD %>% add_presentation(presenter = fd,     
-                       country = "United States", city = "Los Angeles",
-                       lon = -118.44455, lat = 34.07062,
-                       event = "BNP 14",
-                       title = "BNP4BNP: Bayesian Nonparametric Models For Biomarkers And Neuronal Patterns",
-                       link = "https://bnp14.org",
-                       materials = "../img_pag/INV_LosAngeles25.qmd",
-                       type = "presentation", institution = "UCLA", department = NA,
-                       venue = NA, room = NA,
-                       year = 2025, month = 6, day = NA,
-                       start_hour = NA, start_min = NA,
-                       end_hour = NA, end_min = NA)
+df <- df |>
+  mutate(
+    type  = factor(type, levels = type_levels),
+    when  = paste(month.abb[month], year),
+    # past/older events are drawn smaller; attended events smaller still
+    radius = if_else(type == "attended",
+                     scales::rescale(year, to = c(4, 8),  from = yr),
+                     scales::rescale(year, to = c(6, 12), from = yr)),
+    popup = paste0(
+      "<div style='font-family:sans-serif;max-width:260px'>",
+      "<b>", event, "</b><br>",
+      "<span style='color:#888'>", type_labels[as.character(type)], " &middot; ", when, "</span><br>",
+      if_else(is.na(title), "", paste0("<i>", title, "</i><br>")),
+      city, ", ", country, "<br>",
+      "<a href='", link, "' target='_blank'>event page</a></div>"
+    )
+  )
 
-FD <- FD %>% add_presentation(presenter = fd,     
-                       country = "Italy", city = "Rome",
-                       lon = 12.4676, lat = 41.9225,
-                       event = "Early-Career Workshop on Nonparametric Statistics",
-                       title = "Bayesian nonparametric models for biomarkers and neuronal patterns",
-                       link = "https://sites.google.com/view/wsnpstats",
-                       materials = "../img_pag/INV_Oaxaca24.qmd",
-                       type = "presentation", institution = NA, department = NA,
-                       venue = NA, room = NA,
-                       year = 2024, month = 9, day = NA,
-                       start_hour = NA, start_min = NA,
-                       end_hour = NA, end_min = NA)
+mapped  <- df |> filter(!is.na(lat), !is.na(lon))
+virtual <- df |> filter(is.na(lat) | is.na(lon))
 
+# ---- Map (dark basemap from plain OSM tiles, inverted with CSS) -------------
+m <- leaflet(mapped, height = 520,
+             options = leafletOptions(minZoom = 2, worldCopyJump = TRUE)) |>
+  addTiles(options = tileOptions(className = "dark-tiles")) |>
+  htmlwidgets::prependContent(tags$style(
+    ".dark-tiles { filter: invert(100%) hue-rotate(180deg) brightness(95%) contrast(90%); }"
+  ))
 
-FD <-FD %>%  add_presentation(presenter = fd,     
-                       country = "Mexico", city = "Oaxaca",
-                 lon = -96.72365, lat = 17.06542,
-                 event = "Frontiers of Bayesian Inference and Data Science",
-                 title = "Of mice and music: finite-infinite nested priors for the segmentation of large-scale grouped data",
-                 link = "https://www.birs.ca/events/2024/5-day-workshops/24w5196/schedule",
-                 materials = "../img_pag/INV_Oaxaca24.qmd",
-                 type = "presentation", institution = NA, department = NA,
-                 venue = NA, room = NA,
-                 year = 2024, month = 9, day = NA,
-                 start_hour = NA, start_min = NA,
-                 end_hour = NA, end_min = NA)
+# one toggleable layer per type
+for (t in type_levels) {
+  d <- filter(mapped, type == t)
+  m <- m |>
+    addCircleMarkers(
+      data = d, lng = ~lon, lat = ~lat, radius = ~radius,
+      color = "white", weight = 1,
+      fillColor = type_cols[[t]], fillOpacity = 0.9,
+      popup = ~popup, label = ~paste0(event, " (", year, ")"),
+      group = type_labels[[t]],
+      clusterOptions = markerClusterOptions(showCoverageOnHover = FALSE,
+                                            spiderfyOnMaxZoom = TRUE)
+    )
+}
 
-FD <- FD %>% add_presentation(presenter = fd,                         country = "Switzerland", city = "Lugano",
-                 lon = 8.96004, lat = 46.01008,
-                 event = "ISBA Satellite workshop to ISBA World Meeting",
-                 title = "Segmenting brain imaging mass spectrometry data under separate exchangeability",
-                 link = "https://www.usi.ch/en/feeds/25999",
-                 materials = "../img_pag/INV_Lugano24.qmd",
-                 type = "presentation", institution = NA, department = NA,
-                 venue = NA, room = NA,
-                 year = 2024, month = 6, day = NA,
-                 start_hour = NA, start_min = NA,
-                 end_hour = NA, end_min = NA)
+n_own <- sum(df$type != "attended")
+n_att <- sum(df$type == "attended")
 
-FD <- FD %>% add_presentation(presenter = fd,                         country = "Germany", city = "Berlin",
-                 lon = 13.404954, lat = 52.520008,
-                 event = "CFE-CMStatistics 2023",
-                 title = "Bayesian models and computational methods for complex biological and environmental datasets",
-                 link = "https://www.cmstatistics.org/CMStatistics2023/programme.php",
-                 materials = "../img_pag/INV_Berlin23.qmd",
-                 type = "presentation", institution = NA, department = NA,
-                 venue = NA, room = NA,
-                 year = 2023, month = 12, day = NA,
-                 start_hour = NA, start_min = NA,
-                 end_hour = NA, end_min = NA)
-
-FD <- FD %>% add_presentation(presenter = fd,                         country = "United Kingdom", city = "London",
-                 lon = -0.118092, lat = 51.509865,
-                 event = "CFE-CMStatistics 2022 (Ercim)",
-                 title = "Multiple hypothesis screening via mixtures of non-local distributions with applications to genomic datasets",
-                 link = "http://www.cmstatistics.org/CMStatistics2022/index.php",
-                 materials = "../img_pag/INV_CMStat_Virtual22.qmd",
-                 type = "presentation", institution = NA, department = NA,
-                 venue = NA, room = NA,
-                 year = 2022, month = 12, day = NA,
-                 start_hour = NA, start_min = NA,
-                 end_hour = NA, end_min = NA)
-
-FD <- FD %>% add_presentation(presenter = fd,                         country = "Canada", city = "Montreal",
-                 lon = -73.561668, lat = 45.508888,
-                 event = "ISBA World Meeting 2022",
-                 title = "Bayesian screening via mixtures of shrinkage priors with applications to light-sheet fluorescence microscopy in brain imaging",
-                 link = "https://isbawebmaster.github.io/ISBA2022/",
-                 materials = "../img_pag/INV_Montreal22.qmd",
-                 type = "presentation", institution = NA, department = NA,
-                 venue = NA, room = NA,
-                 year = 2022, month = 6, day = NA,
-                 start_hour = NA, start_min = NA,
-                 end_hour = NA, end_min = NA)
-
-FD <- FD %>% add_presentation(presenter = fd,                         country = "Italy", city = "Caserta",
-                 lon = 14.33333, lat = 41.066666,
-                 event = "SIS 2022",
-                 title = "Clustering artists based on the energy distributions of their songs on Spotify via the Common Atoms Model",
-                 link = "https://meetings3.sis-statistica.org/index.php/SIS2022/Caserta",
-                 materials = "../img_pag/INV_Caserta22.qmd",
-                 type = "presentation", institution = NA, department = NA,
-                 venue = NA, room = NA,
-                 year = 2022, month = 6, day = NA,
-                 start_hour = NA, start_min = NA,
-                 end_hour = NA, end_min = NA)
-
-FD <- FD %>% add_presentation(presenter = fd,                         country = "Virtual", city = "Online",
-                 lon = NA, lat = NA,
-                 event = "EcoSta 2021",
-                 title = "Horseshoe Pit -- A Unified Framework for Large-Scale Bayesian Inference",
-                 link = "http://www.cmstatistics.org/EcoSta2021/index.php",
-                 materials = "../img_pag/INV_CMStat_Virtual21.qmd",
-                 type = "presentation", institution = NA, department = NA,
-                 venue = NA, room = NA,
-                 year = 2021, month = 6, day = NA,
-                 start_hour = NA, start_min = NA,
-                 end_hour = NA, end_min = NA)
-
-FD <- FD %>% add_presentation(presenter = fd,                         country = "Italy", city = "Padova",
- lon = 11.883828, lat = 45.404456,
- event = "GLASS informal seminar series",
-                 title = "An informal intro to BNP mixture models",
-                 link = "https://sites.google.com/view/laboratoriodistatisticasociale/appuntamenti-online?authuser=0",
-                 materials = "../img_pag/...",
-                 type = "seminar", 
-                 institution = NA, department = NA,
-                 venue = NA, room = NA,
-                 year = 2025, month = 04, day = NA,
-                 start_hour = NA, start_min = NA,
-                 end_hour = NA, end_min = NA)
-
-
-FD <- FD %>% add_presentation(presenter = fd,                         country = "Italy", city = "Mestre",
-                 lon = 12.254767188358642, lat = 45.47812723584337,
-                 event = "DAIS Seminar Series",
-                 title = "BNP4BNP: Bayesian Nonparametric Models for Biomarkers and Neuronal Patterns",
-                 link = "https://www.unive.it/pag/16129/",
-                 materials = "../img_pag/SEM_CaFosca25.qmd",
-                 type = "seminar", institution = NA, department = NA,
-                 venue = NA, room = NA,
-                 year = 2025, month = 04, day = NA,
-                 start_hour = NA, start_min = NA,
-                 end_hour = NA, end_min = NA)
-
-
-
-FD <- FD %>% add_presentation(presenter = fd,                         country = "Italy", city = "Padova",
-                 lon = 11.883828, lat = 45.404456,
-                 event = "UniPD Welcome Seminar",
-                 title = "Of mice and music: finite-infinite nested priors for the segmentation of large-scale grouped data",
-                 link = "https://www.linkedin.com/feed/update/urn:li:activity:7259643658784669697/",
-                 materials = "../img_pag/SEM_Padua24.qmd",
-                 type = "seminar", institution = NA, department = NA,
-                 venue = NA, room = NA,
-                 year = 2024, month = 11, day = NA,
-                 start_hour = NA, start_min = NA,
-                 end_hour = NA, end_min = NA)
-
-FD <- FD %>% add_presentation(presenter = fd,                         country = "United States", city = "Hayward",
-                 lon = -122.080795, lat = 37.668819,
-                 event = "CSUEB ASA Student Chapter",
-                 title = "Bayesian nonparametric mixtures for novelty detection",
-                 link = "https://www.instagram.com/asacsueb/",
-                 materials = "../img_pag/SEM_CSUEB22.qmd",
-                 type = "seminar", institution = NA, department = NA,
-                 venue = NA, room = NA,
-                 year = 2022, month = 10, day = NA,
-                 start_hour = NA, start_min = NA,
-                 end_hour = NA, end_min = NA)
-
-FD <- FD %>% add_presentation(presenter = fd,                         country = "Italy", city = "Milan",
-                 lon = 9.18854, lat = 45.464664,
-                 event = "Cattolica - Spring 22 Seminar Series",
-                 title = "Bayesian nonparametric mixtures for novelty detection and partially exchangeable data",
-                 link = "https://dipartimenti.unicatt.it/scienze-statistiche-dipartimento-di-scienze-statistiche-eventi#content",
-                 materials = "../img_pag/SEM_Cattolica22.qmd",
-                 type = "seminar", institution = NA, department = NA,
-                 venue = NA, room = NA,
-                 year = 2022, month = 4, day = NA,
-                 start_hour = NA, start_min = NA,
-                 end_hour = NA, end_min = NA)
-
-FD <- FD %>% add_presentation(presenter = fd,                         country = "United States", city = "Irvine",
-                 lon = -117.823059, lat = 33.669445,
-                 event = "UCI - Fall 2020 Seminar Series",
-                 title = "Bayesian Sparse Regression via Cluster Shrinkage Parameters",
-                 link = "https://www.stat.uci.edu/seminar-series/",
-                 materials = "../img_pag/SEM_UCI20.qmd",
-                 type = "seminar", institution = NA, department = NA,
-                 venue = NA, room = NA,
-                 year = 2020, month = 11, day = NA,
-                 start_hour = NA, start_min = NA,
-                 end_hour = NA, end_min = NA)
-
-
-
-
-FD <- FD %>% add_presentation(presenter = fd,                         country = "Italy", city = "Ancona",
-                 lon = 13.5150, lat = 43.6158,
-                 event = "SIS 2023",
-                 title = "Bayesian analysis of Amazon's best-selling books via finite nested mixture models",
-                 link = "https://meetings3.sis-statistica.org/index.php/ancona/ancona",
-                 materials = "../img_pag/CON_Ancona23.qmd",
-                 type = "talk", institution = NA, department = NA,
-                 venue = NA, room = NA,
-                 year = 2023, month = 6, day = NA,
-                 start_hour = NA, start_min = NA,
-                 end_hour = NA, end_min = NA)
-
-# FD <- FD %>% add_presentation(presenter = fd,                         
-#                               country = "Italy", city = "Caserta",
-#                  lon = 14.3265, lat = 41.0747,
-#                  event = "SIS 2022",
-#                  title = "A tool to validate the assumptions on ratios of nearest neighbors’ distances: the Consecutive Ratio Paths",
-#                  link = "https://meetings3.sis-statistica.org/index.php/SIS2022/Caserta",
-#                  materials = "../img_pag/CON_Caserta22.qmd",
-#                  type = "talk", institution = NA, department = NA,
-#                  venue = NA, room = NA,
-#                  year = 2022, month = 6, day = NA,
-#                  start_hour = NA, start_min = NA,
-#                  end_hour = NA, end_min = NA)
-
-FD <- FD %>% add_presentation(presenter = fd,                         country = "United States", city = "Virtual",
-                 lon = NA, lat = NA,
-                 event = "Joint Statistical Meeting 2021",
-                 title = "Detecting Brain Activation via Bayesian Mixture of Horseshoe Distributions",
-                 link = "https://ww2.amstat.org/meetings/jsm/2021/",
-                 materials = "../img_pag/CON_JSM21.qmd",
-                 type = "talk", institution = NA, department = NA,
-                 venue = NA, room = NA,
-                 year = 2021, month = 8, day = NA,
-                 start_hour = NA, start_min = NA,
-                 end_hour = NA, end_min = NA)
-
-FD <- FD %>% add_presentation(presenter = fd,                         country = "United States", city = "Virtual",
-                 lon = NA, lat = NA,
-                 event = "ISBA World Meeting 2021",
-                 title = "Bayesian Variable Selection via Mixture of Horseshoe Distributions",
-                 link = "https://events.stat.uconn.edu/ISBA2021/",
-                 materials = "../img_pag/CON_ISBA21.qmd",
-                 type = "talk", institution = NA, department = NA,
-                 venue = NA, room = NA,
-                 year = 2021, month = 6, day = NA,
-                 start_hour = NA, start_min = NA,
-                 end_hour = NA, end_min = NA)
-
-FD <- FD %>% add_presentation(presenter = fd,                         country = "United States", city = "Gainesville",
-                 lon = -82.3248, lat = 29.6516,
-                 event = "Bayes Comp 2020",
-                 title = "Bayesian nonparametric dimensionality reduction via estimation of data intrinsic dimensions",
-                 link = "http://users.stat.ufl.edu/~jhobert/BayesComp2020/Conf_Website",
-                 materials = "../img_pag/CON_Florida20.qmd",
-                 type = "talk", institution = NA, department = NA,
-                 venue = "Reitz Union, University of Florida", room = NA,
-                 year = 2020, month = 1, day = NA,
-                 start_hour = NA, start_min = NA,
-                 end_hour = NA, end_min = NA)
-
-FD <- FD %>% add_presentation(presenter = fd,                         country = "Italy", city = "Naples",
-                 lon = 14.2681, lat = 40.8518,
-                 event = "12th IBS-Italian Region Conference",
-                 title = "Modeling Human Microbiome Data via Latent Nested Nonparametric Priors",
-                 link = "https://ibs-italy.org/?page_id=922&lang=en",
-                 materials = "../img_pag/CON_Naples19.qmd",
-                 type = "talk", institution = NA, department = NA,
-                 venue = "Renaissance Naples Hotel Mediterraneo", room = NA,
-                 year = 2019, month = 7, day = NA,
-                 start_hour = NA, start_min = NA,
-                 end_hour = NA, end_min = NA)
-
-
-FD <- FD %>% add_presentation(presenter = fd,                         country = "Virtual", city = "Online",
-                 lon = NA, lat = NA,
-                 event = "BAYSM 2023",
-                 title = "Segmenting MALDI-MSI brain imaging mass spectrometry data under separate exchangeability",
-                 link = "https://events.stat.uconn.edu/BAYSM2023/",
-                 materials = "../img_pag/CON_Baysm23.qmd",
-                 type = "talk", institution = NA, department = NA,
-                 venue = NA, room = NA,
-                 year = 2023, month = 11, day = NA,
-                 start_hour = NA, start_min = NA,
-                 end_hour = NA, end_min = NA)
-
-
-FD <- FD %>% add_presentation(presenter = fd,                         country = "Italy", city = "Venice",
-                 lon = 12.3155, lat = 45.4408,
-                 event = "ISBA 2024 World Meeting",
-                 title = "Finite-infinite nested priors for the segmentation of complex, large-scale grouped datasets",
-                 link = "https://www.unive.it/web/en/2208/home",
-                 materials = "../img_pag/POS_Venice24.qmd",
-                 type = "poster", institution = NA, department = NA,
-                 venue = NA, room = NA,
-                 year = 2024, month = 7, day = NA,
-                 start_hour = NA, start_min = NA,
-                 end_hour = NA, end_min = NA)
-
-FD <- FD %>% add_presentation(presenter = fd,                         country = "Virtual", city = "Online",
-                 lon = NA, lat = NA,
-                 event = "Models and Learning for Clustering and Classification",
-                 title = "Bayesian Nonparametric Functional Novelty Detector",
-                 link = "http://mbc2.unict.it/",
-                 materials = "../img_pag/POS_MBC220.qmd",
-                 type = "poster", institution = NA, department = NA,
-                 venue = NA, room = NA,
-                 year = 2020, month = 9, day = NA,
-                 start_hour = NA, start_min = NA,
-                 end_hour = NA, end_min = NA)
-
-FD <- FD %>% add_presentation(presenter = fd,                         country = "Virtual", city = "Online",
-                 lon = NA, lat = NA,
-                 event = "Young-ISA Twitter Poster Conference (#YISAPoster2020)",
-                 title = "A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information",
-                 link = "https://young-istat.github.io/events/posts/2020-07-15-poster-conference-2020",
-                 materials = "../img_pag/POS_YisaPoster20.qmd",
-                 type = "poster", institution = NA, department = NA,
-                 venue = "Twitter", room = NA,
-                 year = 2020, month = 7, day = NA,
-                 start_hour = NA, start_min = NA,
-                 end_hour = NA, end_min = NA)
-
-FD <- FD %>% add_presentation(presenter = fd,                         country = "United Kingdom", city = "Oxford",
-                 lon = -1.2550, lat = 51.7548,
-                 event = "BNP19 - Bayesian Nonparametrics",
-                 title = "Modeling Human Microbiome Data via Latent Nested Nonparametric Priors",
-                 link = "https://www.stats.ox.ac.uk/bnp12/",
-                 materials = "../img_pag/POS_Oxford19.qmd",
-                 type = "poster", institution = NA, department = NA,
-                 venue = NA, room = NA,
-                 year = 2019, month = 6, day = NA,
-                 start_hour = NA, start_min = NA,
-                 end_hour = NA, end_min = NA)
-
-plot(FD, group = "city",
-     title = "<a href='https://cran.r-project.org/package=semnar'>semnar</a> map")
+m |>
+  addLegend("bottomleft", colors = unname(type_cols), labels = unname(type_labels),
+            title = "Type", opacity = 0.9) |>
+  addLayersControl(overlayGroups = unname(type_labels),
+                   options = layersControlOptions(collapsed = TRUE)) |>
+  addControl(
+    html = paste0("<b>", n_own, " talks, seminars &amp; posters</b><br>",
+                  n_att, " other events attended &middot; ",
+                  n_distinct(mapped$city), " cities<br>",
+                  "<small>", nrow(virtual), " virtual events not shown</small>"),
+    position = "topright"
+  )
 ```
 
-A visual summary obtained with the great [semnar](https://cran.r-project.org/web/packages/semnar/readme/README.html) package.
+A visual summary of talks, posters and attended events, built with the [leaflet](https://rstudio.github.io/leaflet/) package.
 
 ## Plenary Talks
 
-- [Non-Clinical Statistics NCS 2026](https://ncs-conference.org/)  
+- [Non-Clinical Statistics Conference NCS 2026](https://ncs-conference.org/)  
 Talk: *Bayesian Nonparametrics Methods for Complex Biomedical Data*  
-Padova, ITA - September 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/PLE_NCS2026.qmd)
+Padua, IT - September 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/PLE_NCS2026.qmd)
 
 ## Invited Talks
 
@@ -473,25 +193,25 @@ Tokyo, JAP - June 2026 - [ <img  width="20" height="20" src="../images/cam3.png"
 
 - [COMPSTAT 2026](https://www.compstat2026.org/)  
 Talk: *Bayesian nonparametric priors and discrete random structures for high-dimensional biological inference*  
-Athens, GRE - August 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_COMPSTAT26.qmd)
+Athens, GR - August 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_COMPSTAT26.qmd)
 
 
 
-- [BAYSM26](https://baysm2026.github.io)  
+- [[BAYSM 2026]{.fix}](https://baysm2026.github.io)  
 Talk: *Bayesian Multiresolution Functional Regression and Clustering via stCUSP*  
-Chiba, JAP - June 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_BAYSM26.qmd)
+Chiba, JP - June 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_BAYSM26.qmd)
 
 
 - [Nordstat 2026](https://www.helsinki.fi/en/conferences/nordstat-2026)  
 Talk: *Bayesian Multiresolution Functional Regression and Clustering via stCUSP*  
-Helsinki, FIN - June 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_Hels26.qmd)
+Helsinki, FI - June 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_Hels26.qmd)
 
 - [SISBayes 2025](https://sisbayes2025.stat.unipd.it)  
-Talk: *Bnp4bnp: Bayesian Nonparametric Models For Biomarkers And Neuronal Patterns*  
+Talk: *BNP4BNP: Bayesian Nonparametric Models for Biomarkers and Neuronal Patterns*  
 Padua, IT - September 2025 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_Padua25.qmd)
 
 - [BNP 14](https://bnp14.org)  
-Talk: *Bnp4bnp: Bayesian Nonparametric Models For Biomarkers And Neuronal Patterns*  
+Talk: *BNP4BNP: Bayesian Nonparametric Models for Biomarkers and Neuronal Patterns*  
 Los Angeles, US - June 2025 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_LosAngeles25.qmd)
 
 
@@ -527,24 +247,24 @@ Caserta, IT - June 2022 - [ <img  width="20" height="20" src="../images/cam3.png
 
 - [EcoSta 2021](http://www.cmstatistics.org/EcoSta2021/index.php)   
 Virtual talk: *Horseshoe Pit -- A Unified Framework for Large-Scale Bayesian Inference*   
-Virtual Conference - June 2021- [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_CMStat_Virtual21.qmd)  
+Virtual Conference - June 2021 [-]{.fix} [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/INV_CMStat_Virtual21.qmd)  
 
 
 ## Invited Seminars
 
 - [GLASS informal seminar series](https://sites.google.com/view/laboratoriodistatisticasociale/home)  
 Seminar (45 min): *An informal intro to BNP mixture models*  
-Padova, IT - April 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/SEM_...)
+[Padua]{.fix}, IT - April 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/SEM_...)
 
 
 - [DAIS Seminar Series](https://www.unive.it/pag/16129/)  
 Seminar (45 min): *BNP4BNP: Bayesian Nonparametric Models for Biomarkers and Neuronal Patterns*  
-Mestre, IT - November 2024 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/SEM_CaFosca25.qmd)
+Mestre, IT - [April 2025]{.fix} - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/SEM_CaFosca25.qmd)
 
 
 - [UniPD Welcome Seminar](https://www.linkedin.com/feed/update/urn:li:activity:7259643658784669697/)  
 Seminar (45 min): *Of mice and music: finite-infinite nested priors for the segmentation of large-scale grouped data*  
-Padova, IT - November 2024 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/SEM_Padua24.qmd)
+[Padua]{.fix}, IT - November 2024 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/SEM_Padua24.qmd)
 
 - [CSUEB ASA Student Chapter](https://www.instagram.com/asacsueb/)  
 Virtual seminar (1 hour): *Bayesian nonparametric mixtures for novelty detection*  
@@ -552,11 +272,11 @@ Hayward (California), US - October 2022 - [ <img  width="20" height="20" src="..
 
 - [Cattolica - Spring 22 Seminar Series](https://dipartimenti.unicatt.it/scienze-statistiche-dipartimento-di-scienze-statistiche-eventi#content)  
 Seminar (1 hour): *Bayesian nonparametric mixtures for novelty detection and partially exchangeable data*   
-Statistics Department Seminar - April 2022 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/SEM_Cattolica22.qmd)  
+[Milan, IT]{.fix} - April 2022 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/SEM_Cattolica22.qmd)  
 
 - [UCI - Fall 2020 Seminar Series](https://www.stat.uci.edu/seminar-series/)   
-Virtual Seminar (45 min): *Bayesian Sparse Regression via Cluster Shrinkage Parameters*   
-      Statistics Department Seminar - November 2020 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/SEM_UCI20.qmd)  
+Virtual [seminar]{.fix} (45 min): *Bayesian Sparse Regression via Cluster Shrinkage Parameters*   
+[Irvine, US]{.fix} - November 2020 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/SEM_UCI20.qmd)  
 
 
 ## Contributed Talks
@@ -583,20 +303,20 @@ Virtual Conference - June 2021 - [ <img  width="20" height="20" src="../images/c
 
 - [Bayes Comp 2020](http://users.stat.ufl.edu/~jhobert/BayesComp2020/Conf_Website)  
 Talk: *Bayesian nonparametric dimensionality reduction via estimation of data intrinsic dimensions*  
-Florida, US - January 2020 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/CON_Florida20.qmd)
+[Gainesville (Florida), US]{.fix} - January 2020 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/CON_Florida20.qmd)
 
-- [12th IBS-Italian Region conference](https://ibs-italy.org/?page_id=922&lang=en)  
+- [12th IBS-Italian Region Conference](https://ibs-italy.org/?page_id=922&lang=en)  
 Contributed Talk: *Modeling Human Microbiome Data via Latent Nested Nonparametric Priors*  
 Naples, IT - July 2019 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/CON_Naples19.qmd)
 
 ## Posters
 
 
-- [ISBA 2026 World Meeting](https://isba2026.github.io)  
+- [ISBA World Meeting 2026](https://isba2026.github.io)  
 Poster: *Bayesian Multiresolution Functional Regression and Clustering via stCUSP*   
-Nagoya, JAP - June 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/POS_ISBA2026.qmd)  
+Nagoya, JP - June 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/POS_ISBA2026.qmd)  
 
-- [ISBA 2024 World Meeting](https://www.unive.it/web/en/2208/home)  
+- [ISBA World Meeting 2024](https://www.unive.it/web/en/2208/home)  
 Poster: *Finite-infinite nested priors for the segmentation of complex, large-scale grouped datasets*   
 Venice, IT - July 2024 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/POS_Venice24.qmd)  
 
@@ -610,7 +330,7 @@ Virtual Poster: *A Two-Stage Bayesian Nonparametric Model for Novelty Detection 
 Twitter - July 2020 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/POS_YisaPoster20.qmd)  
  
 
-- [BNP19 - Bayesian Nonparametrics](https://www.stats.ox.ac.uk/bnp12/)  
+- [BNP 12 - Bayesian Nonparametrics](https://www.stats.ox.ac.uk/bnp12/)  
 Poster: *Modeling Human Microbiome Data via Latent Nested Nonparametric Priors*   
 Oxford, UK - June 2019 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/POS_Oxford19.qmd) 
 
@@ -619,16 +339,16 @@ Oxford, UK - June 2019 - [ <img  width="20" height="20" src="../images/cam3.png"
 ## Other Conferences and Workshops
 
 - [Rethinking the Role of Bayesianism in the Age of Modern AI](https://workshops.inf.ed.ac.uk/ml/bayesai/)  
-Edinburgh, UK - October 2026  - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/PAR_BayesAI2026.qmd)
+Edinburgh, UK - October 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/PAR_BayesAI2026.qmd)
 
 
 - [Skew 2026 - A class of distributions which includes the normal one: foundational contributions and recent advancements on skewed distributions](https://skew2026.stat.unipd.it)  
-Padova, IT - January 2026  - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/PAR_skew26.qmd)
+[Padua]{.fix}, IT - January 2026 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/PAR_skew26.qmd)
 
 - [Uncertainty, Bayes and Statistics - A meeting in honor of Guido Consonni](https://dipartimenti.unicatt.it/scienze-statistiche-seminari-eventi-uncertainty-bayes-and-statistics-a-meeting-in-honour-of-guido-consonni)  
 Milan, IT - July 2024 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/PAR_consonni24.qmd)
 
-- [Statalk 2023](https://statalk2023.shinyapps.io/statalk2023/?fbclid=PAAabvEPTG5lakUm-opB8QfxM5Q7PNjjjkeyir1Hi8cUn3JyBr40GlRXIlYgs)  
+- [Statalk 2023](https://statalk2023.shinyapps.io/statalk2023/)  
 Rome, IT - September 2023 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/PAR_Roma23.qmd)
 
 - [Bayesian Nonparametrics for Complex Data](http://bnp4cd.stat.unipd.it/workshop.html)  
@@ -643,16 +363,8 @@ Irvine, US - June 2019 - [ <img  width="20" height="20" src="../images/cam3.png"
 - [FoMICS-DADSi Summer School on Data Assimilation](https://www.ics.usi.ch/index.php/news/285-fomics-dadsi-summer-school-on-data-assimilation)  
 Lugano, CH - September 2018 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/PAR_Lugano18.qmd)
 
-- [LMS Invited Lecture Series and CRISM Summer School in Computational Statistics 2018](https://warwick.ac.uk/fac/sci/statistics/crism/workshops/lms2018/)   
-Warwick, UK -July 2018 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/PAR_Warwick18.qmd)
+- [LMS Invited Lecture Series and CRiSM Summer School in Computational Statistics 2018](https://warwick.ac.uk/fac/sci/statistics/crism/workshops/lms2018/)   
+Warwick, UK - July 2018 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/PAR_Warwick18.qmd)
 
 - [ISBA World Meeting 2018](https://bayesian.org/isba2018/)  
 Edinburgh, UK - June 2018 - [ <img  width="20" height="20" src="../images/cam3.png"> ](../img_pag/PAR_ISBA18.qmd)
-
-
-
-
-
-
-
-
