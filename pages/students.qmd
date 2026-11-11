@@ -65,6 +65,12 @@ Expected discussion date: February 2027
 ::: {.list .list-inside .list-decimal}
 
 
+- **Nov 26**: Daria Maksimovic - *"'More Than a Feeling': Sentiment Analysis e Topic Modeling Dinamico per l'Analisi dei Testi Musicali"* (redacted in Italian), BSc in Statistica per le Tecnologie e le Scienze @ UniPD
+		
+- **Nov 26**: Mattia Bartolomei - *"Analisi dei tentativi di tiro nel calcio tramite clustering Bayesiano"* (redacted in Italian), BSc in Statistica per le Tecnologie e le Scienze @ UniPD
+   
+
+
 -   **Sep 26**: Elena Battistoni - *"Strutture latenti nella musica: un'applicazione dell'analisi fattoriale multi-studio bayesiana su playlist Spotify"* (redacted in Italian), BSc in Statistica per l’Economia e l’Impresa @ UniPD
 
 -   **Sep 26**: Andrea Fior - *"Modellazione e previsione dei risultati calcistici: dall’approccio frequentista all’analisi bayesiana"* (redacted in Italian), BSc in Statistica per l’Economia e l’Impresa @ UniPD
