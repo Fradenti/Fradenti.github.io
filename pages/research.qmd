@@ -111,6 +111,11 @@ margin:10px 20px;border-radius: 10px;"}
   
 <ol reversed>
   
+<li> D'Angelo, L., **Denti, F.**, Canale, A., and Guindani, M.   
+*Decoding Neuronal Ensembles from Spatially-Referenced Calcium Traces: A Bayesian Semiparametric Approach*  
+**Journal of the American Statistical Association**, 2026 - [[Journal Article]() 
+ - [Preprint](https://arxiv.org/pdf/2508.09576v3) - [GitHub](https://github.com/laura-dangelo/Bayesian_Clustering_of_Spatially-Referenced_Calcium_Traces)]  
+  
 <li> **Denti, F.**, Balocchi, C., Denti, V., and Capitoli, G.   
 *Multiomics Tissue Segmentation via Spatially-Informed Nested Biclustering Methods*    
   **Biometrics**, 2026 - [[Journal Article](https://doi.org/10.1093/biomtc/ujag177) - [Preprint](../pdf/Poseidon.pdf) - [GitHub](https://github.com/fradenti/poseidon-maldi)]
@@ -339,9 +344,6 @@ in A. Pollice, N. Salvati, & F. Schirripa Spagnolo (a cura di), **Book of Short 
 ### Submitted
 
 <ol>
-<li> D'Angelo, L., **Denti, F.**, Canale, A., and Guindani, M.   
-*Decoding Neuronal Ensembles from Spatially-Referenced Calcium Traces: A Bayesian Semiparametric Approach*  
-**Submitted**, 2026+ - [[Preprint](https://arxiv.org/pdf/2508.09576v3)]
 
 
 <li> **Denti, F.** and D'Angelo, L.  

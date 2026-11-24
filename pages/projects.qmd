@@ -27,9 +27,33 @@ A central objective of the project is to bridge theory and practice. The project
 
 
 ### Publications
-<img src="../images/poseidon_logo.png" align="right" width="150" />
 
-<li> **Denti, F.**, Balocchi, C., Denti, V., and Capitoli, G.   
-*Multiomics Tissue Segmentation via Spatially-Informed Nested Biclustering Methods*    
-**Biometrics**, 2026 - [[Preprint](../pdf/Poseidon.pdf)]
-
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <strong>Denti, F.</strong>, Balocchi, C., Denti, V., and Capitoli, G.<br>
+      <em>Multiomics Tissue Segmentation via Spatially-Informed Nested Biclustering Methods</em><br>
+      <strong>Biometrics</strong>, 2026 –
+      <a href="../pdf/Poseidon.pdf">Preprint</a>
+    </td>
+    <td width="160" align="right" valign="top">
+      <img src="../images/poseidon_logo.png" width="150" alt="Poseidon logo">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><hr></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      D'Angelo, L., <strong>Denti, F.</strong>, Canale, A., and Guindani.<br>
+      <em>Decoding Neuronal Ensembles from Spatially-Referenced Calcium Traces:
+      A Bayesian Semiparametric Approach</em><br>
+      <strong>Journal of the American Statistical Association</strong>, 2026 –
+      <a href="https://arxiv.org/pdf/2508.09576v3">Preprint</a> –
+      <a href="https://github.com/laura-dangelo/Bayesian_Clustering_of_Spatially-Referenced_Calcium_Traces">GitHub</a>
+    </td>
+    <td width="160" align="right" valign="top">
+      <img src="../images/SCDC_logo.png" width="150" alt="SCDC logo">
+    </td>
+  </tr>
+</table>
